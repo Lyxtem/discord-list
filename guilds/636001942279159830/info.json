@@ -5,12 +5,12 @@
     "icon": "d4b24ca75c7233754ebb9d6cf1c27dc8",
     "splash": "d73e064682a73100eaf2d6473d7868ea",
     "discovery_splash": "d2089dfcbad6a6d56ae3317d2e8375cf",
-    "banner": "cc11447bd936eab64a3cd1d209ffb40e",
-    "approximate_presence_count": 3143,
-    "approximate_member_count": 9399,
-    "premium_subscription_count": 5,
+    "banner": "2ca71652ae3a6f1ad7b8a6ca6a0a094b",
+    "approximate_presence_count": 22820,
+    "approximate_member_count": 45199,
+    "premium_subscription_count": 26,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "leagues",
     "keywords": [
         "OSRS",
         "Leagues",
@@ -24,6 +24,7 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -35,15 +36,15 @@
         "description": "",
         "icon": "d4b24ca75c7233754ebb9d6cf1c27dc8",
         "splash": "d73e064682a73100eaf2d6473d7868ea",
-        "banner": "cc11447bd936eab64a3cd1d209ffb40e",
-        "approximate_presence_count": 3143,
-        "approximate_member_count": 9399,
-        "premium_subscription_count": 5,
+        "banner": "2ca71652ae3a6f1ad7b8a6ca6a0a094b",
+        "approximate_presence_count": 22820,
+        "approximate_member_count": 45199,
+        "premium_subscription_count": 26,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "d2089dfcbad6a6d56ae3317d2e8375cf",
         "primary_category_id": 1,
-        "vanity_url_code": null,
+        "vanity_url_code": "leagues",
         "is_published": false,
         "keywords": [
             "OSRS",
@@ -58,6 +59,7 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -146,6 +148,11 @@
             },
             "description": {
                 "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "leagues",
                 "matchLevel": "none",
                 "matchedWords": []
             },

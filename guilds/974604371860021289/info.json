@@ -6,32 +6,18 @@
     "splash": "02bbd4e4c9b67ec0a2bcb325174d6bc8",
     "discovery_splash": null,
     "banner": null,
-    "approximate_presence_count": 203,
-    "approximate_member_count": 11927,
-    "premium_subscription_count": 8,
+    "approximate_presence_count": 168,
+    "approximate_member_count": 12391,
+    "premium_subscription_count": 13,
     "preferred_locale": "en-US",
     "vanity_url_code": "coinsph",
     "keywords": null,
     "features": [
-        "ANIMATED_ICON",
-        "AUTO_MODERATION",
-        "BANNER",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_LARGE_GATED",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "INVITE_SPLASH",
-        "MEMBER_PROFILES",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "NEWS",
         "PREVIEW_ENABLED",
-        "PRIVATE_THREADS",
-        "ROLE_ICONS",
-        "SEVEN_DAY_THREAD_ARCHIVE",
-        "SOUNDBOARD",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
         "VERIFIED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -44,9 +30,9 @@
         "icon": "f09060a9f8d23004115eea193c333e6a",
         "splash": "02bbd4e4c9b67ec0a2bcb325174d6bc8",
         "banner": null,
-        "approximate_presence_count": 203,
-        "approximate_member_count": 11927,
-        "premium_subscription_count": 8,
+        "approximate_presence_count": 168,
+        "approximate_member_count": 12391,
+        "premium_subscription_count": 13,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": null,
@@ -55,27 +41,45 @@
         "is_published": false,
         "keywords": null,
         "features": [
-            "ANIMATED_ICON",
-            "AUTO_MODERATION",
-            "BANNER",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_LARGE_GATED",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "INVITE_SPLASH",
-            "MEMBER_PROFILES",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "NEWS",
             "PREVIEW_ENABLED",
-            "PRIVATE_THREADS",
-            "ROLE_ICONS",
-            "SEVEN_DAY_THREAD_ARCHIVE",
-            "SOUNDBOARD",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
             "VERIFIED",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "974604371860021289",
+        "_highlightResult": {
+            "name": {
+                "value": "Coins Community",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "coinsph",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }

@@ -6,33 +6,17 @@
     "splash": "a7f62fb7394f9df5666e953b6b3b8e94",
     "discovery_splash": "42e121a91eeea9b4a01c9815bcb6450c",
     "banner": null,
-    "approximate_presence_count": 11180,
-    "approximate_member_count": 53426,
-    "premium_subscription_count": 9,
+    "approximate_presence_count": 12074,
+    "approximate_member_count": 49813,
+    "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "minecraftlive",
     "keywords": [],
     "features": [
-        "ANIMATED_ICON",
-        "AUTO_MODERATION",
-        "BANNER",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_LARGE_GATED",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "INVITE_SPLASH",
-        "MEMBER_PROFILES",
-        "NEWS",
-        "NEW_THREAD_PERMISSIONS",
         "PREVIEW_ENABLED",
-        "PRIVATE_THREADS",
-        "ROLE_ICONS",
-        "SEVEN_DAY_THREAD_ARCHIVE",
-        "SOUNDBOARD",
-        "THREADS_ENABLED",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
         "VERIFIED"
     ],
     "partnered": false,
@@ -44,9 +28,9 @@
         "icon": "ae7da1ff2e72ccab0a99255c01e9a47e",
         "splash": "a7f62fb7394f9df5666e953b6b3b8e94",
         "banner": null,
-        "approximate_presence_count": 11180,
-        "approximate_member_count": 53426,
-        "premium_subscription_count": 9,
+        "approximate_presence_count": 12074,
+        "approximate_member_count": 49813,
+        "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "42e121a91eeea9b4a01c9815bcb6450c",
@@ -55,27 +39,43 @@
         "is_published": false,
         "keywords": [],
         "features": [
-            "ANIMATED_ICON",
-            "AUTO_MODERATION",
-            "BANNER",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_LARGE_GATED",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "INVITE_SPLASH",
-            "MEMBER_PROFILES",
-            "NEWS",
-            "NEW_THREAD_PERMISSIONS",
             "PREVIEW_ENABLED",
-            "PRIVATE_THREADS",
-            "ROLE_ICONS",
-            "SEVEN_DAY_THREAD_ARCHIVE",
-            "SOUNDBOARD",
-            "THREADS_ENABLED",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
             "VERIFIED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "751154215090651299",
+        "_highlightResult": {
+            "name": {
+                "value": "MINECRAFT LIVE",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "minecraftlive",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }

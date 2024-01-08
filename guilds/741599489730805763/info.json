@@ -6,28 +6,18 @@
     "splash": "7878c1d72a89c454ce653b51d9d20314",
     "discovery_splash": null,
     "banner": "9a39aeaeb319ad46fe20593b5da68b31",
-    "approximate_presence_count": 126,
-    "approximate_member_count": 18057,
-    "premium_subscription_count": 4,
+    "approximate_presence_count": 198,
+    "approximate_member_count": 18395,
+    "premium_subscription_count": 2,
     "preferred_locale": "tr",
     "vanity_url_code": "erenn",
     "keywords": null,
     "features": [
-        "ANIMATED_ICON",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_LARGE_GATED",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "INVITE_SPLASH",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "NEWS",
-        "NEW_THREAD_PERMISSIONS",
         "PREVIEW_ENABLED",
-        "SOUNDBOARD",
-        "THREADS_ENABLED",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
         "VERIFIED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -40,9 +30,9 @@
         "icon": "affeedd7a40137f1a650b5df014d15d9",
         "splash": "7878c1d72a89c454ce653b51d9d20314",
         "banner": "9a39aeaeb319ad46fe20593b5da68b31",
-        "approximate_presence_count": 126,
-        "approximate_member_count": 18057,
-        "premium_subscription_count": 4,
+        "approximate_presence_count": 198,
+        "approximate_member_count": 18395,
+        "premium_subscription_count": 2,
         "preferred_locale": "tr",
         "auto_removed": false,
         "discovery_splash": null,
@@ -51,23 +41,45 @@
         "is_published": false,
         "keywords": null,
         "features": [
-            "ANIMATED_ICON",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_LARGE_GATED",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "INVITE_SPLASH",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "NEWS",
-            "NEW_THREAD_PERMISSIONS",
             "PREVIEW_ENABLED",
-            "SOUNDBOARD",
-            "THREADS_ENABLED",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
             "VERIFIED",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "741599489730805763",
+        "_highlightResult": {
+            "name": {
+                "value": "EREN",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "erenn",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }
