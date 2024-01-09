@@ -1,24 +1,24 @@
 {
     "id": "702801010426511373",
     "name": "ACM at UCLA",
-    "description": "",
+    "description": "The ACM at UCLA is Southern California's largest tech community, focused on making tech as accessible as possible.",
     "icon": "a_ba71161c4e29548bd3dd738a26641cc3",
     "splash": "5d6f827ba76f3afd5c2ab5bfebb2e6ad",
     "discovery_splash": "277daaea69cd27a5fcd9fd2d09a7c61b",
     "banner": null,
-    "approximate_presence_count": 299,
-    "approximate_member_count": 2757,
+    "approximate_presence_count": 680,
+    "approximate_member_count": 3312,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "acm-at-ucla-702801010426511373",
     "keywords": [
-        "coding",
-        "tech",
-        "computer-science",
         "ai",
-        "machine-learning",
+        "coding",
+        "college",
+        "computer-science",
         "education",
-        "college"
+        "machine-learning",
+        "tech"
     ],
     "features": [
         "COMMUNITY",
@@ -33,27 +33,27 @@
     "raw": {
         "id": "702801010426511373",
         "name": "ACM at UCLA",
-        "description": "",
+        "description": "The ACM at UCLA is Southern California's largest tech community, focused on making tech as accessible as possible.",
         "icon": "a_ba71161c4e29548bd3dd738a26641cc3",
         "splash": "5d6f827ba76f3afd5c2ab5bfebb2e6ad",
         "banner": null,
-        "approximate_presence_count": 299,
-        "approximate_member_count": 2757,
+        "approximate_presence_count": 680,
+        "approximate_member_count": 3312,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "277daaea69cd27a5fcd9fd2d09a7c61b",
         "primary_category_id": 6,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "acm-at-ucla-702801010426511373",
+        "is_published": true,
         "keywords": [
-            "coding",
-            "tech",
-            "computer-science",
             "ai",
-            "machine-learning",
+            "coding",
+            "college",
+            "computer-science",
             "education",
-            "college"
+            "machine-learning",
+            "tech"
         ],
         "features": [
             "COMMUNITY",
@@ -295,18 +295,28 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "",
+                "value": "The ACM at UCLA is Southern California's largest tech community, focused on making tech as accessible as possible.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "acm-at-ucla-702801010426511373",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
+                {
+                    "value": "ai",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
                 {
                     "value": "coding",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "tech",
+                    "value": "college",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -316,7 +326,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "ai",
+                    "value": "education",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -326,12 +336,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "education",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "college",
+                    "value": "tech",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

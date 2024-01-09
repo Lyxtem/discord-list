@@ -6,35 +6,16 @@
     "splash": "087eacba7591257df4fc2e25ade1c5a1",
     "discovery_splash": null,
     "banner": "1e48a4cfeb0c848db242d3572faac1a9",
-    "approximate_presence_count": 8925,
-    "approximate_member_count": 44695,
+    "approximate_presence_count": 9614,
+    "approximate_member_count": 44929,
     "premium_subscription_count": 44,
     "preferred_locale": "en-US",
     "vanity_url_code": "defcon",
     "keywords": null,
     "features": [
-        "ANIMATED_BANNER",
-        "ANIMATED_ICON",
-        "BANNER",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_LARGE_GATED",
         "DISCOVERABLE",
-        "INVITE_SPLASH",
-        "MEMBER_PROFILES",
-        "MORE_EMOJI",
-        "MORE_STICKERS",
-        "NEWS",
         "PREVIEW_ENABLED",
-        "PRIVATE_THREADS",
-        "RELAY_ENABLED",
-        "ROLE_ICONS",
-        "SEVEN_DAY_THREAD_ARCHIVE",
-        "SOUNDBOARD",
-        "TEXT_IN_VOICE_ENABLED",
-        "THREADS_ENABLED",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
         "VERIFIED"
     ],
     "partnered": false,
@@ -46,8 +27,8 @@
         "icon": "a_dff3508ba2012df9f16b4f1e6e98e263",
         "splash": "087eacba7591257df4fc2e25ade1c5a1",
         "banner": "1e48a4cfeb0c848db242d3572faac1a9",
-        "approximate_presence_count": 8925,
-        "approximate_member_count": 44695,
+        "approximate_presence_count": 9614,
+        "approximate_member_count": 44929,
         "premium_subscription_count": 44,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -57,29 +38,42 @@
         "is_published": false,
         "keywords": null,
         "features": [
-            "ANIMATED_BANNER",
-            "ANIMATED_ICON",
-            "BANNER",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_LARGE_GATED",
             "DISCOVERABLE",
-            "INVITE_SPLASH",
-            "MEMBER_PROFILES",
-            "MORE_EMOJI",
-            "MORE_STICKERS",
-            "NEWS",
             "PREVIEW_ENABLED",
-            "PRIVATE_THREADS",
-            "RELAY_ENABLED",
-            "ROLE_ICONS",
-            "SEVEN_DAY_THREAD_ARCHIVE",
-            "SOUNDBOARD",
-            "TEXT_IN_VOICE_ENABLED",
-            "THREADS_ENABLED",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
             "VERIFIED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "708208267699945503",
+        "_highlightResult": {
+            "name": {
+                "value": "DEFCON",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "Official DEF CON Discord Server",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "defcon",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }
