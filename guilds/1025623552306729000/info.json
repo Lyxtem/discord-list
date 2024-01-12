@@ -1,20 +1,22 @@
 {
     "id": "1025623552306729000",
-    "name": "Hardware Hub by YGA",
-    "description": "Server oficial de YGA. Servicio Tecnico de PCs y comunidad para buscar personas con quien jugar.",
-    "icon": "9a8526a9b6dba025b6c6dc3d3376a5f9",
-    "splash": "aefce589695e843afbb8999ef897525f",
-    "discovery_splash": "49755fabaf976ef42043c18a561145a3",
-    "banner": "2e82c83b9a9af1d3f8782c9855feb570",
-    "approximate_presence_count": 238,
-    "approximate_member_count": 1753,
-    "premium_subscription_count": 12,
+    "name": "DoKaSV",
+    "description": "DoKaSV, comunidad LFG y para Servicio Tecnico...",
+    "icon": "a_8b7e3b55c1b2a1eb6ea255c87d4f596d",
+    "splash": "ffa3edcbb5e54f85a4b25180dbf402d6",
+    "discovery_splash": "ffa3edcbb5e54f85a4b25180dbf402d6",
+    "banner": "b8f25afd1cb739203f2d555525ae26dd",
+    "approximate_presence_count": 374,
+    "approximate_member_count": 2326,
+    "premium_subscription_count": 7,
     "preferred_locale": "es-ES",
-    "vanity_url_code": "hardware-hub-by-yga-dokasv-1025623552306729000",
+    "vanity_url_code": "dokasv-remaster-1025623552306729000",
     "keywords": [
+        "gaming",
         "hardware",
         "software",
-        "tecnología"
+        "tecnología",
+        "yanpol"
     ],
     "features": [
         "COMMUNITY",
@@ -28,24 +30,26 @@
     "verified": false,
     "raw": {
         "id": "1025623552306729000",
-        "name": "Hardware Hub by YGA",
-        "description": "Server oficial de YGA. Servicio Tecnico de PCs y comunidad para buscar personas con quien jugar.",
-        "icon": "9a8526a9b6dba025b6c6dc3d3376a5f9",
-        "splash": "aefce589695e843afbb8999ef897525f",
-        "banner": "2e82c83b9a9af1d3f8782c9855feb570",
-        "approximate_presence_count": 238,
-        "approximate_member_count": 1753,
-        "premium_subscription_count": 12,
+        "name": "DoKaSV",
+        "description": "DoKaSV, comunidad LFG y para Servicio Tecnico...",
+        "icon": "a_8b7e3b55c1b2a1eb6ea255c87d4f596d",
+        "splash": "ffa3edcbb5e54f85a4b25180dbf402d6",
+        "banner": "b8f25afd1cb739203f2d555525ae26dd",
+        "approximate_presence_count": 374,
+        "approximate_member_count": 2326,
+        "premium_subscription_count": 7,
         "preferred_locale": "es-ES",
         "auto_removed": false,
-        "discovery_splash": "49755fabaf976ef42043c18a561145a3",
-        "primary_category_id": 5,
-        "vanity_url_code": "hardware-hub-by-yga-dokasv-1025623552306729000",
+        "discovery_splash": "ffa3edcbb5e54f85a4b25180dbf402d6",
+        "primary_category_id": 14,
+        "vanity_url_code": "dokasv-remaster-1025623552306729000",
         "is_published": true,
         "keywords": [
+            "gaming",
             "hardware",
             "software",
-            "tecnología"
+            "tecnología",
+            "yanpol"
         ],
         "features": [
             "COMMUNITY",
@@ -91,6 +95,43 @@
                     "sv-SE": "Letar efter grupp (LFG)",
                     "zh-CN": "找同好（LFG）",
                     "zh-TW": "LFG"
+                }
+            },
+            {
+                "id": 31,
+                "is_primary": false,
+                "name": "Customer Support",
+                "name_localizations": {
+                    "bg": "Обслужване на клиенти",
+                    "cs": "Uživatelská podpora",
+                    "da": "Kundesupport",
+                    "de": "Kundensupport",
+                    "el": "Εξυπηρέτηση πελατών",
+                    "fi": "Asiakastuki",
+                    "fr": "Assistance clientèle",
+                    "hi": "कस्टमर सपोर्ट",
+                    "hr": "Podrška korisnicima",
+                    "hu": "Ügyfélszolgálat",
+                    "it": "Assistenza clienti",
+                    "ja": "カスタマーサポート",
+                    "ko": "고객 지원",
+                    "lt": "Klientų palaikymas",
+                    "nl": "Klantenondersteuning",
+                    "no": "Kundestøtte",
+                    "pl": "Pomoc techniczna",
+                    "ro": "Asistență clienți",
+                    "ru": "Служба поддержки",
+                    "th": "ฝ่ายสนับสนุนลูกค้า",
+                    "tr": "Müşteri Desteği",
+                    "uk": "Підтримка користувачів",
+                    "vi": "Chăm Sóc Khách Hàng",
+                    "en-GB": "Customer Support",
+                    "en-US": "Customer Support",
+                    "es-ES": "Atención al cliente",
+                    "pt-BR": "Suporte ao cliente",
+                    "sv-SE": "Kundsupport",
+                    "zh-CN": "客户支持",
+                    "zh-TW": "客戶支援"
                 }
             },
             {
@@ -166,137 +207,68 @@
                     "zh-CN": "综合聊天",
                     "zh-TW": "一般聊天"
                 }
-            },
-            {
-                "id": 31,
-                "is_primary": false,
-                "name": "Customer Support",
-                "name_localizations": {
-                    "bg": "Обслужване на клиенти",
-                    "cs": "Uživatelská podpora",
-                    "da": "Kundesupport",
-                    "de": "Kundensupport",
-                    "el": "Εξυπηρέτηση πελατών",
-                    "fi": "Asiakastuki",
-                    "fr": "Assistance clientèle",
-                    "hi": "कस्टमर सपोर्ट",
-                    "hr": "Podrška korisnicima",
-                    "hu": "Ügyfélszolgálat",
-                    "it": "Assistenza clienti",
-                    "ja": "カスタマーサポート",
-                    "ko": "고객 지원",
-                    "lt": "Klientų palaikymas",
-                    "nl": "Klantenondersteuning",
-                    "no": "Kundestøtte",
-                    "pl": "Pomoc techniczna",
-                    "ro": "Asistență clienți",
-                    "ru": "Служба поддержки",
-                    "th": "ฝ่ายสนับสนุนลูกค้า",
-                    "tr": "Müşteri Desteği",
-                    "uk": "Підтримка користувачів",
-                    "vi": "Chăm Sóc Khách Hàng",
-                    "en-GB": "Customer Support",
-                    "en-US": "Customer Support",
-                    "es-ES": "Atención al cliente",
-                    "pt-BR": "Suporte ao cliente",
-                    "sv-SE": "Kundsupport",
-                    "zh-CN": "客户支持",
-                    "zh-TW": "客戶支援"
-                }
-            },
-            {
-                "id": 5,
-                "is_primary": true,
-                "name": "Science & Tech",
-                "name_localizations": {
-                    "bg": "Наука и технологии",
-                    "cs": "Věda a technika",
-                    "da": "Videnskab & teknologi",
-                    "de": "Wissenschaft & Technik",
-                    "el": "Επιστήμη & Τεχνολογία",
-                    "fi": "Tiede ja tekniikka",
-                    "fr": "Science et technologie",
-                    "hi": "साइंस और टेक",
-                    "hr": "Znanost i tehnologija",
-                    "hu": "Tudomány és technológia",
-                    "it": "Scienza e tecnologia",
-                    "ja": "サイエンス&テクノロジー",
-                    "ko": "과학, 기술",
-                    "lt": "Mokslas ir technologijos",
-                    "nl": "Wetenschap en tech",
-                    "no": "Vitenskap og teknologi",
-                    "pl": "Nauka i technika",
-                    "ro": "Știință și tehnologie",
-                    "ru": "Наука и техника",
-                    "th": "วิทยาศาสตร์และเทคโนโลยี",
-                    "tr": "Bilim ve Teknoloji",
-                    "uk": "Наука й технології",
-                    "vi": "Khoa Học & Công Nghệ",
-                    "en-GB": "Science & tech",
-                    "en-US": "Science & Tech",
-                    "es-ES": "Ciencia y tecnología",
-                    "pt-BR": "Ciência e Tecnologia",
-                    "sv-SE": "Vetenskap och teknologi",
-                    "zh-CN": "科学&技术",
-                    "zh-TW": "科學與技術"
-                }
             }
         ],
         "primary_category": {
-            "id": 5,
+            "id": 14,
             "is_primary": true,
-            "name": "Science & Tech",
+            "name": "General Chatting",
             "name_localizations": {
-                "bg": "Наука и технологии",
-                "cs": "Věda a technika",
-                "da": "Videnskab & teknologi",
-                "de": "Wissenschaft & Technik",
-                "el": "Επιστήμη & Τεχνολογία",
-                "fi": "Tiede ja tekniikka",
-                "fr": "Science et technologie",
-                "hi": "साइंस और टेक",
-                "hr": "Znanost i tehnologija",
-                "hu": "Tudomány és technológia",
-                "it": "Scienza e tecnologia",
-                "ja": "サイエンス&テクノロジー",
-                "ko": "과학, 기술",
-                "lt": "Mokslas ir technologijos",
-                "nl": "Wetenschap en tech",
-                "no": "Vitenskap og teknologi",
-                "pl": "Nauka i technika",
-                "ro": "Știință și tehnologie",
-                "ru": "Наука и техника",
-                "th": "วิทยาศาสตร์และเทคโนโลยี",
-                "tr": "Bilim ve Teknoloji",
-                "uk": "Наука й технології",
-                "vi": "Khoa Học & Công Nghệ",
-                "en-GB": "Science & tech",
-                "en-US": "Science & Tech",
-                "es-ES": "Ciencia y tecnología",
-                "pt-BR": "Ciência e Tecnologia",
-                "sv-SE": "Vetenskap och teknologi",
-                "zh-CN": "科学&技术",
-                "zh-TW": "科學與技術"
+                "bg": "Общуване",
+                "cs": "Prostě chat",
+                "da": "Generelt",
+                "de": "Allgemeine Chats",
+                "el": "Γενική συζήτηση",
+                "fi": "Yleinen keskustelu",
+                "fr": "Discussion générale",
+                "hi": "जनरल चैटिंग",
+                "hr": "Općenito",
+                "hu": "Általános csevegés",
+                "it": "Discussioni generali",
+                "ja": "雑談",
+                "ko": "일반 채팅",
+                "lt": "Bendro pobūdžio pokalbiai",
+                "nl": "Algemene chat",
+                "no": "Generell chatting",
+                "pl": "Rozmowy",
+                "ro": "Discuții generale",
+                "ru": "Общение",
+                "th": "การสนทนาทั่วไป",
+                "tr": "Genel Sohbet",
+                "uk": "Спілкування на загальні теми",
+                "vi": "Trò Chuyện Chung",
+                "en-GB": "General Chatting",
+                "en-US": "General Chatting",
+                "es-ES": "Chateo general",
+                "pt-BR": "Conversas gerais",
+                "sv-SE": "Chatt i allmänhet",
+                "zh-CN": "综合聊天",
+                "zh-TW": "一般聊天"
             }
         },
         "objectID": "1025623552306729000",
         "_highlightResult": {
             "name": {
-                "value": "Hardware Hub by YGA",
+                "value": "DoKaSV",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "description": {
-                "value": "Server oficial de YGA. Servicio Tecnico de PCs y comunidad para buscar personas con quien jugar.",
+                "value": "DoKaSV, comunidad LFG y para Servicio Tecnico...",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "vanity_url_code": {
-                "value": "hardware-hub-by-yga-dokasv-1025623552306729000",
+                "value": "dokasv-remaster-1025623552306729000",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
+                {
+                    "value": "gaming",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
                 {
                     "value": "hardware",
                     "matchLevel": "none",
@@ -309,6 +281,11 @@
                 },
                 {
                     "value": "tecnología",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "yanpol",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
@@ -463,6 +440,160 @@
                         },
                         "zh-TW": {
                             "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Обслужване на клиенти",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Uživatelská podpora",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Kundesupport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Kundensupport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Εξυπηρέτηση πελατών",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Asiakastuki",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Assistance clientèle",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "कस्टमर सपोर्ट",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Podrška korisnicima",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Ügyfélszolgálat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Assistenza clienti",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "カスタマーサポート",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "고객 지원",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Klientų palaikymas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Klantenondersteuning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Kundestøtte",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Pomoc techniczna",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Asistență clienți",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Служба поддержки",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ฝ่ายสนับสนุนลูกค้า",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Müşteri Desteği",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Підтримка користувачів",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Chăm Sóc Khách Hàng",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Customer Support",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Customer Support",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Atención al cliente",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Suporte ao cliente",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Kundsupport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "客户支持",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "客戶支援",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -775,465 +906,157 @@
                             "matchedWords": []
                         }
                     }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Обслужване на клиенти",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Uživatelská podpora",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Kundesupport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Kundensupport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Εξυπηρέτηση πελατών",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Asiakastuki",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Assistance clientèle",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "कस्टमर सपोर्ट",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Podrška korisnicima",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Ügyfélszolgálat",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Assistenza clienti",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "カスタマーサポート",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "고객 지원",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Klientų palaikymas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Klantenondersteuning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Kundestøtte",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Pomoc techniczna",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Asistență clienți",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Служба поддержки",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "ฝ่ายสนับสนุนลูกค้า",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Müşteri Desteği",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Підтримка користувачів",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Chăm Sóc Khách Hàng",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Customer Support",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Customer Support",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Atención al cliente",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Suporte ao cliente",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Kundsupport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "客户支持",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "客戶支援",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Наука и технологии",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Věda a technika",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Videnskab & teknologi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Wissenschaft & Technik",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Επιστήμη & Τεχνολογία",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Tiede ja tekniikka",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Science et technologie",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "साइंस और टेक",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Znanost i tehnologija",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Tudomány és technológia",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Scienza e tecnologia",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "サイエンス&テクノロジー",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "과학, 기술",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Mokslas ir technologijos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Wetenschap en tech",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Vitenskap og teknologi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Nauka i technika",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Știință și tehnologie",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Наука и техника",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "วิทยาศาสตร์และเทคโนโลยี",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Bilim ve Teknoloji",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Наука й технології",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Khoa Học & Công Nghệ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Science & tech",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Science & Tech",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Ciencia y tecnología",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Ciência e Tecnologia",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Vetenskap och teknologi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "科学&技术",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "科學與技術",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
                 }
             ],
             "primary_category": {
                 "name_localizations": {
                     "bg": {
-                        "value": "Наука и технологии",
+                        "value": "Общуване",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "cs": {
-                        "value": "Věda a technika",
+                        "value": "Prostě chat",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "da": {
-                        "value": "Videnskab & teknologi",
+                        "value": "Generelt",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "de": {
-                        "value": "Wissenschaft & Technik",
+                        "value": "Allgemeine Chats",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "el": {
-                        "value": "Επιστήμη & Τεχνολογία",
+                        "value": "Γενική συζήτηση",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "fi": {
-                        "value": "Tiede ja tekniikka",
+                        "value": "Yleinen keskustelu",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "fr": {
-                        "value": "Science et technologie",
+                        "value": "Discussion générale",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "hi": {
-                        "value": "साइंस और टेक",
+                        "value": "जनरल चैटिंग",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "hr": {
-                        "value": "Znanost i tehnologija",
+                        "value": "Općenito",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "hu": {
-                        "value": "Tudomány és technológia",
+                        "value": "Általános csevegés",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "it": {
-                        "value": "Scienza e tecnologia",
+                        "value": "Discussioni generali",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ja": {
-                        "value": "サイエンス&テクノロジー",
+                        "value": "雑談",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ko": {
-                        "value": "과학, 기술",
+                        "value": "일반 채팅",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "lt": {
-                        "value": "Mokslas ir technologijos",
+                        "value": "Bendro pobūdžio pokalbiai",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "nl": {
-                        "value": "Wetenschap en tech",
+                        "value": "Algemene chat",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "no": {
-                        "value": "Vitenskap og teknologi",
+                        "value": "Generell chatting",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "pl": {
-                        "value": "Nauka i technika",
+                        "value": "Rozmowy",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ro": {
-                        "value": "Știință și tehnologie",
+                        "value": "Discuții generale",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ru": {
-                        "value": "Наука и техника",
+                        "value": "Общение",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "th": {
-                        "value": "วิทยาศาสตร์และเทคโนโลยี",
+                        "value": "การสนทนาทั่วไป",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "tr": {
-                        "value": "Bilim ve Teknoloji",
+                        "value": "Genel Sohbet",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "uk": {
-                        "value": "Наука й технології",
+                        "value": "Спілкування на загальні теми",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "vi": {
-                        "value": "Khoa Học & Công Nghệ",
+                        "value": "Trò Chuyện Chung",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "en-GB": {
-                        "value": "Science & tech",
+                        "value": "General Chatting",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "en-US": {
-                        "value": "Science & Tech",
+                        "value": "General Chatting",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "es-ES": {
-                        "value": "Ciencia y tecnología",
+                        "value": "Chateo general",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "pt-BR": {
-                        "value": "Ciência e Tecnologia",
+                        "value": "Conversas gerais",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "sv-SE": {
-                        "value": "Vetenskap och teknologi",
+                        "value": "Chatt i allmänhet",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "zh-CN": {
-                        "value": "科学&技术",
+                        "value": "综合聊天",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "zh-TW": {
-                        "value": "科學與技術",
+                        "value": "一般聊天",
                         "matchLevel": "none",
                         "matchedWords": []
                     }
