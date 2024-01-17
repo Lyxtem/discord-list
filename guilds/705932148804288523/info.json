@@ -2,25 +2,25 @@
     "id": "705932148804288523",
     "name": "Dream League Soccer",
     "description": "The Dream League Soccer server is a server for discussing and playing DLS with other users!",
-    "icon": "a_a43bf2921413579b4e48fd7f97d5037b",
+    "icon": "9878c296324ee7d617f406536a2d1849",
     "splash": "ec52c804a4effed4c4d51d869088acf6",
-    "discovery_splash": "bf676a5594c8a6f447e45d0b24e070ab",
+    "discovery_splash": "1f1905063ce32d839e99c03c328deb3d",
     "banner": "9717a17c778acbb550e7b738c8437c73",
-    "approximate_presence_count": 249,
-    "approximate_member_count": 7277,
-    "premium_subscription_count": 3,
+    "approximate_presence_count": 376,
+    "approximate_member_count": 8069,
+    "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "dream-league-soccer-705932148804288523",
     "keywords": [
         "dls",
-        "dream-league-soccer",
-        "ftg",
-        "first-touch-games",
         "dream-league",
+        "dream-league-soccer",
+        "first-touch-games",
         "first-touch-soccer",
+        "football",
+        "ftg",
         "fts",
-        "soccer",
-        "football"
+        "soccer"
     ],
     "features": [
         "COMMUNITY",
@@ -36,28 +36,28 @@
         "id": "705932148804288523",
         "name": "Dream League Soccer",
         "description": "The Dream League Soccer server is a server for discussing and playing DLS with other users!",
-        "icon": "a_a43bf2921413579b4e48fd7f97d5037b",
+        "icon": "9878c296324ee7d617f406536a2d1849",
         "splash": "ec52c804a4effed4c4d51d869088acf6",
         "banner": "9717a17c778acbb550e7b738c8437c73",
-        "approximate_presence_count": 249,
-        "approximate_member_count": 7277,
-        "premium_subscription_count": 3,
+        "approximate_presence_count": 376,
+        "approximate_member_count": 8069,
+        "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "bf676a5594c8a6f447e45d0b24e070ab",
+        "discovery_splash": "1f1905063ce32d839e99c03c328deb3d",
         "primary_category_id": 1,
         "vanity_url_code": "dream-league-soccer-705932148804288523",
         "is_published": true,
         "keywords": [
             "dls",
-            "dream-league-soccer",
-            "ftg",
-            "first-touch-games",
             "dream-league",
+            "dream-league-soccer",
+            "first-touch-games",
             "first-touch-soccer",
+            "football",
+            "ftg",
             "fts",
-            "soccer",
-            "football"
+            "soccer"
         ],
         "features": [
             "COMMUNITY",
@@ -214,12 +214,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "dream-league-soccer",
+                    "value": "dream-league",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "ftg",
+                    "value": "dream-league-soccer",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -229,12 +229,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "dream-league",
+                    "value": "first-touch-soccer",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "first-touch-soccer",
+                    "value": "football",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "ftg",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -245,11 +250,6 @@
                 },
                 {
                     "value": "soccer",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "football",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

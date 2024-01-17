@@ -4,23 +4,23 @@
     "description": "Данный дискорд сервер представляет собой сообщество проекта TES: Tales of Emerald.",
     "icon": "dec2f2faef2a58d569c698fbe40d02fd",
     "splash": "b1828512d4977b0ee0a32cc889222890",
-    "discovery_splash": "e6b99796de1755dbac9cf8eff27325c5",
+    "discovery_splash": "2f20dbaf9bb401e34dc99ca767ea59c8",
     "banner": "df8ebd0454fcdd67c1273fffb1fe8ec8",
-    "approximate_presence_count": 1361,
-    "approximate_member_count": 4073,
+    "approximate_presence_count": 1014,
+    "approximate_member_count": 4102,
     "premium_subscription_count": 2,
     "preferred_locale": "ru",
     "vanity_url_code": null,
     "keywords": [
-        "tes",
+        "dayz",
+        "dayzrp",
         "elderscroll",
+        "emerald",
         "roleplay",
         "rp",
-        "emerald",
-        "theelderscroll",
         "talesofemerald",
-        "dayz",
-        "dayzrp"
+        "tes",
+        "theelderscroll"
     ],
     "features": [
         "COMMUNITY",
@@ -39,25 +39,25 @@
         "icon": "dec2f2faef2a58d569c698fbe40d02fd",
         "splash": "b1828512d4977b0ee0a32cc889222890",
         "banner": "df8ebd0454fcdd67c1273fffb1fe8ec8",
-        "approximate_presence_count": 1361,
-        "approximate_member_count": 4073,
+        "approximate_presence_count": 1014,
+        "approximate_member_count": 4102,
         "premium_subscription_count": 2,
         "preferred_locale": "ru",
         "auto_removed": false,
-        "discovery_splash": "e6b99796de1755dbac9cf8eff27325c5",
+        "discovery_splash": "2f20dbaf9bb401e34dc99ca767ea59c8",
         "primary_category_id": 1,
         "vanity_url_code": null,
         "is_published": false,
         "keywords": [
-            "tes",
+            "dayz",
+            "dayzrp",
             "elderscroll",
+            "emerald",
             "roleplay",
             "rp",
-            "emerald",
-            "theelderscroll",
             "talesofemerald",
-            "dayz",
-            "dayzrp"
+            "tes",
+            "theelderscroll"
         ],
         "features": [
             "COMMUNITY",
@@ -231,12 +231,22 @@
             },
             "keywords": [
                 {
-                    "value": "tes",
+                    "value": "dayz",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "dayzrp",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "elderscroll",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "emerald",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -251,27 +261,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "emerald",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "theelderscroll",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "talesofemerald",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "dayz",
+                    "value": "tes",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "dayzrp",
+                    "value": "theelderscroll",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
