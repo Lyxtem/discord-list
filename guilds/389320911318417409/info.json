@@ -6,11 +6,11 @@
     "splash": "d2b47e3d5796d387413faaed020c0cfc",
     "discovery_splash": "afdbb23ac56f5fd73f1459d93e05679d",
     "banner": "56b55a825d88f909afc8a2b8f2a26295",
-    "approximate_presence_count": 3285,
-    "approximate_member_count": 12818,
-    "premium_subscription_count": 10,
+    "approximate_presence_count": 3702,
+    "approximate_member_count": 12741,
+    "premium_subscription_count": 28,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "raidsim",
     "keywords": [
         "RS Rust Raid Sim Simulator PvP",
         "Rust",
@@ -39,14 +39,14 @@
         "icon": "e298a80ba2c34aad2a5de56ce95c71b5",
         "splash": "d2b47e3d5796d387413faaed020c0cfc",
         "banner": "56b55a825d88f909afc8a2b8f2a26295",
-        "approximate_presence_count": 3285,
-        "approximate_member_count": 12818,
-        "premium_subscription_count": 10,
+        "approximate_presence_count": 3702,
+        "approximate_member_count": 12741,
+        "premium_subscription_count": 28,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "afdbb23ac56f5fd73f1459d93e05679d",
         "primary_category_id": 1,
-        "vanity_url_code": null,
+        "vanity_url_code": "raidsim",
         "is_published": false,
         "keywords": [
             "RS Rust Raid Sim Simulator PvP",
@@ -189,6 +189,11 @@
             },
             "description": {
                 "value": "Simulated Raiding and PvP Experience for Rust",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "raidsim",
                 "matchLevel": "none",
                 "matchedWords": []
             },
