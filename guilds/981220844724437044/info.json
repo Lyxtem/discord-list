@@ -6,30 +6,18 @@
     "splash": "4e5be810197570dbec934ccd95a4e3c4",
     "discovery_splash": null,
     "banner": "f9ec94244a553ed7f45f2edb4a87def5",
-    "approximate_presence_count": 353,
-    "approximate_member_count": 8187,
-    "premium_subscription_count": 14,
+    "approximate_presence_count": 512,
+    "approximate_member_count": 8238,
+    "premium_subscription_count": 19,
     "preferred_locale": "en-US",
     "vanity_url_code": "macys",
     "keywords": [],
     "features": [
-        "ANIMATED_BANNER",
-        "ANIMATED_ICON",
-        "BANNER",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "INVITE_SPLASH",
-        "MEMBER_PROFILES",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "NEWS",
         "PREVIEW_ENABLED",
-        "PRIVATE_THREADS",
-        "ROLE_ICONS",
-        "SEVEN_DAY_THREAD_ARCHIVE",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
         "VERIFIED"
     ],
     "partnered": false,
@@ -41,9 +29,9 @@
         "icon": "a_890c1f51141d2a30c8aa4c1a43c7cb98",
         "splash": "4e5be810197570dbec934ccd95a4e3c4",
         "banner": "f9ec94244a553ed7f45f2edb4a87def5",
-        "approximate_presence_count": 353,
-        "approximate_member_count": 8187,
-        "premium_subscription_count": 14,
+        "approximate_presence_count": 512,
+        "approximate_member_count": 8238,
+        "premium_subscription_count": 19,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": null,
@@ -52,24 +40,44 @@
         "is_published": false,
         "keywords": [],
         "features": [
-            "ANIMATED_BANNER",
-            "ANIMATED_ICON",
-            "BANNER",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "INVITE_SPLASH",
-            "MEMBER_PROFILES",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "NEWS",
             "PREVIEW_ENABLED",
-            "PRIVATE_THREADS",
-            "ROLE_ICONS",
-            "SEVEN_DAY_THREAD_ARCHIVE",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
             "VERIFIED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "981220844724437044",
+        "_highlightResult": {
+            "name": {
+                "value": "Macy's",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "macys",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }
