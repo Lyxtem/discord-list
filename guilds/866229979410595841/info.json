@@ -2,18 +2,19 @@
     "id": "866229979410595841",
     "name": "Shine",
     "description": "Мы развиваем позитивное комьюнити с ламповой атмосферой. Наши ценности - это поддержка, открытость и совершенство.",
-    "icon": "a_a06f9d7bf9396dc2e25f44d275ecf60f",
-    "splash": "aa16693cb3d4185f0498f1790310d528",
-    "discovery_splash": "6dc5cf4c4b753a304972cb95fed5aafb",
-    "banner": "d5c4a770f05c3011285dc0be3746d5a1",
-    "approximate_presence_count": 223,
-    "approximate_member_count": 2317,
-    "premium_subscription_count": 15,
+    "icon": "a_f89b8c663398838d95a481fe7842268b",
+    "splash": "c44abe7dd0de3fb6320253b90d1fd8d2",
+    "discovery_splash": "99f4e150fff700f16772eacbd47475b3",
+    "banner": "820e5d411e0f070db9f9cddfb6d1be00",
+    "approximate_presence_count": 747,
+    "approximate_member_count": 2613,
+    "premium_subscription_count": 19,
     "preferred_locale": "ru",
-    "vanity_url_code": "sh1ne",
+    "vanity_url_code": "shine-gg",
     "keywords": [
         "cs:go",
         "dota",
+        "dota 2",
         "знакомства",
         "клозы",
         "общение",
@@ -24,8 +25,7 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "PREVIEW_ENABLED",
-        "WELCOME_SCREEN_ENABLED"
+        "PREVIEW_ENABLED"
     ],
     "partnered": false,
     "verified": false,
@@ -33,21 +33,22 @@
         "id": "866229979410595841",
         "name": "Shine",
         "description": "Мы развиваем позитивное комьюнити с ламповой атмосферой. Наши ценности - это поддержка, открытость и совершенство.",
-        "icon": "a_a06f9d7bf9396dc2e25f44d275ecf60f",
-        "splash": "aa16693cb3d4185f0498f1790310d528",
-        "banner": "d5c4a770f05c3011285dc0be3746d5a1",
-        "approximate_presence_count": 223,
-        "approximate_member_count": 2317,
-        "premium_subscription_count": 15,
+        "icon": "a_f89b8c663398838d95a481fe7842268b",
+        "splash": "c44abe7dd0de3fb6320253b90d1fd8d2",
+        "banner": "820e5d411e0f070db9f9cddfb6d1be00",
+        "approximate_presence_count": 747,
+        "approximate_member_count": 2613,
+        "premium_subscription_count": 19,
         "preferred_locale": "ru",
         "auto_removed": false,
-        "discovery_splash": "6dc5cf4c4b753a304972cb95fed5aafb",
+        "discovery_splash": "99f4e150fff700f16772eacbd47475b3",
         "primary_category_id": 14,
-        "vanity_url_code": "sh1ne",
-        "is_published": false,
+        "vanity_url_code": "shine-gg",
+        "is_published": true,
         "keywords": [
             "cs:go",
             "dota",
+            "dota 2",
             "знакомства",
             "клозы",
             "общение",
@@ -58,8 +59,7 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "PREVIEW_ENABLED",
-            "WELCOME_SCREEN_ENABLED"
+            "PREVIEW_ENABLED"
         ],
         "categories": [
             {
@@ -187,7 +187,7 @@
                 "matchedWords": []
             },
             "vanity_url_code": {
-                "value": "sh1ne",
+                "value": "shine-gg",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -199,6 +199,11 @@
                 },
                 {
                     "value": "dota",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "dota 2",
                     "matchLevel": "none",
                     "matchedWords": []
                 },

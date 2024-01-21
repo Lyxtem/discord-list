@@ -1,18 +1,17 @@
 {
     "id": "1018243948986253332",
     "name": "Colobus",
-    "description": "This is Colobus VR, a multiplayer VR game with Unique movement as you run around as a colobus and explore the maps.",
-    "icon": "21babb53bab9668adf81ba1c51b26c66",
-    "splash": "acc359085f5121132532dcba320fe816",
-    "discovery_splash": "ccb0e0a5aad5acff8f3753d14c9eda29",
-    "banner": "f6a6dac751f15ecb9d21533235a38cb7",
-    "approximate_presence_count": 219,
-    "approximate_member_count": 2486,
-    "premium_subscription_count": 39,
+    "description": "This is Colobus VR, a multiplayer VR game with unique movement as you run around as a colobus and explore the maps.",
+    "icon": "5200b899343fb1444004130be5246b29",
+    "splash": "c4eae6f836a701b3254c50c34e723dab",
+    "discovery_splash": "c4eae6f836a701b3254c50c34e723dab",
+    "banner": "eaabb2be797939143f7d1dd08da90a56",
+    "approximate_presence_count": 351,
+    "approximate_member_count": 2641,
+    "premium_subscription_count": 25,
     "preferred_locale": "en-US",
     "vanity_url_code": "colobus",
     "keywords": [
-        "1uest-2",
         "applab",
         "colobus",
         "colobus-vr",
@@ -20,6 +19,7 @@
         "gaming",
         "gtag",
         "gtag-fangame",
+        "oculusquest",
         "quest2",
         "vr"
     ],
@@ -27,7 +27,6 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -36,21 +35,20 @@
     "raw": {
         "id": "1018243948986253332",
         "name": "Colobus",
-        "description": "This is Colobus VR, a multiplayer VR game with Unique movement as you run around as a colobus and explore the maps.",
-        "icon": "21babb53bab9668adf81ba1c51b26c66",
-        "splash": "acc359085f5121132532dcba320fe816",
-        "banner": "f6a6dac751f15ecb9d21533235a38cb7",
-        "approximate_presence_count": 219,
-        "approximate_member_count": 2486,
-        "premium_subscription_count": 39,
+        "description": "This is Colobus VR, a multiplayer VR game with unique movement as you run around as a colobus and explore the maps.",
+        "icon": "5200b899343fb1444004130be5246b29",
+        "splash": "c4eae6f836a701b3254c50c34e723dab",
+        "banner": "eaabb2be797939143f7d1dd08da90a56",
+        "approximate_presence_count": 351,
+        "approximate_member_count": 2641,
+        "premium_subscription_count": 25,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "ccb0e0a5aad5acff8f3753d14c9eda29",
+        "discovery_splash": "c4eae6f836a701b3254c50c34e723dab",
         "primary_category_id": 1,
         "vanity_url_code": "colobus",
         "is_published": true,
         "keywords": [
-            "1uest-2",
             "applab",
             "colobus",
             "colobus-vr",
@@ -58,6 +56,7 @@
             "gaming",
             "gtag",
             "gtag-fangame",
+            "oculusquest",
             "quest2",
             "vr"
         ],
@@ -65,7 +64,6 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -264,7 +262,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "This is Colobus VR, a multiplayer VR game with Unique movement as you run around as a colobus and explore the maps.",
+                "value": "This is Colobus VR, a multiplayer VR game with unique movement as you run around as a colobus and explore the maps.",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -274,11 +272,6 @@
                 "matchedWords": []
             },
             "keywords": [
-                {
-                    "value": "1uest-2",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
                 {
                     "value": "applab",
                     "matchLevel": "none",
@@ -311,6 +304,11 @@
                 },
                 {
                     "value": "gtag-fangame",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "oculusquest",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
