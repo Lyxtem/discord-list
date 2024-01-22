@@ -6,28 +6,27 @@
     "splash": null,
     "discovery_splash": "93ca3b0fe544f3c1aae61ccf7c9dbff7",
     "banner": null,
-    "approximate_presence_count": 324,
-    "approximate_member_count": 1268,
-    "premium_subscription_count": 11,
+    "approximate_presence_count": 671,
+    "approximate_member_count": 1098,
+    "premium_subscription_count": 10,
     "preferred_locale": "en-US",
     "vanity_url_code": "blazed-694196456005042217",
     "keywords": [
-        "twitch",
-        "youtube",
-        "cars",
         "1320",
+        "cars",
+        "eft",
+        "escapefromtarkov",
+        "fps",
         "racing",
         "streetcar",
         "tarkov",
-        "eft",
-        "escapefromtarkov",
-        "fps"
+        "twitch",
+        "youtube"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -40,32 +39,31 @@
         "icon": "f51bb22da5671ae39bddae87238e9a31",
         "splash": null,
         "banner": null,
-        "approximate_presence_count": 324,
-        "approximate_member_count": 1268,
-        "premium_subscription_count": 11,
+        "approximate_presence_count": 671,
+        "approximate_member_count": 1098,
+        "premium_subscription_count": 10,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "93ca3b0fe544f3c1aae61ccf7c9dbff7",
         "primary_category_id": 1,
         "vanity_url_code": "blazed-694196456005042217",
-        "is_published": true,
+        "is_published": false,
         "keywords": [
-            "twitch",
-            "youtube",
-            "cars",
             "1320",
+            "cars",
+            "eft",
+            "escapefromtarkov",
+            "fps",
             "racing",
             "streetcar",
             "tarkov",
-            "eft",
-            "escapefromtarkov",
-            "fps"
+            "twitch",
+            "youtube"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -201,12 +199,7 @@
             },
             "keywords": [
                 {
-                    "value": "twitch",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "youtube",
+                    "value": "1320",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -216,7 +209,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "1320",
+                    "value": "eft",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "escapefromtarkov",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "fps",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -236,17 +239,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "eft",
+                    "value": "twitch",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "escapefromtarkov",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "fps",
+                    "value": "youtube",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

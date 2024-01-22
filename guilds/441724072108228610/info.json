@@ -6,8 +6,8 @@
     "splash": "8fc1ac7d4365e92be284d824dcdd854f",
     "discovery_splash": "8fc1ac7d4365e92be284d824dcdd854f",
     "banner": null,
-    "approximate_presence_count": 83,
-    "approximate_member_count": 1267,
+    "approximate_presence_count": 103,
+    "approximate_member_count": 1302,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "lazergrrl",
@@ -16,12 +16,7 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "FEATURABLE",
-        "INVITE_SPLASH",
-        "NEWS",
-        "NEW_THREAD_PERMISSIONS",
         "PREVIEW_ENABLED",
-        "THREADS_ENABLED",
-        "VANITY_URL",
         "VERIFIED"
     ],
     "partnered": false,
@@ -33,8 +28,8 @@
         "icon": "a774978aed6d21425aa1b35a35ddd41b",
         "splash": "8fc1ac7d4365e92be284d824dcdd854f",
         "banner": null,
-        "approximate_presence_count": 83,
-        "approximate_member_count": 1267,
+        "approximate_presence_count": 103,
+        "approximate_member_count": 1302,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -47,13 +42,40 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "FEATURABLE",
-            "INVITE_SPLASH",
-            "NEWS",
-            "NEW_THREAD_PERMISSIONS",
             "PREVIEW_ENABLED",
-            "THREADS_ENABLED",
-            "VANITY_URL",
             "VERIFIED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "441724072108228610",
+        "_highlightResult": {
+            "name": {
+                "value": "LazerGrrl",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "A place for all things LazerGrrl, come on and join the community!",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "lazergrrl",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }

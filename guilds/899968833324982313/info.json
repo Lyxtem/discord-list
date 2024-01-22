@@ -6,20 +6,22 @@
     "splash": "3959634e91424c7da23309e0dfa899f5",
     "discovery_splash": "809430698ffd6d94c16eed59f98c8cf2",
     "banner": "b6171cfb479eeacc13ff0d14cb7944a7",
-    "approximate_presence_count": 10084,
-    "approximate_member_count": 32086,
-    "premium_subscription_count": 61,
+    "approximate_presence_count": 6595,
+    "approximate_member_count": 32151,
+    "premium_subscription_count": 58,
     "preferred_locale": "en-US",
     "vanity_url_code": "v3pvp",
     "keywords": [
+        "extinction",
         "fivem",
-        "fivemserver",
+        "fivem pvp server",
         "fivempvp",
-        "v3sc",
+        "fivemserver",
+        "pvpserver",
         "v3",
-        "v3pvp",
         "v3fivem",
-        "pvpserver"
+        "v3pvp",
+        "v3sc"
     ],
     "features": [
         "COMMUNITY",
@@ -37,9 +39,9 @@
         "icon": "a_0b73be2c76bcf4f0e353698b6a153b22",
         "splash": "3959634e91424c7da23309e0dfa899f5",
         "banner": "b6171cfb479eeacc13ff0d14cb7944a7",
-        "approximate_presence_count": 10084,
-        "approximate_member_count": 32086,
-        "premium_subscription_count": 61,
+        "approximate_presence_count": 6595,
+        "approximate_member_count": 32151,
+        "premium_subscription_count": 58,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "809430698ffd6d94c16eed59f98c8cf2",
@@ -47,14 +49,16 @@
         "vanity_url_code": "v3pvp",
         "is_published": true,
         "keywords": [
+            "extinction",
             "fivem",
-            "fivemserver",
+            "fivem pvp server",
             "fivempvp",
-            "v3sc",
+            "fivemserver",
+            "pvpserver",
             "v3",
-            "v3pvp",
             "v3fivem",
-            "pvpserver"
+            "v3pvp",
+            "v3sc"
         ],
         "features": [
             "COMMUNITY",
@@ -195,12 +199,17 @@
             },
             "keywords": [
                 {
+                    "value": "extinction",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "fivem",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "fivemserver",
+                    "value": "fivem pvp server",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -210,7 +219,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "v3sc",
+                    "value": "fivemserver",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "pvpserver",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -220,17 +234,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "v3pvp",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "v3fivem",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "pvpserver",
+                    "value": "v3pvp",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "v3sc",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

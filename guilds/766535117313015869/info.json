@@ -1,29 +1,30 @@
 {
     "id": "766535117313015869",
     "name": "Rei_Yukihyo Community Discord",
-    "description": "Community WoWS Discord server for the NA CC, Rei_Yukihyo. All are welcome",
-    "icon": "1e4f0cd14a51fffc7e33dcf6d7084097",
+    "description": "Community server for NA CC Rei_Yukihyo",
+    "icon": "8c9bc2c97d2a35c923ce89714163d28e",
     "splash": "01526110fe134c88b916c74fdda3b686",
     "discovery_splash": "8c941a830f476562431dc08a889a0f8f",
-    "banner": "52c3e03c36287d621b6b0d20de703b3d",
-    "approximate_presence_count": 446,
-    "approximate_member_count": 1147,
-    "premium_subscription_count": 17,
+    "banner": "d6399b067e281ab8893e9c8af230a06c",
+    "approximate_presence_count": 583,
+    "approximate_member_count": 1361,
+    "premium_subscription_count": 15,
     "preferred_locale": "en-US",
     "vanity_url_code": "rei-yukihyo-community-discord-766535117313015869",
     "keywords": [
-        "world-of-warships",
-        "wows",
-        "wargaming",
-        "wows-cc",
         "gaming",
         "reimubakarei",
-        "reiyukihyo"
+        "reiyukihyo",
+        "wargaming",
+        "world-of-warships",
+        "wows",
+        "wows-cc"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -32,13 +33,13 @@
     "raw": {
         "id": "766535117313015869",
         "name": "Rei_Yukihyo Community Discord",
-        "description": "Community WoWS Discord server for the NA CC, Rei_Yukihyo. All are welcome",
-        "icon": "1e4f0cd14a51fffc7e33dcf6d7084097",
+        "description": "Community server for NA CC Rei_Yukihyo",
+        "icon": "8c9bc2c97d2a35c923ce89714163d28e",
         "splash": "01526110fe134c88b916c74fdda3b686",
-        "banner": "52c3e03c36287d621b6b0d20de703b3d",
-        "approximate_presence_count": 446,
-        "approximate_member_count": 1147,
-        "premium_subscription_count": 17,
+        "banner": "d6399b067e281ab8893e9c8af230a06c",
+        "approximate_presence_count": 583,
+        "approximate_member_count": 1361,
+        "premium_subscription_count": 15,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "8c941a830f476562431dc08a889a0f8f",
@@ -46,18 +47,19 @@
         "vanity_url_code": "rei-yukihyo-community-discord-766535117313015869",
         "is_published": true,
         "keywords": [
-            "world-of-warships",
-            "wows",
-            "wargaming",
-            "wows-cc",
             "gaming",
             "reimubakarei",
-            "reiyukihyo"
+            "reiyukihyo",
+            "wargaming",
+            "world-of-warships",
+            "wows",
+            "wows-cc"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -293,7 +295,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Community WoWS Discord server for the NA CC, Rei_Yukihyo. All are welcome",
+                "value": "Community server for NA CC Rei_Yukihyo",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -303,26 +305,6 @@
                 "matchedWords": []
             },
             "keywords": [
-                {
-                    "value": "world-of-warships",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "wows",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "wargaming",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "wows-cc",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
                 {
                     "value": "gaming",
                     "matchLevel": "none",
@@ -335,6 +317,26 @@
                 },
                 {
                     "value": "reiyukihyo",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "wargaming",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "world-of-warships",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "wows",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "wows-cc",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
