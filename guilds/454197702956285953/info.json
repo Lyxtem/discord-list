@@ -1,13 +1,13 @@
 {
     "id": "454197702956285953",
-    "name": "You're Never Alone",
+    "name": "You're Not Alone",
     "description": "You're Not Alone is a peer mental health support server, used to lift up ourselves and each other.",
-    "icon": "a_338e700b3c842a142bdc06af189dabf1",
+    "icon": "a_f6fbf2dc4e414b47e1c0a50031111e99",
     "splash": "24aacc96eece3be7af4ca6635adc775a",
     "discovery_splash": "72a969a10b63d2aa5315e1ad3b296c6b",
-    "banner": "40e4b534198473f52517d99f833c81f0",
-    "approximate_presence_count": 746,
-    "approximate_member_count": 4404,
+    "banner": "71a3da81d9ee6cd67ecc4c8ca6c0b358",
+    "approximate_presence_count": 735,
+    "approximate_member_count": 4690,
     "premium_subscription_count": 8,
     "preferred_locale": "en-US",
     "vanity_url_code": "yna",
@@ -17,43 +17,25 @@
         "peer-support"
     ],
     "features": [
-        "ANIMATED_ICON",
-        "AUTO_MODERATION",
-        "BANNER",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_MEDIUM",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "GUILD_WEB_PAGE_VANITY_URL",
-        "INVITE_SPLASH",
-        "MEMBER_PROFILES",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "NEWS",
-        "NEW_THREAD_PERMISSIONS",
         "PARTNERED",
         "PREVIEW_ENABLED",
-        "PRIVATE_THREADS",
-        "ROLE_ICONS",
-        "SEVEN_DAY_THREAD_ARCHIVE",
-        "SOUNDBOARD",
-        "TEXT_IN_VOICE_ENABLED",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
-        "VIP_REGIONS",
         "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": true,
     "verified": false,
     "raw": {
         "id": "454197702956285953",
-        "name": "You're Never Alone",
+        "name": "You're Not Alone",
         "description": "You're Not Alone is a peer mental health support server, used to lift up ourselves and each other.",
-        "icon": "a_338e700b3c842a142bdc06af189dabf1",
+        "icon": "a_f6fbf2dc4e414b47e1c0a50031111e99",
         "splash": "24aacc96eece3be7af4ca6635adc775a",
-        "banner": "40e4b534198473f52517d99f833c81f0",
-        "approximate_presence_count": 746,
-        "approximate_member_count": 4404,
+        "banner": "71a3da81d9ee6cd67ecc4c8ca6c0b358",
+        "approximate_presence_count": 735,
+        "approximate_member_count": 4690,
         "premium_subscription_count": 8,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -67,31 +49,1065 @@
             "peer-support"
         ],
         "features": [
-            "ANIMATED_ICON",
-            "AUTO_MODERATION",
-            "BANNER",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_MEDIUM",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "GUILD_WEB_PAGE_VANITY_URL",
-            "INVITE_SPLASH",
-            "MEMBER_PROFILES",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "NEWS",
-            "NEW_THREAD_PERMISSIONS",
             "PARTNERED",
             "PREVIEW_ENABLED",
-            "PRIVATE_THREADS",
-            "ROLE_ICONS",
-            "SEVEN_DAY_THREAD_ARCHIVE",
-            "SOUNDBOARD",
-            "TEXT_IN_VOICE_ENABLED",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
-            "VIP_REGIONS",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 4,
+                "is_primary": true,
+                "name": "Creative Arts",
+                "name_localizations": {
+                    "bg": "Художествени изкуства",
+                    "cs": "Umění",
+                    "da": "Kreativt",
+                    "de": "Kreative Künste",
+                    "el": "Δημιουργικές τέχνες",
+                    "fi": "Luovat alat",
+                    "fr": "Arts créatifs",
+                    "hi": "क्रिएटिव आर्ट",
+                    "hr": "Umjetnost i rukotvorine",
+                    "hu": "Kreatív művészetek",
+                    "it": "Arti creative",
+                    "ja": "クリエイティブアート",
+                    "ko": "창작 예술",
+                    "lt": "Kūrybiniai menai",
+                    "nl": "Beeldende kunst",
+                    "no": "Kreativt arbeid",
+                    "pl": "Twórczość artystyczna",
+                    "ro": "Arte creative",
+                    "ru": "Искусство",
+                    "th": "นฤมิตศิลป์",
+                    "tr": "Yaratıcı Sanatlar",
+                    "uk": "Креативне мистецтво",
+                    "vi": "Nghệ Thuật Sáng Tạo",
+                    "en-GB": "Creative Arts",
+                    "en-US": "Creative Arts",
+                    "es-ES": "Artes creativas",
+                    "pt-BR": "Artes",
+                    "sv-SE": "Kultur",
+                    "zh-CN": "创意美术",
+                    "zh-TW": "創作藝術"
+                }
+            },
+            {
+                "id": 33,
+                "is_primary": false,
+                "name": "Events",
+                "name_localizations": {
+                    "bg": "Събития",
+                    "cs": "Události",
+                    "da": "Begivenheder",
+                    "de": "Events",
+                    "el": "Εκδηλώσεις",
+                    "fi": "Tapahtumat",
+                    "fr": "Événements",
+                    "hi": "इवेंट्स",
+                    "hr": "Događanja",
+                    "hu": "Rendezvények",
+                    "it": "Eventi",
+                    "ja": "イベント",
+                    "ko": "행사",
+                    "lt": "Renginiai",
+                    "nl": "Evenementen",
+                    "no": "Eventer",
+                    "pl": "Wydarzenia",
+                    "ro": "Evenimente",
+                    "ru": "Мероприятия",
+                    "th": "กิจกรรม",
+                    "tr": "Etkinlikler",
+                    "uk": "Події",
+                    "vi": "Sự Kiện",
+                    "en-GB": "Events",
+                    "en-US": "Events",
+                    "es-ES": "Eventos",
+                    "pt-BR": "Eventos",
+                    "sv-SE": "Event",
+                    "zh-CN": "组织活动",
+                    "zh-TW": "活動"
+                }
+            },
+            {
+                "id": 9,
+                "is_primary": true,
+                "name": "Relationships & Identity",
+                "name_localizations": {
+                    "bg": "Отношения и идентичност",
+                    "cs": "Vztahy a osobnost",
+                    "da": "Forhold & identitet",
+                    "de": "Beziehungen & Identität",
+                    "el": "Σχέσεις & Ταυτότητα",
+                    "fi": "Ihmissuhteet ja identiteetti",
+                    "fr": "Relations et identité",
+                    "hi": "रिलेशनशिप और आइडेंटिटी",
+                    "hr": "Odnosi i veze",
+                    "hu": "Kapcsolatok és identitás",
+                    "it": "Relazioni e identità",
+                    "ja": "人間関係&アイデンティティ",
+                    "ko": "친목, 관계",
+                    "lt": "Santykiai ir tapatybė",
+                    "nl": "Relaties en identiteit",
+                    "no": "Forhold og identitet",
+                    "pl": "Związki i tożsamość",
+                    "ro": "Relații și identitate",
+                    "ru": "Отношения и самоидентификация",
+                    "th": "ความสัมพันธ์และอัตลักษณ์",
+                    "tr": "İlişkiler ve Kimlik",
+                    "uk": "Відносини та особистість",
+                    "vi": "Mối Quan Hệ & Cá Tính",
+                    "en-GB": "Relationships & Identity",
+                    "en-US": "Relationships & Identity",
+                    "es-ES": "Relaciones e identidad",
+                    "pt-BR": "Relacionamentos e Identidade",
+                    "sv-SE": "Förhållanden och identitet",
+                    "zh-CN": "情感&认知",
+                    "zh-TW": "關係與身分"
+                }
+            },
+            {
+                "id": 11,
+                "is_primary": true,
+                "name": "Fitness & Health",
+                "name_localizations": {
+                    "bg": "Фитнес и здраве",
+                    "cs": "Zdraví a fitness",
+                    "da": "Fitness & sundhed",
+                    "de": "Fitness & Gesundheit",
+                    "el": "Φυσική κατάσταση & Υγεία",
+                    "fi": "Fitness ja terveys",
+                    "fr": "Fitness et santé",
+                    "hi": "फिटनेस और हेल्थ",
+                    "hr": "Vježba i zdravlje",
+                    "hu": "Fitnesz és egészség",
+                    "it": "Fitness e benessere",
+                    "ja": "フィットネス&健康",
+                    "ko": "피트니스, 건강",
+                    "lt": "Sportas ir sveikata",
+                    "nl": "Lichamelijke gezondheid",
+                    "no": "Trening og helse",
+                    "pl": "Zdrowie i fitness",
+                    "ro": "Fitness și sănătate",
+                    "ru": "Фитнес и здоровье",
+                    "th": "ฟิตเนสและสุขภาพ",
+                    "tr": "Zindelik ve Sağlık",
+                    "uk": "Фітнес і здоров'я",
+                    "vi": "Thể Chất & Sức Khỏe",
+                    "en-GB": "Fitness & Health",
+                    "en-US": "Fitness & Health",
+                    "es-ES": "Fitness y salud",
+                    "pt-BR": "Ginástica e Saúde",
+                    "sv-SE": "Träning och hälsa",
+                    "zh-CN": "健身&健康",
+                    "zh-TW": "健身與健康"
+                }
+            },
+            {
+                "id": 38,
+                "is_primary": false,
+                "name": "Collaboration",
+                "name_localizations": {
+                    "bg": "Сътрудничество",
+                    "cs": "Spolupráce",
+                    "da": "Samarbejde",
+                    "de": "Kollaboration",
+                    "el": "Συνεργασία",
+                    "fi": "Yhteistyö",
+                    "fr": "Collaboration",
+                    "hi": "सहयोग",
+                    "hr": "Suradnja",
+                    "hu": "Együttműködés",
+                    "it": "Collaborazione",
+                    "ja": "コラボレーション",
+                    "ko": "협동",
+                    "lt": "Bendradarbiavimas",
+                    "nl": "Samenwerken",
+                    "no": "Samarbeid",
+                    "pl": "Współpraca",
+                    "ro": "Colaborare",
+                    "ru": "Совместная работа",
+                    "th": "การร่วมมือ",
+                    "tr": "İşbirliği",
+                    "uk": "Співробітництво",
+                    "vi": "Hợp Tác",
+                    "en-GB": "Collaboration",
+                    "en-US": "Collaboration",
+                    "es-ES": "Colaboración",
+                    "pt-BR": "Colaboração",
+                    "sv-SE": "Samarbete",
+                    "zh-CN": "合作",
+                    "zh-TW": "合作"
+                }
+            },
+            {
+                "id": 13,
+                "is_primary": true,
+                "name": "Other",
+                "name_localizations": {
+                    "de": "Sonstiges",
+                    "fr": "Autre",
+                    "ru": "Другое"
+                }
+            }
+        ],
+        "primary_category": {
+            "id": 13,
+            "is_primary": true,
+            "name": "Other",
+            "name_localizations": {
+                "de": "Sonstiges",
+                "fr": "Autre",
+                "ru": "Другое"
+            }
+        },
+        "objectID": "454197702956285953",
+        "_highlightResult": {
+            "name": {
+                "value": "You're Not Alone",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "You're Not Alone is a peer mental health support server, used to lift up ourselves and each other.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "yna",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "keywords": [
+                {
+                    "value": "mental-health",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "support",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "peer-support",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            ],
+            "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Художествени изкуства",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Umění",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Kreativt",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Kreative Künste",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Δημιουργικές τέχνες",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Luovat alat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Arts créatifs",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "क्रिएटिव आर्ट",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Umjetnost i rukotvorine",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Kreatív művészetek",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Arti creative",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "クリエイティブアート",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "창작 예술",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Kūrybiniai menai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Beeldende kunst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Kreativt arbeid",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Twórczość artystyczna",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Arte creative",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Искусство",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "นฤมิตศิลป์",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Yaratıcı Sanatlar",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Креативне мистецтво",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Nghệ Thuật Sáng Tạo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Creative Arts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Creative Arts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Artes creativas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Artes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Kultur",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "创意美术",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "創作藝術",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Събития",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Události",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Begivenheder",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Events",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Εκδηλώσεις",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Tapahtumat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Événements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "इवेंट्स",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Događanja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Rendezvények",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Eventi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "イベント",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "행사",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Renginiai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Evenementen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Eventer",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Wydarzenia",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Evenimente",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Мероприятия",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "กิจกรรม",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Etkinlikler",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Події",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Sự Kiện",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Events",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Events",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Eventos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Eventos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Event",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "组织活动",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "活動",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Отношения и идентичност",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Vztahy a osobnost",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Forhold & identitet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Beziehungen & Identität",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Σχέσεις & Ταυτότητα",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Ihmissuhteet ja identiteetti",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Relations et identité",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "रिलेशनशिप और आइडेंटिटी",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Odnosi i veze",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Kapcsolatok és identitás",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Relazioni e identità",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "人間関係&アイデンティティ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "친목, 관계",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Santykiai ir tapatybė",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Relaties en identiteit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Forhold og identitet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Związki i tożsamość",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Relații și identitate",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Отношения и самоидентификация",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ความสัมพันธ์และอัตลักษณ์",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "İlişkiler ve Kimlik",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Відносини та особистість",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Mối Quan Hệ & Cá Tính",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Relationships & Identity",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Relationships & Identity",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Relaciones e identidad",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Relacionamentos e Identidade",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Förhållanden och identitet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "情感&认知",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "關係與身分",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Фитнес и здраве",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Zdraví a fitness",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Fitness & sundhed",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Fitness & Gesundheit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Φυσική κατάσταση & Υγεία",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Fitness ja terveys",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Fitness et santé",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "फिटनेस और हेल्थ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Vježba i zdravlje",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Fitnesz és egészség",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Fitness e benessere",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "フィットネス&健康",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "피트니스, 건강",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Sportas ir sveikata",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Lichamelijke gezondheid",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Trening og helse",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Zdrowie i fitness",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Fitness și sănătate",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Фитнес и здоровье",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ฟิตเนสและสุขภาพ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Zindelik ve Sağlık",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Фітнес і здоров'я",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Thể Chất & Sức Khỏe",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Fitness & Health",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Fitness & Health",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Fitness y salud",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Ginástica e Saúde",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Träning och hälsa",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "健身&健康",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "健身與健康",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Сътрудничество",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Spolupráce",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Samarbejde",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Kollaboration",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Συνεργασία",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Yhteistyö",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Collaboration",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "सहयोग",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Suradnja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Együttműködés",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Collaborazione",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "コラボレーション",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "협동",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Bendradarbiavimas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Samenwerken",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Samarbeid",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Współpraca",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Colaborare",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Совместная работа",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การร่วมมือ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "İşbirliği",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Співробітництво",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Hợp Tác",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Collaboration",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Collaboration",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Colaboración",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Colaboração",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Samarbete",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "合作",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "合作",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sonstiges",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Autre",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Другое",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                }
+            ],
+            "primary_category": {
+                "name_localizations": {
+                    "de": {
+                        "value": "Sonstiges",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "fr": {
+                        "value": "Autre",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ru": {
+                        "value": "Другое",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    }
+                }
+            }
+        }
     }
 }

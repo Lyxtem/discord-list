@@ -6,11 +6,11 @@
     "splash": "af08d942c37d2ad2ed0ba909e6288568",
     "discovery_splash": "822f6bd5ee79f4313922b8e42b03229d",
     "banner": "efd6ec2b81d6805c1fc9feb13ffef177",
-    "approximate_presence_count": 968,
-    "approximate_member_count": 5309,
-    "premium_subscription_count": 11,
+    "approximate_presence_count": 1502,
+    "approximate_member_count": 7314,
+    "premium_subscription_count": 14,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "taimanin-rpgx",
     "keywords": [
         "Taimanin RPG",
         "Taimanin Asagi",
@@ -21,6 +21,7 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -33,14 +34,14 @@
         "icon": "a_fb5548a2a5fdccc65d9357bd155634c8",
         "splash": "af08d942c37d2ad2ed0ba909e6288568",
         "banner": "efd6ec2b81d6805c1fc9feb13ffef177",
-        "approximate_presence_count": 968,
-        "approximate_member_count": 5309,
-        "premium_subscription_count": 11,
+        "approximate_presence_count": 1502,
+        "approximate_member_count": 7314,
+        "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "822f6bd5ee79f4313922b8e42b03229d",
         "primary_category_id": 1,
-        "vanity_url_code": null,
+        "vanity_url_code": "taimanin-rpgx",
         "is_published": false,
         "keywords": [
             "Taimanin RPG",
@@ -52,6 +53,7 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -214,6 +216,11 @@
             },
             "description": {
                 "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "taimanin-rpgx",
                 "matchLevel": "none",
                 "matchedWords": []
             },

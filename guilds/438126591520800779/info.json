@@ -1,16 +1,16 @@
 {
     "id": "438126591520800779",
     "name": "Clan Labs",
-    "description": "This is a Support Server for the Clan Labs Discord bot.",
-    "icon": "9f13bf9c9d34cf4dcdeca4fff02fd5a6",
+    "description": "",
+    "icon": "cfd22d7e7c6190c9b0f09d9f112ba18a",
     "splash": "a43b8420f52700ff756b709ee189ac6b",
     "discovery_splash": null,
     "banner": "b7f2b7ff8449857ebeef25935e2e5c40",
-    "approximate_presence_count": 601,
-    "approximate_member_count": 4277,
-    "premium_subscription_count": 8,
+    "approximate_presence_count": 889,
+    "approximate_member_count": 4583,
+    "premium_subscription_count": 15,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "clanlabs",
     "keywords": [
         "apps",
         "bots",
@@ -31,18 +31,18 @@
     "raw": {
         "id": "438126591520800779",
         "name": "Clan Labs",
-        "description": "This is a Support Server for the Clan Labs Discord bot.",
-        "icon": "9f13bf9c9d34cf4dcdeca4fff02fd5a6",
+        "description": "",
+        "icon": "cfd22d7e7c6190c9b0f09d9f112ba18a",
         "splash": "a43b8420f52700ff756b709ee189ac6b",
         "banner": "b7f2b7ff8449857ebeef25935e2e5c40",
-        "approximate_presence_count": 601,
-        "approximate_member_count": 4277,
-        "premium_subscription_count": 8,
+        "approximate_presence_count": 889,
+        "approximate_member_count": 4583,
+        "premium_subscription_count": 15,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": null,
         "primary_category_id": 49,
-        "vanity_url_code": null,
+        "vanity_url_code": "clanlabs",
         "is_published": false,
         "keywords": [
             "apps",
@@ -254,7 +254,12 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "This is a Support Server for the Clan Labs Discord bot.",
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "clanlabs",
                 "matchLevel": "none",
                 "matchedWords": []
             },

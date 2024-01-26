@@ -6,22 +6,22 @@
     "splash": "abb2d772b6cb1584caebb7cf3b59d19b",
     "discovery_splash": "9107b2f3479a281124b07de4aae8cfc9",
     "banner": "a_74afd5c46ed52941cae315b4af675708",
-    "approximate_presence_count": 21065,
-    "approximate_member_count": 120674,
-    "premium_subscription_count": 286,
+    "approximate_presence_count": 19795,
+    "approximate_member_count": 120678,
+    "premium_subscription_count": 284,
     "preferred_locale": "en-US",
     "vanity_url_code": "overwatchlfg",
     "keywords": [
+        "lfg",
         "overwatch",
         "overwatch 2",
-        "overwatch lfg",
         "overwatch 2 lfg",
-        "lfg",
-        "overwatch discord",
-        "overwatch pve",
         "overwatch 2 pve",
-        "pve",
-        "ow2"
+        "overwatch discord",
+        "overwatch lfg",
+        "overwatch pve",
+        "ow2",
+        "pve"
     ],
     "features": [
         "COMMUNITY",
@@ -38,9 +38,9 @@
         "icon": "a_41c6e4a239b22f685aa4d5619af94ba7",
         "splash": "abb2d772b6cb1584caebb7cf3b59d19b",
         "banner": "a_74afd5c46ed52941cae315b4af675708",
-        "approximate_presence_count": 21065,
-        "approximate_member_count": 120674,
-        "premium_subscription_count": 286,
+        "approximate_presence_count": 19795,
+        "approximate_member_count": 120678,
+        "premium_subscription_count": 284,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "9107b2f3479a281124b07de4aae8cfc9",
@@ -48,16 +48,16 @@
         "vanity_url_code": "overwatchlfg",
         "is_published": true,
         "keywords": [
+            "lfg",
             "overwatch",
             "overwatch 2",
-            "overwatch lfg",
             "overwatch 2 lfg",
-            "lfg",
-            "overwatch discord",
-            "overwatch pve",
             "overwatch 2 pve",
-            "pve",
-            "ow2"
+            "overwatch discord",
+            "overwatch lfg",
+            "overwatch pve",
+            "ow2",
+            "pve"
         ],
         "features": [
             "COMMUNITY",
@@ -308,6 +308,11 @@
             },
             "keywords": [
                 {
+                    "value": "lfg",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "overwatch",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -318,27 +323,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "overwatch lfg",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "overwatch 2 lfg",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "lfg",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "overwatch discord",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "overwatch pve",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -348,12 +333,27 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "pve",
+                    "value": "overwatch discord",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "overwatch lfg",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "overwatch pve",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "ow2",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "pve",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

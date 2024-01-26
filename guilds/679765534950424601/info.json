@@ -6,17 +6,18 @@
     "splash": "da1d26b03e10e721a9c5218647dbe6c6",
     "discovery_splash": "3f21a6a3b2acb36db9ef43cf1c7d2068",
     "banner": "78dab69dcbd464d5d00bea4158573394",
-    "approximate_presence_count": 1151,
-    "approximate_member_count": 452270,
-    "premium_subscription_count": 18,
+    "approximate_presence_count": 2290,
+    "approximate_member_count": 452259,
+    "premium_subscription_count": 20,
     "preferred_locale": "en-US",
     "vanity_url_code": "mythpat",
     "keywords": [
         "Mythpat",
         "active",
-        "music",
-        "fun",
+        "community",
         "event",
+        "fun",
+        "music",
         "singing",
         "top"
     ],
@@ -38,21 +39,22 @@
         "icon": "a_cdec6c9861b9484f6d4a9d45e46664c8",
         "splash": "da1d26b03e10e721a9c5218647dbe6c6",
         "banner": "78dab69dcbd464d5d00bea4158573394",
-        "approximate_presence_count": 1151,
-        "approximate_member_count": 452270,
-        "premium_subscription_count": 18,
+        "approximate_presence_count": 2290,
+        "approximate_member_count": 452259,
+        "premium_subscription_count": 20,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "3f21a6a3b2acb36db9ef43cf1c7d2068",
         "primary_category_id": 3,
         "vanity_url_code": "mythpat",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
             "Mythpat",
             "active",
-            "music",
-            "fun",
+            "community",
             "event",
+            "fun",
+            "music",
             "singing",
             "top"
         ],
@@ -355,7 +357,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "music",
+                    "value": "community",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "event",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -365,7 +372,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "event",
+                    "value": "music",
                     "matchLevel": "none",
                     "matchedWords": []
                 },

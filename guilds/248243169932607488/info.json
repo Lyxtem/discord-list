@@ -6,25 +6,18 @@
     "splash": "2e79a97e973b6704a077e1a5e5812e9e",
     "discovery_splash": "2e79a97e973b6704a077e1a5e5812e9e",
     "banner": null,
-    "approximate_presence_count": 603,
-    "approximate_member_count": 7686,
+    "approximate_presence_count": 359,
+    "approximate_member_count": 7615,
     "premium_subscription_count": 0,
     "preferred_locale": "pt-BR",
     "vanity_url_code": "midasclub",
     "keywords": null,
     "features": [
-        "AUTO_MODERATION",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_LARGE_GATED",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
         "FEATURABLE",
-        "INVITE_SPLASH",
-        "NEWS",
         "PREVIEW_ENABLED",
-        "SOUNDBOARD",
-        "VANITY_URL",
         "VERIFIED"
     ],
     "partnered": false,
@@ -36,8 +29,8 @@
         "icon": "2c4115ba0ddee266c6692b8f9f25b48a",
         "splash": "2e79a97e973b6704a077e1a5e5812e9e",
         "banner": null,
-        "approximate_presence_count": 603,
-        "approximate_member_count": 7686,
+        "approximate_presence_count": 359,
+        "approximate_member_count": 7615,
         "premium_subscription_count": 0,
         "preferred_locale": "pt-BR",
         "auto_removed": false,
@@ -47,19 +40,44 @@
         "is_published": false,
         "keywords": null,
         "features": [
-            "AUTO_MODERATION",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_LARGE_GATED",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
             "FEATURABLE",
-            "INVITE_SPLASH",
-            "NEWS",
             "PREVIEW_ENABLED",
-            "SOUNDBOARD",
-            "VANITY_URL",
             "VERIFIED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "248243169932607488",
+        "_highlightResult": {
+            "name": {
+                "value": "Midas Club",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "Brazilian esports club. We do community management, in-house league and tournaments.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "midasclub",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }

@@ -3,21 +3,21 @@
     "name": "FlashLand FA | Discord Officiel |",
     "description": "Serveur Officiel de la communauté FlashLand FreeAccess sur GTA RP by Farees.",
     "icon": "a_785d15f131bb3c86ad4acd9142e1a077",
-    "splash": "36132ccda3584d8734ad4e1867bd971a",
-    "discovery_splash": "89ed8d4950f8ba87d29a3e985a21b864",
-    "banner": "7b4cfe8c2d01f8092d9e50ae7d51b99b",
-    "approximate_presence_count": 9049,
-    "approximate_member_count": 38494,
-    "premium_subscription_count": 31,
+    "splash": "89ed8d4950f8ba87d29a3e985a21b864",
+    "discovery_splash": "36132ccda3584d8734ad4e1867bd971a",
+    "banner": "6b9adde2f5ff28f7b1eaed91237c4d57",
+    "approximate_presence_count": 8057,
+    "approximate_member_count": 38517,
+    "premium_subscription_count": 28,
     "preferred_locale": "fr",
     "vanity_url_code": "flashlandfa",
     "keywords": [
-        "flashland",
-        "flashlandrp",
-        "flashlandfa",
-        "freeaccess",
-        "fivem",
         "farees",
+        "fivem",
+        "flashland",
+        "flashlandfa",
+        "flashlandrp",
+        "freeaccess",
         "gtarp",
         "gtav"
     ],
@@ -25,6 +25,7 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -35,24 +36,24 @@
         "name": "FlashLand FA | Discord Officiel |",
         "description": "Serveur Officiel de la communauté FlashLand FreeAccess sur GTA RP by Farees.",
         "icon": "a_785d15f131bb3c86ad4acd9142e1a077",
-        "splash": "36132ccda3584d8734ad4e1867bd971a",
-        "banner": "7b4cfe8c2d01f8092d9e50ae7d51b99b",
-        "approximate_presence_count": 9049,
-        "approximate_member_count": 38494,
-        "premium_subscription_count": 31,
+        "splash": "89ed8d4950f8ba87d29a3e985a21b864",
+        "banner": "6b9adde2f5ff28f7b1eaed91237c4d57",
+        "approximate_presence_count": 8057,
+        "approximate_member_count": 38517,
+        "premium_subscription_count": 28,
         "preferred_locale": "fr",
         "auto_removed": false,
-        "discovery_splash": "89ed8d4950f8ba87d29a3e985a21b864",
+        "discovery_splash": "36132ccda3584d8734ad4e1867bd971a",
         "primary_category_id": 1,
         "vanity_url_code": "flashlandfa",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
-            "flashland",
-            "flashlandrp",
-            "flashlandfa",
-            "freeaccess",
-            "fivem",
             "farees",
+            "fivem",
+            "flashland",
+            "flashlandfa",
+            "flashlandrp",
+            "freeaccess",
             "gtarp",
             "gtav"
         ],
@@ -60,6 +61,7 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -232,22 +234,7 @@
             },
             "keywords": [
                 {
-                    "value": "flashland",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "flashlandrp",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "flashlandfa",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "freeaccess",
+                    "value": "farees",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -257,7 +244,22 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "farees",
+                    "value": "flashland",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "flashlandfa",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "flashlandrp",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "freeaccess",
                     "matchLevel": "none",
                     "matchedWords": []
                 },

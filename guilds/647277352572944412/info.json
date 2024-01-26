@@ -2,13 +2,13 @@
     "id": "647277352572944412",
     "name": "sewerperson (official)",
     "description": "This is the official sewerperson Discord Server! Dedicated to sewerperson/9TAILS persona. We hope you enjoy your stay!",
-    "icon": "7e5d0fd719f22106f770c989535cb324",
+    "icon": "f8ba481ff168d2e25df01e35b06b9412",
     "splash": "ea02a4a4cf8c6b0930c3b33fbe360c09",
     "discovery_splash": "ea02a4a4cf8c6b0930c3b33fbe360c09",
     "banner": "a_a2173b4f0340b284cdfe5c1670cccacb",
-    "approximate_presence_count": 1196,
-    "approximate_member_count": 4112,
-    "premium_subscription_count": 51,
+    "approximate_presence_count": 1273,
+    "approximate_member_count": 4605,
+    "premium_subscription_count": 65,
     "preferred_locale": "en-US",
     "vanity_url_code": "sewerperson",
     "keywords": [
@@ -37,12 +37,12 @@
         "id": "647277352572944412",
         "name": "sewerperson (official)",
         "description": "This is the official sewerperson Discord Server! Dedicated to sewerperson/9TAILS persona. We hope you enjoy your stay!",
-        "icon": "7e5d0fd719f22106f770c989535cb324",
+        "icon": "f8ba481ff168d2e25df01e35b06b9412",
         "splash": "ea02a4a4cf8c6b0930c3b33fbe360c09",
         "banner": "a_a2173b4f0340b284cdfe5c1670cccacb",
-        "approximate_presence_count": 1196,
-        "approximate_member_count": 4112,
-        "premium_subscription_count": 51,
+        "approximate_presence_count": 1273,
+        "approximate_member_count": 4605,
+        "premium_subscription_count": 65,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "ea02a4a4cf8c6b0930c3b33fbe360c09",
@@ -70,6 +70,43 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 19,
+                "is_primary": false,
+                "name": "Art",
+                "name_localizations": {
+                    "bg": "Изкуство",
+                    "cs": "Umění",
+                    "da": "Kunst",
+                    "de": "Kunst",
+                    "el": "Τέχνη",
+                    "fi": "Taide",
+                    "fr": "Art",
+                    "hi": "आर्ट",
+                    "hr": "Umjetnost",
+                    "hu": "Művészet",
+                    "it": "Arte",
+                    "ja": "アート",
+                    "ko": "예술",
+                    "lt": "Menas",
+                    "nl": "Kunst",
+                    "no": "Kunst",
+                    "pl": "Sztuka",
+                    "ro": "Artă",
+                    "ru": "Творчество",
+                    "th": "ศิลปะ",
+                    "tr": "Sanat",
+                    "uk": "Мистецтво",
+                    "vi": "Nghệ Thuật",
+                    "en-GB": "Art",
+                    "en-US": "Art",
+                    "es-ES": "Arte",
+                    "pt-BR": "Arte",
+                    "sv-SE": "Konst",
+                    "zh-CN": "艺术",
+                    "zh-TW": "藝術"
+                }
+            },
             {
                 "id": 33,
                 "is_primary": false,
@@ -105,43 +142,6 @@
                     "sv-SE": "Event",
                     "zh-CN": "组织活动",
                     "zh-TW": "活動"
-                }
-            },
-            {
-                "id": 38,
-                "is_primary": false,
-                "name": "Collaboration",
-                "name_localizations": {
-                    "bg": "Сътрудничество",
-                    "cs": "Spolupráce",
-                    "da": "Samarbejde",
-                    "de": "Kollaboration",
-                    "el": "Συνεργασία",
-                    "fi": "Yhteistyö",
-                    "fr": "Collaboration",
-                    "hi": "सहयोग",
-                    "hr": "Suradnja",
-                    "hu": "Együttműködés",
-                    "it": "Collaborazione",
-                    "ja": "コラボレーション",
-                    "ko": "협동",
-                    "lt": "Bendradarbiavimas",
-                    "nl": "Samenwerken",
-                    "no": "Samarbeid",
-                    "pl": "Współpraca",
-                    "ro": "Colaborare",
-                    "ru": "Совместная работа",
-                    "th": "การร่วมมือ",
-                    "tr": "İşbirliği",
-                    "uk": "Співробітництво",
-                    "vi": "Hợp Tác",
-                    "en-GB": "Collaboration",
-                    "en-US": "Collaboration",
-                    "es-ES": "Colaboración",
-                    "pt-BR": "Colaboração",
-                    "sv-SE": "Samarbete",
-                    "zh-CN": "合作",
-                    "zh-TW": "合作"
                 }
             },
             {
@@ -366,6 +366,160 @@
                 {
                     "name_localizations": {
                         "bg": {
+                            "value": "Изкуство",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Umění",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Kunst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Kunst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Τέχνη",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Taide",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Art",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "आर्ट",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Umjetnost",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Művészet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Arte",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "アート",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "예술",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Menas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Kunst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Kunst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Sztuka",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Artă",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Творчество",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ศิลปะ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Sanat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Мистецтво",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Nghệ Thuật",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Art",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Art",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Arte",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Arte",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Konst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "艺术",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "藝術",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
                             "value": "Събития",
                             "matchLevel": "none",
                             "matchedWords": []
@@ -512,160 +666,6 @@
                         },
                         "zh-TW": {
                             "value": "活動",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Сътрудничество",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Spolupráce",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Samarbejde",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Kollaboration",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Συνεργασία",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Yhteistyö",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Collaboration",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "सहयोग",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Suradnja",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Együttműködés",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Collaborazione",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "コラボレーション",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "협동",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Bendradarbiavimas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Samenwerken",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Samarbeid",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Współpraca",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Colaborare",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Совместная работа",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "การร่วมมือ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "İşbirliği",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Співробітництво",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Hợp Tác",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Collaboration",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Collaboration",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Colaboración",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Colaboração",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Samarbete",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "合作",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "合作",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
