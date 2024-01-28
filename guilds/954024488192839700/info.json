@@ -1,13 +1,13 @@
 {
     "id": "954024488192839700",
     "name": "Mad Bears Club",
-    "description": "Web3 investment company. We have our $MBC token, NFT collections and alpha tools.",
+    "description": "Web3 investment company. We have our NFT collections, $MBC token and alpha tools.",
     "icon": "c4aea3136dd7dc7cefcd4dfb615fbd94",
-    "splash": "3eedb4d6650b0741d317bd0cb3494c4b",
+    "splash": "5e32fdb0571709cdc3fc29c1066ee5e6",
     "discovery_splash": "e9a2985d8808f57076d775c735a41aac",
-    "banner": "7fdece7f499c0f52a453ba231c007a18",
-    "approximate_presence_count": 2148,
-    "approximate_member_count": 60476,
+    "banner": "40a2a1ddd78b712510dfd5ead31fe759",
+    "approximate_presence_count": 1970,
+    "approximate_member_count": 60209,
     "premium_subscription_count": 15,
     "preferred_locale": "en-US",
     "vanity_url_code": "madbearsclub",
@@ -33,12 +33,12 @@
     "raw": {
         "id": "954024488192839700",
         "name": "Mad Bears Club",
-        "description": "Web3 investment company. We have our $MBC token, NFT collections and alpha tools.",
+        "description": "Web3 investment company. We have our NFT collections, $MBC token and alpha tools.",
         "icon": "c4aea3136dd7dc7cefcd4dfb615fbd94",
-        "splash": "3eedb4d6650b0741d317bd0cb3494c4b",
-        "banner": "7fdece7f499c0f52a453ba231c007a18",
-        "approximate_presence_count": 2148,
-        "approximate_member_count": 60476,
+        "splash": "5e32fdb0571709cdc3fc29c1066ee5e6",
+        "banner": "40a2a1ddd78b712510dfd5ead31fe759",
+        "approximate_presence_count": 1970,
+        "approximate_member_count": 60209,
         "premium_subscription_count": 15,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -64,6 +64,16 @@
             "PREVIEW_ENABLED"
         ],
         "categories": [
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
+                }
+            },
             {
                 "id": 12,
                 "is_primary": true,
@@ -137,16 +147,6 @@
                     "zh-CN": "数字货币",
                     "zh-TW": "加密貨幣"
                 }
-            },
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
-                }
             }
         ],
         "primary_category": {
@@ -194,7 +194,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Web3 investment company. We have our $MBC token, NFT collections and alpha tools.",
+                "value": "Web3 investment company. We have our NFT collections, $MBC token and alpha tools.",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -251,6 +251,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -554,25 +573,6 @@
                         },
                         "zh-TW": {
                             "value": "加密貨幣",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
