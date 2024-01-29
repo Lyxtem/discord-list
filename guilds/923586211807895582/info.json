@@ -1,27 +1,30 @@
 {
     "id": "923586211807895582",
     "name": "Impakt Community",
-    "description": "Impakt is next generation MoveFi in Web3. Our AI counts your fitness reps just as a coach would. App out. Earn now.",
+    "description": "Start fitness with Impakt AI Coach with your phone. Join this server to get help and encouragement for your journey.",
     "icon": "20d8839008dbe0e6827c513dcf82c9be",
-    "splash": "d4202b81a2ff5bf14b08429aee9867cc",
-    "discovery_splash": null,
+    "splash": "907ed66c6bd859b370bff59d5549d48b",
+    "discovery_splash": "907ed66c6bd859b370bff59d5549d48b",
     "banner": "86c2f0fb673956461ebd482c2817239e",
-    "approximate_presence_count": 486,
-    "approximate_member_count": 5818,
-    "premium_subscription_count": 12,
+    "approximate_presence_count": 251,
+    "approximate_member_count": 8265,
+    "premium_subscription_count": 4,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
     "keywords": [
+        "AI coach",
+        "Impakt",
         "exercise",
+        "fitness",
         "gaming",
         "nft",
-        "fitness",
-        "ethereum"
+        "web3"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED"
     ],
     "partnered": false,
@@ -29,33 +32,46 @@
     "raw": {
         "id": "923586211807895582",
         "name": "Impakt Community",
-        "description": "Impakt is next generation MoveFi in Web3. Our AI counts your fitness reps just as a coach would. App out. Earn now.",
+        "description": "Start fitness with Impakt AI Coach with your phone. Join this server to get help and encouragement for your journey.",
         "icon": "20d8839008dbe0e6827c513dcf82c9be",
-        "splash": "d4202b81a2ff5bf14b08429aee9867cc",
+        "splash": "907ed66c6bd859b370bff59d5549d48b",
         "banner": "86c2f0fb673956461ebd482c2817239e",
-        "approximate_presence_count": 486,
-        "approximate_member_count": 5818,
-        "premium_subscription_count": 12,
+        "approximate_presence_count": 251,
+        "approximate_member_count": 8265,
+        "premium_subscription_count": 4,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "907ed66c6bd859b370bff59d5549d48b",
         "primary_category_id": 11,
         "vanity_url_code": null,
         "is_published": false,
         "keywords": [
+            "AI coach",
+            "Impakt",
             "exercise",
+            "fitness",
             "gaming",
             "nft",
-            "fitness",
-            "ethereum"
+            "web3"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED"
         ],
         "categories": [
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
             {
                 "id": 19,
                 "is_primary": false,
@@ -91,43 +107,6 @@
                     "sv-SE": "Konst",
                     "zh-CN": "艺术",
                     "zh-TW": "藝術"
-                }
-            },
-            {
-                "id": 27,
-                "is_primary": false,
-                "name": "Cryptocurrency",
-                "name_localizations": {
-                    "bg": "Криптовалута",
-                    "cs": "Kryptoměny",
-                    "da": "Kryptovaluta",
-                    "de": "Kryptowährung",
-                    "el": "Κρυπτονόμισμα",
-                    "fi": "Kryptovaluutta",
-                    "fr": "Cryptomonnaie",
-                    "hi": "क्रिप्टोकरेंसी",
-                    "hr": "Kriptovalute",
-                    "hu": "Kriptovaluta",
-                    "it": "Criptovalute",
-                    "ja": "暗号通貨",
-                    "ko": "암호화폐",
-                    "lt": "Kriptovaliuta",
-                    "nl": "Cryptocurrency",
-                    "no": "Kryptovaluta",
-                    "pl": "Kryptowaluty",
-                    "ro": "Criptomonede",
-                    "ru": "Криптовалюта",
-                    "th": "สกุลเงินดิจิทัล",
-                    "tr": "Kripto Para Birimleri",
-                    "uk": "Криптовалюти",
-                    "vi": "Tiền Ảo",
-                    "en-GB": "Cryptocurrency",
-                    "en-US": "Cryptocurrency",
-                    "es-ES": "Criptomonedas",
-                    "pt-BR": "Criptomoeda",
-                    "sv-SE": "Kryptovaluta",
-                    "zh-CN": "数字货币",
-                    "zh-TW": "加密貨幣"
                 }
             },
             {
@@ -324,13 +303,28 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Impakt is next generation MoveFi in Web3. Our AI counts your fitness reps just as a coach would. App out. Earn now.",
+                "value": "Start fitness with Impakt AI Coach with your phone. Join this server to get help and encouragement for your journey.",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
                 {
+                    "value": "AI coach",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Impakt",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "exercise",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "fitness",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -345,17 +339,31 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "fitness",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "ethereum",
+                    "value": "web3",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -505,160 +513,6 @@
                         },
                         "zh-TW": {
                             "value": "藝術",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Криптовалута",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Kryptoměny",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Kryptovaluta",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Kryptowährung",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Κρυπτονόμισμα",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Kryptovaluutta",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Cryptomonnaie",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "क्रिप्टोकरेंसी",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Kriptovalute",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Kriptovaluta",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Criptovalute",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "暗号通貨",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "암호화폐",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Kriptovaliuta",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Cryptocurrency",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Kryptovaluta",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Kryptowaluty",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Criptomonede",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Криптовалюта",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "สกุลเงินดิจิทัล",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Kripto Para Birimleri",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Криптовалюти",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Tiền Ảo",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Cryptocurrency",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Cryptocurrency",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Criptomonedas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Criptomoeda",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Kryptovaluta",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "数字货币",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "加密貨幣",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

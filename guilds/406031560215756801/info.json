@@ -6,35 +6,18 @@
     "splash": "8549d5f096579aa0a464b061b459d39a",
     "discovery_splash": "8549d5f096579aa0a464b061b459d39a",
     "banner": "2013c27d0f20d463bbc6176147b08c5a",
-    "approximate_presence_count": 4700,
-    "approximate_member_count": 16840,
-    "premium_subscription_count": 37,
+    "approximate_presence_count": 5379,
+    "approximate_member_count": 17583,
+    "premium_subscription_count": 32,
     "preferred_locale": "zh-CN",
     "vanity_url_code": "jongie",
     "keywords": [],
     "features": [
-        "ANIMATED_BANNER",
-        "ANIMATED_ICON",
-        "BANNER",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_LARGE_UNGATED",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "INVITE_SPLASH",
-        "MEMBER_PROFILES",
-        "NEWS",
-        "NEW_THREAD_PERMISSIONS",
         "PARTNERED",
-        "PREVIEW_ENABLED",
-        "PRIVATE_THREADS",
-        "ROLE_ICONS",
-        "SEVEN_DAY_THREAD_ARCHIVE",
-        "SOUNDBOARD",
-        "THREADS_ENABLED",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
-        "VIP_REGIONS"
+        "PREVIEW_ENABLED"
     ],
     "partnered": true,
     "verified": false,
@@ -45,9 +28,9 @@
         "icon": "a_953721508fdf3b18c00177250afde2ff",
         "splash": "8549d5f096579aa0a464b061b459d39a",
         "banner": "2013c27d0f20d463bbc6176147b08c5a",
-        "approximate_presence_count": 4700,
-        "approximate_member_count": 16840,
-        "premium_subscription_count": 37,
+        "approximate_presence_count": 5379,
+        "approximate_member_count": 17583,
+        "premium_subscription_count": 32,
         "preferred_locale": "zh-CN",
         "auto_removed": false,
         "discovery_splash": "8549d5f096579aa0a464b061b459d39a",
@@ -56,28 +39,43 @@
         "is_published": false,
         "keywords": [],
         "features": [
-            "ANIMATED_BANNER",
-            "ANIMATED_ICON",
-            "BANNER",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_LARGE_UNGATED",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "INVITE_SPLASH",
-            "MEMBER_PROFILES",
-            "NEWS",
-            "NEW_THREAD_PERMISSIONS",
             "PARTNERED",
-            "PREVIEW_ENABLED",
-            "PRIVATE_THREADS",
-            "ROLE_ICONS",
-            "SEVEN_DAY_THREAD_ARCHIVE",
-            "SOUNDBOARD",
-            "THREADS_ENABLED",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
-            "VIP_REGIONS"
-        ]
+            "PREVIEW_ENABLED"
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "406031560215756801",
+        "_highlightResult": {
+            "name": {
+                "value": "全台最大哈密瓜教會",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "你要不要吃哈瓜",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "jongie",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }
