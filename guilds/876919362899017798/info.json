@@ -6,11 +6,11 @@
     "splash": "3786837bcee1148d72b100274b5435d0",
     "discovery_splash": "f3d74dbf3e7018ee842348a52e5a8fd5",
     "banner": "d530311c2de7c94fed9ba0e71998dc16",
-    "approximate_presence_count": 204,
-    "approximate_member_count": 6508,
-    "premium_subscription_count": 15,
+    "approximate_presence_count": 269,
+    "approximate_member_count": 6095,
+    "premium_subscription_count": 10,
     "preferred_locale": "en-US",
-    "vanity_url_code": "titantrade",
+    "vanity_url_code": "titan-trading-876919362899017798",
     "keywords": [
         "community",
         "crypto",
@@ -39,14 +39,14 @@
         "icon": "1009e5da391f2623ef663f3d4d6667fe",
         "splash": "3786837bcee1148d72b100274b5435d0",
         "banner": "d530311c2de7c94fed9ba0e71998dc16",
-        "approximate_presence_count": 204,
-        "approximate_member_count": 6508,
-        "premium_subscription_count": 15,
+        "approximate_presence_count": 269,
+        "approximate_member_count": 6095,
+        "premium_subscription_count": 10,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "f3d74dbf3e7018ee842348a52e5a8fd5",
         "primary_category_id": 12,
-        "vanity_url_code": "titantrade",
+        "vanity_url_code": "titan-trading-876919362899017798",
         "is_published": true,
         "keywords": [
             "community",
@@ -103,6 +103,16 @@
                     "sv-SE": "Affärer",
                     "zh-CN": "商务",
                     "zh-TW": "商業"
+                }
+            },
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
                 }
             },
             {
@@ -177,16 +187,6 @@
                     "sv-SE": "Utbildning",
                     "zh-CN": "教育",
                     "zh-TW": "教育"
-                }
-            },
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
                 }
             },
             {
@@ -314,7 +314,7 @@
                 "matchedWords": []
             },
             "vanity_url_code": {
-                "value": "titantrade",
+                "value": "titan-trading-876919362899017798",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -520,6 +520,25 @@
                         },
                         "zh-TW": {
                             "value": "商業",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -828,25 +847,6 @@
                         },
                         "zh-TW": {
                             "value": "教育",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
