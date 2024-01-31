@@ -2,25 +2,21 @@
     "id": "281278101508456448",
     "name": "Sky Noon",
     "description": "",
-    "icon": "c1ebe12a6abf956ce49aaad7c5dbbabf",
-    "splash": "c464f60d8edd5b1376342cb0da5df9b5",
+    "icon": "7318a4343d0e17229b9cd9556dcaaff4",
+    "splash": null,
     "discovery_splash": "c464f60d8edd5b1376342cb0da5df9b5",
-    "banner": null,
-    "approximate_presence_count": 316,
-    "approximate_member_count": 3555,
+    "banner": "ee314d100c036cd9756e2a6865268c7c",
+    "approximate_presence_count": 369,
+    "approximate_member_count": 3463,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "skynoon",
     "keywords": null,
     "features": [
         "COMMUNITY",
-        "COMMUNITY_EXP_MEDIUM",
         "DISCOVERABLE",
         "FEATURABLE",
-        "INVITE_SPLASH",
-        "NEWS",
         "PREVIEW_ENABLED",
-        "VANITY_URL",
         "VERIFIED"
     ],
     "partnered": false,
@@ -29,11 +25,11 @@
         "id": "281278101508456448",
         "name": "Sky Noon",
         "description": "",
-        "icon": "c1ebe12a6abf956ce49aaad7c5dbbabf",
-        "splash": "c464f60d8edd5b1376342cb0da5df9b5",
-        "banner": null,
-        "approximate_presence_count": 316,
-        "approximate_member_count": 3555,
+        "icon": "7318a4343d0e17229b9cd9556dcaaff4",
+        "splash": null,
+        "banner": "ee314d100c036cd9756e2a6865268c7c",
+        "approximate_presence_count": 369,
+        "approximate_member_count": 3463,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -44,14 +40,42 @@
         "keywords": null,
         "features": [
             "COMMUNITY",
-            "COMMUNITY_EXP_MEDIUM",
             "DISCOVERABLE",
             "FEATURABLE",
-            "INVITE_SPLASH",
-            "NEWS",
             "PREVIEW_ENABLED",
-            "VANITY_URL",
             "VERIFIED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "281278101508456448",
+        "_highlightResult": {
+            "name": {
+                "value": "Sky Noon",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "skynoon",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }

@@ -2,38 +2,22 @@
     "id": "864641203022200853",
     "name": "Pudgy Penguins",
     "description": "",
-    "icon": "e27b278a4ace29d5bdef9af1514cb994",
+    "icon": "35ea444a77599e3e8efd1124eaed3f2a",
     "splash": "2182d73ae12bcd42ead0c207c8170b8e",
     "discovery_splash": "6e443d192fe4102df24cfd731e60f7d6",
     "banner": "e7f4069d89837acc9093d84ae83b894c",
-    "approximate_presence_count": 3332,
-    "approximate_member_count": 41022,
-    "premium_subscription_count": 27,
+    "approximate_presence_count": 4906,
+    "approximate_member_count": 43302,
+    "premium_subscription_count": 37,
     "preferred_locale": "en-US",
     "vanity_url_code": "pudgypenguins",
     "keywords": [],
     "features": [
-        "ANIMATED_BANNER",
-        "ANIMATED_ICON",
-        "AUTO_MODERATION",
-        "BANNER",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_LARGE_GATED",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "INVITE_SPLASH",
-        "MEMBER_PROFILES",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "NEWS",
         "PREVIEW_ENABLED",
-        "PRIVATE_THREADS",
-        "ROLE_ICONS",
-        "SEVEN_DAY_THREAD_ARCHIVE",
-        "SOUNDBOARD",
-        "TEXT_IN_VOICE_ENABLED",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
         "VERIFIED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -43,12 +27,12 @@
         "id": "864641203022200853",
         "name": "Pudgy Penguins",
         "description": "",
-        "icon": "e27b278a4ace29d5bdef9af1514cb994",
+        "icon": "35ea444a77599e3e8efd1124eaed3f2a",
         "splash": "2182d73ae12bcd42ead0c207c8170b8e",
         "banner": "e7f4069d89837acc9093d84ae83b894c",
-        "approximate_presence_count": 3332,
-        "approximate_member_count": 41022,
-        "premium_subscription_count": 27,
+        "approximate_presence_count": 4906,
+        "approximate_member_count": 43302,
+        "premium_subscription_count": 37,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "6e443d192fe4102df24cfd731e60f7d6",
@@ -57,29 +41,45 @@
         "is_published": false,
         "keywords": [],
         "features": [
-            "ANIMATED_BANNER",
-            "ANIMATED_ICON",
-            "AUTO_MODERATION",
-            "BANNER",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_LARGE_GATED",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "INVITE_SPLASH",
-            "MEMBER_PROFILES",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "NEWS",
             "PREVIEW_ENABLED",
-            "PRIVATE_THREADS",
-            "ROLE_ICONS",
-            "SEVEN_DAY_THREAD_ARCHIVE",
-            "SOUNDBOARD",
-            "TEXT_IN_VOICE_ENABLED",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
             "VERIFIED",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "864641203022200853",
+        "_highlightResult": {
+            "name": {
+                "value": "Pudgy Penguins",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "pudgypenguins",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }
