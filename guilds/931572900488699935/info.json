@@ -6,11 +6,11 @@
     "splash": "b186306fbcd8510dc3db1d114b7336c5",
     "discovery_splash": "493afd9f9c982c8fccea3ae65deee4fa",
     "banner": "289bd6876db4e2075d9de907c4aaf2de",
-    "approximate_presence_count": 9080,
-    "approximate_member_count": 42765,
+    "approximate_presence_count": 8135,
+    "approximate_member_count": 42789,
     "premium_subscription_count": 15,
     "preferred_locale": "ru",
-    "vanity_url_code": null,
+    "vanity_url_code": "stalkerredux",
     "keywords": [
         "redux",
         "stalker",
@@ -38,14 +38,14 @@
         "icon": "a_fd70991cdbeb79d57772d931655f7bf1",
         "splash": "b186306fbcd8510dc3db1d114b7336c5",
         "banner": "289bd6876db4e2075d9de907c4aaf2de",
-        "approximate_presence_count": 9080,
-        "approximate_member_count": 42765,
+        "approximate_presence_count": 8135,
+        "approximate_member_count": 42789,
         "premium_subscription_count": 15,
         "preferred_locale": "ru",
         "auto_removed": false,
         "discovery_splash": "493afd9f9c982c8fccea3ae65deee4fa",
         "primary_category_id": 1,
-        "vanity_url_code": null,
+        "vanity_url_code": "stalkerredux",
         "is_published": false,
         "keywords": [
             "redux",
@@ -261,6 +261,11 @@
             },
             "description": {
                 "value": "Сервер сборки Redux",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "stalkerredux",
                 "matchLevel": "none",
                 "matchedWords": []
             },

@@ -1,14 +1,14 @@
 {
     "id": "570256469203877898",
-    "name": "🍬 Simple Sandbox 2",
-    "description": "The official Discord server for the Simple SandBox game series by Madness Games.",
-    "icon": "f036c5a09cdcf6d83cead73624651574",
+    "name": "Simple Sandbox 2",
+    "description": "The official Discord server of the Simple SandBox series by Madness Games",
+    "icon": "614a220fd9a93b3c556dd622711d3220",
     "splash": "368adc655f6f968bc63a996e7b504470",
     "discovery_splash": "470222f0421eb9357f5716f7044fc2b8",
-    "banner": "4c980da236e4a11404306e0bc69f4dd9",
-    "approximate_presence_count": 1359,
-    "approximate_member_count": 18680,
-    "premium_subscription_count": 3,
+    "banner": "61920251d964541fd8bbb80e0f879f03",
+    "approximate_presence_count": 900,
+    "approximate_member_count": 18927,
+    "premium_subscription_count": 1,
     "preferred_locale": "ru",
     "vanity_url_code": "simple-sandbox-official-server-570256469203877898",
     "keywords": [
@@ -35,14 +35,14 @@
     "verified": false,
     "raw": {
         "id": "570256469203877898",
-        "name": "🍬 Simple Sandbox 2",
-        "description": "The official Discord server for the Simple SandBox game series by Madness Games.",
-        "icon": "f036c5a09cdcf6d83cead73624651574",
+        "name": "Simple Sandbox 2",
+        "description": "The official Discord server of the Simple SandBox series by Madness Games",
+        "icon": "614a220fd9a93b3c556dd622711d3220",
         "splash": "368adc655f6f968bc63a996e7b504470",
-        "banner": "4c980da236e4a11404306e0bc69f4dd9",
-        "approximate_presence_count": 1359,
-        "approximate_member_count": 18680,
-        "premium_subscription_count": 3,
+        "banner": "61920251d964541fd8bbb80e0f879f03",
+        "approximate_presence_count": 900,
+        "approximate_member_count": 18927,
+        "premium_subscription_count": 1,
         "preferred_locale": "ru",
         "auto_removed": false,
         "discovery_splash": "470222f0421eb9357f5716f7044fc2b8",
@@ -70,43 +70,6 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 19,
-                "is_primary": false,
-                "name": "Art",
-                "name_localizations": {
-                    "bg": "Изкуство",
-                    "cs": "Umění",
-                    "da": "Kunst",
-                    "de": "Kunst",
-                    "el": "Τέχνη",
-                    "fi": "Taide",
-                    "fr": "Art",
-                    "hi": "आर्ट",
-                    "hr": "Umjetnost",
-                    "hu": "Művészet",
-                    "it": "Arte",
-                    "ja": "アート",
-                    "ko": "예술",
-                    "lt": "Menas",
-                    "nl": "Kunst",
-                    "no": "Kunst",
-                    "pl": "Sztuka",
-                    "ro": "Artă",
-                    "ru": "Творчество",
-                    "th": "ศิลปะ",
-                    "tr": "Sanat",
-                    "uk": "Мистецтво",
-                    "vi": "Nghệ Thuật",
-                    "en-GB": "Art",
-                    "en-US": "Art",
-                    "es-ES": "Arte",
-                    "pt-BR": "Arte",
-                    "sv-SE": "Konst",
-                    "zh-CN": "艺术",
-                    "zh-TW": "藝術"
-                }
-            },
             {
                 "id": 3,
                 "is_primary": true,
@@ -142,6 +105,80 @@
                     "sv-SE": "Underhållning",
                     "zh-CN": "娱乐",
                     "zh-TW": "娛樂"
+                }
+            },
+            {
+                "id": 45,
+                "is_primary": false,
+                "name": "Mobile",
+                "name_localizations": {
+                    "bg": "Мобилни",
+                    "cs": "Mobily",
+                    "da": "Mobil",
+                    "de": "Mobilgeräte",
+                    "el": "Κινητά",
+                    "fi": "Mobiililaitteet",
+                    "fr": "Portable",
+                    "hi": "मोबाइल",
+                    "hr": "Mobilno",
+                    "hu": "Mobil",
+                    "it": "Cellulare",
+                    "ja": "モバイル",
+                    "ko": "모바일",
+                    "lt": "Mobilieji prietaisai",
+                    "nl": "Mobiel",
+                    "no": "Mobil",
+                    "pl": "Mobilne",
+                    "ro": "Mobil",
+                    "ru": "Мобильные устройства",
+                    "th": "มือถือ",
+                    "tr": "Mobil",
+                    "uk": "Мобільні ігри",
+                    "vi": "Mobile",
+                    "en-GB": "Mobile",
+                    "en-US": "Mobile",
+                    "es-ES": "Móvil",
+                    "pt-BR": "Dispositivo Móvel",
+                    "sv-SE": "Mobil",
+                    "zh-CN": "移动端",
+                    "zh-TW": "行動裝置"
+                }
+            },
+            {
+                "id": 19,
+                "is_primary": false,
+                "name": "Art",
+                "name_localizations": {
+                    "bg": "Изкуство",
+                    "cs": "Umění",
+                    "da": "Kunst",
+                    "de": "Kunst",
+                    "el": "Τέχνη",
+                    "fi": "Taide",
+                    "fr": "Art",
+                    "hi": "आर्ट",
+                    "hr": "Umjetnost",
+                    "hu": "Művészet",
+                    "it": "Arte",
+                    "ja": "アート",
+                    "ko": "예술",
+                    "lt": "Menas",
+                    "nl": "Kunst",
+                    "no": "Kunst",
+                    "pl": "Sztuka",
+                    "ro": "Artă",
+                    "ru": "Творчество",
+                    "th": "ศิลปะ",
+                    "tr": "Sanat",
+                    "uk": "Мистецтво",
+                    "vi": "Nghệ Thuật",
+                    "en-GB": "Art",
+                    "en-US": "Art",
+                    "es-ES": "Arte",
+                    "pt-BR": "Arte",
+                    "sv-SE": "Konst",
+                    "zh-CN": "艺术",
+                    "zh-TW": "藝術"
                 }
             },
             {
@@ -217,43 +254,6 @@
                     "zh-CN": "游戏",
                     "zh-TW": "遊戲"
                 }
-            },
-            {
-                "id": 45,
-                "is_primary": false,
-                "name": "Mobile",
-                "name_localizations": {
-                    "bg": "Мобилни",
-                    "cs": "Mobily",
-                    "da": "Mobil",
-                    "de": "Mobilgeräte",
-                    "el": "Κινητά",
-                    "fi": "Mobiililaitteet",
-                    "fr": "Portable",
-                    "hi": "मोबाइल",
-                    "hr": "Mobilno",
-                    "hu": "Mobil",
-                    "it": "Cellulare",
-                    "ja": "モバイル",
-                    "ko": "모바일",
-                    "lt": "Mobilieji prietaisai",
-                    "nl": "Mobiel",
-                    "no": "Mobil",
-                    "pl": "Mobilne",
-                    "ro": "Mobil",
-                    "ru": "Мобильные устройства",
-                    "th": "มือถือ",
-                    "tr": "Mobil",
-                    "uk": "Мобільні ігри",
-                    "vi": "Mobile",
-                    "en-GB": "Mobile",
-                    "en-US": "Mobile",
-                    "es-ES": "Móvil",
-                    "pt-BR": "Dispositivo Móvel",
-                    "sv-SE": "Mobil",
-                    "zh-CN": "移动端",
-                    "zh-TW": "行動裝置"
-                }
             }
         ],
         "primary_category": {
@@ -296,12 +296,12 @@
         "objectID": "570256469203877898",
         "_highlightResult": {
             "name": {
-                "value": "🍬 Simple Sandbox 2",
+                "value": "Simple Sandbox 2",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "description": {
-                "value": "The official Discord server for the Simple SandBox game series by Madness Games.",
+                "value": "The official Discord server of the Simple SandBox series by Madness Games",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -363,160 +363,6 @@
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Изкуство",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Umění",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Kunst",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Kunst",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Τέχνη",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Taide",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Art",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "आर्ट",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Umjetnost",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Művészet",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Arte",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "アート",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "예술",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Menas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Kunst",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Kunst",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Sztuka",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Artă",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Творчество",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "ศิลปะ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Sanat",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Мистецтво",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Nghệ Thuật",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Art",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Art",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Arte",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Arte",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Konst",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "艺术",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "藝術",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -666,6 +512,314 @@
                         },
                         "zh-TW": {
                             "value": "娛樂",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Мобилни",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Mobily",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Mobil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Mobilgeräte",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Κινητά",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Mobiililaitteet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Portable",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "मोबाइल",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Mobilno",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Mobil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Cellulare",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "モバイル",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "모바일",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Mobilieji prietaisai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Mobiel",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Mobil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Mobilne",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Mobil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Мобильные устройства",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "มือถือ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Mobil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Мобільні ігри",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Mobile",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Mobile",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Mobile",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Móvil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Dispositivo Móvel",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Mobil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "移动端",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "行動裝置",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Изкуство",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Umění",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Kunst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Kunst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Τέχνη",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Taide",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Art",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "आर्ट",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Umjetnost",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Művészet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Arte",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "アート",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "예술",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Menas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Kunst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Kunst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Sztuka",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Artă",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Творчество",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ศิลปะ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Sanat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Мистецтво",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Nghệ Thuật",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Art",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Art",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Arte",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Arte",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Konst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "艺术",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "藝術",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -974,160 +1128,6 @@
                         },
                         "zh-TW": {
                             "value": "遊戲",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Мобилни",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Mobily",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Mobil",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Mobilgeräte",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Κινητά",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Mobiililaitteet",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Portable",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "मोबाइल",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Mobilno",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Mobil",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Cellulare",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "モバイル",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "모바일",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Mobilieji prietaisai",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Mobiel",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Mobil",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Mobilne",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Mobil",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Мобильные устройства",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "มือถือ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Mobil",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Мобільні ігри",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Mobile",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Mobile",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Mobile",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Móvil",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Dispositivo Móvel",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Mobil",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "移动端",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "行動裝置",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
