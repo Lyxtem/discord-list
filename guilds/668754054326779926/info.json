@@ -2,33 +2,21 @@
     "id": "668754054326779926",
     "name": "AION",
     "description": "",
-    "icon": "eebeb927d7ae38a41a91c89e3623b776",
+    "icon": "de9a608941084e690fbe4a5dc99b153c",
     "splash": "36253f5e24683e49ef1ef5b62eea7225",
     "discovery_splash": null,
     "banner": null,
-    "approximate_presence_count": 4964,
-    "approximate_member_count": 16627,
-    "premium_subscription_count": 8,
+    "approximate_presence_count": 5208,
+    "approximate_member_count": 15827,
+    "premium_subscription_count": 6,
     "preferred_locale": "en-US",
     "vanity_url_code": "aioneu",
     "keywords": [],
     "features": [
-        "ANIMATED_ICON",
-        "BANNER",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_LARGE_UNGATED",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "INVITE_SPLASH",
-        "MEMBER_PROFILES",
-        "NEWS",
         "PREVIEW_ENABLED",
-        "PRIVATE_THREADS",
-        "ROLE_ICONS",
-        "SEVEN_DAY_THREAD_ARCHIVE",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
         "VERIFIED"
     ],
     "partnered": false,
@@ -37,12 +25,12 @@
         "id": "668754054326779926",
         "name": "AION",
         "description": "",
-        "icon": "eebeb927d7ae38a41a91c89e3623b776",
+        "icon": "de9a608941084e690fbe4a5dc99b153c",
         "splash": "36253f5e24683e49ef1ef5b62eea7225",
         "banner": null,
-        "approximate_presence_count": 4964,
-        "approximate_member_count": 16627,
-        "premium_subscription_count": 8,
+        "approximate_presence_count": 5208,
+        "approximate_member_count": 15827,
+        "premium_subscription_count": 6,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": null,
@@ -51,23 +39,43 @@
         "is_published": false,
         "keywords": [],
         "features": [
-            "ANIMATED_ICON",
-            "BANNER",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_LARGE_UNGATED",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "INVITE_SPLASH",
-            "MEMBER_PROFILES",
-            "NEWS",
             "PREVIEW_ENABLED",
-            "PRIVATE_THREADS",
-            "ROLE_ICONS",
-            "SEVEN_DAY_THREAD_ARCHIVE",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
             "VERIFIED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "668754054326779926",
+        "_highlightResult": {
+            "name": {
+                "value": "AION",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "aioneu",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }

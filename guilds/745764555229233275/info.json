@@ -2,13 +2,13 @@
     "id": "745764555229233275",
     "name": "Cxmmunity",
     "description": "Cxmmunity server is a place where you can find friends, join tournaments, be a part of our events & giveaways everyday!",
-    "icon": "6baf10b22dcb597ff9c4db3bbfd7fdfb",
+    "icon": "919d5b6cb405ddfb5ed7a35a1acbeb7d",
     "splash": "d3572762638c1665b95404399fa56829",
     "discovery_splash": "bbbf48b5458dadcc67c7e9e1e009dbde",
     "banner": "423149015acdc2f87e8332d403589a90",
-    "approximate_presence_count": 1149,
-    "approximate_member_count": 12036,
-    "premium_subscription_count": 19,
+    "approximate_presence_count": 1257,
+    "approximate_member_count": 12106,
+    "premium_subscription_count": 16,
     "preferred_locale": "en-US",
     "vanity_url_code": "cxmmunity",
     "keywords": [
@@ -27,6 +27,7 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -36,12 +37,12 @@
         "id": "745764555229233275",
         "name": "Cxmmunity",
         "description": "Cxmmunity server is a place where you can find friends, join tournaments, be a part of our events & giveaways everyday!",
-        "icon": "6baf10b22dcb597ff9c4db3bbfd7fdfb",
+        "icon": "919d5b6cb405ddfb5ed7a35a1acbeb7d",
         "splash": "d3572762638c1665b95404399fa56829",
         "banner": "423149015acdc2f87e8332d403589a90",
-        "approximate_presence_count": 1149,
-        "approximate_member_count": 12036,
-        "premium_subscription_count": 19,
+        "approximate_presence_count": 1257,
+        "approximate_member_count": 12106,
+        "premium_subscription_count": 16,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "bbbf48b5458dadcc67c7e9e1e009dbde",
@@ -64,82 +65,46 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
             {
-                "id": 30,
+                "id": 15,
                 "is_primary": false,
-                "name": "LFG",
+                "name": "Esports",
                 "name_localizations": {
-                    "bg": "LFG",
-                    "cs": "LFG",
-                    "da": "LFG",
-                    "de": "Gruppensuche",
-                    "el": "LFG",
-                    "fi": "Ryhmähaku",
-                    "fr": "LFG",
-                    "hi": "LFG",
-                    "hr": "LFG",
-                    "hu": "LFG",
-                    "it": "LFG",
-                    "ja": "グループ検索",
-                    "ko": "그룹 찾기",
-                    "lt": "Grupės paieškos",
-                    "nl": "LFG",
-                    "no": "LFG",
-                    "pl": "Szukanie grupy",
-                    "ro": "LFG",
-                    "ru": "Поиск группы",
-                    "th": "LFG",
-                    "tr": "Grup Arama",
-                    "uk": "Пошук гільдії",
-                    "vi": "LFG",
-                    "en-GB": "LFG",
-                    "en-US": "LFG",
-                    "es-ES": "LFG",
-                    "pt-BR": "PG",
-                    "sv-SE": "Letar efter grupp (LFG)",
-                    "zh-CN": "找同好（LFG）",
-                    "zh-TW": "LFG"
-                }
-            },
-            {
-                "id": 27,
-                "is_primary": false,
-                "name": "Cryptocurrency",
-                "name_localizations": {
-                    "bg": "Криптовалута",
-                    "cs": "Kryptoměny",
-                    "da": "Kryptovaluta",
-                    "de": "Kryptowährung",
-                    "el": "Κρυπτονόμισμα",
-                    "fi": "Kryptovaluutta",
-                    "fr": "Cryptomonnaie",
-                    "hi": "क्रिप्टोकरेंसी",
-                    "hr": "Kriptovalute",
-                    "hu": "Kriptovaluta",
-                    "it": "Criptovalute",
-                    "ja": "暗号通貨",
-                    "ko": "암호화폐",
-                    "lt": "Kriptovaliuta",
-                    "nl": "Cryptocurrency",
-                    "no": "Kryptovaluta",
-                    "pl": "Kryptowaluty",
-                    "ro": "Criptomonede",
-                    "ru": "Криптовалюта",
-                    "th": "สกุลเงินดิจิทัล",
-                    "tr": "Kripto Para Birimleri",
-                    "uk": "Криптовалюти",
-                    "vi": "Tiền Ảo",
-                    "en-GB": "Cryptocurrency",
-                    "en-US": "Cryptocurrency",
-                    "es-ES": "Criptomonedas",
-                    "pt-BR": "Criptomoeda",
-                    "sv-SE": "Kryptovaluta",
-                    "zh-CN": "数字货币",
-                    "zh-TW": "加密貨幣"
+                    "bg": "Електронни спортове",
+                    "cs": "Esport",
+                    "da": "Esport",
+                    "de": "E-Sports",
+                    "el": "Esports",
+                    "fi": "Esports",
+                    "fr": "eSport",
+                    "hi": "ईस्पोर्ट्स",
+                    "hr": "E-sport",
+                    "hu": "E-sport",
+                    "it": "Esport",
+                    "ja": "eスポーツ",
+                    "ko": "이스포츠",
+                    "lt": "E. sportas",
+                    "nl": "E-sport",
+                    "no": "E-sport",
+                    "pl": "E-sport",
+                    "ro": "eSports",
+                    "ru": "Киберспорт",
+                    "th": "อีสปอร์ต",
+                    "tr": "E-spor",
+                    "uk": "Електронний спорт",
+                    "vi": "Thể Thao Điện Tử",
+                    "en-GB": "Esports",
+                    "en-US": "Esports",
+                    "es-ES": "E-sports",
+                    "pt-BR": "E-sports",
+                    "sv-SE": "E-sport",
+                    "zh-CN": "电子竞技",
+                    "zh-TW": "電競"
                 }
             },
             {
@@ -217,40 +182,40 @@
                 }
             },
             {
-                "id": 15,
+                "id": 37,
                 "is_primary": false,
-                "name": "Esports",
+                "name": "Local Group",
                 "name_localizations": {
-                    "bg": "Електронни спортове",
-                    "cs": "Esport",
-                    "da": "Esport",
-                    "de": "E-Sports",
-                    "el": "Esports",
-                    "fi": "Esports",
-                    "fr": "eSport",
-                    "hi": "ईस्पोर्ट्स",
-                    "hr": "E-sport",
-                    "hu": "E-sport",
-                    "it": "Esport",
-                    "ja": "eスポーツ",
-                    "ko": "이스포츠",
-                    "lt": "E. sportas",
-                    "nl": "E-sport",
-                    "no": "E-sport",
-                    "pl": "E-sport",
-                    "ro": "eSports",
-                    "ru": "Киберспорт",
-                    "th": "อีสปอร์ต",
-                    "tr": "E-spor",
-                    "uk": "Електронний спорт",
-                    "vi": "Thể Thao Điện Tử",
-                    "en-GB": "Esports",
-                    "en-US": "Esports",
-                    "es-ES": "E-sports",
-                    "pt-BR": "E-sports",
-                    "sv-SE": "E-sport",
-                    "zh-CN": "电子竞技",
-                    "zh-TW": "電競"
+                    "bg": "Местна група",
+                    "cs": "Místní skupina",
+                    "da": "Lokal gruppe",
+                    "de": "Lokale Gruppen",
+                    "el": "Τοπική ομάδα",
+                    "fi": "Paikallinen ryhmä",
+                    "fr": "Groupe local",
+                    "hi": "लोकल ग्रुप",
+                    "hr": "Lokalna grupa",
+                    "hu": "Helyi csoport",
+                    "it": "Gruppo locale",
+                    "ja": "地域コミュニティ",
+                    "ko": "로컬 그룹",
+                    "lt": "Vietinė grupė",
+                    "nl": "Lokale groep",
+                    "no": "Lokal gruppe",
+                    "pl": "Lokalna grupa",
+                    "ro": "Grup local",
+                    "ru": "Местная группа",
+                    "th": "กลุ่มสำหรับคนในพื้นที่",
+                    "tr": "Yerel Grup",
+                    "uk": "Місцева група",
+                    "vi": "Nhóm Địa Phương",
+                    "en-GB": "Local Group",
+                    "en-US": "Local Group",
+                    "es-ES": "Grupo local",
+                    "pt-BR": "Grupo local",
+                    "sv-SE": "Lokal grupp",
+                    "zh-CN": "本地群组",
+                    "zh-TW": "本地團體"
                 }
             },
             {
@@ -401,306 +366,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "LFG",
+                            "value": "Електронни спортове",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "LFG",
+                            "value": "Esport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "LFG",
+                            "value": "Esport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Gruppensuche",
+                            "value": "E-Sports",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "LFG",
+                            "value": "Esports",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Ryhmähaku",
+                            "value": "Esports",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "LFG",
+                            "value": "eSport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "LFG",
+                            "value": "ईस्पोर्ट्स",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "LFG",
+                            "value": "E-sport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "LFG",
+                            "value": "E-sport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "LFG",
+                            "value": "Esport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "グループ検索",
+                            "value": "eスポーツ",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "그룹 찾기",
+                            "value": "이스포츠",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Grupės paieškos",
+                            "value": "E. sportas",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "LFG",
+                            "value": "E-sport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "LFG",
+                            "value": "E-sport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Szukanie grupy",
+                            "value": "E-sport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "LFG",
+                            "value": "eSports",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Поиск группы",
+                            "value": "Киберспорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "LFG",
+                            "value": "อีสปอร์ต",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Grup Arama",
+                            "value": "E-spor",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Пошук гільдії",
+                            "value": "Електронний спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "LFG",
+                            "value": "Thể Thao Điện Tử",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "LFG",
+                            "value": "Esports",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "LFG",
+                            "value": "Esports",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "LFG",
+                            "value": "E-sports",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "PG",
+                            "value": "E-sports",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Letar efter grupp (LFG)",
+                            "value": "E-sport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "找同好（LFG）",
+                            "value": "电子竞技",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Криптовалута",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Kryptoměny",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Kryptovaluta",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Kryptowährung",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Κρυπτονόμισμα",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Kryptovaluutta",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Cryptomonnaie",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "क्रिप्टोकरेंसी",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Kriptovalute",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Kriptovaluta",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Criptovalute",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "暗号通貨",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "암호화폐",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Kriptovaliuta",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Cryptocurrency",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Kryptovaluta",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Kryptowaluty",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Criptomonede",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Криптовалюта",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "สกุลเงินดิจิทัล",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Kripto Para Birimleri",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Криптовалюти",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Tiền Ảo",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Cryptocurrency",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Cryptocurrency",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Criptomonedas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Criptomoeda",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Kryptovaluta",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "数字货币",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "加密貨幣",
+                            "value": "電競",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -1017,152 +828,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Електронни спортове",
+                            "value": "Местна група",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Esport",
+                            "value": "Místní skupina",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Esport",
+                            "value": "Lokal gruppe",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "E-Sports",
+                            "value": "Lokale Gruppen",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Esports",
+                            "value": "Τοπική ομάδα",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Esports",
+                            "value": "Paikallinen ryhmä",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "eSport",
+                            "value": "Groupe local",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "ईस्पोर्ट्स",
+                            "value": "लोकल ग्रुप",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "E-sport",
+                            "value": "Lokalna grupa",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "E-sport",
+                            "value": "Helyi csoport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Esport",
+                            "value": "Gruppo locale",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "eスポーツ",
+                            "value": "地域コミュニティ",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "이스포츠",
+                            "value": "로컬 그룹",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "E. sportas",
+                            "value": "Vietinė grupė",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "E-sport",
+                            "value": "Lokale groep",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "E-sport",
+                            "value": "Lokal gruppe",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "E-sport",
+                            "value": "Lokalna grupa",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "eSports",
+                            "value": "Grup local",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Киберспорт",
+                            "value": "Местная группа",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "อีสปอร์ต",
+                            "value": "กลุ่มสำหรับคนในพื้นที่",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "E-spor",
+                            "value": "Yerel Grup",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Електронний спорт",
+                            "value": "Місцева група",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Thể Thao Điện Tử",
+                            "value": "Nhóm Địa Phương",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Esports",
+                            "value": "Local Group",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Esports",
+                            "value": "Local Group",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "E-sports",
+                            "value": "Grupo local",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "E-sports",
+                            "value": "Grupo local",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "E-sport",
+                            "value": "Lokal grupp",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "电子竞技",
+                            "value": "本地群组",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "電競",
+                            "value": "本地團體",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

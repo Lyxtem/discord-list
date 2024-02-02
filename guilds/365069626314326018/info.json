@@ -6,27 +6,19 @@
     "splash": "b2a32923a1e1711db5067431ed47069f",
     "discovery_splash": "b2a32923a1e1711db5067431ed47069f",
     "banner": null,
-    "approximate_presence_count": 1801,
-    "approximate_member_count": 7191,
+    "approximate_presence_count": 2087,
+    "approximate_member_count": 6995,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "eslpubg",
     "keywords": [],
     "features": [
-        "AUTO_MODERATION",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_LARGE_GATED",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
         "FEATURABLE",
-        "INVITE_SPLASH",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "NEWS",
-        "NEW_THREAD_PERMISSIONS",
         "PREVIEW_ENABLED",
-        "THREADS_ENABLED",
-        "VANITY_URL",
         "VERIFIED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -39,8 +31,8 @@
         "icon": "a009bcff35d70ab0f10d43f8c1bbb125",
         "splash": "b2a32923a1e1711db5067431ed47069f",
         "banner": null,
-        "approximate_presence_count": 1801,
-        "approximate_member_count": 7191,
+        "approximate_presence_count": 2087,
+        "approximate_member_count": 6995,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -50,22 +42,46 @@
         "is_published": false,
         "keywords": [],
         "features": [
-            "AUTO_MODERATION",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_LARGE_GATED",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
             "FEATURABLE",
-            "INVITE_SPLASH",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "NEWS",
-            "NEW_THREAD_PERMISSIONS",
             "PREVIEW_ENABLED",
-            "THREADS_ENABLED",
-            "VANITY_URL",
             "VERIFIED",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "365069626314326018",
+        "_highlightResult": {
+            "name": {
+                "value": "ESL PUBG",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "ESL Play PlayerUnknown's Battlegrounds Discord server",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "eslpubg",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }

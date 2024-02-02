@@ -6,23 +6,17 @@
     "splash": "668dbbad89c767408fc04bb63936ff9d",
     "discovery_splash": "947ee8c31b289caf9e5acac248a08280",
     "banner": "20ed17b53c44a181dc6713ee4125ec64",
-    "approximate_presence_count": 940,
-    "approximate_member_count": 28211,
+    "approximate_presence_count": 975,
+    "approximate_member_count": 28137,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "cyberhunter",
     "keywords": null,
     "features": [
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_LARGE_UNGATED",
         "DISCOVERABLE",
         "FEATURABLE",
-        "INVITE_SPLASH",
-        "NEWS",
         "PREVIEW_ENABLED",
-        "SOUNDBOARD",
-        "VANITY_URL",
         "VERIFIED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -35,8 +29,8 @@
         "icon": "ed7f1de377bf4c16dcdd7d6f0a10aec3",
         "splash": "668dbbad89c767408fc04bb63936ff9d",
         "banner": "20ed17b53c44a181dc6713ee4125ec64",
-        "approximate_presence_count": 940,
-        "approximate_member_count": 28211,
+        "approximate_presence_count": 975,
+        "approximate_member_count": 28137,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -46,18 +40,44 @@
         "is_published": false,
         "keywords": null,
         "features": [
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_LARGE_UNGATED",
             "DISCOVERABLE",
             "FEATURABLE",
-            "INVITE_SPLASH",
-            "NEWS",
             "PREVIEW_ENABLED",
-            "SOUNDBOARD",
-            "VANITY_URL",
             "VERIFIED",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "375526471088996354",
+        "_highlightResult": {
+            "name": {
+                "value": "Cyber Hunter | Official",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "The official Discord Server of Cyber Hunter.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "cyberhunter",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }

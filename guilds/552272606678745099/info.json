@@ -1,32 +1,33 @@
 {
     "id": "552272606678745099",
-    "name": "Flipaholics",
-    "description": "RS3 flipping, price checking, Shake Bot rs3, exact RuneScape 3 prices, auto profit tracking, price check bot",
+    "name": "Flipaholics | RS3 Price Checking",
+    "description": "Join RuneScape's most accurate price checking discord with Alt1 support, flipping/merching oriented friendly community.",
     "icon": "a_abf673c6e2883f9cc18272b186dbb2b6",
     "splash": "165dec58c1576ef311c9ad2c7357c489",
     "discovery_splash": "6ea9dc39af92b824161c40d06e0899e4",
     "banner": "a_165dec58c1576ef311c9ad2c7357c489",
-    "approximate_presence_count": 2127,
-    "approximate_member_count": 8869,
+    "approximate_presence_count": 2361,
+    "approximate_member_count": 9046,
     "premium_subscription_count": 15,
     "preferred_locale": "en-US",
     "vanity_url_code": "flipaholics",
     "keywords": [
-        "runescape",
-        "rs3",
+        "flip",
         "flipping",
         "merching",
-        "flip",
-        "merch",
+        "pc bot",
         "price check",
         "price checking",
         "profit tracking",
-        "pc bot"
+        "rares",
+        "rs3",
+        "swapping"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -34,75 +35,113 @@
     "verified": false,
     "raw": {
         "id": "552272606678745099",
-        "name": "Flipaholics",
-        "description": "RS3 flipping, price checking, Shake Bot rs3, exact RuneScape 3 prices, auto profit tracking, price check bot",
+        "name": "Flipaholics | RS3 Price Checking",
+        "description": "Join RuneScape's most accurate price checking discord with Alt1 support, flipping/merching oriented friendly community.",
         "icon": "a_abf673c6e2883f9cc18272b186dbb2b6",
         "splash": "165dec58c1576ef311c9ad2c7357c489",
         "banner": "a_165dec58c1576ef311c9ad2c7357c489",
-        "approximate_presence_count": 2127,
-        "approximate_member_count": 8869,
+        "approximate_presence_count": 2361,
+        "approximate_member_count": 9046,
         "premium_subscription_count": 15,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "6ea9dc39af92b824161c40d06e0899e4",
         "primary_category_id": 1,
         "vanity_url_code": "flipaholics",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
-            "runescape",
-            "rs3",
+            "flip",
             "flipping",
             "merching",
-            "flip",
-            "merch",
+            "pc bot",
             "price check",
             "price checking",
             "profit tracking",
-            "pc bot"
+            "rares",
+            "rs3",
+            "swapping"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
             {
-                "id": 48,
-                "is_primary": false,
-                "name": "Game Developer",
+                "id": 12,
+                "is_primary": true,
+                "name": "Finance",
                 "name_localizations": {
-                    "bg": "Разработчик на игри",
-                    "cs": "Vývojář her",
-                    "da": "Spiludvikler",
-                    "de": "Spieleentwicklung",
-                    "el": "Προγραμματιστής παιχνιδιών",
-                    "fi": "Pelinkehittäjät",
-                    "fr": "Développeur de jeux vidéo",
-                    "hi": "गेम डेवलपर",
-                    "hr": "Razvoj igara",
-                    "hu": "Játékfejlesztő",
-                    "it": "Sviluppatore di videogiochi",
-                    "ja": "ゲームデベロッパー",
-                    "ko": "게임 개발",
-                    "lt": "Žaidimų kūrėjai",
-                    "nl": "Gameontwikkelaar",
-                    "no": "Spillutvikler",
-                    "pl": "Deweloper gry",
-                    "ro": "Dezvoltarea jocurilor",
-                    "ru": "Разработка игр",
-                    "th": "ผู้พัฒนาเกม",
-                    "tr": "Oyun Geliştiricisi",
-                    "uk": "Розробка ігор",
-                    "vi": "Nhà Phát Triển Game",
-                    "en-GB": "Game Developer",
-                    "en-US": "Game Developer",
-                    "es-ES": "Desarrollo de juegos",
-                    "pt-BR": "Desenvolvedor de Jogos",
-                    "sv-SE": "Spelutvecklare",
-                    "zh-CN": "游戏开发人员",
-                    "zh-TW": "遊戲開發者"
+                    "bg": "Финанси",
+                    "cs": "Finance",
+                    "da": "Finans",
+                    "de": "Finanzen",
+                    "el": "Οικονομία",
+                    "fi": "Talous",
+                    "fr": "Finance",
+                    "hi": "फ़ाइनेंस",
+                    "hr": "Financije",
+                    "hu": "Pénzügyek",
+                    "it": "Finanza",
+                    "ja": "ファイナンス",
+                    "ko": "금융",
+                    "lt": "Finansai",
+                    "nl": "Financiën",
+                    "no": "Økonomi",
+                    "pl": "Finanse",
+                    "ro": "Finanțe",
+                    "ru": "Финансы",
+                    "th": "การเงิน",
+                    "tr": "Finans",
+                    "uk": "Фінанси",
+                    "vi": "Tài Chính",
+                    "en-GB": "Finance",
+                    "en-US": "Finance",
+                    "es-ES": "Finanzas",
+                    "pt-BR": "Finanças",
+                    "sv-SE": "Ekonomi",
+                    "zh-CN": "理财",
+                    "zh-TW": "財經"
+                }
+            },
+            {
+                "id": 34,
+                "is_primary": false,
+                "name": "Roleplay",
+                "name_localizations": {
+                    "bg": "Ролева игра",
+                    "cs": "Roleplay",
+                    "da": "Rollespil",
+                    "de": "Rollenspiele",
+                    "el": "Παιχνίδια ρόλων",
+                    "fi": "Roolipeli",
+                    "fr": "Jeux de rôles",
+                    "hi": "रोलप्ले",
+                    "hr": "Roleplay",
+                    "hu": "Szerepjáték",
+                    "it": "Giochi di ruolo",
+                    "ja": "なりきり",
+                    "ko": "역할 놀이",
+                    "lt": "Vaidmenų žaidimai",
+                    "nl": "Rollenspel",
+                    "no": "Rollespill",
+                    "pl": "Role playing",
+                    "ro": "Jocuri de rol",
+                    "ru": "Ролевая игра",
+                    "th": "การเล่นบทบาทสมมติ",
+                    "tr": "Rol Yapma",
+                    "uk": "Рольові ігри",
+                    "vi": "Nhập Vai",
+                    "en-GB": "Roleplay",
+                    "en-US": "Roleplay",
+                    "es-ES": "Juego de roles",
+                    "pt-BR": "Interpretação de personagens",
+                    "sv-SE": "Rollspel",
+                    "zh-CN": "跑团",
+                    "zh-TW": "角色扮演"
                 }
             },
             {
@@ -180,40 +219,40 @@
                 }
             },
             {
-                "id": 34,
+                "id": 48,
                 "is_primary": false,
-                "name": "Roleplay",
+                "name": "Game Developer",
                 "name_localizations": {
-                    "bg": "Ролева игра",
-                    "cs": "Roleplay",
-                    "da": "Rollespil",
-                    "de": "Rollenspiele",
-                    "el": "Παιχνίδια ρόλων",
-                    "fi": "Roolipeli",
-                    "fr": "Jeux de rôles",
-                    "hi": "रोलप्ले",
-                    "hr": "Roleplay",
-                    "hu": "Szerepjáték",
-                    "it": "Giochi di ruolo",
-                    "ja": "なりきり",
-                    "ko": "역할 놀이",
-                    "lt": "Vaidmenų žaidimai",
-                    "nl": "Rollenspel",
-                    "no": "Rollespill",
-                    "pl": "Role playing",
-                    "ro": "Jocuri de rol",
-                    "ru": "Ролевая игра",
-                    "th": "การเล่นบทบาทสมมติ",
-                    "tr": "Rol Yapma",
-                    "uk": "Рольові ігри",
-                    "vi": "Nhập Vai",
-                    "en-GB": "Roleplay",
-                    "en-US": "Roleplay",
-                    "es-ES": "Juego de roles",
-                    "pt-BR": "Interpretação de personagens",
-                    "sv-SE": "Rollspel",
-                    "zh-CN": "跑团",
-                    "zh-TW": "角色扮演"
+                    "bg": "Разработчик на игри",
+                    "cs": "Vývojář her",
+                    "da": "Spiludvikler",
+                    "de": "Spieleentwicklung",
+                    "el": "Προγραμματιστής παιχνιδιών",
+                    "fi": "Pelinkehittäjät",
+                    "fr": "Développeur de jeux vidéo",
+                    "hi": "गेम डेवलपर",
+                    "hr": "Razvoj igara",
+                    "hu": "Játékfejlesztő",
+                    "it": "Sviluppatore di videogiochi",
+                    "ja": "ゲームデベロッパー",
+                    "ko": "게임 개발",
+                    "lt": "Žaidimų kūrėjai",
+                    "nl": "Gameontwikkelaar",
+                    "no": "Spillutvikler",
+                    "pl": "Deweloper gry",
+                    "ro": "Dezvoltarea jocurilor",
+                    "ru": "Разработка игр",
+                    "th": "ผู้พัฒนาเกม",
+                    "tr": "Oyun Geliştiricisi",
+                    "uk": "Розробка ігор",
+                    "vi": "Nhà Phát Triển Game",
+                    "en-GB": "Game Developer",
+                    "en-US": "Game Developer",
+                    "es-ES": "Desarrollo de juegos",
+                    "pt-BR": "Desenvolvedor de Jogos",
+                    "sv-SE": "Spelutvecklare",
+                    "zh-CN": "游戏开发人员",
+                    "zh-TW": "遊戲開發者"
                 }
             }
         ],
@@ -257,12 +296,12 @@
         "objectID": "552272606678745099",
         "_highlightResult": {
             "name": {
-                "value": "Flipaholics",
+                "value": "Flipaholics | RS3 Price Checking",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "description": {
-                "value": "RS3 flipping, price checking, Shake Bot rs3, exact RuneScape 3 prices, auto profit tracking, price check bot",
+                "value": "Join RuneScape's most accurate price checking discord with Alt1 support, flipping/merching oriented friendly community.",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -273,12 +312,7 @@
             },
             "keywords": [
                 {
-                    "value": "runescape",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "rs3",
+                    "value": "flip",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -293,12 +327,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "flip",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "merch",
+                    "value": "pc bot",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -318,7 +347,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "pc bot",
+                    "value": "rares",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "rs3",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "swapping",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
@@ -327,152 +366,306 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Разработчик на игри",
+                            "value": "Финанси",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Vývojář her",
+                            "value": "Finance",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Spiludvikler",
+                            "value": "Finans",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Spieleentwicklung",
+                            "value": "Finanzen",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Προγραμματιστής παιχνιδιών",
+                            "value": "Οικονομία",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Pelinkehittäjät",
+                            "value": "Talous",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Développeur de jeux vidéo",
+                            "value": "Finance",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "गेम डेवलपर",
+                            "value": "फ़ाइनेंस",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Razvoj igara",
+                            "value": "Financije",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Játékfejlesztő",
+                            "value": "Pénzügyek",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Sviluppatore di videogiochi",
+                            "value": "Finanza",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "ゲームデベロッパー",
+                            "value": "ファイナンス",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "게임 개발",
+                            "value": "금융",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Žaidimų kūrėjai",
+                            "value": "Finansai",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Gameontwikkelaar",
+                            "value": "Financiën",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Spillutvikler",
+                            "value": "Økonomi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Deweloper gry",
+                            "value": "Finanse",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Dezvoltarea jocurilor",
+                            "value": "Finanțe",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Разработка игр",
+                            "value": "Финансы",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "ผู้พัฒนาเกม",
+                            "value": "การเงิน",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Oyun Geliştiricisi",
+                            "value": "Finans",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Розробка ігор",
+                            "value": "Фінанси",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Nhà Phát Triển Game",
+                            "value": "Tài Chính",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Game Developer",
+                            "value": "Finance",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Game Developer",
+                            "value": "Finance",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Desarrollo de juegos",
+                            "value": "Finanzas",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Desenvolvedor de Jogos",
+                            "value": "Finanças",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Spelutvecklare",
+                            "value": "Ekonomi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "游戏开发人员",
+                            "value": "理财",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "遊戲開發者",
+                            "value": "財經",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Ролева игра",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Roleplay",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Rollespil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Rollenspiele",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Παιχνίδια ρόλων",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Roolipeli",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Jeux de rôles",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "रोलप्ले",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Roleplay",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Szerepjáték",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Giochi di ruolo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "なりきり",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "역할 놀이",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Vaidmenų žaidimai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Rollenspel",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Rollespill",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Role playing",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Jocuri de rol",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Ролевая игра",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การเล่นบทบาทสมมติ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Rol Yapma",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Рольові ігри",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Nhập Vai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Roleplay",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Roleplay",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Juego de roles",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Interpretação de personagens",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Rollspel",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "跑团",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "角色扮演",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -789,152 +982,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Ролева игра",
+                            "value": "Разработчик на игри",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Roleplay",
+                            "value": "Vývojář her",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Rollespil",
+                            "value": "Spiludvikler",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Rollenspiele",
+                            "value": "Spieleentwicklung",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Παιχνίδια ρόλων",
+                            "value": "Προγραμματιστής παιχνιδιών",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Roolipeli",
+                            "value": "Pelinkehittäjät",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Jeux de rôles",
+                            "value": "Développeur de jeux vidéo",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "रोलप्ले",
+                            "value": "गेम डेवलपर",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Roleplay",
+                            "value": "Razvoj igara",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Szerepjáték",
+                            "value": "Játékfejlesztő",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Giochi di ruolo",
+                            "value": "Sviluppatore di videogiochi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "なりきり",
+                            "value": "ゲームデベロッパー",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "역할 놀이",
+                            "value": "게임 개발",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Vaidmenų žaidimai",
+                            "value": "Žaidimų kūrėjai",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Rollenspel",
+                            "value": "Gameontwikkelaar",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Rollespill",
+                            "value": "Spillutvikler",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Role playing",
+                            "value": "Deweloper gry",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Jocuri de rol",
+                            "value": "Dezvoltarea jocurilor",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Ролевая игра",
+                            "value": "Разработка игр",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "การเล่นบทบาทสมมติ",
+                            "value": "ผู้พัฒนาเกม",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Rol Yapma",
+                            "value": "Oyun Geliştiricisi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Рольові ігри",
+                            "value": "Розробка ігор",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Nhập Vai",
+                            "value": "Nhà Phát Triển Game",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Roleplay",
+                            "value": "Game Developer",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Roleplay",
+                            "value": "Game Developer",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Juego de roles",
+                            "value": "Desarrollo de juegos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Interpretação de personagens",
+                            "value": "Desenvolvedor de Jogos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Rollspel",
+                            "value": "Spelutvecklare",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "跑团",
+                            "value": "游戏开发人员",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "角色扮演",
+                            "value": "遊戲開發者",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

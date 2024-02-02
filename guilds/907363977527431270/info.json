@@ -6,11 +6,11 @@
     "splash": null,
     "discovery_splash": "f82357c4eb0d0b0c6bb2075ce9dbe397",
     "banner": "3be11e6368eca50838739975f0fe84f7",
-    "approximate_presence_count": 58,
-    "approximate_member_count": 4787,
-    "premium_subscription_count": 0,
+    "approximate_presence_count": 162,
+    "approximate_member_count": 5695,
+    "premium_subscription_count": 6,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "uprock-907363977527431270",
     "keywords": [
         "bitcoin",
         "crypto",
@@ -21,6 +21,7 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -33,15 +34,15 @@
         "icon": "b2244ab533c5cb4842321c153a186607",
         "splash": null,
         "banner": "3be11e6368eca50838739975f0fe84f7",
-        "approximate_presence_count": 58,
-        "approximate_member_count": 4787,
-        "premium_subscription_count": 0,
+        "approximate_presence_count": 162,
+        "approximate_member_count": 5695,
+        "premium_subscription_count": 6,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "f82357c4eb0d0b0c6bb2075ce9dbe397",
         "primary_category_id": 13,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "uprock-907363977527431270",
+        "is_published": true,
         "keywords": [
             "bitcoin",
             "crypto",
@@ -52,6 +53,7 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -160,6 +162,11 @@
             },
             "description": {
                 "value": "Powerful, code-free Web3 toolkit for creators. Own your distribution & grow your audience faster across all channels!",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "uprock-907363977527431270",
                 "matchLevel": "none",
                 "matchedWords": []
             },
