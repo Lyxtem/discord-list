@@ -2,27 +2,32 @@
     "id": "977853919071985664",
     "name": "NexusCraft",
     "description": "Официальный Discord-сервер проекта NexusCraft",
-    "icon": "080c465ee78b0dee1e5efb43d933ca90",
+    "icon": "a_9d68ff3372e9d2847670aba8884b022c",
     "splash": "8c2fd484488445c35b2bc74f821b7afb",
     "discovery_splash": "8c2fd484488445c35b2bc74f821b7afb",
     "banner": "9dab57178c88d7f92fdf46cc60db301e",
-    "approximate_presence_count": 113,
-    "approximate_member_count": 1400,
-    "premium_subscription_count": 7,
+    "approximate_presence_count": 197,
+    "approximate_member_count": 1693,
+    "premium_subscription_count": 2,
     "preferred_locale": "ru",
     "vanity_url_code": "nexuscraft-977853919071985664",
     "keywords": [
+        "fredj",
+        "hypixel",
         "minecraft",
-        "youtube",
-        "server-minecraft",
+        "mineplex",
+        "nexus",
         "nexuscraft",
         "nexusgrief",
+        "server-minecraft",
+        "youtube",
         "фредж"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -32,12 +37,12 @@
         "id": "977853919071985664",
         "name": "NexusCraft",
         "description": "Официальный Discord-сервер проекта NexusCraft",
-        "icon": "080c465ee78b0dee1e5efb43d933ca90",
+        "icon": "a_9d68ff3372e9d2847670aba8884b022c",
         "splash": "8c2fd484488445c35b2bc74f821b7afb",
         "banner": "9dab57178c88d7f92fdf46cc60db301e",
-        "approximate_presence_count": 113,
-        "approximate_member_count": 1400,
-        "premium_subscription_count": 7,
+        "approximate_presence_count": 197,
+        "approximate_member_count": 1693,
+        "premium_subscription_count": 2,
         "preferred_locale": "ru",
         "auto_removed": false,
         "discovery_splash": "8c2fd484488445c35b2bc74f821b7afb",
@@ -45,17 +50,22 @@
         "vanity_url_code": "nexuscraft-977853919071985664",
         "is_published": true,
         "keywords": [
+            "fredj",
+            "hypixel",
             "minecraft",
-            "youtube",
-            "server-minecraft",
+            "mineplex",
+            "nexus",
             "nexuscraft",
             "nexusgrief",
+            "server-minecraft",
+            "youtube",
             "фредж"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -191,17 +201,27 @@
             },
             "keywords": [
                 {
+                    "value": "fredj",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "hypixel",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "minecraft",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "youtube",
+                    "value": "mineplex",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "server-minecraft",
+                    "value": "nexus",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -212,6 +232,16 @@
                 },
                 {
                     "value": "nexusgrief",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "server-minecraft",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "youtube",
                     "matchLevel": "none",
                     "matchedWords": []
                 },

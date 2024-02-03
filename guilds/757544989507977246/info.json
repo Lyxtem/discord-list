@@ -6,21 +6,21 @@
     "splash": "b62063a9b1c89115a4c978c6e311e7c6",
     "discovery_splash": "85ee3f478fc5857169e05e3591852c89",
     "banner": "be3bdc2fbb0a0c0e10c155363603bded",
-    "approximate_presence_count": 32173,
-    "approximate_member_count": 109370,
-    "premium_subscription_count": 153,
+    "approximate_presence_count": 27501,
+    "approximate_member_count": 109022,
+    "premium_subscription_count": 148,
     "preferred_locale": "en-US",
     "vanity_url_code": "rsm",
     "keywords": [
-        "RSM",
+        "Cars",
+        "Drift",
         "FiveM",
         "Freeroam",
         "GTA",
-        "Drift",
-        "PvP",
         "Meets",
-        "Cars",
         "Music",
+        "PvP",
+        "RSM",
         "Satisfactory"
     ],
     "features": [
@@ -40,9 +40,9 @@
         "icon": "a7ac732ab97817033515abc3cbee7540",
         "splash": "b62063a9b1c89115a4c978c6e311e7c6",
         "banner": "be3bdc2fbb0a0c0e10c155363603bded",
-        "approximate_presence_count": 32173,
-        "approximate_member_count": 109370,
-        "premium_subscription_count": 153,
+        "approximate_presence_count": 27501,
+        "approximate_member_count": 109022,
+        "premium_subscription_count": 148,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "85ee3f478fc5857169e05e3591852c89",
@@ -50,15 +50,15 @@
         "vanity_url_code": "rsm",
         "is_published": true,
         "keywords": [
-            "RSM",
+            "Cars",
+            "Drift",
             "FiveM",
             "Freeroam",
             "GTA",
-            "Drift",
-            "PvP",
             "Meets",
-            "Cars",
             "Music",
+            "PvP",
+            "RSM",
             "Satisfactory"
         ],
         "features": [
@@ -312,7 +312,12 @@
             },
             "keywords": [
                 {
-                    "value": "RSM",
+                    "value": "Cars",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Drift",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -332,7 +337,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "Drift",
+                    "value": "Meets",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Music",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -342,17 +352,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "Meets",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "Cars",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "Music",
+                    "value": "RSM",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
