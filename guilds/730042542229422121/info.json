@@ -6,22 +6,22 @@
     "splash": "1706de6254d4676dc9ed77ba0f0d7f80",
     "discovery_splash": "fa3b2fec71eb05d90fa0bdea82e8bb9c",
     "banner": "2f1d8d662ff1294908188175dc597cc3",
-    "approximate_presence_count": 5776,
-    "approximate_member_count": 89124,
+    "approximate_presence_count": 6423,
+    "approximate_member_count": 89787,
     "premium_subscription_count": 18,
     "preferred_locale": "en-US",
     "vanity_url_code": "1inch",
     "keywords": [
-        "crypto",
-        "DeFi",
-        "DEX",
-        "Ethereum",
-        "blockchain",
-        "ETH",
         "Binance",
+        "DEX",
+        "DeFi",
+        "ETH",
+        "Ethereum",
+        "Pancake",
         "Uniswap",
-        "cryptocurrency",
-        "Mining"
+        "blockchain",
+        "crypto",
+        "cryptocurrency"
     ],
     "features": [
         "COMMUNITY",
@@ -40,8 +40,8 @@
         "icon": "d4fd9295b83535f0ce0b38f699f5ba82",
         "splash": "1706de6254d4676dc9ed77ba0f0d7f80",
         "banner": "2f1d8d662ff1294908188175dc597cc3",
-        "approximate_presence_count": 5776,
-        "approximate_member_count": 89124,
+        "approximate_presence_count": 6423,
+        "approximate_member_count": 89787,
         "premium_subscription_count": 18,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -50,16 +50,16 @@
         "vanity_url_code": "1inch",
         "is_published": false,
         "keywords": [
-            "crypto",
-            "DeFi",
-            "DEX",
-            "Ethereum",
-            "blockchain",
-            "ETH",
             "Binance",
+            "DEX",
+            "DeFi",
+            "ETH",
+            "Ethereum",
+            "Pancake",
             "Uniswap",
-            "cryptocurrency",
-            "Mining"
+            "blockchain",
+            "crypto",
+            "cryptocurrency"
         ],
         "features": [
             "COMMUNITY",
@@ -285,12 +285,7 @@
             },
             "keywords": [
                 {
-                    "value": "crypto",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "DeFi",
+                    "value": "Binance",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -300,12 +295,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "Ethereum",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "blockchain",
+                    "value": "DeFi",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -315,7 +305,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "Binance",
+                    "value": "Ethereum",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Pancake",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -325,12 +320,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "cryptocurrency",
+                    "value": "blockchain",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "Mining",
+                    "value": "crypto",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "cryptocurrency",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
