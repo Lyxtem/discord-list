@@ -2,18 +2,19 @@
     "id": "744777653571158097",
     "name": "VBA | Volleyball Academy",
     "description": "",
-    "icon": "2a7e60f801e1e72768e6194be93c8aca",
-    "splash": "55c563b7d75c8e0bace0a9fdf4addcc1",
-    "discovery_splash": "46c136b910087c25c963d0f8b8fc104f",
+    "icon": "317235721faf594fdd3d074d5405aa54",
+    "splash": "872ab5df30c62399f08d8dcaa9778005",
+    "discovery_splash": "fc0d21b5fe1c6bfd3a25dc5386be87ab",
     "banner": "a4ff6ca3ca61a26dda925897f5f37904",
-    "approximate_presence_count": 963,
-    "approximate_member_count": 6048,
-    "premium_subscription_count": 0,
+    "approximate_presence_count": 1354,
+    "approximate_member_count": 6950,
+    "premium_subscription_count": 18,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "vba",
     "keywords": [
-        "volleyball",
+        "haikyuu",
         "roblox",
+        "volleyball",
         "volleyball roblox"
     ],
     "features": [
@@ -28,21 +29,22 @@
         "id": "744777653571158097",
         "name": "VBA | Volleyball Academy",
         "description": "",
-        "icon": "2a7e60f801e1e72768e6194be93c8aca",
-        "splash": "55c563b7d75c8e0bace0a9fdf4addcc1",
+        "icon": "317235721faf594fdd3d074d5405aa54",
+        "splash": "872ab5df30c62399f08d8dcaa9778005",
         "banner": "a4ff6ca3ca61a26dda925897f5f37904",
-        "approximate_presence_count": 963,
-        "approximate_member_count": 6048,
-        "premium_subscription_count": 0,
+        "approximate_presence_count": 1354,
+        "approximate_member_count": 6950,
+        "premium_subscription_count": 18,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "46c136b910087c25c963d0f8b8fc104f",
+        "discovery_splash": "fc0d21b5fe1c6bfd3a25dc5386be87ab",
         "primary_category_id": 1,
-        "vanity_url_code": null,
+        "vanity_url_code": "vba",
         "is_published": false,
         "keywords": [
-            "volleyball",
+            "haikyuu",
             "roblox",
+            "volleyball",
             "volleyball roblox"
         ],
         "features": [
@@ -90,6 +92,16 @@
                 }
             },
             {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
+            {
                 "id": 16,
                 "is_primary": false,
                 "name": "Anime & Manga",
@@ -124,16 +136,6 @@
                     "sv-SE": "Anime och manga",
                     "zh-CN": "动画&漫画",
                     "zh-TW": "動畫與漫畫"
-                }
-            },
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
                 }
             },
             {
@@ -223,14 +225,24 @@
                 "matchLevel": "none",
                 "matchedWords": []
             },
+            "vanity_url_code": {
+                "value": "vba",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
             "keywords": [
                 {
-                    "value": "volleyball",
+                    "value": "haikyuu",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "roblox",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "volleyball",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -397,6 +409,25 @@
                 },
                 {
                     "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
                         "bg": {
                             "value": "Аниме и манга",
                             "matchLevel": "none",
@@ -544,25 +575,6 @@
                         },
                         "zh-TW": {
                             "value": "動畫與漫畫",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

@@ -6,20 +6,20 @@
     "splash": "753959abe90e2615869fe0b0908200ef",
     "discovery_splash": "51e0aaa90c703cdcf61239463a6e455f",
     "banner": "a_0a4e0a9fb47d096146a083340e5fe2e4",
-    "approximate_presence_count": 1534,
-    "approximate_member_count": 8340,
-    "premium_subscription_count": 24,
+    "approximate_presence_count": 2295,
+    "approximate_member_count": 9462,
+    "premium_subscription_count": 20,
     "preferred_locale": "cs",
     "vanity_url_code": "retrix",
     "keywords": [
-        "retrix",
-        "retrixrp",
-        "retrixroleplay",
         "fivem",
-        "roleplay",
-        "rxrp",
+        "fivem cz/sk",
+        "retrix",
         "retrixcz",
-        "fivem cz/sk"
+        "retrixroleplay",
+        "retrixrp",
+        "roleplay",
+        "rxrp"
     ],
     "features": [
         "COMMUNITY",
@@ -37,9 +37,9 @@
         "icon": "a_5718e7bb35e9f3a6429995240f7234cc",
         "splash": "753959abe90e2615869fe0b0908200ef",
         "banner": "a_0a4e0a9fb47d096146a083340e5fe2e4",
-        "approximate_presence_count": 1534,
-        "approximate_member_count": 8340,
-        "premium_subscription_count": 24,
+        "approximate_presence_count": 2295,
+        "approximate_member_count": 9462,
+        "premium_subscription_count": 20,
         "preferred_locale": "cs",
         "auto_removed": false,
         "discovery_splash": "51e0aaa90c703cdcf61239463a6e455f",
@@ -47,14 +47,14 @@
         "vanity_url_code": "retrix",
         "is_published": false,
         "keywords": [
-            "retrix",
-            "retrixrp",
-            "retrixroleplay",
             "fivem",
-            "roleplay",
-            "rxrp",
+            "fivem cz/sk",
+            "retrix",
             "retrixcz",
-            "fivem cz/sk"
+            "retrixroleplay",
+            "retrixrp",
+            "roleplay",
+            "rxrp"
         ],
         "features": [
             "COMMUNITY",
@@ -158,12 +158,22 @@
             },
             "keywords": [
                 {
+                    "value": "fivem",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "fivem cz/sk",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "retrix",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "retrixrp",
+                    "value": "retrixcz",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -173,7 +183,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "fivem",
+                    "value": "retrixrp",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -184,16 +194,6 @@
                 },
                 {
                     "value": "rxrp",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "retrixcz",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "fivem cz/sk",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

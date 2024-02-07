@@ -6,24 +6,16 @@
     "splash": "d0193798008e736da88a1153c9951e78",
     "discovery_splash": "d0193798008e736da88a1153c9951e78",
     "banner": null,
-    "approximate_presence_count": 1326,
-    "approximate_member_count": 10238,
+    "approximate_presence_count": 1483,
+    "approximate_member_count": 10337,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "thislandismyland",
     "keywords": null,
     "features": [
-        "AUTO_MODERATION",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_LARGE_UNGATED",
         "DISCOVERABLE",
-        "INVITE_SPLASH",
-        "NEWS",
-        "NEW_THREAD_PERMISSIONS",
         "PREVIEW_ENABLED",
-        "THREADS_ENABLED",
-        "VANITY_URL",
         "VERIFIED"
     ],
     "partnered": false,
@@ -35,8 +27,8 @@
         "icon": "616a8e4be00d8fa21fa26b04079a38ef",
         "splash": "d0193798008e736da88a1153c9951e78",
         "banner": null,
-        "approximate_presence_count": 1326,
-        "approximate_member_count": 10238,
+        "approximate_presence_count": 1483,
+        "approximate_member_count": 10337,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -46,18 +38,42 @@
         "is_published": false,
         "keywords": null,
         "features": [
-            "AUTO_MODERATION",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_LARGE_UNGATED",
             "DISCOVERABLE",
-            "INVITE_SPLASH",
-            "NEWS",
-            "NEW_THREAD_PERMISSIONS",
             "PREVIEW_ENABLED",
-            "THREADS_ENABLED",
-            "VANITY_URL",
             "VERIFIED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "570956826519273473",
+        "_highlightResult": {
+            "name": {
+                "value": "This Land Is My Land",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "The Official Discord Server for the Game This Land Is My Land Developed by Game Labs.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "thislandismyland",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }
