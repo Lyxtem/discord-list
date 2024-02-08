@@ -5,10 +5,10 @@
     "icon": "a_a103c649178c73ed9ddffdb1bc867e21",
     "splash": "bf9a0c431a32478903a23c989ae362f9",
     "discovery_splash": "615bda31f6dd4bd0002cea000d0a8428",
-    "banner": "e5548ef2ebf3090f288ba8c14981dae5",
-    "approximate_presence_count": 516,
-    "approximate_member_count": 8640,
-    "premium_subscription_count": 15,
+    "banner": "a_f5b8c2c8efb297fa941fd07d46cfe5b6",
+    "approximate_presence_count": 995,
+    "approximate_member_count": 8841,
+    "premium_subscription_count": 24,
     "preferred_locale": "pt-BR",
     "vanity_url_code": "slbenfica",
     "keywords": [
@@ -24,34 +24,12 @@
         "uefa"
     ],
     "features": [
-        "ANIMATED_BANNER",
-        "ANIMATED_ICON",
-        "AUTO_MODERATION",
-        "BANNER",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_LARGE_UNGATED",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "GUILD_ONBOARDING",
-        "GUILD_ONBOARDING_EVER_ENABLED",
-        "GUILD_ONBOARDING_HAS_PROMPTS",
-        "GUILD_WEB_PAGE_VANITY_URL",
-        "INVITE_SPLASH",
-        "MEMBER_PROFILES",
-        "NEWS",
-        "NEW_THREAD_PERMISSIONS",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PARTNERED",
         "PREVIEW_ENABLED",
-        "PRIVATE_THREADS",
-        "ROLE_ICONS",
-        "SEVEN_DAY_THREAD_ARCHIVE",
-        "SOUNDBOARD",
-        "TEXT_IN_VOICE_ENABLED",
-        "THREADS_ENABLED",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
-        "VIP_REGIONS",
         "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": true,
@@ -62,10 +40,10 @@
         "description": "Sport Lisboa e Benfica Community & Official Discord Partner.",
         "icon": "a_a103c649178c73ed9ddffdb1bc867e21",
         "splash": "bf9a0c431a32478903a23c989ae362f9",
-        "banner": "e5548ef2ebf3090f288ba8c14981dae5",
-        "approximate_presence_count": 516,
-        "approximate_member_count": 8640,
-        "premium_subscription_count": 15,
+        "banner": "a_f5b8c2c8efb297fa941fd07d46cfe5b6",
+        "approximate_presence_count": 995,
+        "approximate_member_count": 8841,
+        "premium_subscription_count": 24,
         "preferred_locale": "pt-BR",
         "auto_removed": false,
         "discovery_splash": "615bda31f6dd4bd0002cea000d0a8428",
@@ -85,35 +63,145 @@
             "uefa"
         ],
         "features": [
-            "ANIMATED_BANNER",
-            "ANIMATED_ICON",
-            "AUTO_MODERATION",
-            "BANNER",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_LARGE_UNGATED",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "GUILD_ONBOARDING",
-            "GUILD_ONBOARDING_EVER_ENABLED",
-            "GUILD_ONBOARDING_HAS_PROMPTS",
-            "GUILD_WEB_PAGE_VANITY_URL",
-            "INVITE_SPLASH",
-            "MEMBER_PROFILES",
-            "NEWS",
-            "NEW_THREAD_PERMISSIONS",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PARTNERED",
             "PREVIEW_ENABLED",
-            "PRIVATE_THREADS",
-            "ROLE_ICONS",
-            "SEVEN_DAY_THREAD_ARCHIVE",
-            "SOUNDBOARD",
-            "TEXT_IN_VOICE_ENABLED",
-            "THREADS_ENABLED",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
-            "VIP_REGIONS",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            }
+        ],
+        "primary_category": {
+            "id": 7,
+            "is_primary": true,
+            "name": "Sports",
+            "name_localizations": {
+                "de": "Sport",
+                "fr": "Sports",
+                "ru": "Спорт"
+            }
+        },
+        "objectID": "746845168988061898",
+        "_highlightResult": {
+            "name": {
+                "value": "SL Benfica | Comunidade",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "Sport Lisboa e Benfica Community & Official Discord Partner.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "slbenfica",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "keywords": [
+                {
+                    "value": "Benfica",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Comunidade",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Futebol",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Glorioso",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Portugal",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Slb",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Slbenfica",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Sport Lisboa e Benfica",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "soccer",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "uefa",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            ],
+            "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                }
+            ],
+            "primary_category": {
+                "name_localizations": {
+                    "de": {
+                        "value": "Sport",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "fr": {
+                        "value": "Sports",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ru": {
+                        "value": "Спорт",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    }
+                }
+            }
+        }
     }
 }
