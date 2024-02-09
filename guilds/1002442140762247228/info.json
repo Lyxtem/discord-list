@@ -6,12 +6,13 @@
     "splash": null,
     "discovery_splash": "956dca3c25c9b84d9ab1ae94e59f5783",
     "banner": "f458b03c8ed255487de64e03407e3e5f",
-    "approximate_presence_count": 611,
-    "approximate_member_count": 2114,
-    "premium_subscription_count": 9,
+    "approximate_presence_count": 231,
+    "approximate_member_count": 3026,
+    "premium_subscription_count": 6,
     "preferred_locale": "ja",
     "vanity_url_code": "raraearth-1002442140762247228",
     "keywords": [
+        "Bedrock",
         "earth",
         "java",
         "minecraft",
@@ -20,8 +21,7 @@
         "マインクラフト",
         "国家運営",
         "戦争",
-        "経済",
-        "統合版"
+        "経済"
     ],
     "features": [
         "COMMUNITY",
@@ -40,9 +40,9 @@
         "icon": "a_c5ce089feff62e7aab7c99f03ce4153d",
         "splash": null,
         "banner": "f458b03c8ed255487de64e03407e3e5f",
-        "approximate_presence_count": 611,
-        "approximate_member_count": 2114,
-        "premium_subscription_count": 9,
+        "approximate_presence_count": 231,
+        "approximate_member_count": 3026,
+        "premium_subscription_count": 6,
         "preferred_locale": "ja",
         "auto_removed": false,
         "discovery_splash": "956dca3c25c9b84d9ab1ae94e59f5783",
@@ -50,6 +50,7 @@
         "vanity_url_code": "raraearth-1002442140762247228",
         "is_published": true,
         "keywords": [
+            "Bedrock",
             "earth",
             "java",
             "minecraft",
@@ -58,8 +59,7 @@
             "マインクラフト",
             "国家運営",
             "戦争",
-            "経済",
-            "統合版"
+            "経済"
         ],
         "features": [
             "COMMUNITY",
@@ -312,6 +312,11 @@
             },
             "keywords": [
                 {
+                    "value": "Bedrock",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "earth",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -353,11 +358,6 @@
                 },
                 {
                     "value": "経済",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "統合版",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

@@ -1,27 +1,27 @@
 {
     "id": "809840002989162516",
     "name": "SaveMGO",
-    "description": "",
+    "description": "We provide a service which allows you to play the multiplayer mode of Metal Gear Solid 3/4 (Metal Gear Online).",
     "icon": "a_a2753d584f74f3e2d2d4bb6a537fc484",
     "splash": "b642c8aadf3e578d2b37a934007f6627",
-    "discovery_splash": null,
+    "discovery_splash": "25d3dc6a57bbe700ec63927eb7c20118",
     "banner": "b94d881787cfedfb46983e63b57b0cbb",
-    "approximate_presence_count": 3103,
-    "approximate_member_count": 9698,
-    "premium_subscription_count": 20,
+    "approximate_presence_count": 3171,
+    "approximate_member_count": 10784,
+    "premium_subscription_count": 16,
     "preferred_locale": "en-US",
     "vanity_url_code": "mgo2pc",
     "keywords": [
-        "mgo2",
-        "mgs4",
-        "metalgearsolid",
-        "online",
         "metalgear",
+        "metalgearsolid",
+        "mgo",
+        "mgo2",
         "mgo2pc",
-        "rpcs3",
-        "ps3",
         "mgs",
-        "mgo"
+        "mgs4",
+        "online",
+        "ps3",
+        "rpcs3"
     ],
     "features": [
         "COMMUNITY",
@@ -36,30 +36,30 @@
     "raw": {
         "id": "809840002989162516",
         "name": "SaveMGO",
-        "description": "",
+        "description": "We provide a service which allows you to play the multiplayer mode of Metal Gear Solid 3/4 (Metal Gear Online).",
         "icon": "a_a2753d584f74f3e2d2d4bb6a537fc484",
         "splash": "b642c8aadf3e578d2b37a934007f6627",
         "banner": "b94d881787cfedfb46983e63b57b0cbb",
-        "approximate_presence_count": 3103,
-        "approximate_member_count": 9698,
-        "premium_subscription_count": 20,
+        "approximate_presence_count": 3171,
+        "approximate_member_count": 10784,
+        "premium_subscription_count": 16,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "25d3dc6a57bbe700ec63927eb7c20118",
         "primary_category_id": 1,
         "vanity_url_code": "mgo2pc",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
-            "mgo2",
-            "mgs4",
-            "metalgearsolid",
-            "online",
             "metalgear",
+            "metalgearsolid",
+            "mgo",
+            "mgo2",
             "mgo2pc",
-            "rpcs3",
-            "ps3",
             "mgs",
-            "mgo"
+            "mgs4",
+            "online",
+            "ps3",
+            "rpcs3"
         ],
         "features": [
             "COMMUNITY",
@@ -153,7 +153,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "",
+                "value": "We provide a service which allows you to play the multiplayer mode of Metal Gear Solid 3/4 (Metal Gear Online).",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -164,12 +164,7 @@
             },
             "keywords": [
                 {
-                    "value": "mgo2",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "mgs4",
+                    "value": "metalgear",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -179,12 +174,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "online",
+                    "value": "mgo",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "metalgear",
+                    "value": "mgo2",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -194,7 +189,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "rpcs3",
+                    "value": "mgs",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "mgs4",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "online",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -204,12 +209,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "mgs",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "mgo",
+                    "value": "rpcs3",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

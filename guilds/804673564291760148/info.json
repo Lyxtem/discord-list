@@ -2,32 +2,31 @@
     "id": "804673564291760148",
     "name": "Filthy Rich Futures",
     "description": "Hardcore futures trading. Risk management and education before profit!",
-    "icon": "a_a5b51987aac81cae95d62735ec3803c4",
-    "splash": "4d2a6e06a953bafb253b0b1295a71a94",
-    "discovery_splash": "e14c64d808302ed06876527fd19b374c",
-    "banner": "77f442baba01f3c62a78cee6b0ec4bb1",
-    "approximate_presence_count": 818,
-    "approximate_member_count": 17051,
-    "premium_subscription_count": 19,
+    "icon": "035431b092e21902af72d46f69c0d097",
+    "splash": "3c146cc1fbfb2e192c6f07adcbb52007",
+    "discovery_splash": "3c146cc1fbfb2e192c6f07adcbb52007",
+    "banner": "d10cbbebb216dd7e4130392bd471b7ec",
+    "approximate_presence_count": 1279,
+    "approximate_member_count": 18062,
+    "premium_subscription_count": 20,
     "preferred_locale": "en-US",
     "vanity_url_code": "filthyrichfutures",
     "keywords": [
-        "trading",
-        "futures",
+        "BTC",
+        "Bitcoin",
+        "crypto",
         "cryptocurrency",
         "derivatives",
-        "leverage",
+        "futures",
         "investing",
-        "scalping",
-        "binance",
-        "ftx",
-        "kucoin"
+        "leverage",
+        "signals",
+        "trading"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED"
     ],
     "partnered": false,
@@ -36,38 +35,47 @@
         "id": "804673564291760148",
         "name": "Filthy Rich Futures",
         "description": "Hardcore futures trading. Risk management and education before profit!",
-        "icon": "a_a5b51987aac81cae95d62735ec3803c4",
-        "splash": "4d2a6e06a953bafb253b0b1295a71a94",
-        "banner": "77f442baba01f3c62a78cee6b0ec4bb1",
-        "approximate_presence_count": 818,
-        "approximate_member_count": 17051,
-        "premium_subscription_count": 19,
+        "icon": "035431b092e21902af72d46f69c0d097",
+        "splash": "3c146cc1fbfb2e192c6f07adcbb52007",
+        "banner": "d10cbbebb216dd7e4130392bd471b7ec",
+        "approximate_presence_count": 1279,
+        "approximate_member_count": 18062,
+        "premium_subscription_count": 20,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "e14c64d808302ed06876527fd19b374c",
+        "discovery_splash": "3c146cc1fbfb2e192c6f07adcbb52007",
         "primary_category_id": 12,
         "vanity_url_code": "filthyrichfutures",
         "is_published": false,
         "keywords": [
-            "trading",
-            "futures",
+            "BTC",
+            "Bitcoin",
+            "crypto",
             "cryptocurrency",
             "derivatives",
-            "leverage",
+            "futures",
             "investing",
-            "scalping",
-            "binance",
-            "ftx",
-            "kucoin"
+            "leverage",
+            "signals",
+            "trading"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED"
         ],
         "categories": [
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
+                }
+            },
             {
                 "id": 3,
                 "is_primary": true,
@@ -140,16 +148,6 @@
                     "sv-SE": "Utbildning",
                     "zh-CN": "教育",
                     "zh-TW": "教育"
-                }
-            },
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
                 }
             },
             {
@@ -283,12 +281,17 @@
             },
             "keywords": [
                 {
-                    "value": "trading",
+                    "value": "BTC",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "futures",
+                    "value": "Bitcoin",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "crypto",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -303,7 +306,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "leverage",
+                    "value": "futures",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -313,27 +316,41 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "scalping",
+                    "value": "leverage",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "binance",
+                    "value": "signals",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "ftx",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "kucoin",
+                    "value": "trading",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -637,25 +654,6 @@
                         },
                         "zh-TW": {
                             "value": "教育",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

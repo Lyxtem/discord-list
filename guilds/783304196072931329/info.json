@@ -6,8 +6,8 @@
     "splash": "e0facc9af7752ca9e23c3c2eb9df4fb9",
     "discovery_splash": "a568028138f850d3a4f89b97a8250e15",
     "banner": "3ea488769a34735d7d010dbc843de327",
-    "approximate_presence_count": 88,
-    "approximate_member_count": 1722,
+    "approximate_presence_count": 133,
+    "approximate_member_count": 1896,
     "premium_subscription_count": 9,
     "preferred_locale": "it",
     "vanity_url_code": "securitycert-783304196072931329",
@@ -40,8 +40,8 @@
         "icon": "8a9c48272705080af39e0064fe166272",
         "splash": "e0facc9af7752ca9e23c3c2eb9df4fb9",
         "banner": "3ea488769a34735d7d010dbc843de327",
-        "approximate_presence_count": 88,
-        "approximate_member_count": 1722,
+        "approximate_presence_count": 133,
+        "approximate_member_count": 1896,
         "premium_subscription_count": 9,
         "preferred_locale": "it",
         "auto_removed": false,
@@ -70,6 +70,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 23,
+                "is_primary": false,
+                "name": "Podcasts",
+                "name_localizations": {
+                    "de": "Podcasts",
+                    "fr": "Podcasts",
+                    "ru": "Подкасты"
+                }
+            },
             {
                 "id": 6,
                 "is_primary": true,
@@ -105,16 +115,6 @@
                     "sv-SE": "Utbildning",
                     "zh-CN": "教育",
                     "zh-TW": "教育"
-                }
-            },
-            {
-                "id": 23,
-                "is_primary": false,
-                "name": "Podcasts",
-                "name_localizations": {
-                    "de": "Podcasts",
-                    "fr": "Podcasts",
-                    "ru": "Подкасты"
                 }
             },
             {
@@ -338,6 +338,25 @@
             "categories": [
                 {
                     "name_localizations": {
+                        "de": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Подкасты",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
                         "bg": {
                             "value": "Образование",
                             "matchLevel": "none",
@@ -485,25 +504,6 @@
                         },
                         "zh-TW": {
                             "value": "教育",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Подкасты",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
