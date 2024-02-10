@@ -1,23 +1,23 @@
 {
     "id": "798942226972803114",
-    "name": "💀SkyFall Vanilla+",
-    "description": "DayZ Server",
-    "icon": "a_1df9e91c2039b9f28ad8514fa2af82ae",
-    "splash": "a97fbd49c3c848ca4be7cf8d6b9e534e",
-    "discovery_splash": "9ef2e20c403c22357e334f9c988fd33c",
-    "banner": "a_13c3f037827f4bd004bd2a643ce92e5a",
-    "approximate_presence_count": 613,
-    "approximate_member_count": 2305,
-    "premium_subscription_count": 14,
+    "name": "💀SkyFall DayZ",
+    "description": "Комплекс игровых серверов DayZ",
+    "icon": "a_299fdbf1f477a71519c5a676b8381227",
+    "splash": "113fd4485ed17375d3560a5149aa89f2",
+    "discovery_splash": "07a71a277ea6569612528cf80f3c69d4",
+    "banner": "a_12be27dee38c1b0661e9d882e7916ade",
+    "approximate_presence_count": 1887,
+    "approximate_member_count": 5151,
+    "premium_subscription_count": 16,
     "preferred_locale": "ru",
-    "vanity_url_code": "skyfall",
+    "vanity_url_code": "skyfall-dayz",
     "keywords": [
+        "Pvpсервер",
         "dayz",
         "dayzserver",
         "skyfall",
         "дейз",
-        "дейзсервер",
-        "Pvpсервер"
+        "дейзсервер"
     ],
     "features": [
         "COMMUNITY",
@@ -30,27 +30,27 @@
     "verified": false,
     "raw": {
         "id": "798942226972803114",
-        "name": "💀SkyFall Vanilla+",
-        "description": "DayZ Server",
-        "icon": "a_1df9e91c2039b9f28ad8514fa2af82ae",
-        "splash": "a97fbd49c3c848ca4be7cf8d6b9e534e",
-        "banner": "a_13c3f037827f4bd004bd2a643ce92e5a",
-        "approximate_presence_count": 613,
-        "approximate_member_count": 2305,
-        "premium_subscription_count": 14,
+        "name": "💀SkyFall DayZ",
+        "description": "Комплекс игровых серверов DayZ",
+        "icon": "a_299fdbf1f477a71519c5a676b8381227",
+        "splash": "113fd4485ed17375d3560a5149aa89f2",
+        "banner": "a_12be27dee38c1b0661e9d882e7916ade",
+        "approximate_presence_count": 1887,
+        "approximate_member_count": 5151,
+        "premium_subscription_count": 16,
         "preferred_locale": "ru",
         "auto_removed": false,
-        "discovery_splash": "9ef2e20c403c22357e334f9c988fd33c",
+        "discovery_splash": "07a71a277ea6569612528cf80f3c69d4",
         "primary_category_id": 1,
-        "vanity_url_code": "skyfall",
-        "is_published": false,
+        "vanity_url_code": "skyfall-dayz",
+        "is_published": true,
         "keywords": [
+            "Pvpсервер",
             "dayz",
             "dayzserver",
             "skyfall",
             "дейз",
-            "дейзсервер",
-            "Pvpсервер"
+            "дейзсервер"
         ],
         "features": [
             "COMMUNITY",
@@ -138,21 +138,26 @@
         "objectID": "798942226972803114",
         "_highlightResult": {
             "name": {
-                "value": "💀SkyFall Vanilla+",
+                "value": "💀SkyFall DayZ",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "description": {
-                "value": "DayZ Server",
+                "value": "Комплекс игровых серверов DayZ",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "vanity_url_code": {
-                "value": "skyfall",
+                "value": "skyfall-dayz",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
+                {
+                    "value": "Pvpсервер",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
                 {
                     "value": "dayz",
                     "matchLevel": "none",
@@ -175,11 +180,6 @@
                 },
                 {
                     "value": "дейзсервер",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "Pvpсервер",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

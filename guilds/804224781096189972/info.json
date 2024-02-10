@@ -1,22 +1,22 @@
 {
     "id": "804224781096189972",
     "name": "호그와트 [HogWarts]",
-    "description": "호그와트에 오신 것을 환영합니다. 해리포터 원작을 기반으로 제작된 해리포터봇을 여러 사람들과 함께 즐겨 보세요!",
-    "icon": "cc57af5aeb33e602972b364c13777d76",
+    "description": "호그와트에 오신 것을 환영합니다. 해리포터 원작을 기반으로 제작된 해리포터 봇을 여러 사람들과 함께 즐겨 보세요!",
+    "icon": "585007ba233a2137279771f85664672d",
     "splash": "5841ec801e54f1331244942394761d7c",
     "discovery_splash": "5fe95f1bbea612a26969863119518b87",
     "banner": "5841ec801e54f1331244942394761d7c",
-    "approximate_presence_count": 1384,
-    "approximate_member_count": 5365,
-    "premium_subscription_count": 22,
+    "approximate_presence_count": 214,
+    "approximate_member_count": 5211,
+    "premium_subscription_count": 21,
     "preferred_locale": "ko",
     "vanity_url_code": "supportharry",
     "keywords": [
-        "해리포터",
-        "호그와트",
+        "마법",
         "봇",
         "챗봇",
-        "마법"
+        "해리포터",
+        "호그와트"
     ],
     "features": [
         "COMMUNITY",
@@ -31,13 +31,13 @@
     "raw": {
         "id": "804224781096189972",
         "name": "호그와트 [HogWarts]",
-        "description": "호그와트에 오신 것을 환영합니다. 해리포터 원작을 기반으로 제작된 해리포터봇을 여러 사람들과 함께 즐겨 보세요!",
-        "icon": "cc57af5aeb33e602972b364c13777d76",
+        "description": "호그와트에 오신 것을 환영합니다. 해리포터 원작을 기반으로 제작된 해리포터 봇을 여러 사람들과 함께 즐겨 보세요!",
+        "icon": "585007ba233a2137279771f85664672d",
         "splash": "5841ec801e54f1331244942394761d7c",
         "banner": "5841ec801e54f1331244942394761d7c",
-        "approximate_presence_count": 1384,
-        "approximate_member_count": 5365,
-        "premium_subscription_count": 22,
+        "approximate_presence_count": 214,
+        "approximate_member_count": 5211,
+        "premium_subscription_count": 21,
         "preferred_locale": "ko",
         "auto_removed": false,
         "discovery_splash": "5fe95f1bbea612a26969863119518b87",
@@ -45,11 +45,11 @@
         "vanity_url_code": "supportharry",
         "is_published": true,
         "keywords": [
-            "해리포터",
-            "호그와트",
+            "마법",
             "봇",
             "챗봇",
-            "마법"
+            "해리포터",
+            "호그와트"
         ],
         "features": [
             "COMMUNITY",
@@ -143,7 +143,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "호그와트에 오신 것을 환영합니다. 해리포터 원작을 기반으로 제작된 해리포터봇을 여러 사람들과 함께 즐겨 보세요!",
+                "value": "호그와트에 오신 것을 환영합니다. 해리포터 원작을 기반으로 제작된 해리포터 봇을 여러 사람들과 함께 즐겨 보세요!",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -154,12 +154,7 @@
             },
             "keywords": [
                 {
-                    "value": "해리포터",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "호그와트",
+                    "value": "마법",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -174,7 +169,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "마법",
+                    "value": "해리포터",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "호그와트",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

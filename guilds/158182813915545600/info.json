@@ -1,29 +1,30 @@
 {
     "id": "158182813915545600",
     "name": "SWR Community Server",
-    "description": "",
+    "description": "This is a community server for the Rise of the Reds, C&C ZH mod by SWR Productions.",
     "icon": "a_b67f587f15e6b843ea6d2b89bf9ce2b6",
     "splash": "0b2f05d1e36de1b3dc367b9f3e2f237a",
     "discovery_splash": "c7a119fe5923593a6c1b26573628d8e9",
     "banner": "7a1c9e65afbb41dcd6073add9ef2e9b6",
-    "approximate_presence_count": 954,
-    "approximate_member_count": 5686,
-    "premium_subscription_count": 4,
+    "approximate_presence_count": 1090,
+    "approximate_member_count": 5857,
+    "premium_subscription_count": 7,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "swr-community-server-158182813915545600",
     "keywords": [
-        "rotr",
-        "shw",
         "cnc",
-        "swr",
+        "commandandconquer",
         "riseofthereds",
+        "rotr",
         "shockwave",
-        "commandandconquer"
+        "shw",
+        "swr"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -32,32 +33,33 @@
     "raw": {
         "id": "158182813915545600",
         "name": "SWR Community Server",
-        "description": "",
+        "description": "This is a community server for the Rise of the Reds, C&C ZH mod by SWR Productions.",
         "icon": "a_b67f587f15e6b843ea6d2b89bf9ce2b6",
         "splash": "0b2f05d1e36de1b3dc367b9f3e2f237a",
         "banner": "7a1c9e65afbb41dcd6073add9ef2e9b6",
-        "approximate_presence_count": 954,
-        "approximate_member_count": 5686,
-        "premium_subscription_count": 4,
+        "approximate_presence_count": 1090,
+        "approximate_member_count": 5857,
+        "premium_subscription_count": 7,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "c7a119fe5923593a6c1b26573628d8e9",
         "primary_category_id": 1,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "swr-community-server-158182813915545600",
+        "is_published": true,
         "keywords": [
-            "rotr",
-            "shw",
             "cnc",
-            "swr",
+            "commandandconquer",
             "riseofthereds",
+            "rotr",
             "shockwave",
-            "commandandconquer"
+            "shw",
+            "swr"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -145,28 +147,23 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "",
+                "value": "This is a community server for the Rise of the Reds, C&C ZH mod by SWR Productions.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "swr-community-server-158182813915545600",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
-                {
-                    "value": "rotr",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "shw",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
                 {
                     "value": "cnc",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "swr",
+                    "value": "commandandconquer",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -176,12 +173,22 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "rotr",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "shockwave",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "commandandconquer",
+                    "value": "shw",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "swr",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
