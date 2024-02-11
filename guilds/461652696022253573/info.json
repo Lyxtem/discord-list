@@ -2,45 +2,24 @@
     "id": "461652696022253573",
     "name": "Saph Squad",
     "description": "",
-    "icon": "b437e5b9ec5dbf86a768f7714fce36b3",
+    "icon": "b2837fc360713e804638f4c0d36515d8",
     "splash": null,
     "discovery_splash": null,
     "banner": "ac3b75904682939a40d8fd46cab1cb97",
-    "approximate_presence_count": 1235,
-    "approximate_member_count": 4308,
-    "premium_subscription_count": 15,
+    "approximate_presence_count": 1157,
+    "approximate_member_count": 4248,
+    "premium_subscription_count": 14,
     "preferred_locale": "en-US",
     "vanity_url_code": "sapharic",
     "keywords": [
         "sapharic"
     ],
     "features": [
-        "ANIMATED_BANNER",
-        "ANIMATED_ICON",
-        "AUTO_MODERATION",
-        "BANNER",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_MEDIUM",
-        "CREATOR_ACCEPTED_NEW_TERMS",
-        "CREATOR_MONETIZABLE_PROVISIONAL",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "INVITE_SPLASH",
-        "MEMBER_PROFILES",
-        "NEWS",
-        "NEW_THREAD_PERMISSIONS",
         "PARTNERED",
         "PREVIEW_ENABLED",
-        "PRIVATE_THREADS",
-        "ROLE_ICONS",
-        "SEVEN_DAY_THREAD_ARCHIVE",
-        "SOUNDBOARD",
-        "TEXT_IN_VOICE_ENABLED",
-        "THREADS_ENABLED",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
-        "VIP_REGIONS",
         "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": true,
@@ -49,12 +28,12 @@
         "id": "461652696022253573",
         "name": "Saph Squad",
         "description": "",
-        "icon": "b437e5b9ec5dbf86a768f7714fce36b3",
+        "icon": "b2837fc360713e804638f4c0d36515d8",
         "splash": null,
         "banner": "ac3b75904682939a40d8fd46cab1cb97",
-        "approximate_presence_count": 1235,
-        "approximate_member_count": 4308,
-        "premium_subscription_count": 15,
+        "approximate_presence_count": 1157,
+        "approximate_member_count": 4248,
+        "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": null,
@@ -65,33 +44,51 @@
             "sapharic"
         ],
         "features": [
-            "ANIMATED_BANNER",
-            "ANIMATED_ICON",
-            "AUTO_MODERATION",
-            "BANNER",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_MEDIUM",
-            "CREATOR_ACCEPTED_NEW_TERMS",
-            "CREATOR_MONETIZABLE_PROVISIONAL",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "INVITE_SPLASH",
-            "MEMBER_PROFILES",
-            "NEWS",
-            "NEW_THREAD_PERMISSIONS",
             "PARTNERED",
             "PREVIEW_ENABLED",
-            "PRIVATE_THREADS",
-            "ROLE_ICONS",
-            "SEVEN_DAY_THREAD_ARCHIVE",
-            "SOUNDBOARD",
-            "TEXT_IN_VOICE_ENABLED",
-            "THREADS_ENABLED",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
-            "VIP_REGIONS",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "461652696022253573",
+        "_highlightResult": {
+            "name": {
+                "value": "Saph Squad",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "sapharic",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "keywords": [
+                {
+                    "value": "sapharic",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            ]
+        }
     }
 }

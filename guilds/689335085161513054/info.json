@@ -6,26 +6,16 @@
     "splash": "69356d4fb2504e1ea0272cf97359af17",
     "discovery_splash": "58bdfda8be150d917a103620f002bee4",
     "banner": null,
-    "approximate_presence_count": 298,
-    "approximate_member_count": 1596,
+    "approximate_presence_count": 529,
+    "approximate_member_count": 1510,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "versusasia",
     "keywords": [],
     "features": [
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
         "DISCOVERABLE",
-        "GUILD_ONBOARDING",
-        "GUILD_ONBOARDING_EVER_ENABLED",
-        "GUILD_ONBOARDING_HAS_PROMPTS",
-        "GUILD_SERVER_GUIDE",
-        "INVITE_SPLASH",
-        "NEWS",
-        "NEW_THREAD_PERMISSIONS",
         "PREVIEW_ENABLED",
-        "THREADS_ENABLED",
-        "VANITY_URL",
         "VERIFIED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -38,8 +28,8 @@
         "icon": "1d5c41a481226acdd4f5758179914ead",
         "splash": "69356d4fb2504e1ea0272cf97359af17",
         "banner": null,
-        "approximate_presence_count": 298,
-        "approximate_member_count": 1596,
+        "approximate_presence_count": 529,
+        "approximate_member_count": 1510,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -49,21 +39,43 @@
         "is_published": false,
         "keywords": [],
         "features": [
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
             "DISCOVERABLE",
-            "GUILD_ONBOARDING",
-            "GUILD_ONBOARDING_EVER_ENABLED",
-            "GUILD_ONBOARDING_HAS_PROMPTS",
-            "GUILD_SERVER_GUIDE",
-            "INVITE_SPLASH",
-            "NEWS",
-            "NEW_THREAD_PERMISSIONS",
             "PREVIEW_ENABLED",
-            "THREADS_ENABLED",
-            "VANITY_URL",
             "VERIFIED",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "689335085161513054",
+        "_highlightResult": {
+            "name": {
+                "value": "Versus Community Online",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "versusasia",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }

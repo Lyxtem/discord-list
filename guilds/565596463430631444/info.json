@@ -1,27 +1,27 @@
 {
     "id": "565596463430631444",
     "name": "The Tavern",
-    "description": "Exciting Community Environment Dedicated to Playing Card Games, Making Friends, and Creating Opportunities for Everyone!",
+    "description": "TCG Gaming Community.  Play pick-up games, play in online tournaments, chat with friends about your favorite card games!",
     "icon": "9d42247f27ac8d71b260cf55400a2a2a",
     "splash": "76289781ad06fa09c4458e63c7527236",
     "discovery_splash": "8a6393f50a18a741b788cdcbdfd3310b",
     "banner": "a_8a6393f50a18a741b788cdcbdfd3310b",
-    "approximate_presence_count": 371,
-    "approximate_member_count": 1730,
-    "premium_subscription_count": 15,
+    "approximate_presence_count": 591,
+    "approximate_member_count": 1740,
+    "premium_subscription_count": 16,
     "preferred_locale": "en-US",
     "vanity_url_code": "the-tavern-brawlers",
     "keywords": [
-        "fleshandblood",
-        "magicthegathering",
         "cardgames",
-        "thetavern",
-        "tavernbrawlers",
-        "forceofwill",
-        "tcgs",
         "community",
         "contentcreator",
-        "esports"
+        "esports",
+        "fleshandblood",
+        "forceofwill",
+        "magicthegathering",
+        "tavernbrawlers",
+        "tcgs",
+        "thetavern"
     ],
     "features": [
         "COMMUNITY",
@@ -36,13 +36,13 @@
     "raw": {
         "id": "565596463430631444",
         "name": "The Tavern",
-        "description": "Exciting Community Environment Dedicated to Playing Card Games, Making Friends, and Creating Opportunities for Everyone!",
+        "description": "TCG Gaming Community.  Play pick-up games, play in online tournaments, chat with friends about your favorite card games!",
         "icon": "9d42247f27ac8d71b260cf55400a2a2a",
         "splash": "76289781ad06fa09c4458e63c7527236",
         "banner": "a_8a6393f50a18a741b788cdcbdfd3310b",
-        "approximate_presence_count": 371,
-        "approximate_member_count": 1730,
-        "premium_subscription_count": 15,
+        "approximate_presence_count": 591,
+        "approximate_member_count": 1740,
+        "premium_subscription_count": 16,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "8a6393f50a18a741b788cdcbdfd3310b",
@@ -50,16 +50,16 @@
         "vanity_url_code": "the-tavern-brawlers",
         "is_published": true,
         "keywords": [
-            "fleshandblood",
-            "magicthegathering",
             "cardgames",
-            "thetavern",
-            "tavernbrawlers",
-            "forceofwill",
-            "tcgs",
             "community",
             "contentcreator",
-            "esports"
+            "esports",
+            "fleshandblood",
+            "forceofwill",
+            "magicthegathering",
+            "tavernbrawlers",
+            "tcgs",
+            "thetavern"
         ],
         "features": [
             "COMMUNITY",
@@ -70,43 +70,6 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 33,
-                "is_primary": false,
-                "name": "Events",
-                "name_localizations": {
-                    "bg": "Събития",
-                    "cs": "Události",
-                    "da": "Begivenheder",
-                    "de": "Events",
-                    "el": "Εκδηλώσεις",
-                    "fi": "Tapahtumat",
-                    "fr": "Événements",
-                    "hi": "इवेंट्स",
-                    "hr": "Događanja",
-                    "hu": "Rendezvények",
-                    "it": "Eventi",
-                    "ja": "イベント",
-                    "ko": "행사",
-                    "lt": "Renginiai",
-                    "nl": "Evenementen",
-                    "no": "Eventer",
-                    "pl": "Wydarzenia",
-                    "ro": "Evenimente",
-                    "ru": "Мероприятия",
-                    "th": "กิจกรรม",
-                    "tr": "Etkinlikler",
-                    "uk": "Події",
-                    "vi": "Sự Kiện",
-                    "en-GB": "Events",
-                    "en-US": "Events",
-                    "es-ES": "Eventos",
-                    "pt-BR": "Eventos",
-                    "sv-SE": "Event",
-                    "zh-CN": "组织活动",
-                    "zh-TW": "活動"
-                }
-            },
             {
                 "id": 15,
                 "is_primary": false,
@@ -145,6 +108,53 @@
                 }
             },
             {
+                "id": 23,
+                "is_primary": false,
+                "name": "Podcasts",
+                "name_localizations": {
+                    "de": "Podcasts",
+                    "fr": "Podcasts",
+                    "ru": "Подкасты"
+                }
+            },
+            {
+                "id": 33,
+                "is_primary": false,
+                "name": "Events",
+                "name_localizations": {
+                    "bg": "Събития",
+                    "cs": "Události",
+                    "da": "Begivenheder",
+                    "de": "Events",
+                    "el": "Εκδηλώσεις",
+                    "fi": "Tapahtumat",
+                    "fr": "Événements",
+                    "hi": "इवेंट्स",
+                    "hr": "Događanja",
+                    "hu": "Rendezvények",
+                    "it": "Eventi",
+                    "ja": "イベント",
+                    "ko": "행사",
+                    "lt": "Renginiai",
+                    "nl": "Evenementen",
+                    "no": "Eventer",
+                    "pl": "Wydarzenia",
+                    "ro": "Evenimente",
+                    "ru": "Мероприятия",
+                    "th": "กิจกรรม",
+                    "tr": "Etkinlikler",
+                    "uk": "Події",
+                    "vi": "Sự Kiện",
+                    "en-GB": "Events",
+                    "en-US": "Events",
+                    "es-ES": "Eventos",
+                    "pt-BR": "Eventos",
+                    "sv-SE": "Event",
+                    "zh-CN": "组织活动",
+                    "zh-TW": "活動"
+                }
+            },
+            {
                 "id": 24,
                 "is_primary": false,
                 "name": "Tabletop Games",
@@ -179,16 +189,6 @@
                     "sv-SE": "Bordsspel",
                     "zh-CN": "桌游",
                     "zh-TW": "桌遊"
-                }
-            },
-            {
-                "id": 23,
-                "is_primary": false,
-                "name": "Podcasts",
-                "name_localizations": {
-                    "de": "Podcasts",
-                    "fr": "Podcasts",
-                    "ru": "Подкасты"
                 }
             },
             {
@@ -311,7 +311,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Exciting Community Environment Dedicated to Playing Card Games, Making Friends, and Creating Opportunities for Everyone!",
+                "value": "TCG Gaming Community.  Play pick-up games, play in online tournaments, chat with friends about your favorite card games!",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -322,37 +322,7 @@
             },
             "keywords": [
                 {
-                    "value": "fleshandblood",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "magicthegathering",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "cardgames",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "thetavern",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "tavernbrawlers",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "forceofwill",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "tcgs",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -370,9 +340,212 @@
                     "value": "esports",
                     "matchLevel": "none",
                     "matchedWords": []
+                },
+                {
+                    "value": "fleshandblood",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "forceofwill",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "magicthegathering",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "tavernbrawlers",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "tcgs",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "thetavern",
+                    "matchLevel": "none",
+                    "matchedWords": []
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Електронни спортове",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Esport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Esport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "E-Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Esports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Esports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "eSport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "ईस्पोर्ट्स",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "E-sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "E-sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Esport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "eスポーツ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "이스포츠",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "E. sportas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "E-sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "E-sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "E-sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "eSports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Киберспорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "อีสปอร์ต",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "E-spor",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Електронний спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Thể Thao Điện Tử",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Esports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Esports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "E-sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "E-sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "E-sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "电子竞技",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "電競",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Подкасты",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -530,160 +703,6 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Електронни спортове",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Esport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Esport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "E-Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Esports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Esports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "eSport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "ईस्पोर्ट्स",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "E-sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "E-sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Esport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "eスポーツ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "이스포츠",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "E. sportas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "E-sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "E-sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "E-sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "eSports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Киберспорт",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "อีสปอร์ต",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "E-spor",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Електронний спорт",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Thể Thao Điện Tử",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Esports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Esports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "E-sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "E-sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "E-sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "电子竞技",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "電競",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
                             "value": "Настолни игри",
                             "matchLevel": "none",
                             "matchedWords": []
@@ -830,25 +849,6 @@
                         },
                         "zh-TW": {
                             "value": "桌遊",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Подкасты",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

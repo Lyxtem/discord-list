@@ -1,24 +1,24 @@
 {
     "id": "934902181054783548",
     "name": "Collateral Damage",
-    "description": "Official Discord for Collateral Damage's Squad server. Join us for a friendly community and to play some games!",
+    "description": "Collateral Damage has its roots in Squad, but branches out into many games with our community.",
     "icon": "a_7147ca95b9e66482e7e1cc4f389d2413",
     "splash": "55b02621f42f87fe7b3fe5d1f0371343",
     "discovery_splash": "d4a46537864110bafd1dbe35bb4f67fc",
     "banner": "1a020e825faa29f0186b30798c40a7fd",
-    "approximate_presence_count": 925,
-    "approximate_member_count": 2276,
+    "approximate_presence_count": 1019,
+    "approximate_member_count": 2303,
     "premium_subscription_count": 15,
     "preferred_locale": "en-US",
     "vanity_url_code": "collateraldamage",
     "keywords": [
-        "squad",
-        "new",
-        "player",
-        "steam",
-        "pc",
         "collateral",
-        "damage"
+        "damage",
+        "new",
+        "pc",
+        "player",
+        "squad",
+        "steam"
     ],
     "features": [
         "COMMUNITY",
@@ -33,12 +33,12 @@
     "raw": {
         "id": "934902181054783548",
         "name": "Collateral Damage",
-        "description": "Official Discord for Collateral Damage's Squad server. Join us for a friendly community and to play some games!",
+        "description": "Collateral Damage has its roots in Squad, but branches out into many games with our community.",
         "icon": "a_7147ca95b9e66482e7e1cc4f389d2413",
         "splash": "55b02621f42f87fe7b3fe5d1f0371343",
         "banner": "1a020e825faa29f0186b30798c40a7fd",
-        "approximate_presence_count": 925,
-        "approximate_member_count": 2276,
+        "approximate_presence_count": 1019,
+        "approximate_member_count": 2303,
         "premium_subscription_count": 15,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -47,13 +47,13 @@
         "vanity_url_code": "collateraldamage",
         "is_published": true,
         "keywords": [
-            "squad",
-            "new",
-            "player",
-            "steam",
-            "pc",
             "collateral",
-            "damage"
+            "damage",
+            "new",
+            "pc",
+            "player",
+            "squad",
+            "steam"
         ],
         "features": [
             "COMMUNITY",
@@ -184,7 +184,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Official Discord for Collateral Damage's Squad server. Join us for a friendly community and to play some games!",
+                "value": "Collateral Damage has its roots in Squad, but branches out into many games with our community.",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -195,7 +195,12 @@
             },
             "keywords": [
                 {
-                    "value": "squad",
+                    "value": "collateral",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "damage",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -205,27 +210,22 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "player",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "steam",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "pc",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "collateral",
+                    "value": "player",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "damage",
+                    "value": "squad",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "steam",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

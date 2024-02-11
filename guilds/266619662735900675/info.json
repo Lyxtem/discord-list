@@ -1,44 +1,45 @@
 {
     "id": "266619662735900675",
     "name": "The Wrestling Discord",
-    "description": "The Wrestling Discord is a community for all wrestling fans, new or old!",
-    "icon": "a07725d99ec656a765f944067b6698cd",
+    "description": "The Wrestling Discord is a community for all wrestling fans, old or new!",
+    "icon": "e706b099986954fe652a3d8a3a667bff",
     "splash": null,
     "discovery_splash": "d1c358d656107414672fb4da87240bc6",
-    "banner": null,
-    "approximate_presence_count": 299,
-    "approximate_member_count": 2553,
+    "banner": "9ff1fecd7cc8810e110c7f24748d2c6c",
+    "approximate_presence_count": 389,
+    "approximate_member_count": 2516,
     "premium_subscription_count": 4,
     "preferred_locale": "en-US",
     "vanity_url_code": "the-wrestling-discord-266619662735900675",
     "keywords": [
-        "sports",
-        "wrestling",
-        "pro-wrestling",
-        "wwe",
         "aew",
+        "emojis",
         "njpw",
         "predictions",
-        "emojis"
+        "pro-wrestling",
+        "sports",
+        "wrestling",
+        "wwe"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "PREVIEW_ENABLED"
+        "PREVIEW_ENABLED",
+        "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": false,
     "verified": false,
     "raw": {
         "id": "266619662735900675",
         "name": "The Wrestling Discord",
-        "description": "The Wrestling Discord is a community for all wrestling fans, new or old!",
-        "icon": "a07725d99ec656a765f944067b6698cd",
+        "description": "The Wrestling Discord is a community for all wrestling fans, old or new!",
+        "icon": "e706b099986954fe652a3d8a3a667bff",
         "splash": null,
-        "banner": null,
-        "approximate_presence_count": 299,
-        "approximate_member_count": 2553,
+        "banner": "9ff1fecd7cc8810e110c7f24748d2c6c",
+        "approximate_presence_count": 389,
+        "approximate_member_count": 2516,
         "premium_subscription_count": 4,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -47,21 +48,22 @@
         "vanity_url_code": "the-wrestling-discord-266619662735900675",
         "is_published": true,
         "keywords": [
-            "sports",
-            "wrestling",
-            "pro-wrestling",
-            "wwe",
             "aew",
+            "emojis",
             "njpw",
             "predictions",
-            "emojis"
+            "pro-wrestling",
+            "sports",
+            "wrestling",
+            "wwe"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "PREVIEW_ENABLED"
+            "PREVIEW_ENABLED",
+            "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
             {
@@ -241,7 +243,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "The Wrestling Discord is a community for all wrestling fans, new or old!",
+                "value": "The Wrestling Discord is a community for all wrestling fans, old or new!",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -252,27 +254,12 @@
             },
             "keywords": [
                 {
-                    "value": "sports",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "wrestling",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "pro-wrestling",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "wwe",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "aew",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "emojis",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -287,7 +274,22 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "emojis",
+                    "value": "pro-wrestling",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "sports",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "wrestling",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "wwe",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

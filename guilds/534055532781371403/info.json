@@ -2,33 +2,34 @@
     "id": "534055532781371403",
     "name": "🦊 - Fuxelbau",
     "description": "Der Offizielle Community Discord Server von Fuxelbau!",
-    "icon": "6cc9590ce19f3cf0c73cf9e7b5025fd0",
-    "splash": "c7fa22e3cbaa034ec907e663ab2bee51",
-    "discovery_splash": "9b5e6a861dc75520621427977fdfd8af",
-    "banner": "14de119616994b67c80f3c3f03f939ad",
-    "approximate_presence_count": 462,
-    "approximate_member_count": 1227,
-    "premium_subscription_count": 13,
+    "icon": "a_dfe7f946ddc1459aab98bf85d2186286",
+    "splash": "338031de35a28104ceb87cf1e0d043ae",
+    "discovery_splash": "6cdf218c48f8ac0e97ec33ce6cebecc3",
+    "banner": "dd656833f95e34bed12ec1e3a54ae739",
+    "approximate_presence_count": 634,
+    "approximate_member_count": 2549,
+    "premium_subscription_count": 14,
     "preferred_locale": "de",
-    "vanity_url_code": null,
+    "vanity_url_code": "fuxelbau-534055532781371403",
     "keywords": [
-        "minecraft",
-        "gaming",
-        "twitch",
-        "youtube",
         "community",
-        "streamer",
-        "fuxelbau",
-        "vtube",
         "emotes",
-        "lgbtq"
+        "fuxelbau",
+        "gaming",
+        "lgbtq",
+        "minecraft",
+        "streamer",
+        "twitch",
+        "vtube",
+        "youtube"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "PREVIEW_ENABLED"
+        "PREVIEW_ENABLED",
+        "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": false,
     "verified": false,
@@ -36,36 +37,37 @@
         "id": "534055532781371403",
         "name": "🦊 - Fuxelbau",
         "description": "Der Offizielle Community Discord Server von Fuxelbau!",
-        "icon": "6cc9590ce19f3cf0c73cf9e7b5025fd0",
-        "splash": "c7fa22e3cbaa034ec907e663ab2bee51",
-        "banner": "14de119616994b67c80f3c3f03f939ad",
-        "approximate_presence_count": 462,
-        "approximate_member_count": 1227,
-        "premium_subscription_count": 13,
+        "icon": "a_dfe7f946ddc1459aab98bf85d2186286",
+        "splash": "338031de35a28104ceb87cf1e0d043ae",
+        "banner": "dd656833f95e34bed12ec1e3a54ae739",
+        "approximate_presence_count": 634,
+        "approximate_member_count": 2549,
+        "premium_subscription_count": 14,
         "preferred_locale": "de",
         "auto_removed": false,
-        "discovery_splash": "9b5e6a861dc75520621427977fdfd8af",
+        "discovery_splash": "6cdf218c48f8ac0e97ec33ce6cebecc3",
         "primary_category_id": 14,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "fuxelbau-534055532781371403",
+        "is_published": true,
         "keywords": [
-            "minecraft",
-            "gaming",
-            "twitch",
-            "youtube",
             "community",
-            "streamer",
-            "fuxelbau",
-            "vtube",
             "emotes",
-            "lgbtq"
+            "fuxelbau",
+            "gaming",
+            "lgbtq",
+            "minecraft",
+            "streamer",
+            "twitch",
+            "vtube",
+            "youtube"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "PREVIEW_ENABLED"
+            "PREVIEW_ENABLED",
+            "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
             {
@@ -340,44 +342,14 @@
                 "matchLevel": "none",
                 "matchedWords": []
             },
+            "vanity_url_code": {
+                "value": "fuxelbau-534055532781371403",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
             "keywords": [
                 {
-                    "value": "minecraft",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "gaming",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "twitch",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "youtube",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "community",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "streamer",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "fuxelbau",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "vtube",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -387,7 +359,42 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "fuxelbau",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "gaming",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "lgbtq",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "minecraft",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "streamer",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "twitch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "vtube",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "youtube",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

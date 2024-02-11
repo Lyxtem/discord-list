@@ -6,21 +6,21 @@
     "splash": "dd27556cb38643935fe65d4efa2df398",
     "discovery_splash": "dd27556cb38643935fe65d4efa2df398",
     "banner": "29c65fa34c682e0547337e4226a68034",
-    "approximate_presence_count": 753,
-    "approximate_member_count": 2127,
+    "approximate_presence_count": 933,
+    "approximate_member_count": 2219,
     "premium_subscription_count": 13,
     "preferred_locale": "en-US",
     "vanity_url_code": "retro-gadgets-1014467806294720512",
     "keywords": [
-        "retrogadgets",
-        "indie",
-        "steam",
-        "lua",
         "fantasy-console",
+        "gamedev",
+        "indie",
+        "lua",
         "pico8",
-        "tic80",
         "pixelart",
-        "gamedev"
+        "retrogadgets",
+        "steam",
+        "tic80"
     ],
     "features": [
         "COMMUNITY",
@@ -38,8 +38,8 @@
         "icon": "6febf26fb986b5b1846cffab3aa05e09",
         "splash": "dd27556cb38643935fe65d4efa2df398",
         "banner": "29c65fa34c682e0547337e4226a68034",
-        "approximate_presence_count": 753,
-        "approximate_member_count": 2127,
+        "approximate_presence_count": 933,
+        "approximate_member_count": 2219,
         "premium_subscription_count": 13,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -48,15 +48,15 @@
         "vanity_url_code": "retro-gadgets-1014467806294720512",
         "is_published": true,
         "keywords": [
-            "retrogadgets",
-            "indie",
-            "steam",
-            "lua",
             "fantasy-console",
+            "gamedev",
+            "indie",
+            "lua",
             "pico8",
-            "tic80",
             "pixelart",
-            "gamedev"
+            "retrogadgets",
+            "steam",
+            "tic80"
         ],
         "features": [
             "COMMUNITY",
@@ -234,7 +234,12 @@
             },
             "keywords": [
                 {
-                    "value": "retrogadgets",
+                    "value": "fantasy-console",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "gamedev",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -244,17 +249,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "steam",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "lua",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "fantasy-console",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -264,17 +259,22 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "tic80",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "pixelart",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "gamedev",
+                    "value": "retrogadgets",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "steam",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "tic80",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

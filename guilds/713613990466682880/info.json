@@ -6,9 +6,9 @@
     "splash": "b9b69c821504cffeaf63628b2ed1b6e8",
     "discovery_splash": null,
     "banner": "6d02a748e4ec667b626f40222326d421",
-    "approximate_presence_count": 781,
-    "approximate_member_count": 18197,
-    "premium_subscription_count": 2,
+    "approximate_presence_count": 1033,
+    "approximate_member_count": 17779,
+    "premium_subscription_count": 1,
     "preferred_locale": "en-US",
     "vanity_url_code": "evantube",
     "keywords": [
@@ -20,18 +20,10 @@
         "evantubegaming"
     ],
     "features": [
-        "ANIMATED_ICON",
-        "AUTO_MODERATION",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_LARGE_GATED",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "INVITE_SPLASH",
-        "NEWS",
         "PREVIEW_ENABLED",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
         "VERIFIED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -44,9 +36,9 @@
         "icon": "b9b69c821504cffeaf63628b2ed1b6e8",
         "splash": "b9b69c821504cffeaf63628b2ed1b6e8",
         "banner": "6d02a748e4ec667b626f40222326d421",
-        "approximate_presence_count": 781,
-        "approximate_member_count": 18197,
-        "premium_subscription_count": 2,
+        "approximate_presence_count": 1033,
+        "approximate_member_count": 17779,
+        "premium_subscription_count": 1,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": null,
@@ -62,20 +54,76 @@
             "evantubegaming"
         ],
         "features": [
-            "ANIMATED_ICON",
-            "AUTO_MODERATION",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_LARGE_GATED",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "INVITE_SPLASH",
-            "NEWS",
             "PREVIEW_ENABLED",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
             "VERIFIED",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "713613990466682880",
+        "_highlightResult": {
+            "name": {
+                "value": "Evan's Hangout",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "evantube",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "keywords": [
+                {
+                    "value": "fortnite",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "evantube",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "fun",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "evantubehd",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "youtube",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "evantubegaming",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            ]
+        }
     }
 }

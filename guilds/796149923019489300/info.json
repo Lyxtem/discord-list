@@ -6,11 +6,11 @@
     "splash": "81ed02625f9388834107f91c54d95683",
     "discovery_splash": "99765422b56d48292caefa3af8f688a6",
     "banner": "99765422b56d48292caefa3af8f688a6",
-    "approximate_presence_count": 1785,
-    "approximate_member_count": 11874,
-    "premium_subscription_count": 38,
+    "approximate_presence_count": 1123,
+    "approximate_member_count": 10548,
+    "premium_subscription_count": 6,
     "preferred_locale": "en-US",
-    "vanity_url_code": "tae",
+    "vanity_url_code": null,
     "keywords": [
         "stocks",
         "trading",
@@ -36,14 +36,14 @@
         "icon": "7d7afc89f8c1d145557b70ebffa1e21d",
         "splash": "81ed02625f9388834107f91c54d95683",
         "banner": "99765422b56d48292caefa3af8f688a6",
-        "approximate_presence_count": 1785,
-        "approximate_member_count": 11874,
-        "premium_subscription_count": 38,
+        "approximate_presence_count": 1123,
+        "approximate_member_count": 10548,
+        "premium_subscription_count": 6,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "99765422b56d48292caefa3af8f688a6",
         "primary_category_id": 12,
-        "vanity_url_code": "tae",
+        "vanity_url_code": null,
         "is_published": false,
         "keywords": [
             "stocks",
@@ -100,6 +100,16 @@
                 }
             },
             {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
+                }
+            },
+            {
                 "id": 6,
                 "is_primary": true,
                 "name": "Education",
@@ -134,16 +144,6 @@
                     "sv-SE": "Utbildning",
                     "zh-CN": "教育",
                     "zh-TW": "教育"
-                }
-            },
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
                 }
             },
             {
@@ -230,11 +230,6 @@
             },
             "description": {
                 "value": "The Last Trading Community You'll Ever Need :)",
-                "matchLevel": "none",
-                "matchedWords": []
-            },
-            "vanity_url_code": {
-                "value": "tae",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -432,6 +427,25 @@
                 },
                 {
                     "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
                         "bg": {
                             "value": "Образование",
                             "matchLevel": "none",
@@ -579,25 +593,6 @@
                         },
                         "zh-TW": {
                             "value": "教育",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
