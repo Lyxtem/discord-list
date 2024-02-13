@@ -6,36 +6,18 @@
     "splash": "514b6d0e85b42724997f203c3c84eb50",
     "discovery_splash": null,
     "banner": "285408cddb953b5e9044ec59c8228d6e",
-    "approximate_presence_count": 525,
-    "approximate_member_count": 3324,
-    "premium_subscription_count": 22,
+    "approximate_presence_count": 539,
+    "approximate_member_count": 3412,
+    "premium_subscription_count": 23,
     "preferred_locale": "en-US",
     "vanity_url_code": "marshmello",
     "keywords": [],
     "features": [
-        "ANIMATED_BANNER",
-        "ANIMATED_ICON",
-        "AUTO_MODERATION",
-        "BANNER",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "GUILD_ONBOARDING",
-        "GUILD_ONBOARDING_ADMIN_ONLY",
-        "GUILD_ONBOARDING_EVER_ENABLED",
-        "GUILD_ONBOARDING_HAS_PROMPTS",
-        "INVITE_SPLASH",
-        "MEMBER_PROFILES",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "NEWS",
         "PREVIEW_ENABLED",
-        "PRIVATE_THREADS",
-        "ROLE_ICONS",
-        "SEVEN_DAY_THREAD_ARCHIVE",
-        "SOUNDBOARD",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
         "VERIFIED"
     ],
     "partnered": false,
@@ -47,9 +29,9 @@
         "icon": "2e7f491cf6084ed6b2d2bd8007a57c42",
         "splash": "514b6d0e85b42724997f203c3c84eb50",
         "banner": "285408cddb953b5e9044ec59c8228d6e",
-        "approximate_presence_count": 525,
-        "approximate_member_count": 3324,
-        "premium_subscription_count": 22,
+        "approximate_presence_count": 539,
+        "approximate_member_count": 3412,
+        "premium_subscription_count": 23,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": null,
@@ -58,30 +40,44 @@
         "is_published": false,
         "keywords": [],
         "features": [
-            "ANIMATED_BANNER",
-            "ANIMATED_ICON",
-            "AUTO_MODERATION",
-            "BANNER",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "GUILD_ONBOARDING",
-            "GUILD_ONBOARDING_ADMIN_ONLY",
-            "GUILD_ONBOARDING_EVER_ENABLED",
-            "GUILD_ONBOARDING_HAS_PROMPTS",
-            "INVITE_SPLASH",
-            "MEMBER_PROFILES",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "NEWS",
             "PREVIEW_ENABLED",
-            "PRIVATE_THREADS",
-            "ROLE_ICONS",
-            "SEVEN_DAY_THREAD_ARCHIVE",
-            "SOUNDBOARD",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
             "VERIFIED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "1067489144563048529",
+        "_highlightResult": {
+            "name": {
+                "value": "MARSHMELLO",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "Marshmello’s Official Discord Server.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "marshmello",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }
