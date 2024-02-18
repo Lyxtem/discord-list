@@ -6,28 +6,18 @@
     "splash": null,
     "discovery_splash": null,
     "banner": "f0d2924f7dc61d90c68397eaac5a8e86",
-    "approximate_presence_count": 659,
-    "approximate_member_count": 13738,
+    "approximate_presence_count": 674,
+    "approximate_member_count": 13525,
     "premium_subscription_count": 2,
     "preferred_locale": "en-US",
     "vanity_url_code": "torettomaster",
     "keywords": null,
     "features": [
-        "ANIMATED_ICON",
-        "BANNER",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "GUILD_HOME_TEST",
-        "INVITE_SPLASH",
-        "NEWS",
         "PARTNERED",
-        "PREVIEW_ENABLED",
-        "TEXT_IN_VOICE_ENABLED",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
-        "VIP_REGIONS"
+        "PREVIEW_ENABLED"
     ],
     "partnered": true,
     "verified": false,
@@ -38,8 +28,8 @@
         "icon": "f234f15e1fb133696b5209ad49e13c81",
         "splash": null,
         "banner": "f0d2924f7dc61d90c68397eaac5a8e86",
-        "approximate_presence_count": 659,
-        "approximate_member_count": 13738,
+        "approximate_presence_count": 674,
+        "approximate_member_count": 13525,
         "premium_subscription_count": 2,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -49,21 +39,43 @@
         "is_published": false,
         "keywords": null,
         "features": [
-            "ANIMATED_ICON",
-            "BANNER",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "GUILD_HOME_TEST",
-            "INVITE_SPLASH",
-            "NEWS",
             "PARTNERED",
-            "PREVIEW_ENABLED",
-            "TEXT_IN_VOICE_ENABLED",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
-            "VIP_REGIONS"
-        ]
+            "PREVIEW_ENABLED"
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "725471534076002347",
+        "_highlightResult": {
+            "name": {
+                "value": "TorettoMasterYT",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "torettomaster",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }

@@ -6,25 +6,17 @@
     "splash": "f2ef6d409450579714dd7e8afd153032",
     "discovery_splash": "f2ef6d409450579714dd7e8afd153032",
     "banner": null,
-    "approximate_presence_count": 2071,
-    "approximate_member_count": 7702,
+    "approximate_presence_count": 2278,
+    "approximate_member_count": 7596,
     "premium_subscription_count": 1,
     "preferred_locale": "en-US",
     "vanity_url_code": "darwin",
     "keywords": null,
     "features": [
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_LARGE_UNGATED",
         "DISCOVERABLE",
         "FEATURABLE",
-        "INVITE_SPLASH",
-        "NEWS",
-        "NEW_THREAD_PERMISSIONS",
         "PREVIEW_ENABLED",
-        "SOUNDBOARD",
-        "THREADS_ENABLED",
-        "VANITY_URL",
         "VERIFIED"
     ],
     "partnered": false,
@@ -36,8 +28,8 @@
         "icon": "a_eaf7d358f965ec86414bf74701ae229a",
         "splash": "f2ef6d409450579714dd7e8afd153032",
         "banner": null,
-        "approximate_presence_count": 2071,
-        "approximate_member_count": 7702,
+        "approximate_presence_count": 2278,
+        "approximate_member_count": 7596,
         "premium_subscription_count": 1,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -47,19 +39,43 @@
         "is_published": false,
         "keywords": null,
         "features": [
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_LARGE_UNGATED",
             "DISCOVERABLE",
             "FEATURABLE",
-            "INVITE_SPLASH",
-            "NEWS",
-            "NEW_THREAD_PERMISSIONS",
             "PREVIEW_ENABLED",
-            "SOUNDBOARD",
-            "THREADS_ENABLED",
-            "VANITY_URL",
             "VERIFIED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "309438551798317066",
+        "_highlightResult": {
+            "name": {
+                "value": "Darwin Project",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "The official Darwin Project Discord. By the Scavengers Studio.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "darwin",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }
