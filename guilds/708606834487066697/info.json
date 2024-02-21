@@ -1,32 +1,33 @@
 {
     "id": "708606834487066697",
     "name": "Evercade (Official)",
-    "description": "",
+    "description": "Come chat about the Evercade retro gaming platform from Blaze on the official server!",
     "icon": "a_29ecdf71029662dd5af12d08481ac3a0",
     "splash": "0d845bf9e81920b29fc42c0db29d15d9",
     "discovery_splash": "8b5af19b6b70b51f18d1367094c9b3c9",
-    "banner": null,
-    "approximate_presence_count": 344,
-    "approximate_member_count": 2830,
-    "premium_subscription_count": 4,
+    "banner": "c7c8d74413ef32ad3077739d35b76e1d",
+    "approximate_presence_count": 503,
+    "approximate_member_count": 3326,
+    "premium_subscription_count": 9,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "evercade-official-708606834487066697",
     "keywords": [
-        "evercade",
-        "retro-gaming",
-        "retro",
-        "sega",
-        "nintendo",
         "blaze",
+        "evercade",
+        "games",
         "gaming",
         "indie-games",
-        "vs",
-        "games"
+        "nintendo",
+        "retro",
+        "retro-gaming",
+        "sega",
+        "vs"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -35,35 +36,36 @@
     "raw": {
         "id": "708606834487066697",
         "name": "Evercade (Official)",
-        "description": "",
+        "description": "Come chat about the Evercade retro gaming platform from Blaze on the official server!",
         "icon": "a_29ecdf71029662dd5af12d08481ac3a0",
         "splash": "0d845bf9e81920b29fc42c0db29d15d9",
-        "banner": null,
-        "approximate_presence_count": 344,
-        "approximate_member_count": 2830,
-        "premium_subscription_count": 4,
+        "banner": "c7c8d74413ef32ad3077739d35b76e1d",
+        "approximate_presence_count": 503,
+        "approximate_member_count": 3326,
+        "premium_subscription_count": 9,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "8b5af19b6b70b51f18d1367094c9b3c9",
         "primary_category_id": 1,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "evercade-official-708606834487066697",
+        "is_published": true,
         "keywords": [
-            "evercade",
-            "retro-gaming",
-            "retro",
-            "sega",
-            "nintendo",
             "blaze",
+            "evercade",
+            "games",
             "gaming",
             "indie-games",
-            "vs",
-            "games"
+            "nintendo",
+            "retro",
+            "retro-gaming",
+            "sega",
+            "vs"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -336,38 +338,28 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "",
+                "value": "Come chat about the Evercade retro gaming platform from Blaze on the official server!",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "evercade-official-708606834487066697",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
+                {
+                    "value": "blaze",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
                 {
                     "value": "evercade",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "retro-gaming",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "retro",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "sega",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "nintendo",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "blaze",
+                    "value": "games",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -382,12 +374,27 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "vs",
+                    "value": "nintendo",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "games",
+                    "value": "retro",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "retro-gaming",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "sega",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "vs",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

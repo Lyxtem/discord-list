@@ -5,23 +5,23 @@
     "icon": "f55398c682616df417683d3889d308e4",
     "splash": "ae6766236359b46901eb81bd9c5f5f39",
     "discovery_splash": "52969756787b52f3509b42fa854b962c",
-    "banner": "3be8c99b497cc65a0554140970845952",
-    "approximate_presence_count": 1769,
-    "approximate_member_count": 15452,
-    "premium_subscription_count": 36,
+    "banner": "48a5ecd2323cc100b76f0708bd59d751",
+    "approximate_presence_count": 1786,
+    "approximate_member_count": 15649,
+    "premium_subscription_count": 29,
     "preferred_locale": "en-US",
     "vanity_url_code": "lemoncloud",
     "keywords": [
-        "minecraft",
+        "creeper",
+        "fortnite",
+        "fun",
         "gaming",
-        "mc",
+        "lemon",
         "lemon cloud",
         "lemons",
-        "lemon",
-        "creeper",
-        "fun",
-        "tiktok",
-        "fortnite"
+        "mc",
+        "minecraft",
+        "tiktok"
     ],
     "features": [
         "COMMUNITY",
@@ -39,10 +39,10 @@
         "description": "LemonCloud is one of the oldest and biggest Minecraft servers.",
         "icon": "f55398c682616df417683d3889d308e4",
         "splash": "ae6766236359b46901eb81bd9c5f5f39",
-        "banner": "3be8c99b497cc65a0554140970845952",
-        "approximate_presence_count": 1769,
-        "approximate_member_count": 15452,
-        "premium_subscription_count": 36,
+        "banner": "48a5ecd2323cc100b76f0708bd59d751",
+        "approximate_presence_count": 1786,
+        "approximate_member_count": 15649,
+        "premium_subscription_count": 29,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "52969756787b52f3509b42fa854b962c",
@@ -50,16 +50,16 @@
         "vanity_url_code": "lemoncloud",
         "is_published": true,
         "keywords": [
-            "minecraft",
+            "creeper",
+            "fortnite",
+            "fun",
             "gaming",
-            "mc",
+            "lemon",
             "lemon cloud",
             "lemons",
-            "lemon",
-            "creeper",
-            "fun",
-            "tiktok",
-            "fortnite"
+            "mc",
+            "minecraft",
+            "tiktok"
         ],
         "features": [
             "COMMUNITY",
@@ -70,6 +70,43 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 2,
+                "is_primary": true,
+                "name": "Music",
+                "name_localizations": {
+                    "bg": "Музика",
+                    "cs": "Hudba",
+                    "da": "Musik",
+                    "de": "Musik",
+                    "el": "Μουσική",
+                    "fi": "Musiikki",
+                    "fr": "Musique",
+                    "hi": "म्यूज़िक",
+                    "hr": "Glazba",
+                    "hu": "Zene",
+                    "it": "Musica",
+                    "ja": "音楽",
+                    "ko": "음악",
+                    "lt": "Muzika",
+                    "nl": "Muziek",
+                    "no": "Musikk",
+                    "pl": "Muzyka",
+                    "ro": "Muzică",
+                    "ru": "Музыка",
+                    "th": "เพลง",
+                    "tr": "Müzik",
+                    "uk": "Музика",
+                    "vi": "Âm Nhạc",
+                    "en-GB": "Music",
+                    "en-US": "Music",
+                    "es-ES": "Música",
+                    "pt-BR": "Música",
+                    "sv-SE": "Musik",
+                    "zh-CN": "音乐",
+                    "zh-TW": "音樂"
+                }
+            },
             {
                 "id": 19,
                 "is_primary": false,
@@ -142,43 +179,6 @@
                     "sv-SE": "Rollspel",
                     "zh-CN": "跑团",
                     "zh-TW": "角色扮演"
-                }
-            },
-            {
-                "id": 2,
-                "is_primary": true,
-                "name": "Music",
-                "name_localizations": {
-                    "bg": "Музика",
-                    "cs": "Hudba",
-                    "da": "Musik",
-                    "de": "Musik",
-                    "el": "Μουσική",
-                    "fi": "Musiikki",
-                    "fr": "Musique",
-                    "hi": "म्यूज़िक",
-                    "hr": "Glazba",
-                    "hu": "Zene",
-                    "it": "Musica",
-                    "ja": "音楽",
-                    "ko": "음악",
-                    "lt": "Muzika",
-                    "nl": "Muziek",
-                    "no": "Musikk",
-                    "pl": "Muzyka",
-                    "ro": "Muzică",
-                    "ru": "Музыка",
-                    "th": "เพลง",
-                    "tr": "Müzik",
-                    "uk": "Музика",
-                    "vi": "Âm Nhạc",
-                    "en-GB": "Music",
-                    "en-US": "Music",
-                    "es-ES": "Música",
-                    "pt-BR": "Música",
-                    "sv-SE": "Musik",
-                    "zh-CN": "音乐",
-                    "zh-TW": "音樂"
                 }
             },
             {
@@ -349,7 +349,17 @@
             },
             "keywords": [
                 {
-                    "value": "minecraft",
+                    "value": "creeper",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "fortnite",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "fun",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -359,7 +369,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "mc",
+                    "value": "lemon",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -374,17 +384,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "lemon",
+                    "value": "mc",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "creeper",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "fun",
+                    "value": "minecraft",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -392,14 +397,163 @@
                     "value": "tiktok",
                     "matchLevel": "none",
                     "matchedWords": []
-                },
-                {
-                    "value": "fortnite",
-                    "matchLevel": "none",
-                    "matchedWords": []
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Музика",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Hudba",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Musik",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Musik",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Μουσική",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Musiikki",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Musique",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "म्यूज़िक",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Glazba",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Zene",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Musica",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "音楽",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "음악",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Muzika",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Muziek",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Musikk",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Muzyka",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Muzică",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Музыка",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "เพลง",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Müzik",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Музика",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Âm Nhạc",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Music",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Music",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Música",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Música",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Musik",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "音乐",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "音樂",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -703,160 +857,6 @@
                         },
                         "zh-TW": {
                             "value": "角色扮演",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Музика",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Hudba",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Musik",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Musik",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Μουσική",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Musiikki",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Musique",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "म्यूज़िक",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Glazba",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Zene",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Musica",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "音楽",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "음악",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Muzika",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Muziek",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Musikk",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Muzyka",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Muzică",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Музыка",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "เพลง",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Müzik",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Музика",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Âm Nhạc",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Music",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Music",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Música",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Música",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Musik",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "音乐",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "音樂",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

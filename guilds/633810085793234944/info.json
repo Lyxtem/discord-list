@@ -1,22 +1,26 @@
 {
     "id": "633810085793234944",
-    "name": "NBA2K Squad Finder®",
-    "description": "Largest NBA2K Discord Server",
-    "icon": "4eafbe94d9ded15d76e26a7f084f6b29",
+    "name": "NBA2K24 Squad Finder®",
+    "description": "🏀 Welcome to the Ultimate NBA 2K24 Community! 🌟",
+    "icon": "d36efb2ba92fcc0896bf7ff1c53705e5",
     "splash": "76c4a92efe84cc1edbb86fcf139ec3ae",
     "discovery_splash": "81d3b693b4489b9429f2c2e730580491",
     "banner": "ee49f0782dd4a560fc354f28f6d1caed",
-    "approximate_presence_count": 4904,
-    "approximate_member_count": 45338,
-    "premium_subscription_count": 4,
+    "approximate_presence_count": 4103,
+    "approximate_member_count": 45764,
+    "premium_subscription_count": 2,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "nba2k-squad-finder-r-633810085793234944",
     "keywords": [
         "NBA 2K Supprt",
         "NBA 2K23",
         "NBA 2K24",
         "NBA2K",
-        "nba2k24"
+        "basketball",
+        "nba2k21",
+        "nba2k22",
+        "nba2k24",
+        "nba2k25"
     ],
     "features": [
         "COMMUNITY",
@@ -30,26 +34,30 @@
     "verified": false,
     "raw": {
         "id": "633810085793234944",
-        "name": "NBA2K Squad Finder®",
-        "description": "Largest NBA2K Discord Server",
-        "icon": "4eafbe94d9ded15d76e26a7f084f6b29",
+        "name": "NBA2K24 Squad Finder®",
+        "description": "🏀 Welcome to the Ultimate NBA 2K24 Community! 🌟",
+        "icon": "d36efb2ba92fcc0896bf7ff1c53705e5",
         "splash": "76c4a92efe84cc1edbb86fcf139ec3ae",
         "banner": "ee49f0782dd4a560fc354f28f6d1caed",
-        "approximate_presence_count": 4904,
-        "approximate_member_count": 45338,
-        "premium_subscription_count": 4,
+        "approximate_presence_count": 4103,
+        "approximate_member_count": 45764,
+        "premium_subscription_count": 2,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "81d3b693b4489b9429f2c2e730580491",
         "primary_category_id": 1,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "nba2k-squad-finder-r-633810085793234944",
+        "is_published": true,
         "keywords": [
             "NBA 2K Supprt",
             "NBA 2K23",
             "NBA 2K24",
             "NBA2K",
-            "nba2k24"
+            "basketball",
+            "nba2k21",
+            "nba2k22",
+            "nba2k24",
+            "nba2k25"
         ],
         "features": [
             "COMMUNITY",
@@ -95,6 +103,43 @@
                     "sv-SE": "E-sport",
                     "zh-CN": "电子竞技",
                     "zh-TW": "電競"
+                }
+            },
+            {
+                "id": 30,
+                "is_primary": false,
+                "name": "LFG",
+                "name_localizations": {
+                    "bg": "LFG",
+                    "cs": "LFG",
+                    "da": "LFG",
+                    "de": "Gruppensuche",
+                    "el": "LFG",
+                    "fi": "Ryhmähaku",
+                    "fr": "LFG",
+                    "hi": "LFG",
+                    "hr": "LFG",
+                    "hu": "LFG",
+                    "it": "LFG",
+                    "ja": "グループ検索",
+                    "ko": "그룹 찾기",
+                    "lt": "Grupės paieškos",
+                    "nl": "LFG",
+                    "no": "LFG",
+                    "pl": "Szukanie grupy",
+                    "ro": "LFG",
+                    "ru": "Поиск группы",
+                    "th": "LFG",
+                    "tr": "Grup Arama",
+                    "uk": "Пошук гільдії",
+                    "vi": "LFG",
+                    "en-GB": "LFG",
+                    "en-US": "LFG",
+                    "es-ES": "LFG",
+                    "pt-BR": "PG",
+                    "sv-SE": "Letar efter grupp (LFG)",
+                    "zh-CN": "找同好（LFG）",
+                    "zh-TW": "LFG"
                 }
             },
             {
@@ -222,12 +267,17 @@
         "objectID": "633810085793234944",
         "_highlightResult": {
             "name": {
-                "value": "NBA2K Squad Finder®",
+                "value": "NBA2K24 Squad Finder®",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "description": {
-                "value": "Largest NBA2K Discord Server",
+                "value": "🏀 Welcome to the Ultimate NBA 2K24 Community! 🌟",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "nba2k-squad-finder-r-633810085793234944",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -253,7 +303,27 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "basketball",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "nba2k21",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "nba2k22",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "nba2k24",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "nba2k25",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
@@ -408,6 +478,160 @@
                         },
                         "zh-TW": {
                             "value": "電競",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Gruppensuche",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Ryhmähaku",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "グループ検索",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "그룹 찾기",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Grupės paieškos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Szukanie grupy",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Поиск группы",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Grup Arama",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Пошук гільдії",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "PG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Letar efter grupp (LFG)",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "找同好（LFG）",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

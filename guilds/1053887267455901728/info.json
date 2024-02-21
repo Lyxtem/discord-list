@@ -1,20 +1,22 @@
 {
     "id": "1053887267455901728",
     "name": "Subliminal",
-    "description": "Subliminal is a real-time software raytraced game based on the concept of liminal spaces. (Demo has released!)",
-    "icon": "d88ea076f784eee4c1550dd22fbb5782",
-    "splash": "5c5793821e251eb729b622a7c5c7b2f6",
-    "discovery_splash": "5ed55da69d90567587ed6e982204b509",
+    "description": "Subliminal is a real-time software raytraced game based on the concept of liminal spaces and the Backrooms.",
+    "icon": "240505be2537e1423952c6ea2ff33a48",
+    "splash": "d88ea076f784eee4c1550dd22fbb5782",
+    "discovery_splash": "707d0db983edf1ee6b9324e81af87468",
     "banner": "a_43ec31afa784b03532488eb88040553d",
-    "approximate_presence_count": 4237,
-    "approximate_member_count": 11823,
-    "premium_subscription_count": 28,
+    "approximate_presence_count": 3853,
+    "approximate_member_count": 11999,
+    "premium_subscription_count": 24,
     "preferred_locale": "en-US",
     "vanity_url_code": "subliminal",
     "keywords": [
+        "backroom",
         "backrooms",
         "game development",
         "gaming",
+        "liminal",
         "puzzle",
         "subliminal",
         "unrealengine"
@@ -32,23 +34,25 @@
     "raw": {
         "id": "1053887267455901728",
         "name": "Subliminal",
-        "description": "Subliminal is a real-time software raytraced game based on the concept of liminal spaces. (Demo has released!)",
-        "icon": "d88ea076f784eee4c1550dd22fbb5782",
-        "splash": "5c5793821e251eb729b622a7c5c7b2f6",
+        "description": "Subliminal is a real-time software raytraced game based on the concept of liminal spaces and the Backrooms.",
+        "icon": "240505be2537e1423952c6ea2ff33a48",
+        "splash": "d88ea076f784eee4c1550dd22fbb5782",
         "banner": "a_43ec31afa784b03532488eb88040553d",
-        "approximate_presence_count": 4237,
-        "approximate_member_count": 11823,
-        "premium_subscription_count": 28,
+        "approximate_presence_count": 3853,
+        "approximate_member_count": 11999,
+        "premium_subscription_count": 24,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "5ed55da69d90567587ed6e982204b509",
+        "discovery_splash": "707d0db983edf1ee6b9324e81af87468",
         "primary_category_id": 1,
         "vanity_url_code": "subliminal",
         "is_published": true,
         "keywords": [
+            "backroom",
             "backrooms",
             "game development",
             "gaming",
+            "liminal",
             "puzzle",
             "subliminal",
             "unrealengine"
@@ -256,7 +260,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Subliminal is a real-time software raytraced game based on the concept of liminal spaces. (Demo has released!)",
+                "value": "Subliminal is a real-time software raytraced game based on the concept of liminal spaces and the Backrooms.",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -266,6 +270,11 @@
                 "matchedWords": []
             },
             "keywords": [
+                {
+                    "value": "backroom",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
                 {
                     "value": "backrooms",
                     "matchLevel": "none",
@@ -278,6 +287,11 @@
                 },
                 {
                     "value": "gaming",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "liminal",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
