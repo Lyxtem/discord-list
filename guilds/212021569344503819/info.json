@@ -4,18 +4,18 @@
     "description": "Servidor de MisrraVB, hace directos y videitos de League of legends",
     "icon": "dd9eb7c910ea188e756a3fdea62a32fd",
     "splash": "3fe7f8ccbc41066afd8a061a44c2e0ec",
-    "discovery_splash": null,
+    "discovery_splash": "440ebc8c4f8e330d547c35798ec1f4f4",
     "banner": "538b0c70ed3cc3b65649c47f7729a282",
-    "approximate_presence_count": 2552,
-    "approximate_member_count": 14993,
-    "premium_subscription_count": 28,
+    "approximate_presence_count": 3136,
+    "approximate_member_count": 15037,
+    "premium_subscription_count": 26,
     "preferred_locale": "es-ES",
     "vanity_url_code": "misrravb",
     "keywords": [
-        "youtube",
-        "twitch",
         "comunidad",
-        "juegos"
+        "juegos",
+        "twitch",
+        "youtube"
     ],
     "features": [
         "COMMUNITY",
@@ -34,20 +34,20 @@
         "icon": "dd9eb7c910ea188e756a3fdea62a32fd",
         "splash": "3fe7f8ccbc41066afd8a061a44c2e0ec",
         "banner": "538b0c70ed3cc3b65649c47f7729a282",
-        "approximate_presence_count": 2552,
-        "approximate_member_count": 14993,
-        "premium_subscription_count": 28,
+        "approximate_presence_count": 3136,
+        "approximate_member_count": 15037,
+        "premium_subscription_count": 26,
         "preferred_locale": "es-ES",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "440ebc8c4f8e330d547c35798ec1f4f4",
         "primary_category_id": 13,
         "vanity_url_code": "misrravb",
         "is_published": false,
         "keywords": [
-            "youtube",
-            "twitch",
             "comunidad",
-            "juegos"
+            "juegos",
+            "twitch",
+            "youtube"
         ],
         "features": [
             "COMMUNITY",
@@ -283,7 +283,12 @@
             },
             "keywords": [
                 {
-                    "value": "youtube",
+                    "value": "comunidad",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "juegos",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -293,12 +298,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "comunidad",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "juegos",
+                    "value": "youtube",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
