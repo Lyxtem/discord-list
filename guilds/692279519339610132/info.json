@@ -4,22 +4,22 @@
     "description": "We are an active server dedicated to ever-so-busy students who need a little push now and then to start studying.",
     "icon": "a_93c5e7dc499f3f1caa76d3cfe92a9735",
     "splash": "f33c74c4fe8899b2bc633aabf2c87d2f",
-    "discovery_splash": "2625050426427297f82535a60252920c",
+    "discovery_splash": "606b72ce06b8a49b9218cbdd6d3bc06c",
     "banner": "9d72e40eb3bbb7665cd48e97fcc1a4c0",
-    "approximate_presence_count": 832,
-    "approximate_member_count": 4640,
+    "approximate_presence_count": 835,
+    "approximate_member_count": 4660,
     "premium_subscription_count": 29,
     "preferred_locale": "en-US",
     "vanity_url_code": "studybuddies",
     "keywords": [
-        "study",
-        "studying",
         "education",
-        "school",
+        "inspiration",
         "motivation",
+        "school",
         "student",
         "students",
-        "inspiration"
+        "study",
+        "studying"
     ],
     "features": [
         "COMMUNITY",
@@ -39,24 +39,24 @@
         "icon": "a_93c5e7dc499f3f1caa76d3cfe92a9735",
         "splash": "f33c74c4fe8899b2bc633aabf2c87d2f",
         "banner": "9d72e40eb3bbb7665cd48e97fcc1a4c0",
-        "approximate_presence_count": 832,
-        "approximate_member_count": 4640,
+        "approximate_presence_count": 835,
+        "approximate_member_count": 4660,
         "premium_subscription_count": 29,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "2625050426427297f82535a60252920c",
+        "discovery_splash": "606b72ce06b8a49b9218cbdd6d3bc06c",
         "primary_category_id": 6,
         "vanity_url_code": "studybuddies",
         "is_published": true,
         "keywords": [
-            "study",
-            "studying",
             "education",
-            "school",
+            "inspiration",
             "motivation",
+            "school",
             "student",
             "students",
-            "inspiration"
+            "study",
+            "studying"
         ],
         "features": [
             "COMMUNITY",
@@ -310,27 +310,22 @@
             },
             "keywords": [
                 {
-                    "value": "study",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "studying",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "education",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "school",
+                    "value": "inspiration",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "motivation",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "school",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -345,7 +340,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "inspiration",
+                    "value": "study",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "studying",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
