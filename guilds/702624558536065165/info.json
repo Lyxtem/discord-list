@@ -1,26 +1,26 @@
 {
     "id": "702624558536065165",
     "name": "Learn AI Together",
-    "description": "Learn & build AI. Technical Q&A, tutorials, collabs, events, model bots.. ML, NLP, Generative AI (Midjourney, ChatGPT)..",
+    "description": "Learn & build AI. Technical Q&A, tutorials, collabs, events, RAG, ML, NLP, Generative AI (Midjourney, ChatGPT, Gemini)..",
     "icon": "45ead1aa8f644611ec60797a286994e7",
     "splash": "e9db3556f5586d95dfab26f964ae9341",
     "discovery_splash": "e9db3556f5586d95dfab26f964ae9341",
     "banner": "e9db3556f5586d95dfab26f964ae9341",
-    "approximate_presence_count": 4740,
-    "approximate_member_count": 56992,
-    "premium_subscription_count": 16,
+    "approximate_presence_count": 4240,
+    "approximate_member_count": 58285,
+    "premium_subscription_count": 15,
     "preferred_locale": "en-US",
     "vanity_url_code": "learnaitogether",
     "keywords": [
         "artificial intelligence",
-        "machine learning",
         "data science",
         "deep learning",
-        "ml",
-        "dl",
-        "programming",
-        "nlp",
         "gpt",
+        "machine learning",
+        "ml",
+        "nlp",
+        "programming",
+        "rag",
         "transformer"
     ],
     "features": [
@@ -37,13 +37,13 @@
     "raw": {
         "id": "702624558536065165",
         "name": "Learn AI Together",
-        "description": "Learn & build AI. Technical Q&A, tutorials, collabs, events, model bots.. ML, NLP, Generative AI (Midjourney, ChatGPT)..",
+        "description": "Learn & build AI. Technical Q&A, tutorials, collabs, events, RAG, ML, NLP, Generative AI (Midjourney, ChatGPT, Gemini)..",
         "icon": "45ead1aa8f644611ec60797a286994e7",
         "splash": "e9db3556f5586d95dfab26f964ae9341",
         "banner": "e9db3556f5586d95dfab26f964ae9341",
-        "approximate_presence_count": 4740,
-        "approximate_member_count": 56992,
-        "premium_subscription_count": 16,
+        "approximate_presence_count": 4240,
+        "approximate_member_count": 58285,
+        "premium_subscription_count": 15,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "e9db3556f5586d95dfab26f964ae9341",
@@ -52,14 +52,14 @@
         "is_published": true,
         "keywords": [
             "artificial intelligence",
-            "machine learning",
             "data science",
             "deep learning",
-            "ml",
-            "dl",
-            "programming",
-            "nlp",
             "gpt",
+            "machine learning",
+            "ml",
+            "nlp",
+            "programming",
+            "rag",
             "transformer"
         ],
         "features": [
@@ -303,7 +303,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Learn & build AI. Technical Q&A, tutorials, collabs, events, model bots.. ML, NLP, Generative AI (Midjourney, ChatGPT)..",
+                "value": "Learn & build AI. Technical Q&A, tutorials, collabs, events, RAG, ML, NLP, Generative AI (Midjourney, ChatGPT, Gemini)..",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -319,11 +319,6 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "machine learning",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "data science",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -334,17 +329,17 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "gpt",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "machine learning",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "ml",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "dl",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "programming",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -354,7 +349,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "gpt",
+                    "value": "programming",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "rag",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
