@@ -6,33 +6,19 @@
     "splash": "cdf4a04bfa07b19418aa32de884a733e",
     "discovery_splash": null,
     "banner": null,
-    "approximate_presence_count": 752,
-    "approximate_member_count": 12812,
-    "premium_subscription_count": 5,
+    "approximate_presence_count": 620,
+    "approximate_member_count": 12737,
+    "premium_subscription_count": 3,
     "preferred_locale": "ru",
     "vanity_url_code": "desertod",
     "keywords": null,
     "features": [
-        "ANIMATED_ICON",
-        "AUTO_MODERATION",
-        "BANNER",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_LARGE_GATED",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "INVITE_SPLASH",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "NEWS",
-        "NEW_THREAD_PERMISSIONS",
         "PARTNERED",
         "PREVIEW_ENABLED",
-        "SOUNDBOARD",
-        "TEXT_IN_VOICE_ENABLED",
-        "THREADS_ENABLED",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
-        "VIP_REGIONS",
         "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": true,
@@ -44,9 +30,9 @@
         "icon": "a_0e2457fb057e60292a44862b57f9eaf9",
         "splash": "cdf4a04bfa07b19418aa32de884a733e",
         "banner": null,
-        "approximate_presence_count": 752,
-        "approximate_member_count": 12812,
-        "premium_subscription_count": 5,
+        "approximate_presence_count": 620,
+        "approximate_member_count": 12737,
+        "premium_subscription_count": 3,
         "preferred_locale": "ru",
         "auto_removed": false,
         "discovery_splash": null,
@@ -55,27 +41,45 @@
         "is_published": false,
         "keywords": null,
         "features": [
-            "ANIMATED_ICON",
-            "AUTO_MODERATION",
-            "BANNER",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_LARGE_GATED",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "INVITE_SPLASH",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "NEWS",
-            "NEW_THREAD_PERMISSIONS",
             "PARTNERED",
             "PREVIEW_ENABLED",
-            "SOUNDBOARD",
-            "TEXT_IN_VOICE_ENABLED",
-            "THREADS_ENABLED",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
-            "VIP_REGIONS",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "253603911087161344",
+        "_highlightResult": {
+            "name": {
+                "value": "Упокои DeSeRtod'a",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "desertod",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }

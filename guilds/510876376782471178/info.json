@@ -6,25 +6,17 @@
     "splash": "ccf829c2080c5cd88528b22026d8cc28",
     "discovery_splash": "9708bff3c4479d33aa04d70b4e3b1a81",
     "banner": null,
-    "approximate_presence_count": 56,
-    "approximate_member_count": 16100,
+    "approximate_presence_count": 113,
+    "approximate_member_count": 15975,
     "premium_subscription_count": 0,
     "preferred_locale": "pl",
     "vanity_url_code": "gametvpolska",
     "keywords": [],
     "features": [
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_LARGE_UNGATED",
         "DISCOVERABLE",
         "FEATURABLE",
-        "INVITE_SPLASH",
-        "NEWS",
-        "NEW_THREAD_PERMISSIONS",
         "PREVIEW_ENABLED",
-        "SOUNDBOARD",
-        "THREADS_ENABLED",
-        "VANITY_URL",
         "VERIFIED"
     ],
     "partnered": false,
@@ -36,8 +28,8 @@
         "icon": "79608511c1fa1b7bc08431496d8504de",
         "splash": "ccf829c2080c5cd88528b22026d8cc28",
         "banner": null,
-        "approximate_presence_count": 56,
-        "approximate_member_count": 16100,
+        "approximate_presence_count": 113,
+        "approximate_member_count": 15975,
         "premium_subscription_count": 0,
         "preferred_locale": "pl",
         "auto_removed": false,
@@ -47,19 +39,43 @@
         "is_published": false,
         "keywords": [],
         "features": [
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_LARGE_UNGATED",
             "DISCOVERABLE",
             "FEATURABLE",
-            "INVITE_SPLASH",
-            "NEWS",
-            "NEW_THREAD_PERMISSIONS",
             "PREVIEW_ENABLED",
-            "SOUNDBOARD",
-            "THREADS_ENABLED",
-            "VANITY_URL",
             "VERIFIED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "510876376782471178",
+        "_highlightResult": {
+            "name": {
+                "value": "game.tv Polska",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "Oficjalny polski serwer Discord Game.tv!",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "gametvpolska",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }
