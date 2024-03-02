@@ -6,19 +6,19 @@
     "splash": "f0af801690afb811ad24a0b2dca0fa7d",
     "discovery_splash": null,
     "banner": null,
-    "approximate_presence_count": 929,
-    "approximate_member_count": 2928,
-    "premium_subscription_count": 1,
+    "approximate_presence_count": 879,
+    "approximate_member_count": 2869,
+    "premium_subscription_count": 0,
     "preferred_locale": "en-GB",
     "vanity_url_code": null,
     "keywords": [
-        "smash",
-        "uk",
         "competitive",
-        "tournament",
-        "nintendo",
         "esports",
-        "twitch"
+        "nintendo",
+        "smash",
+        "tournament",
+        "twitch",
+        "uk"
     ],
     "features": [
         "COMMUNITY",
@@ -36,9 +36,9 @@
         "icon": "a_7ef8eea7496a949a484c60be6b2ce829",
         "splash": "f0af801690afb811ad24a0b2dca0fa7d",
         "banner": null,
-        "approximate_presence_count": 929,
-        "approximate_member_count": 2928,
-        "premium_subscription_count": 1,
+        "approximate_presence_count": 879,
+        "approximate_member_count": 2869,
+        "premium_subscription_count": 0,
         "preferred_locale": "en-GB",
         "auto_removed": false,
         "discovery_splash": null,
@@ -46,13 +46,13 @@
         "vanity_url_code": null,
         "is_published": false,
         "keywords": [
-            "smash",
-            "uk",
             "competitive",
-            "tournament",
-            "nintendo",
             "esports",
-            "twitch"
+            "nintendo",
+            "smash",
+            "tournament",
+            "twitch",
+            "uk"
         ],
         "features": [
             "COMMUNITY",
@@ -262,27 +262,7 @@
             },
             "keywords": [
                 {
-                    "value": "smash",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "uk",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "competitive",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "tournament",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "nintendo",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -292,7 +272,27 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "nintendo",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "smash",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "tournament",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "twitch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "uk",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
