@@ -6,21 +6,22 @@
     "splash": "cd9c04b6a0171c6969b22947d9b93534",
     "discovery_splash": "cd9c04b6a0171c6969b22947d9b93534",
     "banner": "93d74f93dbcafc53b54ec8215475535b",
-    "approximate_presence_count": 28014,
-    "approximate_member_count": 73823,
+    "approximate_presence_count": 32347,
+    "approximate_member_count": 73886,
     "premium_subscription_count": 37,
     "preferred_locale": "en-US",
     "vanity_url_code": "classicdruid",
     "keywords": [
-        "wow",
+        "blizzard",
+        "burning crusade",
+        "cata",
         "class",
+        "mmo",
         "tbc",
         "warcraft",
-        "wrath",
         "world of warcraft",
-        "burning crusade",
-        "mmo",
-        "blizzard"
+        "wow",
+        "wrath"
     ],
     "features": [
         "COMMUNITY",
@@ -39,8 +40,8 @@
         "icon": "a_829ed60aa303ed2815076fb4bcfabfe4",
         "splash": "cd9c04b6a0171c6969b22947d9b93534",
         "banner": "93d74f93dbcafc53b54ec8215475535b",
-        "approximate_presence_count": 28014,
-        "approximate_member_count": 73823,
+        "approximate_presence_count": 32347,
+        "approximate_member_count": 73886,
         "premium_subscription_count": 37,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -49,15 +50,16 @@
         "vanity_url_code": "classicdruid",
         "is_published": false,
         "keywords": [
-            "wow",
+            "blizzard",
+            "burning crusade",
+            "cata",
             "class",
+            "mmo",
             "tbc",
             "warcraft",
-            "wrath",
             "world of warcraft",
-            "burning crusade",
-            "mmo",
-            "blizzard"
+            "wow",
+            "wrath"
         ],
         "features": [
             "COMMUNITY",
@@ -310,12 +312,27 @@
             },
             "keywords": [
                 {
-                    "value": "wow",
+                    "value": "blizzard",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "burning crusade",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "cata",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "class",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "mmo",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -330,27 +347,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "wrath",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "world of warcraft",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "burning crusade",
+                    "value": "wow",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "mmo",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "blizzard",
+                    "value": "wrath",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
