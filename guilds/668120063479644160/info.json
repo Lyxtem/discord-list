@@ -6,11 +6,11 @@
     "splash": "f0f9aecff07e9613ce2e4787a3d9bce9",
     "discovery_splash": "f3e75324afc531d432907d5a715c261d",
     "banner": "aae8b6380375b35df8f4dd23939b8805",
-    "approximate_presence_count": 5027,
-    "approximate_member_count": 20258,
-    "premium_subscription_count": 14,
+    "approximate_presence_count": 4198,
+    "approximate_member_count": 20250,
+    "premium_subscription_count": 15,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "counterside",
     "keywords": [
         "Counter: Side",
         "CounterSide"
@@ -32,14 +32,14 @@
         "icon": "01917e75afff562b3fb5c880be806421",
         "splash": "f0f9aecff07e9613ce2e4787a3d9bce9",
         "banner": "aae8b6380375b35df8f4dd23939b8805",
-        "approximate_presence_count": 5027,
-        "approximate_member_count": 20258,
-        "premium_subscription_count": 14,
+        "approximate_presence_count": 4198,
+        "approximate_member_count": 20250,
+        "premium_subscription_count": 15,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "f3e75324afc531d432907d5a715c261d",
         "primary_category_id": 1,
-        "vanity_url_code": null,
+        "vanity_url_code": "counterside",
         "is_published": false,
         "keywords": [
             "Counter: Side",
@@ -212,6 +212,11 @@
             },
             "description": {
                 "value": "Community run Discord for the mobile game Counter: Side",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "counterside",
                 "matchLevel": "none",
                 "matchedWords": []
             },

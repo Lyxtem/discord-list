@@ -6,17 +6,17 @@
     "splash": "d020e8d2b8b0a5cc38b8d50e1a512bd1",
     "discovery_splash": "47705ee8462f2c01b945853dcc353dcf",
     "banner": null,
-    "approximate_presence_count": 526,
-    "approximate_member_count": 1915,
-    "premium_subscription_count": 2,
+    "approximate_presence_count": 504,
+    "approximate_member_count": 2168,
+    "premium_subscription_count": 4,
     "preferred_locale": "en-US",
     "vanity_url_code": "duel-masters-267288550033195028",
     "keywords": [
-        "Duel Masters",
-        "Kaijudo",
-        "Duema",
         "DMP",
-        "Duelmasters"
+        "Duel Masters",
+        "Duelmasters",
+        "Duema",
+        "Kaijudo"
     ],
     "features": [
         "COMMUNITY",
@@ -35,9 +35,9 @@
         "icon": "09b5ff030cd4cd6bcfd3b84be888e4f8",
         "splash": "d020e8d2b8b0a5cc38b8d50e1a512bd1",
         "banner": null,
-        "approximate_presence_count": 526,
-        "approximate_member_count": 1915,
-        "premium_subscription_count": 2,
+        "approximate_presence_count": 504,
+        "approximate_member_count": 2168,
+        "premium_subscription_count": 4,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "47705ee8462f2c01b945853dcc353dcf",
@@ -45,11 +45,11 @@
         "vanity_url_code": "duel-masters-267288550033195028",
         "is_published": true,
         "keywords": [
-            "Duel Masters",
-            "Kaijudo",
-            "Duema",
             "DMP",
-            "Duelmasters"
+            "Duel Masters",
+            "Duelmasters",
+            "Duema",
+            "Kaijudo"
         ],
         "features": [
             "COMMUNITY",
@@ -98,43 +98,6 @@
                 }
             },
             {
-                "id": 44,
-                "is_primary": false,
-                "name": "Comics & Cartoons",
-                "name_localizations": {
-                    "bg": "Комикси и рисувани герои",
-                    "cs": "Komiksy",
-                    "da": "Tegneserier og tegnefilm",
-                    "de": "Comics & Cartoons",
-                    "el": "Κόμικς & Καρτούν",
-                    "fi": "Sarjakuvat ja piirretyt",
-                    "fr": "BD et dessins animés",
-                    "hi": "कॉमिक्स और कार्टून",
-                    "hr": "Strip i karikature",
-                    "hu": "Képregények és rajzfilmek",
-                    "it": "Cartoni e fumetti",
-                    "ja": "漫画&カートゥーン",
-                    "ko": "만화",
-                    "lt": "Komiksai ir karikatūros",
-                    "nl": "Strips en cartoons",
-                    "no": "Tegneserier og tegnefilmer",
-                    "pl": "Komiksy i kreskówki",
-                    "ro": "Benzi desenate și desene animate",
-                    "ru": "Комиксы и мультфильмы",
-                    "th": "คอมมิกและการ์ตูน",
-                    "tr": "Çizgi Roman ve Filmler",
-                    "uk": "Комікси та мультфільми",
-                    "vi": "Truyện Tranh và Hoạt Hình",
-                    "en-GB": "Comics & Cartoons",
-                    "en-US": "Comics & Cartoons",
-                    "es-ES": "Cómics y dibujos animados",
-                    "pt-BR": "Quadrinhos e Desenhos Animados",
-                    "sv-SE": "Serietidningar och tecknade serier",
-                    "zh-CN": "漫画&卡通",
-                    "zh-TW": "漫畫與卡通"
-                }
-            },
-            {
                 "id": 24,
                 "is_primary": false,
                 "name": "Tabletop Games",
@@ -169,6 +132,43 @@
                     "sv-SE": "Bordsspel",
                     "zh-CN": "桌游",
                     "zh-TW": "桌遊"
+                }
+            },
+            {
+                "id": 44,
+                "is_primary": false,
+                "name": "Comics & Cartoons",
+                "name_localizations": {
+                    "bg": "Комикси и рисувани герои",
+                    "cs": "Komiksy",
+                    "da": "Tegneserier og tegnefilm",
+                    "de": "Comics & Cartoons",
+                    "el": "Κόμικς & Καρτούν",
+                    "fi": "Sarjakuvat ja piirretyt",
+                    "fr": "BD et dessins animés",
+                    "hi": "कॉमिक्स और कार्टून",
+                    "hr": "Strip i karikature",
+                    "hu": "Képregények és rajzfilmek",
+                    "it": "Cartoni e fumetti",
+                    "ja": "漫画&カートゥーン",
+                    "ko": "만화",
+                    "lt": "Komiksai ir karikatūros",
+                    "nl": "Strips en cartoons",
+                    "no": "Tegneserier og tegnefilmer",
+                    "pl": "Komiksy i kreskówki",
+                    "ro": "Benzi desenate și desene animate",
+                    "ru": "Комиксы и мультфильмы",
+                    "th": "คอมมิกและการ์ตูน",
+                    "tr": "Çizgi Roman ve Filmler",
+                    "uk": "Комікси та мультфільми",
+                    "vi": "Truyện Tranh và Hoạt Hình",
+                    "en-GB": "Comics & Cartoons",
+                    "en-US": "Comics & Cartoons",
+                    "es-ES": "Cómics y dibujos animados",
+                    "pt-BR": "Quadrinhos e Desenhos Animados",
+                    "sv-SE": "Serietidningar och tecknade serier",
+                    "zh-CN": "漫画&卡通",
+                    "zh-TW": "漫畫與卡通"
                 }
             },
             {
@@ -265,12 +265,17 @@
             },
             "keywords": [
                 {
+                    "value": "DMP",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "Duel Masters",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "Kaijudo",
+                    "value": "Duelmasters",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -280,12 +285,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "DMP",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "Duelmasters",
+                    "value": "Kaijudo",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
@@ -448,160 +448,6 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Комикси и рисувани герои",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Komiksy",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Tegneserier og tegnefilm",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Comics & Cartoons",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Κόμικς & Καρτούν",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Sarjakuvat ja piirretyt",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "BD et dessins animés",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "कॉमिक्स और कार्टून",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Strip i karikature",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Képregények és rajzfilmek",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Cartoni e fumetti",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "漫画&カートゥーン",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "만화",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Komiksai ir karikatūros",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Strips en cartoons",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Tegneserier og tegnefilmer",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Komiksy i kreskówki",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Benzi desenate și desene animate",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Комиксы и мультфильмы",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "คอมมิกและการ์ตูน",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Çizgi Roman ve Filmler",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Комікси та мультфільми",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Truyện Tranh và Hoạt Hình",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Comics & Cartoons",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Comics & Cartoons",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Cómics y dibujos animados",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Quadrinhos e Desenhos Animados",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Serietidningar och tecknade serier",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "漫画&卡通",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "漫畫與卡通",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
                             "value": "Настолни игри",
                             "matchLevel": "none",
                             "matchedWords": []
@@ -748,6 +594,160 @@
                         },
                         "zh-TW": {
                             "value": "桌遊",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Комикси и рисувани герои",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Komiksy",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Tegneserier og tegnefilm",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Comics & Cartoons",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Κόμικς & Καρτούν",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Sarjakuvat ja piirretyt",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "BD et dessins animés",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "कॉमिक्स और कार्टून",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Strip i karikature",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Képregények és rajzfilmek",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Cartoni e fumetti",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "漫画&カートゥーン",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "만화",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Komiksai ir karikatūros",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Strips en cartoons",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Tegneserier og tegnefilmer",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Komiksy i kreskówki",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Benzi desenate și desene animate",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Комиксы и мультфильмы",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "คอมมิกและการ์ตูน",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Çizgi Roman ve Filmler",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Комікси та мультфільми",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Truyện Tranh và Hoạt Hình",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Comics & Cartoons",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Comics & Cartoons",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Cómics y dibujos animados",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Quadrinhos e Desenhos Animados",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Serietidningar och tecknade serier",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "漫画&卡通",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "漫畫與卡通",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
