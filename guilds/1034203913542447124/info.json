@@ -1,14 +1,14 @@
 {
     "id": "1034203913542447124",
-    "name": "History Hub",
-    "description": "History hub is server based on politics, history, geography, and more! Debate and rant about the aforementioned topics!",
-    "icon": "a_60c383a22033909723843dce1a76036b",
-    "splash": "17da95e7ada699458525576d4cc04064",
-    "discovery_splash": "106fcd40f571dcc3b7f241b33694fac4",
+    "name": "Mapping Community",
+    "description": "Geotubers Club is server based on politics, history, geography, and more! Debate about the aforementioned topics!",
+    "icon": "a_8ef703f895dd03e65b67c04a0b3c38e7",
+    "splash": "fac177d35ca5d287d1b4fc0cc13136b8",
+    "discovery_splash": null,
     "banner": "a_e217a1a23ac2641535d043c177dce1dc",
-    "approximate_presence_count": 194,
-    "approximate_member_count": 1761,
-    "premium_subscription_count": 2,
+    "approximate_presence_count": 119,
+    "approximate_member_count": 1501,
+    "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
     "keywords": [
@@ -34,17 +34,17 @@
     "verified": false,
     "raw": {
         "id": "1034203913542447124",
-        "name": "History Hub",
-        "description": "History hub is server based on politics, history, geography, and more! Debate and rant about the aforementioned topics!",
-        "icon": "a_60c383a22033909723843dce1a76036b",
-        "splash": "17da95e7ada699458525576d4cc04064",
+        "name": "Mapping Community",
+        "description": "Geotubers Club is server based on politics, history, geography, and more! Debate about the aforementioned topics!",
+        "icon": "a_8ef703f895dd03e65b67c04a0b3c38e7",
+        "splash": "fac177d35ca5d287d1b4fc0cc13136b8",
         "banner": "a_e217a1a23ac2641535d043c177dce1dc",
-        "approximate_presence_count": 194,
-        "approximate_member_count": 1761,
-        "premium_subscription_count": 2,
+        "approximate_presence_count": 119,
+        "approximate_member_count": 1501,
+        "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "106fcd40f571dcc3b7f241b33694fac4",
+        "discovery_splash": null,
         "primary_category_id": 13,
         "vanity_url_code": null,
         "is_published": false,
@@ -116,6 +116,43 @@
                 }
             },
             {
+                "id": 19,
+                "is_primary": false,
+                "name": "Art",
+                "name_localizations": {
+                    "bg": "Изкуство",
+                    "cs": "Umění",
+                    "da": "Kunst",
+                    "de": "Kunst",
+                    "el": "Τέχνη",
+                    "fi": "Taide",
+                    "fr": "Art",
+                    "hi": "आर्ट",
+                    "hr": "Umjetnost",
+                    "hu": "Művészet",
+                    "it": "Arte",
+                    "ja": "アート",
+                    "ko": "예술",
+                    "lt": "Menas",
+                    "nl": "Kunst",
+                    "no": "Kunst",
+                    "pl": "Sztuka",
+                    "ro": "Artă",
+                    "ru": "Творчество",
+                    "th": "ศิลปะ",
+                    "tr": "Sanat",
+                    "uk": "Мистецтво",
+                    "vi": "Nghệ Thuật",
+                    "en-GB": "Art",
+                    "en-US": "Art",
+                    "es-ES": "Arte",
+                    "pt-BR": "Arte",
+                    "sv-SE": "Konst",
+                    "zh-CN": "艺术",
+                    "zh-TW": "藝術"
+                }
+            },
+            {
                 "id": 14,
                 "is_primary": true,
                 "name": "General Chatting",
@@ -176,12 +213,12 @@
         "objectID": "1034203913542447124",
         "_highlightResult": {
             "name": {
-                "value": "History Hub",
+                "value": "Mapping Community",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "description": {
-                "value": "History hub is server based on politics, history, geography, and more! Debate and rant about the aforementioned topics!",
+                "value": "Geotubers Club is server based on politics, history, geography, and more! Debate about the aforementioned topics!",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -401,6 +438,160 @@
                         },
                         "zh-TW": {
                             "value": "動畫與漫畫",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Изкуство",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Umění",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Kunst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Kunst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Τέχνη",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Taide",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Art",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "आर्ट",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Umjetnost",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Művészet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Arte",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "アート",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "예술",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Menas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Kunst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Kunst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Sztuka",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Artă",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Творчество",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ศิลปะ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Sanat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Мистецтво",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Nghệ Thuật",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Art",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Art",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Arte",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Arte",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Konst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "艺术",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "藝術",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

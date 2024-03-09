@@ -1,24 +1,24 @@
 {
     "id": "343801441095516160",
     "name": "N9 Community Server",
-    "description": "Space Exploration, Gaming & Chill!",
-    "icon": "de248532b29ca52eddd6ad00d7addc26",
+    "description": "",
+    "icon": "ee2516cb107c2e640c469d5430d06c0f",
     "splash": "3cbb33ab12899b77c944aa1900638613",
     "discovery_splash": "d44ceb065f80b8d994358a1fe82c7ed8",
-    "banner": "2db7838b673abaf2410f5bafc9a07f30",
-    "approximate_presence_count": 541,
-    "approximate_member_count": 1433,
-    "premium_subscription_count": 14,
+    "banner": "56864da1d939cadf09faaea284b86fe9",
+    "approximate_presence_count": 517,
+    "approximate_member_count": 1520,
+    "premium_subscription_count": 18,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "n9gaming",
     "keywords": [
-        "KSP",
-        "Spaceflight",
-        "Music Creation",
         "Chill",
-        "Moderated",
+        "KSP",
         "Kerbal Space Program",
-        "N9 Gaming"
+        "Moderated",
+        "Music Creation",
+        "N9 Gaming",
+        "Spaceflight"
     ],
     "features": [
         "COMMUNITY",
@@ -33,27 +33,27 @@
     "raw": {
         "id": "343801441095516160",
         "name": "N9 Community Server",
-        "description": "Space Exploration, Gaming & Chill!",
-        "icon": "de248532b29ca52eddd6ad00d7addc26",
+        "description": "",
+        "icon": "ee2516cb107c2e640c469d5430d06c0f",
         "splash": "3cbb33ab12899b77c944aa1900638613",
-        "banner": "2db7838b673abaf2410f5bafc9a07f30",
-        "approximate_presence_count": 541,
-        "approximate_member_count": 1433,
-        "premium_subscription_count": 14,
+        "banner": "56864da1d939cadf09faaea284b86fe9",
+        "approximate_presence_count": 517,
+        "approximate_member_count": 1520,
+        "premium_subscription_count": 18,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "d44ceb065f80b8d994358a1fe82c7ed8",
         "primary_category_id": 1,
-        "vanity_url_code": null,
+        "vanity_url_code": "n9gaming",
         "is_published": false,
         "keywords": [
-            "KSP",
-            "Spaceflight",
-            "Music Creation",
             "Chill",
-            "Moderated",
+            "KSP",
             "Kerbal Space Program",
-            "N9 Gaming"
+            "Moderated",
+            "Music Creation",
+            "N9 Gaming",
+            "Spaceflight"
         ],
         "features": [
             "COMMUNITY",
@@ -332,33 +332,23 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Space Exploration, Gaming & Chill!",
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "n9gaming",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
-                {
-                    "value": "KSP",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "Spaceflight",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "Music Creation",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
                 {
                     "value": "Chill",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "Moderated",
+                    "value": "KSP",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -368,7 +358,22 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "Moderated",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Music Creation",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "N9 Gaming",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Spaceflight",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

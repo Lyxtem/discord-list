@@ -2,31 +2,32 @@
     "id": "976799450880151582",
     "name": "Shadow Heights Academy",
     "description": "Our server is dedicated towards Mythology based Bloxburg School Roleplays!",
-    "icon": "25b98d1c50a604779b8ae26080a495be",
-    "splash": "0f5373fac01d7ddb91c00e2b202b617e",
-    "discovery_splash": null,
-    "banner": "9957e24e054f8b9a4f2b210ef5b77734",
-    "approximate_presence_count": 114,
-    "approximate_member_count": 1047,
-    "premium_subscription_count": 14,
+    "icon": "9ea2bc4538f63a73028dab8dfd4a7158",
+    "splash": "2f39028a85c1fbbf042694d9902c393d",
+    "discovery_splash": "0eaf3f0080c1afebd37caed42477c995",
+    "banner": "fc348a551a7d38d9ce79f0a1070768e7",
+    "approximate_presence_count": 101,
+    "approximate_member_count": 1056,
+    "premium_subscription_count": 10,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "shadow-heights-academy-976799450880151582",
     "keywords": [
-        "roblox",
         "bloxburg",
-        "lgbtq",
-        "roleplay",
-        "greekmythology",
-        "school",
-        "lore",
         "greekgods",
+        "greekmythology",
+        "lgbtq",
+        "lore",
+        "mythology",
         "percyjackson",
-        "mythology"
+        "roblox",
+        "roleplay",
+        "school"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -36,38 +37,76 @@
         "id": "976799450880151582",
         "name": "Shadow Heights Academy",
         "description": "Our server is dedicated towards Mythology based Bloxburg School Roleplays!",
-        "icon": "25b98d1c50a604779b8ae26080a495be",
-        "splash": "0f5373fac01d7ddb91c00e2b202b617e",
-        "banner": "9957e24e054f8b9a4f2b210ef5b77734",
-        "approximate_presence_count": 114,
-        "approximate_member_count": 1047,
-        "premium_subscription_count": 14,
+        "icon": "9ea2bc4538f63a73028dab8dfd4a7158",
+        "splash": "2f39028a85c1fbbf042694d9902c393d",
+        "banner": "fc348a551a7d38d9ce79f0a1070768e7",
+        "approximate_presence_count": 101,
+        "approximate_member_count": 1056,
+        "premium_subscription_count": 10,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "0eaf3f0080c1afebd37caed42477c995",
         "primary_category_id": 1,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "shadow-heights-academy-976799450880151582",
+        "is_published": true,
         "keywords": [
-            "roblox",
             "bloxburg",
-            "lgbtq",
-            "roleplay",
-            "greekmythology",
-            "school",
-            "lore",
             "greekgods",
+            "greekmythology",
+            "lgbtq",
+            "lore",
+            "mythology",
             "percyjackson",
-            "mythology"
+            "roblox",
+            "roleplay",
+            "school"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 9,
+                "is_primary": true,
+                "name": "Relationships & Identity",
+                "name_localizations": {
+                    "bg": "Отношения и идентичност",
+                    "cs": "Vztahy a osobnost",
+                    "da": "Forhold & identitet",
+                    "de": "Beziehungen & Identität",
+                    "el": "Σχέσεις & Ταυτότητα",
+                    "fi": "Ihmissuhteet ja identiteetti",
+                    "fr": "Relations et identité",
+                    "hi": "रिलेशनशिप और आइडेंटिटी",
+                    "hr": "Odnosi i veze",
+                    "hu": "Kapcsolatok és identitás",
+                    "it": "Relazioni e identità",
+                    "ja": "人間関係&アイデンティティ",
+                    "ko": "친목, 관계",
+                    "lt": "Santykiai ir tapatybė",
+                    "nl": "Relaties en identiteit",
+                    "no": "Forhold og identitet",
+                    "pl": "Związki i tożsamość",
+                    "ro": "Relații și identitate",
+                    "ru": "Отношения и самоидентификация",
+                    "th": "ความสัมพันธ์และอัตลักษณ์",
+                    "tr": "İlişkiler ve Kimlik",
+                    "uk": "Відносини та особистість",
+                    "vi": "Mối Quan Hệ & Cá Tính",
+                    "en-GB": "Relationships & Identity",
+                    "en-US": "Relationships & Identity",
+                    "es-ES": "Relaciones e identidad",
+                    "pt-BR": "Relacionamentos e Identidade",
+                    "sv-SE": "Förhållanden och identitet",
+                    "zh-CN": "情感&认知",
+                    "zh-TW": "關係與身分"
+                }
+            },
             {
                 "id": 20,
                 "is_primary": false,
@@ -103,6 +142,43 @@
                     "sv-SE": "Litteratur",
                     "zh-CN": "写作",
                     "zh-TW": "寫作"
+                }
+            },
+            {
+                "id": 34,
+                "is_primary": false,
+                "name": "Roleplay",
+                "name_localizations": {
+                    "bg": "Ролева игра",
+                    "cs": "Roleplay",
+                    "da": "Rollespil",
+                    "de": "Rollenspiele",
+                    "el": "Παιχνίδια ρόλων",
+                    "fi": "Roolipeli",
+                    "fr": "Jeux de rôles",
+                    "hi": "रोलप्ले",
+                    "hr": "Roleplay",
+                    "hu": "Szerepjáték",
+                    "it": "Giochi di ruolo",
+                    "ja": "なりきり",
+                    "ko": "역할 놀이",
+                    "lt": "Vaidmenų žaidimai",
+                    "nl": "Rollenspel",
+                    "no": "Rollespill",
+                    "pl": "Role playing",
+                    "ro": "Jocuri de rol",
+                    "ru": "Ролевая игра",
+                    "th": "การเล่นบทบาทสมมติ",
+                    "tr": "Rol Yapma",
+                    "uk": "Рольові ігри",
+                    "vi": "Nhập Vai",
+                    "en-GB": "Roleplay",
+                    "en-US": "Roleplay",
+                    "es-ES": "Juego de roles",
+                    "pt-BR": "Interpretação de personagens",
+                    "sv-SE": "Rollspel",
+                    "zh-CN": "跑团",
+                    "zh-TW": "角色扮演"
                 }
             },
             {
@@ -178,80 +254,6 @@
                     "zh-CN": "综合聊天",
                     "zh-TW": "一般聊天"
                 }
-            },
-            {
-                "id": 9,
-                "is_primary": true,
-                "name": "Relationships & Identity",
-                "name_localizations": {
-                    "bg": "Отношения и идентичност",
-                    "cs": "Vztahy a osobnost",
-                    "da": "Forhold & identitet",
-                    "de": "Beziehungen & Identität",
-                    "el": "Σχέσεις & Ταυτότητα",
-                    "fi": "Ihmissuhteet ja identiteetti",
-                    "fr": "Relations et identité",
-                    "hi": "रिलेशनशिप और आइडेंटिटी",
-                    "hr": "Odnosi i veze",
-                    "hu": "Kapcsolatok és identitás",
-                    "it": "Relazioni e identità",
-                    "ja": "人間関係&アイデンティティ",
-                    "ko": "친목, 관계",
-                    "lt": "Santykiai ir tapatybė",
-                    "nl": "Relaties en identiteit",
-                    "no": "Forhold og identitet",
-                    "pl": "Związki i tożsamość",
-                    "ro": "Relații și identitate",
-                    "ru": "Отношения и самоидентификация",
-                    "th": "ความสัมพันธ์และอัตลักษณ์",
-                    "tr": "İlişkiler ve Kimlik",
-                    "uk": "Відносини та особистість",
-                    "vi": "Mối Quan Hệ & Cá Tính",
-                    "en-GB": "Relationships & Identity",
-                    "en-US": "Relationships & Identity",
-                    "es-ES": "Relaciones e identidad",
-                    "pt-BR": "Relacionamentos e Identidade",
-                    "sv-SE": "Förhållanden och identitet",
-                    "zh-CN": "情感&认知",
-                    "zh-TW": "關係與身分"
-                }
-            },
-            {
-                "id": 34,
-                "is_primary": false,
-                "name": "Roleplay",
-                "name_localizations": {
-                    "bg": "Ролева игра",
-                    "cs": "Roleplay",
-                    "da": "Rollespil",
-                    "de": "Rollenspiele",
-                    "el": "Παιχνίδια ρόλων",
-                    "fi": "Roolipeli",
-                    "fr": "Jeux de rôles",
-                    "hi": "रोलप्ले",
-                    "hr": "Roleplay",
-                    "hu": "Szerepjáték",
-                    "it": "Giochi di ruolo",
-                    "ja": "なりきり",
-                    "ko": "역할 놀이",
-                    "lt": "Vaidmenų žaidimai",
-                    "nl": "Rollenspel",
-                    "no": "Rollespill",
-                    "pl": "Role playing",
-                    "ro": "Jocuri de rol",
-                    "ru": "Ролевая игра",
-                    "th": "การเล่นบทบาทสมมติ",
-                    "tr": "Rol Yapma",
-                    "uk": "Рольові ігри",
-                    "vi": "Nhập Vai",
-                    "en-GB": "Roleplay",
-                    "en-US": "Roleplay",
-                    "es-ES": "Juego de roles",
-                    "pt-BR": "Interpretação de personagens",
-                    "sv-SE": "Rollspel",
-                    "zh-CN": "跑团",
-                    "zh-TW": "角色扮演"
-                }
             }
         ],
         "primary_category": {
@@ -303,39 +305,14 @@
                 "matchLevel": "none",
                 "matchedWords": []
             },
+            "vanity_url_code": {
+                "value": "shadow-heights-academy-976799450880151582",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
             "keywords": [
                 {
-                    "value": "roblox",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "bloxburg",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "lgbtq",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "roleplay",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "greekmythology",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "school",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "lore",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -345,7 +322,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "percyjackson",
+                    "value": "greekmythology",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "lgbtq",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "lore",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -353,9 +340,183 @@
                     "value": "mythology",
                     "matchLevel": "none",
                     "matchedWords": []
+                },
+                {
+                    "value": "percyjackson",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "roblox",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "roleplay",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "school",
+                    "matchLevel": "none",
+                    "matchedWords": []
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Отношения и идентичност",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Vztahy a osobnost",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Forhold & identitet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Beziehungen & Identität",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Σχέσεις & Ταυτότητα",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Ihmissuhteet ja identiteetti",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Relations et identité",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "रिलेशनशिप और आइडेंटिटी",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Odnosi i veze",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Kapcsolatok és identitás",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Relazioni e identità",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "人間関係&アイデンティティ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "친목, 관계",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Santykiai ir tapatybė",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Relaties en identiteit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Forhold og identitet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Związki i tożsamość",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Relații și identitate",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Отношения и самоидентификация",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ความสัมพันธ์และอัตลักษณ์",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "İlişkiler ve Kimlik",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Відносини та особистість",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Mối Quan Hệ & Cá Tính",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Relationships & Identity",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Relationships & Identity",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Relaciones e identidad",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Relacionamentos e Identidade",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Förhållanden och identitet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "情感&认知",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "關係與身分",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -505,6 +666,160 @@
                         },
                         "zh-TW": {
                             "value": "寫作",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Ролева игра",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Roleplay",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Rollespil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Rollenspiele",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Παιχνίδια ρόλων",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Roolipeli",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Jeux de rôles",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "रोलप्ले",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Roleplay",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Szerepjáték",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Giochi di ruolo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "なりきり",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "역할 놀이",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Vaidmenų žaidimai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Rollenspel",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Rollespill",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Role playing",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Jocuri de rol",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Ролевая игра",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การเล่นบทบาทสมมติ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Rol Yapma",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Рольові ігри",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Nhập Vai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Roleplay",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Roleplay",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Juego de roles",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Interpretação de personagens",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Rollspel",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "跑团",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "角色扮演",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -813,314 +1128,6 @@
                         },
                         "zh-TW": {
                             "value": "一般聊天",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Отношения и идентичност",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Vztahy a osobnost",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Forhold & identitet",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Beziehungen & Identität",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Σχέσεις & Ταυτότητα",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Ihmissuhteet ja identiteetti",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Relations et identité",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "रिलेशनशिप और आइडेंटिटी",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Odnosi i veze",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Kapcsolatok és identitás",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Relazioni e identità",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "人間関係&アイデンティティ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "친목, 관계",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Santykiai ir tapatybė",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Relaties en identiteit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Forhold og identitet",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Związki i tożsamość",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Relații și identitate",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Отношения и самоидентификация",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "ความสัมพันธ์และอัตลักษณ์",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "İlişkiler ve Kimlik",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Відносини та особистість",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Mối Quan Hệ & Cá Tính",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Relationships & Identity",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Relationships & Identity",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Relaciones e identidad",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Relacionamentos e Identidade",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Förhållanden och identitet",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "情感&认知",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "關係與身分",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Ролева игра",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Roleplay",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Rollespil",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Rollenspiele",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Παιχνίδια ρόλων",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Roolipeli",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Jeux de rôles",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "रोलप्ले",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Roleplay",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Szerepjáték",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Giochi di ruolo",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "なりきり",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "역할 놀이",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Vaidmenų žaidimai",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Rollenspel",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Rollespill",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Role playing",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Jocuri de rol",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Ролевая игра",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "การเล่นบทบาทสมมติ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Rol Yapma",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Рольові ігри",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Nhập Vai",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Roleplay",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Roleplay",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Juego de roles",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Interpretação de personagens",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Rollspel",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "跑团",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "角色扮演",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

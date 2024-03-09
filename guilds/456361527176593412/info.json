@@ -6,22 +6,22 @@
     "splash": "d782b8b890dc347a7b919fbe365440c6",
     "discovery_splash": "4b549b2358db3c480536b722d18b14b8",
     "banner": "119220aba55b9b1d34e418609dbec96f",
-    "approximate_presence_count": 1221,
-    "approximate_member_count": 89606,
-    "premium_subscription_count": 62,
+    "approximate_presence_count": 1291,
+    "approximate_member_count": 89769,
+    "premium_subscription_count": 66,
     "preferred_locale": "en-US",
     "vanity_url_code": "criticalstrike",
     "keywords": [
+        "countermobile",
         "criticalstrike",
-        "mobile",
-        "fps",
-        "shooter",
-        "multiplayer",
-        "pvp",
+        "cs",
         "csmobile",
         "esports",
-        "countermobile",
-        "cs"
+        "fps",
+        "mobile",
+        "multiplayer",
+        "pvp",
+        "shooter"
     ],
     "features": [
         "COMMUNITY",
@@ -40,9 +40,9 @@
         "icon": "ea0821206bfbfe859e02da5dfc03f31f",
         "splash": "d782b8b890dc347a7b919fbe365440c6",
         "banner": "119220aba55b9b1d34e418609dbec96f",
-        "approximate_presence_count": 1221,
-        "approximate_member_count": 89606,
-        "premium_subscription_count": 62,
+        "approximate_presence_count": 1291,
+        "approximate_member_count": 89769,
+        "premium_subscription_count": 66,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "4b549b2358db3c480536b722d18b14b8",
@@ -50,16 +50,16 @@
         "vanity_url_code": "criticalstrike",
         "is_published": true,
         "keywords": [
+            "countermobile",
             "criticalstrike",
-            "mobile",
-            "fps",
-            "shooter",
-            "multiplayer",
-            "pvp",
+            "cs",
             "csmobile",
             "esports",
-            "countermobile",
-            "cs"
+            "fps",
+            "mobile",
+            "multiplayer",
+            "pvp",
+            "shooter"
         ],
         "features": [
             "COMMUNITY",
@@ -275,32 +275,17 @@
             },
             "keywords": [
                 {
+                    "value": "countermobile",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "criticalstrike",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "mobile",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "fps",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "shooter",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "multiplayer",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "pvp",
+                    "value": "cs",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -315,12 +300,27 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "countermobile",
+                    "value": "fps",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "cs",
+                    "value": "mobile",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "multiplayer",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "pvp",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "shooter",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

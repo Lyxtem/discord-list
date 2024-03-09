@@ -3,14 +3,14 @@
     "name": "Nyan Heroes",
     "description": "The Official Nyan Heroes Discord Channel. Free-to-Play Shooter, Play & Earn, and Saving Cats in Nekovia!",
     "icon": "348ba160013a4b50c2da5d91e718bfaf",
-    "splash": "7c9e55b9991861fcf6fcf801cdab78e8",
+    "splash": "14a862ca988db20f9970686922a36057",
     "discovery_splash": "a088e78ad3b400ca41dc1cb520c7d97e",
-    "banner": "1db1ff08557d3c89953543c1bbf3d0d8",
-    "approximate_presence_count": 1419,
-    "approximate_member_count": 77342,
-    "premium_subscription_count": 10,
+    "banner": "a65798344edc6966e1053bdb221e68a2",
+    "approximate_presence_count": 3157,
+    "approximate_member_count": 87035,
+    "premium_subscription_count": 336,
     "preferred_locale": "en-US",
-    "vanity_url_code": "nyanheroes",
+    "vanity_url_code": "nyanheroesgame",
     "keywords": [
         "3rd-person",
         "AAA",
@@ -18,6 +18,7 @@
         "heroes",
         "nft",
         "nyan",
+        "overwatch",
         "shooting-game",
         "solana"
     ],
@@ -25,7 +26,6 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "VERIFIED",
         "WELCOME_SCREEN_ENABLED"
@@ -37,17 +37,17 @@
         "name": "Nyan Heroes",
         "description": "The Official Nyan Heroes Discord Channel. Free-to-Play Shooter, Play & Earn, and Saving Cats in Nekovia!",
         "icon": "348ba160013a4b50c2da5d91e718bfaf",
-        "splash": "7c9e55b9991861fcf6fcf801cdab78e8",
-        "banner": "1db1ff08557d3c89953543c1bbf3d0d8",
-        "approximate_presence_count": 1419,
-        "approximate_member_count": 77342,
-        "premium_subscription_count": 10,
+        "splash": "14a862ca988db20f9970686922a36057",
+        "banner": "a65798344edc6966e1053bdb221e68a2",
+        "approximate_presence_count": 3157,
+        "approximate_member_count": 87035,
+        "premium_subscription_count": 336,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "a088e78ad3b400ca41dc1cb520c7d97e",
         "primary_category_id": 1,
-        "vanity_url_code": "nyanheroes",
-        "is_published": true,
+        "vanity_url_code": "nyanheroesgame",
+        "is_published": false,
         "keywords": [
             "3rd-person",
             "AAA",
@@ -55,6 +55,7 @@
             "heroes",
             "nft",
             "nyan",
+            "overwatch",
             "shooting-game",
             "solana"
         ],
@@ -62,12 +63,48 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "VERIFIED",
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 27,
+                "is_primary": false,
+                "name": "Cryptocurrency",
+                "name_localizations": {
+                    "bg": "Криптовалута",
+                    "cs": "Kryptoměny",
+                    "da": "Kryptovaluta",
+                    "de": "Kryptowährung",
+                    "el": "Κρυπτονόμισμα",
+                    "fi": "Kryptovaluutta",
+                    "fr": "Cryptomonnaie",
+                    "hi": "क्रिप्टोकरेंसी",
+                    "hr": "Kriptovalute",
+                    "hu": "Kriptovaluta",
+                    "it": "Criptovalute",
+                    "ja": "暗号通貨",
+                    "ko": "암호화폐",
+                    "lt": "Kriptovaliuta",
+                    "nl": "Cryptocurrency",
+                    "no": "Kryptovaluta",
+                    "pl": "Kryptowaluty",
+                    "ro": "Criptomonede",
+                    "ru": "Криптовалюта",
+                    "th": "สกุลเงินดิจิทัล",
+                    "tr": "Kripto Para Birimleri",
+                    "uk": "Криптовалюти",
+                    "vi": "Tiền Ảo",
+                    "en-GB": "Cryptocurrency",
+                    "en-US": "Cryptocurrency",
+                    "es-ES": "Criptomonedas",
+                    "pt-BR": "Criptomoeda",
+                    "sv-SE": "Kryptovaluta",
+                    "zh-CN": "数字货币",
+                    "zh-TW": "加密貨幣"
+                }
+            },
             {
                 "id": 1,
                 "is_primary": true,
@@ -193,7 +230,7 @@
                 "matchedWords": []
             },
             "vanity_url_code": {
-                "value": "nyanheroes",
+                "value": "nyanheroesgame",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -229,6 +266,11 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "overwatch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "shooting-game",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -240,6 +282,160 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Криптовалута",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Kryptoměny",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Kryptovaluta",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Kryptowährung",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Κρυπτονόμισμα",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Kryptovaluutta",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Cryptomonnaie",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "क्रिप्टोकरेंसी",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Kriptovalute",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Kriptovaluta",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Criptovalute",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "暗号通貨",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "암호화폐",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Kriptovaliuta",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Cryptocurrency",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Kryptovaluta",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Kryptowaluty",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Criptomonede",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Криптовалюта",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "สกุลเงินดิจิทัล",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Kripto Para Birimleri",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Криптовалюти",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Tiền Ảo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Cryptocurrency",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Cryptocurrency",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Criptomonedas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Criptomoeda",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Kryptovaluta",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "数字货币",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "加密貨幣",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {

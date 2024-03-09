@@ -1,24 +1,24 @@
 {
     "id": "911672239831793714",
     "name": "TWO-C",
-    "description": "Сервер для поиска напарника по играм и общения",
+    "description": "Сервер для поиска тимейта по Фортнайт, другим играм и общения",
     "icon": "a2af6a8bf44901376f760f731496bc95",
     "splash": "cde46bdc3094fe22e3ed6de7b463e47a",
-    "discovery_splash": "cde46bdc3094fe22e3ed6de7b463e47a",
+    "discovery_splash": "7078830d60be80ac8d0b51d34e3e2e56",
     "banner": "b9fc7f927cdb673719397a7a95751b91",
-    "approximate_presence_count": 190,
-    "approximate_member_count": 9079,
-    "premium_subscription_count": 1,
+    "approximate_presence_count": 528,
+    "approximate_member_count": 9580,
+    "premium_subscription_count": 3,
     "preferred_locale": "ru",
-    "vanity_url_code": null,
+    "vanity_url_code": "two-c-911672239831793714",
     "keywords": [
         "fortnite",
-        "киберспорт",
-        "тимейт",
-        "турниры",
         "дуо",
+        "киберспорт",
         "мейт",
         "напарник",
+        "тимейт",
+        "турниры",
         "фортнайт"
     ],
     "features": [
@@ -33,27 +33,27 @@
     "raw": {
         "id": "911672239831793714",
         "name": "TWO-C",
-        "description": "Сервер для поиска напарника по играм и общения",
+        "description": "Сервер для поиска тимейта по Фортнайт, другим играм и общения",
         "icon": "a2af6a8bf44901376f760f731496bc95",
         "splash": "cde46bdc3094fe22e3ed6de7b463e47a",
         "banner": "b9fc7f927cdb673719397a7a95751b91",
-        "approximate_presence_count": 190,
-        "approximate_member_count": 9079,
-        "premium_subscription_count": 1,
+        "approximate_presence_count": 528,
+        "approximate_member_count": 9580,
+        "premium_subscription_count": 3,
         "preferred_locale": "ru",
         "auto_removed": false,
-        "discovery_splash": "cde46bdc3094fe22e3ed6de7b463e47a",
+        "discovery_splash": "7078830d60be80ac8d0b51d34e3e2e56",
         "primary_category_id": 1,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "two-c-911672239831793714",
+        "is_published": true,
         "keywords": [
             "fortnite",
-            "киберспорт",
-            "тимейт",
-            "турниры",
             "дуо",
+            "киберспорт",
             "мейт",
             "напарник",
+            "тимейт",
+            "турниры",
             "фортнайт"
         ],
         "features": [
@@ -184,7 +184,12 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Сервер для поиска напарника по играм и общения",
+                "value": "Сервер для поиска тимейта по Фортнайт, другим играм и общения",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "two-c-911672239831793714",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -195,22 +200,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "киберспорт",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "тимейт",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "турниры",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "дуо",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "киберспорт",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -221,6 +216,16 @@
                 },
                 {
                     "value": "напарник",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "тимейт",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "турниры",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
