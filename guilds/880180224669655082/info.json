@@ -1,27 +1,27 @@
 {
     "id": "880180224669655082",
     "name": "𝐵𝓇𝑜𝒷𝑒𝓇𝑜𝓃 𝑅𝑜𝓁𝑒𝓅𝓁𝒶𝓎",
-    "description": "Una comunidad dedicada al Roleplay en una tematica de Fantasia medieval con una gran variedad de sistemas",
+    "description": "Esta es una comunidad de roleplay con temática en la Edad Media de fantasía, contando con varios sistemas para este.",
     "icon": "716e72aa7ef6807a92bafd0d50e2dbfc",
     "splash": "c62c652f866bc2425f07634056f9b0da",
     "discovery_splash": "b3cf1cf2f636333f1509e41fd53adf8e",
     "banner": "baeac68b19d6358c190ea04b8230134b",
-    "approximate_presence_count": 352,
-    "approximate_member_count": 1946,
-    "premium_subscription_count": 41,
+    "approximate_presence_count": 506,
+    "approximate_member_count": 2304,
+    "premium_subscription_count": 6,
     "preferred_locale": "es-ES",
-    "vanity_url_code": null,
+    "vanity_url_code": "broberon-roleplay-880180224669655082",
     "keywords": [
         "anime",
-        "roleplay",
-        "rol",
-        "rolplay",
-        "social",
-        "memes",
-        "juegos",
         "escritor",
         "fantasia",
-        "medieval"
+        "juegos",
+        "medieval",
+        "memes",
+        "rol",
+        "roleplay",
+        "rolplay",
+        "social"
     ],
     "features": [
         "COMMUNITY",
@@ -36,30 +36,30 @@
     "raw": {
         "id": "880180224669655082",
         "name": "𝐵𝓇𝑜𝒷𝑒𝓇𝑜𝓃 𝑅𝑜𝓁𝑒𝓅𝓁𝒶𝓎",
-        "description": "Una comunidad dedicada al Roleplay en una tematica de Fantasia medieval con una gran variedad de sistemas",
+        "description": "Esta es una comunidad de roleplay con temática en la Edad Media de fantasía, contando con varios sistemas para este.",
         "icon": "716e72aa7ef6807a92bafd0d50e2dbfc",
         "splash": "c62c652f866bc2425f07634056f9b0da",
         "banner": "baeac68b19d6358c190ea04b8230134b",
-        "approximate_presence_count": 352,
-        "approximate_member_count": 1946,
-        "premium_subscription_count": 41,
+        "approximate_presence_count": 506,
+        "approximate_member_count": 2304,
+        "premium_subscription_count": 6,
         "preferred_locale": "es-ES",
         "auto_removed": false,
         "discovery_splash": "b3cf1cf2f636333f1509e41fd53adf8e",
         "primary_category_id": 13,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "broberon-roleplay-880180224669655082",
+        "is_published": true,
         "keywords": [
             "anime",
-            "roleplay",
-            "rol",
-            "rolplay",
-            "social",
-            "memes",
-            "juegos",
             "escritor",
             "fantasia",
-            "medieval"
+            "juegos",
+            "medieval",
+            "memes",
+            "rol",
+            "roleplay",
+            "rolplay",
+            "social"
         ],
         "features": [
             "COMMUNITY",
@@ -71,40 +71,40 @@
         ],
         "categories": [
             {
-                "id": 1,
-                "is_primary": true,
-                "name": "Gaming",
+                "id": 20,
+                "is_primary": false,
+                "name": "Writing",
                 "name_localizations": {
-                    "bg": "Гейминг",
-                    "cs": "Hraní",
-                    "da": "Spil",
-                    "de": "Gaming",
-                    "el": "Gaming",
-                    "fi": "Pelaaminen",
-                    "fr": "Gaming",
-                    "hi": "गेमिंग",
-                    "hr": "Gaming",
-                    "hu": "Játék",
-                    "it": "Gaming",
-                    "ja": "ゲーム",
-                    "ko": "게임",
-                    "lt": "Žaidimai",
-                    "nl": "Gaming",
-                    "no": "Gaming",
-                    "pl": "Gry",
-                    "ro": "Gaming",
-                    "ru": "Игры",
-                    "th": "การเล่นเกม",
-                    "tr": "Oyun",
-                    "uk": "Ігри",
-                    "vi": "Gaming",
-                    "en-GB": "Gaming",
-                    "en-US": "Gaming",
-                    "es-ES": "Juegos",
-                    "pt-BR": "Jogos",
-                    "sv-SE": "Gaming",
-                    "zh-CN": "游戏",
-                    "zh-TW": "遊戲"
+                    "bg": "Литература",
+                    "cs": "Psaní",
+                    "da": "Skrivning",
+                    "de": "Schreiben",
+                    "el": "Συγγραφή",
+                    "fi": "Kirjoittaminen",
+                    "fr": "Écriture",
+                    "hi": "राइटिंग",
+                    "hr": "Pisanje",
+                    "hu": "Írás",
+                    "it": "Scrittura",
+                    "ja": "執筆活動",
+                    "ko": "글쓰기",
+                    "lt": "Rašymas",
+                    "nl": "Schrijven",
+                    "no": "Skrivearbeid",
+                    "pl": "Pisarstwo",
+                    "ro": "Scriere",
+                    "ru": "Литература",
+                    "th": "การเขียน",
+                    "tr": "Yazarlık",
+                    "uk": "Письменництво",
+                    "vi": "Văn Học",
+                    "en-GB": "Writing",
+                    "en-US": "Writing",
+                    "es-ES": "Escritura",
+                    "pt-BR": "Escrita",
+                    "sv-SE": "Litteratur",
+                    "zh-CN": "写作",
+                    "zh-TW": "寫作"
                 }
             },
             {
@@ -145,6 +145,43 @@
                 }
             },
             {
+                "id": 1,
+                "is_primary": true,
+                "name": "Gaming",
+                "name_localizations": {
+                    "bg": "Гейминг",
+                    "cs": "Hraní",
+                    "da": "Spil",
+                    "de": "Gaming",
+                    "el": "Gaming",
+                    "fi": "Pelaaminen",
+                    "fr": "Gaming",
+                    "hi": "गेमिंग",
+                    "hr": "Gaming",
+                    "hu": "Játék",
+                    "it": "Gaming",
+                    "ja": "ゲーム",
+                    "ko": "게임",
+                    "lt": "Žaidimai",
+                    "nl": "Gaming",
+                    "no": "Gaming",
+                    "pl": "Gry",
+                    "ro": "Gaming",
+                    "ru": "Игры",
+                    "th": "การเล่นเกม",
+                    "tr": "Oyun",
+                    "uk": "Ігри",
+                    "vi": "Gaming",
+                    "en-GB": "Gaming",
+                    "en-US": "Gaming",
+                    "es-ES": "Juegos",
+                    "pt-BR": "Jogos",
+                    "sv-SE": "Gaming",
+                    "zh-CN": "游戏",
+                    "zh-TW": "遊戲"
+                }
+            },
+            {
                 "id": 14,
                 "is_primary": true,
                 "name": "General Chatting",
@@ -182,43 +219,6 @@
                 }
             },
             {
-                "id": 20,
-                "is_primary": false,
-                "name": "Writing",
-                "name_localizations": {
-                    "bg": "Литература",
-                    "cs": "Psaní",
-                    "da": "Skrivning",
-                    "de": "Schreiben",
-                    "el": "Συγγραφή",
-                    "fi": "Kirjoittaminen",
-                    "fr": "Écriture",
-                    "hi": "राइटिंग",
-                    "hr": "Pisanje",
-                    "hu": "Írás",
-                    "it": "Scrittura",
-                    "ja": "執筆活動",
-                    "ko": "글쓰기",
-                    "lt": "Rašymas",
-                    "nl": "Schrijven",
-                    "no": "Skrivearbeid",
-                    "pl": "Pisarstwo",
-                    "ro": "Scriere",
-                    "ru": "Литература",
-                    "th": "การเขียน",
-                    "tr": "Yazarlık",
-                    "uk": "Письменництво",
-                    "vi": "Văn Học",
-                    "en-GB": "Writing",
-                    "en-US": "Writing",
-                    "es-ES": "Escritura",
-                    "pt-BR": "Escrita",
-                    "sv-SE": "Litteratur",
-                    "zh-CN": "写作",
-                    "zh-TW": "寫作"
-                }
-            },
-            {
                 "id": 13,
                 "is_primary": true,
                 "name": "Other",
@@ -247,43 +247,18 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Una comunidad dedicada al Roleplay en una tematica de Fantasia medieval con una gran variedad de sistemas",
+                "value": "Esta es una comunidad de roleplay con temática en la Edad Media de fantasía, contando con varios sistemas para este.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "broberon-roleplay-880180224669655082",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
                 {
                     "value": "anime",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "roleplay",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "rol",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "rolplay",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "social",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "memes",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "juegos",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -298,7 +273,37 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "juegos",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "medieval",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "memes",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "rol",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "roleplay",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "rolplay",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "social",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
@@ -307,152 +312,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Гейминг",
+                            "value": "Литература",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Hraní",
+                            "value": "Psaní",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Spil",
+                            "value": "Skrivning",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Gaming",
+                            "value": "Schreiben",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Gaming",
+                            "value": "Συγγραφή",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Pelaaminen",
+                            "value": "Kirjoittaminen",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Gaming",
+                            "value": "Écriture",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "गेमिंग",
+                            "value": "राइटिंग",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Gaming",
+                            "value": "Pisanje",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Játék",
+                            "value": "Írás",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Gaming",
+                            "value": "Scrittura",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "ゲーム",
+                            "value": "執筆活動",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "게임",
+                            "value": "글쓰기",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Žaidimai",
+                            "value": "Rašymas",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Gaming",
+                            "value": "Schrijven",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Gaming",
+                            "value": "Skrivearbeid",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Gry",
+                            "value": "Pisarstwo",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Gaming",
+                            "value": "Scriere",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Игры",
+                            "value": "Литература",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "การเล่นเกม",
+                            "value": "การเขียน",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Oyun",
+                            "value": "Yazarlık",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Ігри",
+                            "value": "Письменництво",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Gaming",
+                            "value": "Văn Học",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Gaming",
+                            "value": "Writing",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Gaming",
+                            "value": "Writing",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Juegos",
+                            "value": "Escritura",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Jogos",
+                            "value": "Escrita",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Gaming",
+                            "value": "Litteratur",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "游戏",
+                            "value": "写作",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "遊戲",
+                            "value": "寫作",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -615,6 +620,160 @@
                 {
                     "name_localizations": {
                         "bg": {
+                            "value": "Гейминг",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Hraní",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Spil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Pelaaminen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "गेमिंग",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Játék",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "ゲーム",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "게임",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Žaidimai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Gry",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Игры",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การเล่นเกม",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Oyun",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Ігри",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Juegos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Jogos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "游戏",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "遊戲",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
                             "value": "Общуване",
                             "matchLevel": "none",
                             "matchedWords": []
@@ -761,160 +920,6 @@
                         },
                         "zh-TW": {
                             "value": "一般聊天",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Литература",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Psaní",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Skrivning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Schreiben",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Συγγραφή",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Kirjoittaminen",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Écriture",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "राइटिंग",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Pisanje",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Írás",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Scrittura",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "執筆活動",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "글쓰기",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Rašymas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Schrijven",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Skrivearbeid",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Pisarstwo",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Scriere",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Литература",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "การเขียน",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Yazarlık",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Письменництво",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Văn Học",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Writing",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Writing",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Escritura",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Escrita",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Litteratur",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "写作",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "寫作",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
