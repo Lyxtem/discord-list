@@ -6,9 +6,9 @@
     "splash": null,
     "discovery_splash": "0d743e60611730ee7487dd0a3b2209a0",
     "banner": null,
-    "approximate_presence_count": 326,
-    "approximate_member_count": 1476,
-    "premium_subscription_count": 4,
+    "approximate_presence_count": 372,
+    "approximate_member_count": 1548,
+    "premium_subscription_count": 1,
     "preferred_locale": "en-US",
     "vanity_url_code": "mtg-drop-665648837230198804",
     "keywords": [
@@ -39,9 +39,9 @@
         "icon": "d3064c945006212dcd70892e562d9c63",
         "splash": null,
         "banner": null,
-        "approximate_presence_count": 326,
-        "approximate_member_count": 1476,
-        "premium_subscription_count": 4,
+        "approximate_presence_count": 372,
+        "approximate_member_count": 1548,
+        "premium_subscription_count": 1,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "0d743e60611730ee7487dd0a3b2209a0",
@@ -68,43 +68,6 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 12,
-                "is_primary": true,
-                "name": "Finance",
-                "name_localizations": {
-                    "bg": "Финанси",
-                    "cs": "Finance",
-                    "da": "Finans",
-                    "de": "Finanzen",
-                    "el": "Οικονομία",
-                    "fi": "Talous",
-                    "fr": "Finance",
-                    "hi": "फ़ाइनेंस",
-                    "hr": "Financije",
-                    "hu": "Pénzügyek",
-                    "it": "Finanza",
-                    "ja": "ファイナンス",
-                    "ko": "금융",
-                    "lt": "Finansai",
-                    "nl": "Financiën",
-                    "no": "Økonomi",
-                    "pl": "Finanse",
-                    "ro": "Finanțe",
-                    "ru": "Финансы",
-                    "th": "การเงิน",
-                    "tr": "Finans",
-                    "uk": "Фінанси",
-                    "vi": "Tài Chính",
-                    "en-GB": "Finance",
-                    "en-US": "Finance",
-                    "es-ES": "Finanzas",
-                    "pt-BR": "Finanças",
-                    "sv-SE": "Ekonomi",
-                    "zh-CN": "理财",
-                    "zh-TW": "財經"
-                }
-            },
             {
                 "id": 3,
                 "is_primary": true,
@@ -143,40 +106,40 @@
                 }
             },
             {
-                "id": 24,
-                "is_primary": false,
-                "name": "Tabletop Games",
+                "id": 12,
+                "is_primary": true,
+                "name": "Finance",
                 "name_localizations": {
-                    "bg": "Настолни игри",
-                    "cs": "Stolní hry",
-                    "da": "Brætspil",
-                    "de": "Tabletop-Spiele",
-                    "el": "Επιτραπέζια παιχνίδια",
-                    "fi": "Lautapelit",
-                    "fr": "Jeux de société",
-                    "hi": "टेबलटॉप गेम्स",
-                    "hr": "Stolne igre",
-                    "hu": "Társasjátékok",
-                    "it": "Giochi da tavolo",
-                    "ja": "テーブルゲーム",
-                    "ko": "테이블탑 게임",
-                    "lt": "Stalo žaidimai",
-                    "nl": "Bordspellen",
-                    "no": "Brettspill",
-                    "pl": "Gry planszowe",
-                    "ro": "Jocuri pe tablă",
-                    "ru": "Настольные игры",
-                    "th": "เกมกระดาน",
-                    "tr": "Kutu Oyunları",
-                    "uk": "Настільні ігри",
-                    "vi": "Game Chơi Trên Bàn",
-                    "en-GB": "Tabletop Games",
-                    "en-US": "Tabletop Games",
-                    "es-ES": "Juegos de mesa",
-                    "pt-BR": "Jogos de tabuleiro",
-                    "sv-SE": "Bordsspel",
-                    "zh-CN": "桌游",
-                    "zh-TW": "桌遊"
+                    "bg": "Финанси",
+                    "cs": "Finance",
+                    "da": "Finans",
+                    "de": "Finanzen",
+                    "el": "Οικονομία",
+                    "fi": "Talous",
+                    "fr": "Finance",
+                    "hi": "फ़ाइनेंस",
+                    "hr": "Financije",
+                    "hu": "Pénzügyek",
+                    "it": "Finanza",
+                    "ja": "ファイナンス",
+                    "ko": "금융",
+                    "lt": "Finansai",
+                    "nl": "Financiën",
+                    "no": "Økonomi",
+                    "pl": "Finanse",
+                    "ro": "Finanțe",
+                    "ru": "Финансы",
+                    "th": "การเงิน",
+                    "tr": "Finans",
+                    "uk": "Фінанси",
+                    "vi": "Tài Chính",
+                    "en-GB": "Finance",
+                    "en-US": "Finance",
+                    "es-ES": "Finanzas",
+                    "pt-BR": "Finanças",
+                    "sv-SE": "Ekonomi",
+                    "zh-CN": "理财",
+                    "zh-TW": "財經"
                 }
             },
             {
@@ -214,6 +177,43 @@
                     "sv-SE": "Gaming",
                     "zh-CN": "游戏",
                     "zh-TW": "遊戲"
+                }
+            },
+            {
+                "id": 24,
+                "is_primary": false,
+                "name": "Tabletop Games",
+                "name_localizations": {
+                    "bg": "Настолни игри",
+                    "cs": "Stolní hry",
+                    "da": "Brætspil",
+                    "de": "Tabletop-Spiele",
+                    "el": "Επιτραπέζια παιχνίδια",
+                    "fi": "Lautapelit",
+                    "fr": "Jeux de société",
+                    "hi": "टेबलटॉप गेम्स",
+                    "hr": "Stolne igre",
+                    "hu": "Társasjátékok",
+                    "it": "Giochi da tavolo",
+                    "ja": "テーブルゲーム",
+                    "ko": "테이블탑 게임",
+                    "lt": "Stalo žaidimai",
+                    "nl": "Bordspellen",
+                    "no": "Brettspill",
+                    "pl": "Gry planszowe",
+                    "ro": "Jocuri pe tablă",
+                    "ru": "Настольные игры",
+                    "th": "เกมกระดาน",
+                    "tr": "Kutu Oyunları",
+                    "uk": "Настільні ігри",
+                    "vi": "Game Chơi Trên Bàn",
+                    "en-GB": "Tabletop Games",
+                    "en-US": "Tabletop Games",
+                    "es-ES": "Juegos de mesa",
+                    "pt-BR": "Jogos de tabuleiro",
+                    "sv-SE": "Bordsspel",
+                    "zh-CN": "桌游",
+                    "zh-TW": "桌遊"
                 }
             }
         ],
@@ -319,160 +319,6 @@
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Финанси",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Finance",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Finans",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Finanzen",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Οικονομία",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Talous",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Finance",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "फ़ाइनेंस",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Financije",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Pénzügyek",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Finanza",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "ファイナンス",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "금융",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Finansai",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Financiën",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Økonomi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Finanse",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Finanțe",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Финансы",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "การเงิน",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Finans",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Фінанси",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Tài Chính",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Finance",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Finance",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Finanzas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Finanças",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Ekonomi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "理财",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "財經",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -630,152 +476,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Настолни игри",
+                            "value": "Финанси",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Stolní hry",
+                            "value": "Finance",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Brætspil",
+                            "value": "Finans",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Tabletop-Spiele",
+                            "value": "Finanzen",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Επιτραπέζια παιχνίδια",
+                            "value": "Οικονομία",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Lautapelit",
+                            "value": "Talous",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Jeux de société",
+                            "value": "Finance",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "टेबलटॉप गेम्स",
+                            "value": "फ़ाइनेंस",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Stolne igre",
+                            "value": "Financije",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Társasjátékok",
+                            "value": "Pénzügyek",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Giochi da tavolo",
+                            "value": "Finanza",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "テーブルゲーム",
+                            "value": "ファイナンス",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "테이블탑 게임",
+                            "value": "금융",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Stalo žaidimai",
+                            "value": "Finansai",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Bordspellen",
+                            "value": "Financiën",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Brettspill",
+                            "value": "Økonomi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Gry planszowe",
+                            "value": "Finanse",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Jocuri pe tablă",
+                            "value": "Finanțe",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Настольные игры",
+                            "value": "Финансы",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "เกมกระดาน",
+                            "value": "การเงิน",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Kutu Oyunları",
+                            "value": "Finans",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Настільні ігри",
+                            "value": "Фінанси",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Game Chơi Trên Bàn",
+                            "value": "Tài Chính",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Tabletop Games",
+                            "value": "Finance",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Tabletop Games",
+                            "value": "Finance",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Juegos de mesa",
+                            "value": "Finanzas",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Jogos de tabuleiro",
+                            "value": "Finanças",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Bordsspel",
+                            "value": "Ekonomi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "桌游",
+                            "value": "理财",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "桌遊",
+                            "value": "財經",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -930,6 +776,160 @@
                         },
                         "zh-TW": {
                             "value": "遊戲",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Настолни игри",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Stolní hry",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Brætspil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Tabletop-Spiele",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Επιτραπέζια παιχνίδια",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Lautapelit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Jeux de société",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "टेबलटॉप गेम्स",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Stolne igre",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Társasjátékok",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Giochi da tavolo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "テーブルゲーム",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "테이블탑 게임",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Stalo žaidimai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Bordspellen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Brettspill",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Gry planszowe",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Jocuri pe tablă",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Настольные игры",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "เกมกระดาน",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Kutu Oyunları",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Настільні ігри",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Game Chơi Trên Bàn",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Tabletop Games",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Tabletop Games",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Juegos de mesa",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Jogos de tabuleiro",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Bordsspel",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "桌游",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "桌遊",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

@@ -1,14 +1,14 @@
 {
     "id": "813945186983477298",
-    "name": "UOA Commerce 2022",
-    "description": "Server for primarily business students at the University of Auckland",
-    "icon": "a1dbef0269499f2df39a1b76d56a949b",
+    "name": "UOA Commerce 2024",
+    "description": "",
+    "icon": "90fa43fa86f6b7c71c42468b4f014c68",
     "splash": "4917057364e719af3c2ea883482e0ba0",
     "discovery_splash": null,
     "banner": "0f3e86ff27ad4b81ee32791143face40",
-    "approximate_presence_count": 239,
-    "approximate_member_count": 1420,
-    "premium_subscription_count": 5,
+    "approximate_presence_count": 130,
+    "approximate_member_count": 1352,
+    "premium_subscription_count": 3,
     "preferred_locale": "en-GB",
     "vanity_url_code": null,
     "keywords": [
@@ -28,14 +28,14 @@
     "verified": false,
     "raw": {
         "id": "813945186983477298",
-        "name": "UOA Commerce 2022",
-        "description": "Server for primarily business students at the University of Auckland",
-        "icon": "a1dbef0269499f2df39a1b76d56a949b",
+        "name": "UOA Commerce 2024",
+        "description": "",
+        "icon": "90fa43fa86f6b7c71c42468b4f014c68",
         "splash": "4917057364e719af3c2ea883482e0ba0",
         "banner": "0f3e86ff27ad4b81ee32791143face40",
-        "approximate_presence_count": 239,
-        "approximate_member_count": 1420,
-        "premium_subscription_count": 5,
+        "approximate_presence_count": 130,
+        "approximate_member_count": 1352,
+        "premium_subscription_count": 3,
         "preferred_locale": "en-GB",
         "auto_removed": false,
         "discovery_splash": null,
@@ -56,6 +56,43 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 36,
+                "is_primary": false,
+                "name": "Business",
+                "name_localizations": {
+                    "bg": "Бизнес",
+                    "cs": "Business",
+                    "da": "Forretning",
+                    "de": "Unternehmen",
+                    "el": "Επιχείρηση",
+                    "fi": "Liiketoiminta",
+                    "fr": "Activités commerciales",
+                    "hi": "बिज़नेस",
+                    "hr": "Posao",
+                    "hu": "Üzlet",
+                    "it": "Affari",
+                    "ja": "ビジネス",
+                    "ko": "사업",
+                    "lt": "Verslas",
+                    "nl": "Zakelijk",
+                    "no": "Næringsliv",
+                    "pl": "Biznes",
+                    "ro": "Activități comerciale",
+                    "ru": "Бизнес",
+                    "th": "ธุรกิจ",
+                    "tr": "Ticaret",
+                    "uk": "Бізнес",
+                    "vi": "Kinh Doanh",
+                    "en-GB": "Business",
+                    "en-US": "Business",
+                    "es-ES": "Negocios",
+                    "pt-BR": "Negócios",
+                    "sv-SE": "Affärer",
+                    "zh-CN": "商务",
+                    "zh-TW": "商業"
+                }
+            },
             {
                 "id": 37,
                 "is_primary": false,
@@ -128,43 +165,6 @@
                     "sv-SE": "Chatt i allmänhet",
                     "zh-CN": "综合聊天",
                     "zh-TW": "一般聊天"
-                }
-            },
-            {
-                "id": 36,
-                "is_primary": false,
-                "name": "Business",
-                "name_localizations": {
-                    "bg": "Бизнес",
-                    "cs": "Business",
-                    "da": "Forretning",
-                    "de": "Unternehmen",
-                    "el": "Επιχείρηση",
-                    "fi": "Liiketoiminta",
-                    "fr": "Activités commerciales",
-                    "hi": "बिज़नेस",
-                    "hr": "Posao",
-                    "hu": "Üzlet",
-                    "it": "Affari",
-                    "ja": "ビジネス",
-                    "ko": "사업",
-                    "lt": "Verslas",
-                    "nl": "Zakelijk",
-                    "no": "Næringsliv",
-                    "pl": "Biznes",
-                    "ro": "Activități comerciale",
-                    "ru": "Бизнес",
-                    "th": "ธุรกิจ",
-                    "tr": "Ticaret",
-                    "uk": "Бізнес",
-                    "vi": "Kinh Doanh",
-                    "en-GB": "Business",
-                    "en-US": "Business",
-                    "es-ES": "Negocios",
-                    "pt-BR": "Negócios",
-                    "sv-SE": "Affärer",
-                    "zh-CN": "商务",
-                    "zh-TW": "商業"
                 }
             },
             {
@@ -245,12 +245,12 @@
         "objectID": "813945186983477298",
         "_highlightResult": {
             "name": {
-                "value": "UOA Commerce 2022",
+                "value": "UOA Commerce 2024",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "description": {
-                "value": "Server for primarily business students at the University of Auckland",
+                "value": "",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -272,6 +272,160 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Бизнес",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Business",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Forretning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Unternehmen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Επιχείρηση",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Liiketoiminta",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Activités commerciales",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "बिज़नेस",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Posao",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Üzlet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Affari",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "ビジネス",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "사업",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Verslas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Zakelijk",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Næringsliv",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Biznes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Activități comerciale",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Бизнес",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ธุรกิจ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Ticaret",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Бізнес",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Kinh Doanh",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Business",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Business",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Negocios",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Negócios",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Affärer",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "商务",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "商業",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -575,160 +729,6 @@
                         },
                         "zh-TW": {
                             "value": "一般聊天",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Бизнес",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Business",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Forretning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Unternehmen",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Επιχείρηση",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Liiketoiminta",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Activités commerciales",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "बिज़नेस",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Posao",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Üzlet",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Affari",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "ビジネス",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "사업",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Verslas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Zakelijk",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Næringsliv",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Biznes",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Activități comerciale",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Бизнес",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "ธุรกิจ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Ticaret",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Бізнес",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Kinh Doanh",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Business",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Business",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Negocios",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Negócios",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Affärer",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "商务",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "商業",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

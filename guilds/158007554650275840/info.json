@@ -2,13 +2,13 @@
     "id": "158007554650275840",
     "name": "⛩╠The Dojo╣⛩",
     "description": "",
-    "icon": "ef3aa2b0d8650bd51677aa5f710a8934",
+    "icon": "4f0747304ad35f6e4ab6a7617c3b6e77",
     "splash": "7058d033a5f81a89e137f9fbc2ac37e6",
     "discovery_splash": "7058d033a5f81a89e137f9fbc2ac37e6",
-    "banner": "a_d9bb9e6bad87d5c527ad330a434aeb4c",
-    "approximate_presence_count": 546,
-    "approximate_member_count": 2064,
-    "premium_subscription_count": 17,
+    "banner": "59fec332c2cabcf10e5d47e29e88cfc2",
+    "approximate_presence_count": 380,
+    "approximate_member_count": 2047,
+    "premium_subscription_count": 19,
     "preferred_locale": "en-US",
     "vanity_url_code": "over9000",
     "keywords": [
@@ -22,33 +22,11 @@
         "Dojo"
     ],
     "features": [
-        "ANIMATED_BANNER",
-        "ANIMATED_ICON",
-        "BANNER",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "CREATOR_ACCEPTED_NEW_TERMS",
-        "CREATOR_MONETIZABLE",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "GUILD_PRODUCTS",
-        "INVITE_SPLASH",
-        "MEMBER_PROFILES",
-        "NEWS",
-        "NEW_THREAD_PERMISSIONS",
         "PARTNERED",
         "PREVIEW_ENABLED",
-        "PRIVATE_THREADS",
-        "ROLE_ICONS",
-        "ROLE_SUBSCRIPTIONS_AVAILABLE_FOR_PURCHASE",
-        "ROLE_SUBSCRIPTIONS_ENABLED",
-        "SEVEN_DAY_THREAD_ARCHIVE",
-        "SOUNDBOARD",
-        "TEXT_IN_VOICE_ENABLED",
-        "THREADS_ENABLED",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
-        "VIP_REGIONS",
         "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": true,
@@ -57,12 +35,12 @@
         "id": "158007554650275840",
         "name": "⛩╠The Dojo╣⛩",
         "description": "",
-        "icon": "ef3aa2b0d8650bd51677aa5f710a8934",
+        "icon": "4f0747304ad35f6e4ab6a7617c3b6e77",
         "splash": "7058d033a5f81a89e137f9fbc2ac37e6",
-        "banner": "a_d9bb9e6bad87d5c527ad330a434aeb4c",
-        "approximate_presence_count": 546,
-        "approximate_member_count": 2064,
-        "premium_subscription_count": 17,
+        "banner": "59fec332c2cabcf10e5d47e29e88cfc2",
+        "approximate_presence_count": 380,
+        "approximate_member_count": 2047,
+        "premium_subscription_count": 19,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "7058d033a5f81a89e137f9fbc2ac37e6",
@@ -80,34 +58,649 @@
             "Dojo"
         ],
         "features": [
-            "ANIMATED_BANNER",
-            "ANIMATED_ICON",
-            "BANNER",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "CREATOR_ACCEPTED_NEW_TERMS",
-            "CREATOR_MONETIZABLE",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "GUILD_PRODUCTS",
-            "INVITE_SPLASH",
-            "MEMBER_PROFILES",
-            "NEWS",
-            "NEW_THREAD_PERMISSIONS",
             "PARTNERED",
             "PREVIEW_ENABLED",
-            "PRIVATE_THREADS",
-            "ROLE_ICONS",
-            "ROLE_SUBSCRIPTIONS_AVAILABLE_FOR_PURCHASE",
-            "ROLE_SUBSCRIPTIONS_ENABLED",
-            "SEVEN_DAY_THREAD_ARCHIVE",
-            "SOUNDBOARD",
-            "TEXT_IN_VOICE_ENABLED",
-            "THREADS_ENABLED",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
-            "VIP_REGIONS",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 16,
+                "is_primary": false,
+                "name": "Anime & Manga",
+                "name_localizations": {
+                    "bg": "Аниме и манга",
+                    "cs": "Anime a manga",
+                    "da": "Anime & manga",
+                    "de": "Anime & Manga",
+                    "el": "Anime & Manga",
+                    "fi": "Anime ja manga",
+                    "fr": "Animés et mangas",
+                    "hi": "Anime & Manga",
+                    "hr": "Anime i Manga",
+                    "hu": "Anime és manga",
+                    "it": "Anime e manga",
+                    "ja": "アニメ&マンガ",
+                    "ko": "애니메이션, 만화",
+                    "lt": "Animė ir manga",
+                    "nl": "Anime en manga",
+                    "no": "Anime og manga",
+                    "pl": "Anime i manga",
+                    "ro": "Anime și manga",
+                    "ru": "Аниме и манга",
+                    "th": "อนิเมะและมังงะ",
+                    "tr": "Anime ve Manga",
+                    "uk": "Аніме та манга",
+                    "vi": "Anime & Manga",
+                    "en-GB": "Anime & manga",
+                    "en-US": "Anime & Manga",
+                    "es-ES": "Anime y manga",
+                    "pt-BR": "Anime e Mangá",
+                    "sv-SE": "Anime och manga",
+                    "zh-CN": "动画&漫画",
+                    "zh-TW": "動畫與漫畫"
+                }
+            },
+            {
+                "id": 1,
+                "is_primary": true,
+                "name": "Gaming",
+                "name_localizations": {
+                    "bg": "Гейминг",
+                    "cs": "Hraní",
+                    "da": "Spil",
+                    "de": "Gaming",
+                    "el": "Gaming",
+                    "fi": "Pelaaminen",
+                    "fr": "Gaming",
+                    "hi": "गेमिंग",
+                    "hr": "Gaming",
+                    "hu": "Játék",
+                    "it": "Gaming",
+                    "ja": "ゲーム",
+                    "ko": "게임",
+                    "lt": "Žaidimai",
+                    "nl": "Gaming",
+                    "no": "Gaming",
+                    "pl": "Gry",
+                    "ro": "Gaming",
+                    "ru": "Игры",
+                    "th": "การเล่นเกม",
+                    "tr": "Oyun",
+                    "uk": "Ігри",
+                    "vi": "Gaming",
+                    "en-GB": "Gaming",
+                    "en-US": "Gaming",
+                    "es-ES": "Juegos",
+                    "pt-BR": "Jogos",
+                    "sv-SE": "Gaming",
+                    "zh-CN": "游戏",
+                    "zh-TW": "遊戲"
+                }
+            }
+        ],
+        "primary_category": {
+            "id": 1,
+            "is_primary": true,
+            "name": "Gaming",
+            "name_localizations": {
+                "bg": "Гейминг",
+                "cs": "Hraní",
+                "da": "Spil",
+                "de": "Gaming",
+                "el": "Gaming",
+                "fi": "Pelaaminen",
+                "fr": "Gaming",
+                "hi": "गेमिंग",
+                "hr": "Gaming",
+                "hu": "Játék",
+                "it": "Gaming",
+                "ja": "ゲーム",
+                "ko": "게임",
+                "lt": "Žaidimai",
+                "nl": "Gaming",
+                "no": "Gaming",
+                "pl": "Gry",
+                "ro": "Gaming",
+                "ru": "Игры",
+                "th": "การเล่นเกม",
+                "tr": "Oyun",
+                "uk": "Ігри",
+                "vi": "Gaming",
+                "en-GB": "Gaming",
+                "en-US": "Gaming",
+                "es-ES": "Juegos",
+                "pt-BR": "Jogos",
+                "sv-SE": "Gaming",
+                "zh-CN": "游戏",
+                "zh-TW": "遊戲"
+            }
+        },
+        "objectID": "158007554650275840",
+        "_highlightResult": {
+            "name": {
+                "value": "⛩╠The Dojo╣⛩",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "over9000",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "keywords": [
+                {
+                    "value": "CJ",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "DBZ",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Dragon Ball Z",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Twitch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Streaming",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Content",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Creation",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Dojo",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            ],
+            "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Аниме и манга",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Anime a manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Anime & manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Anime & Manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Anime & Manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Anime ja manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Animés et mangas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "Anime & Manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Anime i Manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Anime és manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Anime e manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "アニメ&マンガ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "애니메이션, 만화",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Animė ir manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Anime en manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Anime og manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Anime i manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Anime și manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Аниме и манга",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "อนิเมะและมังงะ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Anime ve Manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Аніме та манга",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Anime & Manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Anime & manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Anime & Manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Anime y manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Anime e Mangá",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Anime och manga",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "动画&漫画",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "動畫與漫畫",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Гейминг",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Hraní",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Spil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Pelaaminen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "गेमिंग",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Játék",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "ゲーム",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "게임",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Žaidimai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Gry",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Игры",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การเล่นเกม",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Oyun",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Ігри",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Juegos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Jogos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "游戏",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "遊戲",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                }
+            ],
+            "primary_category": {
+                "name_localizations": {
+                    "bg": {
+                        "value": "Гейминг",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "cs": {
+                        "value": "Hraní",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "da": {
+                        "value": "Spil",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "de": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "el": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "fi": {
+                        "value": "Pelaaminen",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "fr": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hi": {
+                        "value": "गेमिंग",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hr": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hu": {
+                        "value": "Játék",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "it": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ja": {
+                        "value": "ゲーム",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ko": {
+                        "value": "게임",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "lt": {
+                        "value": "Žaidimai",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "nl": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "no": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "pl": {
+                        "value": "Gry",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ro": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ru": {
+                        "value": "Игры",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "th": {
+                        "value": "การเล่นเกม",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "tr": {
+                        "value": "Oyun",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "uk": {
+                        "value": "Ігри",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "vi": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "en-GB": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "en-US": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "es-ES": {
+                        "value": "Juegos",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "pt-BR": {
+                        "value": "Jogos",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "sv-SE": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "zh-CN": {
+                        "value": "游戏",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "zh-TW": {
+                        "value": "遊戲",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    }
+                }
+            }
+        }
     }
 }

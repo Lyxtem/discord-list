@@ -6,24 +6,18 @@
     "splash": "6b27ca3c3426bffd808a967e36e0975a",
     "discovery_splash": "6b27ca3c3426bffd808a967e36e0975a",
     "banner": null,
-    "approximate_presence_count": 97,
-    "approximate_member_count": 1451,
+    "approximate_presence_count": 77,
+    "approximate_member_count": 1387,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "eslwildrift",
     "keywords": [],
     "features": [
-        "AUTO_MODERATION",
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "INVITE_SPLASH",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "NEWS",
-        "NEW_THREAD_PERMISSIONS",
         "PREVIEW_ENABLED",
-        "THREADS_ENABLED",
-        "VANITY_URL",
         "VERIFIED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -36,8 +30,8 @@
         "icon": "f35ec817aa93ecd0114c1835de2c1bc1",
         "splash": "6b27ca3c3426bffd808a967e36e0975a",
         "banner": null,
-        "approximate_presence_count": 97,
-        "approximate_member_count": 1451,
+        "approximate_presence_count": 77,
+        "approximate_member_count": 1387,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -47,19 +41,45 @@
         "is_published": false,
         "keywords": [],
         "features": [
-            "AUTO_MODERATION",
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "INVITE_SPLASH",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "NEWS",
-            "NEW_THREAD_PERMISSIONS",
             "PREVIEW_ENABLED",
-            "THREADS_ENABLED",
-            "VANITY_URL",
             "VERIFIED",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "818797789664378901",
+        "_highlightResult": {
+            "name": {
+                "value": "ESL Wild Rift",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "eslwildrift",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }

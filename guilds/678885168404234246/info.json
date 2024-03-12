@@ -1,13 +1,13 @@
 {
     "id": "678885168404234246",
     "name": "823",
-    "description": "A place to connect and become inspired with like minded individuals and creatives by Celebrating the Simplicity of Life.",
+    "description": "The Hopes & Dreams Community is a creative club open to visual artists of all skill levels.",
     "icon": "af30c8809c8b73707a942ae021a04444",
     "splash": "e9882316cb1d329d743475ed50693671",
     "discovery_splash": "e9882316cb1d329d743475ed50693671",
     "banner": "e9882316cb1d329d743475ed50693671",
-    "approximate_presence_count": 159,
-    "approximate_member_count": 1751,
+    "approximate_presence_count": 136,
+    "approximate_member_count": 1789,
     "premium_subscription_count": 5,
     "preferred_locale": "en-US",
     "vanity_url_code": "823-678885168404234246",
@@ -36,12 +36,12 @@
     "raw": {
         "id": "678885168404234246",
         "name": "823",
-        "description": "A place to connect and become inspired with like minded individuals and creatives by Celebrating the Simplicity of Life.",
+        "description": "The Hopes & Dreams Community is a creative club open to visual artists of all skill levels.",
         "icon": "af30c8809c8b73707a942ae021a04444",
         "splash": "e9882316cb1d329d743475ed50693671",
         "banner": "e9882316cb1d329d743475ed50693671",
-        "approximate_presence_count": 159,
-        "approximate_member_count": 1751,
+        "approximate_presence_count": 136,
+        "approximate_member_count": 1789,
         "premium_subscription_count": 5,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -71,77 +71,40 @@
         ],
         "categories": [
             {
-                "id": 21,
-                "is_primary": false,
-                "name": "Crafts, DIY, & Making",
+                "id": 2,
+                "is_primary": true,
+                "name": "Music",
                 "name_localizations": {
-                    "bg": "Занаяти, хобита и творчество",
-                    "cs": "Tvoření, výroba a kutilství",
-                    "da": "Håndarbejde & DIY",
-                    "de": "Basteln & Handwerk",
-                    "el": "Χειροτεχνίες, Καν' το μόνος σου, & Κατασκευές",
-                    "fi": "Käsityöt ja tee se itse",
-                    "fr": "Travaux manuels, bricolage et artisanat",
-                    "hi": "क्राफ़्ट, DIY और मेकिंग",
-                    "hr": "Obrt, uradi sam, makete",
-                    "hu": "Kézműveskedés",
-                    "it": "Fai da te e bricolage",
-                    "ja": "工作、DIY、メイキング",
-                    "ko": "공예, DIY, 제작",
-                    "lt": "Amatai, pasidaryk pats ir gamyba",
-                    "nl": "Craften, DIY en maken",
-                    "no": "Håndarbeid og oppussing",
-                    "pl": "Majsterkowanie",
-                    "ro": "Lucru manual, bricolaj și artizanat",
-                    "ru": "Хобби, рукоделие",
-                    "th": "งานทำมือ ดีไอวาย และการประดิษฐ์",
-                    "tr": "El Sanatları, Kendin Yap ve Üretim",
-                    "uk": "Майстрування",
-                    "vi": "Đồ Thủ Công, DIY & Chế Tạo",
-                    "en-GB": "Crafts, DIY & Making",
-                    "en-US": "Crafts, DIY, & Making",
-                    "es-ES": "Artesanía y creaciones propias",
-                    "pt-BR": "Artes manuais e Faça-você-mesmo",
-                    "sv-SE": "Hantverk, DIY och tillverkning",
-                    "zh-CN": "手工，DIY & 创作",
-                    "zh-TW": "工藝、DIY與製作"
-                }
-            },
-            {
-                "id": 38,
-                "is_primary": false,
-                "name": "Collaboration",
-                "name_localizations": {
-                    "bg": "Сътрудничество",
-                    "cs": "Spolupráce",
-                    "da": "Samarbejde",
-                    "de": "Kollaboration",
-                    "el": "Συνεργασία",
-                    "fi": "Yhteistyö",
-                    "fr": "Collaboration",
-                    "hi": "सहयोग",
-                    "hr": "Suradnja",
-                    "hu": "Együttműködés",
-                    "it": "Collaborazione",
-                    "ja": "コラボレーション",
-                    "ko": "협동",
-                    "lt": "Bendradarbiavimas",
-                    "nl": "Samenwerken",
-                    "no": "Samarbeid",
-                    "pl": "Współpraca",
-                    "ro": "Colaborare",
-                    "ru": "Совместная работа",
-                    "th": "การร่วมมือ",
-                    "tr": "İşbirliği",
-                    "uk": "Співробітництво",
-                    "vi": "Hợp Tác",
-                    "en-GB": "Collaboration",
-                    "en-US": "Collaboration",
-                    "es-ES": "Colaboración",
-                    "pt-BR": "Colaboração",
-                    "sv-SE": "Samarbete",
-                    "zh-CN": "合作",
-                    "zh-TW": "合作"
+                    "bg": "Музика",
+                    "cs": "Hudba",
+                    "da": "Musik",
+                    "de": "Musik",
+                    "el": "Μουσική",
+                    "fi": "Musiikki",
+                    "fr": "Musique",
+                    "hi": "म्यूज़िक",
+                    "hr": "Glazba",
+                    "hu": "Zene",
+                    "it": "Musica",
+                    "ja": "音楽",
+                    "ko": "음악",
+                    "lt": "Muzika",
+                    "nl": "Muziek",
+                    "no": "Musikk",
+                    "pl": "Muzyka",
+                    "ro": "Muzică",
+                    "ru": "Музыка",
+                    "th": "เพลง",
+                    "tr": "Müzik",
+                    "uk": "Музика",
+                    "vi": "Âm Nhạc",
+                    "en-GB": "Music",
+                    "en-US": "Music",
+                    "es-ES": "Música",
+                    "pt-BR": "Música",
+                    "sv-SE": "Musik",
+                    "zh-CN": "音乐",
+                    "zh-TW": "音樂"
                 }
             },
             {
@@ -182,43 +145,6 @@
                 }
             },
             {
-                "id": 2,
-                "is_primary": true,
-                "name": "Music",
-                "name_localizations": {
-                    "bg": "Музика",
-                    "cs": "Hudba",
-                    "da": "Musik",
-                    "de": "Musik",
-                    "el": "Μουσική",
-                    "fi": "Musiikki",
-                    "fr": "Musique",
-                    "hi": "म्यूज़िक",
-                    "hr": "Glazba",
-                    "hu": "Zene",
-                    "it": "Musica",
-                    "ja": "音楽",
-                    "ko": "음악",
-                    "lt": "Muzika",
-                    "nl": "Muziek",
-                    "no": "Musikk",
-                    "pl": "Muzyka",
-                    "ro": "Muzică",
-                    "ru": "Музыка",
-                    "th": "เพลง",
-                    "tr": "Müzik",
-                    "uk": "Музика",
-                    "vi": "Âm Nhạc",
-                    "en-GB": "Music",
-                    "en-US": "Music",
-                    "es-ES": "Música",
-                    "pt-BR": "Música",
-                    "sv-SE": "Musik",
-                    "zh-CN": "音乐",
-                    "zh-TW": "音樂"
-                }
-            },
-            {
                 "id": 19,
                 "is_primary": false,
                 "name": "Art",
@@ -253,6 +179,80 @@
                     "sv-SE": "Konst",
                     "zh-CN": "艺术",
                     "zh-TW": "藝術"
+                }
+            },
+            {
+                "id": 38,
+                "is_primary": false,
+                "name": "Collaboration",
+                "name_localizations": {
+                    "bg": "Сътрудничество",
+                    "cs": "Spolupráce",
+                    "da": "Samarbejde",
+                    "de": "Kollaboration",
+                    "el": "Συνεργασία",
+                    "fi": "Yhteistyö",
+                    "fr": "Collaboration",
+                    "hi": "सहयोग",
+                    "hr": "Suradnja",
+                    "hu": "Együttműködés",
+                    "it": "Collaborazione",
+                    "ja": "コラボレーション",
+                    "ko": "협동",
+                    "lt": "Bendradarbiavimas",
+                    "nl": "Samenwerken",
+                    "no": "Samarbeid",
+                    "pl": "Współpraca",
+                    "ro": "Colaborare",
+                    "ru": "Совместная работа",
+                    "th": "การร่วมมือ",
+                    "tr": "İşbirliği",
+                    "uk": "Співробітництво",
+                    "vi": "Hợp Tác",
+                    "en-GB": "Collaboration",
+                    "en-US": "Collaboration",
+                    "es-ES": "Colaboración",
+                    "pt-BR": "Colaboração",
+                    "sv-SE": "Samarbete",
+                    "zh-CN": "合作",
+                    "zh-TW": "合作"
+                }
+            },
+            {
+                "id": 21,
+                "is_primary": false,
+                "name": "Crafts, DIY, & Making",
+                "name_localizations": {
+                    "bg": "Занаяти, хобита и творчество",
+                    "cs": "Tvoření, výroba a kutilství",
+                    "da": "Håndarbejde & DIY",
+                    "de": "Basteln & Handwerk",
+                    "el": "Χειροτεχνίες, Καν' το μόνος σου, & Κατασκευές",
+                    "fi": "Käsityöt ja tee se itse",
+                    "fr": "Travaux manuels, bricolage et artisanat",
+                    "hi": "क्राफ़्ट, DIY और मेकिंग",
+                    "hr": "Obrt, uradi sam, makete",
+                    "hu": "Kézműveskedés",
+                    "it": "Fai da te e bricolage",
+                    "ja": "工作、DIY、メイキング",
+                    "ko": "공예, DIY, 제작",
+                    "lt": "Amatai, pasidaryk pats ir gamyba",
+                    "nl": "Craften, DIY en maken",
+                    "no": "Håndarbeid og oppussing",
+                    "pl": "Majsterkowanie",
+                    "ro": "Lucru manual, bricolaj și artizanat",
+                    "ru": "Хобби, рукоделие",
+                    "th": "งานทำมือ ดีไอวาย และการประดิษฐ์",
+                    "tr": "El Sanatları, Kendin Yap ve Üretim",
+                    "uk": "Майстрування",
+                    "vi": "Đồ Thủ Công, DIY & Chế Tạo",
+                    "en-GB": "Crafts, DIY & Making",
+                    "en-US": "Crafts, DIY, & Making",
+                    "es-ES": "Artesanía y creaciones propias",
+                    "pt-BR": "Artes manuais e Faça-você-mesmo",
+                    "sv-SE": "Hantverk, DIY och tillverkning",
+                    "zh-CN": "手工，DIY & 创作",
+                    "zh-TW": "工藝、DIY與製作"
                 }
             }
         ],
@@ -301,7 +301,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "A place to connect and become inspired with like minded individuals and creatives by Celebrating the Simplicity of Life.",
+                "value": "The Hopes & Dreams Community is a creative club open to visual artists of all skill levels.",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -366,306 +366,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Занаяти, хобита и творчество",
+                            "value": "Музика",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Tvoření, výroba a kutilství",
+                            "value": "Hudba",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Håndarbejde & DIY",
+                            "value": "Musik",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Basteln & Handwerk",
+                            "value": "Musik",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Χειροτεχνίες, Καν' το μόνος σου, & Κατασκευές",
+                            "value": "Μουσική",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Käsityöt ja tee se itse",
+                            "value": "Musiikki",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Travaux manuels, bricolage et artisanat",
+                            "value": "Musique",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "क्राफ़्ट, DIY और मेकिंग",
+                            "value": "म्यूज़िक",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Obrt, uradi sam, makete",
+                            "value": "Glazba",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Kézműveskedés",
+                            "value": "Zene",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Fai da te e bricolage",
+                            "value": "Musica",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "工作、DIY、メイキング",
+                            "value": "音楽",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "공예, DIY, 제작",
+                            "value": "음악",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Amatai, pasidaryk pats ir gamyba",
+                            "value": "Muzika",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Craften, DIY en maken",
+                            "value": "Muziek",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Håndarbeid og oppussing",
+                            "value": "Musikk",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Majsterkowanie",
+                            "value": "Muzyka",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Lucru manual, bricolaj și artizanat",
+                            "value": "Muzică",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Хобби, рукоделие",
+                            "value": "Музыка",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "งานทำมือ ดีไอวาย และการประดิษฐ์",
+                            "value": "เพลง",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "El Sanatları, Kendin Yap ve Üretim",
+                            "value": "Müzik",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Майстрування",
+                            "value": "Музика",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Đồ Thủ Công, DIY & Chế Tạo",
+                            "value": "Âm Nhạc",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Crafts, DIY & Making",
+                            "value": "Music",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Crafts, DIY, & Making",
+                            "value": "Music",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Artesanía y creaciones propias",
+                            "value": "Música",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Artes manuais e Faça-você-mesmo",
+                            "value": "Música",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Hantverk, DIY och tillverkning",
+                            "value": "Musik",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "手工，DIY & 创作",
+                            "value": "音乐",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "工藝、DIY與製作",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Сътрудничество",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Spolupráce",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Samarbejde",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Kollaboration",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Συνεργασία",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Yhteistyö",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Collaboration",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "सहयोग",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Suradnja",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Együttműködés",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Collaborazione",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "コラボレーション",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "협동",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Bendradarbiavimas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Samenwerken",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Samarbeid",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Współpraca",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Colaborare",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Совместная работа",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "การร่วมมือ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "İşbirliği",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Співробітництво",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Hợp Tác",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Collaboration",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Collaboration",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Colaboración",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Colaboração",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Samarbete",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "合作",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "合作",
+                            "value": "音樂",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -828,160 +674,6 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Музика",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Hudba",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Musik",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Musik",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Μουσική",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Musiikki",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Musique",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "म्यूज़िक",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Glazba",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Zene",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Musica",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "音楽",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "음악",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Muzika",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Muziek",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Musikk",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Muzyka",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Muzică",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Музыка",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "เพลง",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Müzik",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Музика",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Âm Nhạc",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Music",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Music",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Música",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Música",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Musik",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "音乐",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "音樂",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
                             "value": "Изкуство",
                             "matchLevel": "none",
                             "matchedWords": []
@@ -1128,6 +820,314 @@
                         },
                         "zh-TW": {
                             "value": "藝術",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Сътрудничество",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Spolupráce",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Samarbejde",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Kollaboration",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Συνεργασία",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Yhteistyö",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Collaboration",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "सहयोग",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Suradnja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Együttműködés",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Collaborazione",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "コラボレーション",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "협동",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Bendradarbiavimas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Samenwerken",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Samarbeid",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Współpraca",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Colaborare",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Совместная работа",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การร่วมมือ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "İşbirliği",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Співробітництво",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Hợp Tác",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Collaboration",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Collaboration",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Colaboración",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Colaboração",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Samarbete",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "合作",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "合作",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Занаяти, хобита и творчество",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Tvoření, výroba a kutilství",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Håndarbejde & DIY",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Basteln & Handwerk",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Χειροτεχνίες, Καν' το μόνος σου, & Κατασκευές",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Käsityöt ja tee se itse",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Travaux manuels, bricolage et artisanat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "क्राफ़्ट, DIY और मेकिंग",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Obrt, uradi sam, makete",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Kézműveskedés",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Fai da te e bricolage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "工作、DIY、メイキング",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "공예, DIY, 제작",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Amatai, pasidaryk pats ir gamyba",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Craften, DIY en maken",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Håndarbeid og oppussing",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Majsterkowanie",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Lucru manual, bricolaj și artizanat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Хобби, рукоделие",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "งานทำมือ ดีไอวาย และการประดิษฐ์",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "El Sanatları, Kendin Yap ve Üretim",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Майстрування",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Đồ Thủ Công, DIY & Chế Tạo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Crafts, DIY & Making",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Crafts, DIY, & Making",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Artesanía y creaciones propias",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Artes manuais e Faça-você-mesmo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Hantverk, DIY och tillverkning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "手工，DIY & 创作",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "工藝、DIY與製作",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

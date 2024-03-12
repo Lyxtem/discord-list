@@ -6,32 +6,18 @@
     "splash": "30ecbe45e8810912236539fb12458af8",
     "discovery_splash": null,
     "banner": "5fd48520f08a14f58f346b8eefbc57ae",
-    "approximate_presence_count": 504,
-    "approximate_member_count": 2436,
+    "approximate_presence_count": 359,
+    "approximate_member_count": 2339,
     "premium_subscription_count": 9,
     "preferred_locale": "en-US",
     "vanity_url_code": "phantomace",
     "keywords": [],
     "features": [
-        "ANIMATED_ICON",
-        "AUTO_MODERATION",
-        "BANNER",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "INVITE_SPLASH",
-        "MEMBER_PROFILES",
-        "NEWS",
         "PREVIEW_ENABLED",
-        "PRIVATE_THREADS",
-        "ROLE_ICONS",
-        "SEVEN_DAY_THREAD_ARCHIVE",
-        "THREADS_ENABLED",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
-        "VERIFIED",
-        "VIP_REGIONS"
+        "VERIFIED"
     ],
     "partnered": false,
     "verified": true,
@@ -42,8 +28,8 @@
         "icon": "9582525381adee049a76fba373d9aae8",
         "splash": "30ecbe45e8810912236539fb12458af8",
         "banner": "5fd48520f08a14f58f346b8eefbc57ae",
-        "approximate_presence_count": 504,
-        "approximate_member_count": 2436,
+        "approximate_presence_count": 359,
+        "approximate_member_count": 2339,
         "premium_subscription_count": 9,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -53,25 +39,43 @@
         "is_published": false,
         "keywords": [],
         "features": [
-            "ANIMATED_ICON",
-            "AUTO_MODERATION",
-            "BANNER",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "INVITE_SPLASH",
-            "MEMBER_PROFILES",
-            "NEWS",
             "PREVIEW_ENABLED",
-            "PRIVATE_THREADS",
-            "ROLE_ICONS",
-            "SEVEN_DAY_THREAD_ARCHIVE",
-            "THREADS_ENABLED",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
-            "VERIFIED",
-            "VIP_REGIONS"
-        ]
+            "VERIFIED"
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "141777196644564993",
+        "_highlightResult": {
+            "name": {
+                "value": "Phamily Time",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "PhantomACE Community Discord Server",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "phantomace",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }

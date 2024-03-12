@@ -6,17 +6,17 @@
     "splash": "783fe65a9f5f977381e45441f588b827",
     "discovery_splash": "783fe65a9f5f977381e45441f588b827",
     "banner": "fea8461626335af09d1fc0694a9f4a0e",
-    "approximate_presence_count": 5134,
-    "approximate_member_count": 16325,
+    "approximate_presence_count": 4791,
+    "approximate_member_count": 16287,
     "premium_subscription_count": 16,
     "preferred_locale": "en-US",
     "vanity_url_code": "homeworld",
     "keywords": [
-        "RTS",
-        "Strategy",
         "Blackbird Interactive",
         "HW",
-        "Real Time"
+        "RTS",
+        "Real Time",
+        "Strategy"
     ],
     "features": [
         "COMMUNITY",
@@ -36,8 +36,8 @@
         "icon": "661c672dc253b77e3bb13f13282b2cf8",
         "splash": "783fe65a9f5f977381e45441f588b827",
         "banner": "fea8461626335af09d1fc0694a9f4a0e",
-        "approximate_presence_count": 5134,
-        "approximate_member_count": 16325,
+        "approximate_presence_count": 4791,
+        "approximate_member_count": 16287,
         "premium_subscription_count": 16,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -46,11 +46,11 @@
         "vanity_url_code": "homeworld",
         "is_published": false,
         "keywords": [
-            "RTS",
-            "Strategy",
             "Blackbird Interactive",
             "HW",
-            "Real Time"
+            "RTS",
+            "Real Time",
+            "Strategy"
         ],
         "features": [
             "COMMUNITY",
@@ -267,16 +267,6 @@
             },
             "keywords": [
                 {
-                    "value": "RTS",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "Strategy",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "Blackbird Interactive",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -287,7 +277,17 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "RTS",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "Real Time",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Strategy",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
