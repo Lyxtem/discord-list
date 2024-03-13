@@ -1,41 +1,46 @@
 {
     "id": "806646428314239006",
     "name": "Rusty Rats",
-    "description": "Rusty Rats servers provides the ultimate near-vanilla Rust experience with all the QOL!",
+    "description": "Rusty Rats servers provides the ultimate Rust experience with all the QOL!",
     "icon": "a_4dc431aa5c938a628619bcb36b4fb1a4",
     "splash": "a109d7e84396d35263585e9cdda8633f",
     "discovery_splash": "f81e864f2e1dd3f34cc6886f6cd76857",
     "banner": "b2090a643d6ac5b99621406050b83e1e",
-    "approximate_presence_count": 3691,
-    "approximate_member_count": 11115,
-    "premium_subscription_count": 65,
+    "approximate_presence_count": 4043,
+    "approximate_member_count": 11463,
+    "premium_subscription_count": 58,
     "preferred_locale": "en-US",
     "vanity_url_code": "rustyrats",
     "keywords": [
         "community",
         "gaming",
+        "gaming-community",
         "lfg",
         "rust",
+        "rust-community",
+        "rust-server",
         "rustlfg"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "PREVIEW_ENABLED"
+        "MEMBER_VERIFICATION_GATE_ENABLED",
+        "PREVIEW_ENABLED",
+        "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": false,
     "verified": false,
     "raw": {
         "id": "806646428314239006",
         "name": "Rusty Rats",
-        "description": "Rusty Rats servers provides the ultimate near-vanilla Rust experience with all the QOL!",
+        "description": "Rusty Rats servers provides the ultimate Rust experience with all the QOL!",
         "icon": "a_4dc431aa5c938a628619bcb36b4fb1a4",
         "splash": "a109d7e84396d35263585e9cdda8633f",
         "banner": "b2090a643d6ac5b99621406050b83e1e",
-        "approximate_presence_count": 3691,
-        "approximate_member_count": 11115,
-        "premium_subscription_count": 65,
+        "approximate_presence_count": 4043,
+        "approximate_member_count": 11463,
+        "premium_subscription_count": 58,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "f81e864f2e1dd3f34cc6886f6cd76857",
@@ -45,15 +50,20 @@
         "keywords": [
             "community",
             "gaming",
+            "gaming-community",
             "lfg",
             "rust",
+            "rust-community",
+            "rust-server",
             "rustlfg"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "PREVIEW_ENABLED"
+            "MEMBER_VERIFICATION_GATE_ENABLED",
+            "PREVIEW_ENABLED",
+            "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
             {
@@ -250,7 +260,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Rusty Rats servers provides the ultimate near-vanilla Rust experience with all the QOL!",
+                "value": "Rusty Rats servers provides the ultimate Rust experience with all the QOL!",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -271,12 +281,27 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "gaming-community",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "lfg",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "rust",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "rust-community",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "rust-server",
                     "matchLevel": "none",
                     "matchedWords": []
                 },

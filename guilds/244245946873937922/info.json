@@ -6,22 +6,22 @@
     "splash": "38f9cb08bc59e5c65c002e6225b8e2a5",
     "discovery_splash": "38f9cb08bc59e5c65c002e6225b8e2a5",
     "banner": "38fc24a45164549e5994ed762463a46d",
-    "approximate_presence_count": 1781,
-    "approximate_member_count": 10396,
+    "approximate_presence_count": 1744,
+    "approximate_member_count": 10427,
     "premium_subscription_count": 9,
     "preferred_locale": "en-US",
     "vanity_url_code": "phaser",
     "keywords": [
-        "webgl",
-        "html5",
-        "canvas",
-        "webgpu",
-        "glsl",
-        "web audio",
         "browser",
-        "io games",
+        "canvas",
         "game dev",
-        "javascript"
+        "glsl",
+        "html5",
+        "io games",
+        "javascript",
+        "web audio",
+        "webgl",
+        "webgpu"
     ],
     "features": [
         "COMMUNITY",
@@ -40,8 +40,8 @@
         "icon": "8b3649b00fe6e89d300375f9b4477fa9",
         "splash": "38f9cb08bc59e5c65c002e6225b8e2a5",
         "banner": "38fc24a45164549e5994ed762463a46d",
-        "approximate_presence_count": 1781,
-        "approximate_member_count": 10396,
+        "approximate_presence_count": 1744,
+        "approximate_member_count": 10427,
         "premium_subscription_count": 9,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -50,16 +50,16 @@
         "vanity_url_code": "phaser",
         "is_published": true,
         "keywords": [
-            "webgl",
-            "html5",
-            "canvas",
-            "webgpu",
-            "glsl",
-            "web audio",
             "browser",
-            "io games",
+            "canvas",
             "game dev",
-            "javascript"
+            "glsl",
+            "html5",
+            "io games",
+            "javascript",
+            "web audio",
+            "webgl",
+            "webgpu"
         ],
         "features": [
             "COMMUNITY",
@@ -238,12 +238,7 @@
             },
             "keywords": [
                 {
-                    "value": "webgl",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "html5",
+                    "value": "browser",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -253,7 +248,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "webgpu",
+                    "value": "game dev",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -263,12 +258,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "web audio",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "browser",
+                    "value": "html5",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -278,12 +268,22 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "game dev",
+                    "value": "javascript",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "javascript",
+                    "value": "web audio",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "webgl",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "webgpu",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
