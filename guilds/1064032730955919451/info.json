@@ -4,22 +4,22 @@
     "description": "With a coffee shop theme, this server helps adults make friends. Come grab a cup of coffee with some new friends (18+)",
     "icon": "bd2eaff4a88d8ac0f75d85b9ac16d7fc",
     "splash": "60b45ad104313e1a74f570e8615f890c",
-    "discovery_splash": "9a8273f88dce65480430b0931cfea12a",
+    "discovery_splash": "af6e1db8fce58c3e0f729d725541fff5",
     "banner": "7d55d953893205ba98cc177826a140f8",
-    "approximate_presence_count": 1646,
-    "approximate_member_count": 5701,
+    "approximate_presence_count": 1656,
+    "approximate_member_count": 5711,
     "premium_subscription_count": 29,
     "preferred_locale": "en-US",
     "vanity_url_code": "espressoyourself",
     "keywords": [
+        "Social",
         "adult",
         "chatting",
         "coffee",
         "community",
         "emojis",
         "friends",
-        "gaming",
-        "lgbtq",
+        "lgbtqia",
         "minecraft",
         "sfw"
     ],
@@ -40,24 +40,24 @@
         "icon": "bd2eaff4a88d8ac0f75d85b9ac16d7fc",
         "splash": "60b45ad104313e1a74f570e8615f890c",
         "banner": "7d55d953893205ba98cc177826a140f8",
-        "approximate_presence_count": 1646,
-        "approximate_member_count": 5701,
+        "approximate_presence_count": 1656,
+        "approximate_member_count": 5711,
         "premium_subscription_count": 29,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "9a8273f88dce65480430b0931cfea12a",
+        "discovery_splash": "af6e1db8fce58c3e0f729d725541fff5",
         "primary_category_id": 14,
         "vanity_url_code": "espressoyourself",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
+            "Social",
             "adult",
             "chatting",
             "coffee",
             "community",
             "emojis",
             "friends",
-            "gaming",
-            "lgbtq",
+            "lgbtqia",
             "minecraft",
             "sfw"
         ],
@@ -145,40 +145,40 @@
                 }
             },
             {
-                "id": 25,
+                "id": 45,
                 "is_primary": false,
-                "name": "Memes",
+                "name": "Mobile",
                 "name_localizations": {
-                    "bg": "Мемове",
-                    "cs": "Memy",
-                    "da": "Memes",
-                    "de": "Memes",
-                    "el": "Memes",
-                    "fi": "Meemit",
-                    "fr": "Memes",
-                    "hi": "मीम्स",
-                    "hr": "Memeovi",
-                    "hu": "Mémek",
-                    "it": "Meme",
-                    "ja": "ミーム",
-                    "ko": "짤",
-                    "lt": "Memai",
-                    "nl": "Memes",
-                    "no": "Memer",
-                    "pl": "Memy",
-                    "ro": "Meme",
-                    "ru": "Мемы",
-                    "th": "มีม",
-                    "tr": "Meme'ler",
-                    "uk": "Меми",
-                    "vi": "Meme",
-                    "en-GB": "Memes",
-                    "en-US": "Memes",
-                    "es-ES": "Memes",
-                    "pt-BR": "Memes",
-                    "sv-SE": "Memes",
-                    "zh-CN": "表情包",
-                    "zh-TW": "迷因"
+                    "bg": "Мобилни",
+                    "cs": "Mobily",
+                    "da": "Mobil",
+                    "de": "Mobilgeräte",
+                    "el": "Κινητά",
+                    "fi": "Mobiililaitteet",
+                    "fr": "Portable",
+                    "hi": "मोबाइल",
+                    "hr": "Mobilno",
+                    "hu": "Mobil",
+                    "it": "Cellulare",
+                    "ja": "モバイル",
+                    "ko": "모바일",
+                    "lt": "Mobilieji prietaisai",
+                    "nl": "Mobiel",
+                    "no": "Mobil",
+                    "pl": "Mobilne",
+                    "ro": "Mobil",
+                    "ru": "Мобильные устройства",
+                    "th": "มือถือ",
+                    "tr": "Mobil",
+                    "uk": "Мобільні ігри",
+                    "vi": "Mobile",
+                    "en-GB": "Mobile",
+                    "en-US": "Mobile",
+                    "es-ES": "Móvil",
+                    "pt-BR": "Dispositivo Móvel",
+                    "sv-SE": "Mobil",
+                    "zh-CN": "移动端",
+                    "zh-TW": "行動裝置"
                 }
             },
             {
@@ -312,6 +312,11 @@
             },
             "keywords": [
                 {
+                    "value": "Social",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "adult",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -342,12 +347,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "gaming",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "lgbtq",
+                    "value": "lgbtqia",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -674,152 +674,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Мемове",
+                            "value": "Мобилни",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Memy",
+                            "value": "Mobily",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Memes",
+                            "value": "Mobil",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Memes",
+                            "value": "Mobilgeräte",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Memes",
+                            "value": "Κινητά",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Meemit",
+                            "value": "Mobiililaitteet",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Memes",
+                            "value": "Portable",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "मीम्स",
+                            "value": "मोबाइल",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Memeovi",
+                            "value": "Mobilno",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Mémek",
+                            "value": "Mobil",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Meme",
+                            "value": "Cellulare",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "ミーム",
+                            "value": "モバイル",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "짤",
+                            "value": "모바일",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Memai",
+                            "value": "Mobilieji prietaisai",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Memes",
+                            "value": "Mobiel",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Memer",
+                            "value": "Mobil",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Memy",
+                            "value": "Mobilne",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Meme",
+                            "value": "Mobil",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Мемы",
+                            "value": "Мобильные устройства",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "มีม",
+                            "value": "มือถือ",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Meme'ler",
+                            "value": "Mobil",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Меми",
+                            "value": "Мобільні ігри",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Meme",
+                            "value": "Mobile",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Memes",
+                            "value": "Mobile",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Memes",
+                            "value": "Mobile",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Memes",
+                            "value": "Móvil",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Memes",
+                            "value": "Dispositivo Móvel",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Memes",
+                            "value": "Mobil",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "表情包",
+                            "value": "移动端",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "迷因",
+                            "value": "行動裝置",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

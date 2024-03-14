@@ -1,16 +1,16 @@
 {
     "id": "821023601984667710",
-    "name": "🤡CLOWNS MC CLUB🤡",
+    "name": "Toàn MC và Những Chú Hề",
     "description": "Nơi tập hợp của các Chúma Hmề. Vào đây để cùng giao lưu, trao đổi và chơi Minecraft cũng như các tựa game khác nhé.",
     "icon": "a_c8c64e86d5a541571b4249ec0020a768",
     "splash": "57e841c8b91eb74e476c2f3b7bd2b7a1",
     "discovery_splash": "57e841c8b91eb74e476c2f3b7bd2b7a1",
     "banner": "5da3d5b49807ee193a40f7aca875ae30",
-    "approximate_presence_count": 80,
-    "approximate_member_count": 1721,
-    "premium_subscription_count": 16,
+    "approximate_presence_count": 65,
+    "approximate_member_count": 2399,
+    "premium_subscription_count": 9,
     "preferred_locale": "vi",
-    "vanity_url_code": null,
+    "vanity_url_code": "clowns-mc-821023601984667710",
     "keywords": [
         "minecraft",
         "youtube",
@@ -24,6 +24,7 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -31,20 +32,20 @@
     "verified": false,
     "raw": {
         "id": "821023601984667710",
-        "name": "🤡CLOWNS MC CLUB🤡",
+        "name": "Toàn MC và Những Chú Hề",
         "description": "Nơi tập hợp của các Chúma Hmề. Vào đây để cùng giao lưu, trao đổi và chơi Minecraft cũng như các tựa game khác nhé.",
         "icon": "a_c8c64e86d5a541571b4249ec0020a768",
         "splash": "57e841c8b91eb74e476c2f3b7bd2b7a1",
         "banner": "5da3d5b49807ee193a40f7aca875ae30",
-        "approximate_presence_count": 80,
-        "approximate_member_count": 1721,
-        "premium_subscription_count": 16,
+        "approximate_presence_count": 65,
+        "approximate_member_count": 2399,
+        "premium_subscription_count": 9,
         "preferred_locale": "vi",
         "auto_removed": false,
         "discovery_splash": "57e841c8b91eb74e476c2f3b7bd2b7a1",
         "primary_category_id": 1,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "clowns-mc-821023601984667710",
+        "is_published": true,
         "keywords": [
             "minecraft",
             "youtube",
@@ -58,6 +59,7 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -137,43 +139,6 @@
                 }
             },
             {
-                "id": 38,
-                "is_primary": false,
-                "name": "Collaboration",
-                "name_localizations": {
-                    "bg": "Сътрудничество",
-                    "cs": "Spolupráce",
-                    "da": "Samarbejde",
-                    "de": "Kollaboration",
-                    "el": "Συνεργασία",
-                    "fi": "Yhteistyö",
-                    "fr": "Collaboration",
-                    "hi": "सहयोग",
-                    "hr": "Suradnja",
-                    "hu": "Együttműködés",
-                    "it": "Collaborazione",
-                    "ja": "コラボレーション",
-                    "ko": "협동",
-                    "lt": "Bendradarbiavimas",
-                    "nl": "Samenwerken",
-                    "no": "Samarbeid",
-                    "pl": "Współpraca",
-                    "ro": "Colaborare",
-                    "ru": "Совместная работа",
-                    "th": "การร่วมมือ",
-                    "tr": "İşbirliği",
-                    "uk": "Співробітництво",
-                    "vi": "Hợp Tác",
-                    "en-GB": "Collaboration",
-                    "en-US": "Collaboration",
-                    "es-ES": "Colaboración",
-                    "pt-BR": "Colaboração",
-                    "sv-SE": "Samarbete",
-                    "zh-CN": "合作",
-                    "zh-TW": "合作"
-                }
-            },
-            {
                 "id": 25,
                 "is_primary": false,
                 "name": "Memes",
@@ -208,6 +173,43 @@
                     "sv-SE": "Memes",
                     "zh-CN": "表情包",
                     "zh-TW": "迷因"
+                }
+            },
+            {
+                "id": 38,
+                "is_primary": false,
+                "name": "Collaboration",
+                "name_localizations": {
+                    "bg": "Сътрудничество",
+                    "cs": "Spolupráce",
+                    "da": "Samarbejde",
+                    "de": "Kollaboration",
+                    "el": "Συνεργασία",
+                    "fi": "Yhteistyö",
+                    "fr": "Collaboration",
+                    "hi": "सहयोग",
+                    "hr": "Suradnja",
+                    "hu": "Együttműködés",
+                    "it": "Collaborazione",
+                    "ja": "コラボレーション",
+                    "ko": "협동",
+                    "lt": "Bendradarbiavimas",
+                    "nl": "Samenwerken",
+                    "no": "Samarbeid",
+                    "pl": "Współpraca",
+                    "ro": "Colaborare",
+                    "ru": "Совместная работа",
+                    "th": "การร่วมมือ",
+                    "tr": "İşbirliği",
+                    "uk": "Співробітництво",
+                    "vi": "Hợp Tác",
+                    "en-GB": "Collaboration",
+                    "en-US": "Collaboration",
+                    "es-ES": "Colaboración",
+                    "pt-BR": "Colaboração",
+                    "sv-SE": "Samarbete",
+                    "zh-CN": "合作",
+                    "zh-TW": "合作"
                 }
             },
             {
@@ -288,12 +290,17 @@
         "objectID": "821023601984667710",
         "_highlightResult": {
             "name": {
-                "value": "🤡CLOWNS MC CLUB🤡",
+                "value": "Toàn MC và Những Chú Hề",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "description": {
                 "value": "Nơi tập hợp của các Chúma Hmề. Vào đây để cùng giao lưu, trao đổi và chơi Minecraft cũng như các tựa game khác nhé.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "clowns-mc-821023601984667710",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -646,160 +653,6 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Сътрудничество",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Spolupráce",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Samarbejde",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Kollaboration",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Συνεργασία",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Yhteistyö",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Collaboration",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "सहयोग",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Suradnja",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Együttműködés",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Collaborazione",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "コラボレーション",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "협동",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Bendradarbiavimas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Samenwerken",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Samarbeid",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Współpraca",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Colaborare",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Совместная работа",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "การร่วมมือ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "İşbirliği",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Співробітництво",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Hợp Tác",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Collaboration",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Collaboration",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Colaboración",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Colaboração",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Samarbete",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "合作",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "合作",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
                             "value": "Мемове",
                             "matchLevel": "none",
                             "matchedWords": []
@@ -946,6 +799,160 @@
                         },
                         "zh-TW": {
                             "value": "迷因",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Сътрудничество",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Spolupráce",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Samarbejde",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Kollaboration",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Συνεργασία",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Yhteistyö",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Collaboration",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "सहयोग",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Suradnja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Együttműködés",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Collaborazione",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "コラボレーション",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "협동",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Bendradarbiavimas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Samenwerken",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Samarbeid",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Współpraca",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Colaborare",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Совместная работа",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การร่วมมือ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "İşbirliği",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Співробітництво",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Hợp Tác",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Collaboration",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Collaboration",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Colaboración",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Colaboração",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Samarbete",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "合作",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "合作",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
