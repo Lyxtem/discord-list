@@ -1,24 +1,24 @@
 {
     "id": "284756522590928897",
     "name": "SilentMashiko и кО",
-    "description": "Сервер SilentMashiko - собираем новости по Варфу и общаемся мимоходом!",
+    "description": "Сервер SilentMashiko - собираем новости по Варфу и общаемся мимоходом! Я лимоню бабку.",
     "icon": "a_4f685e76068ca7e149f6a6c2d53099cc",
     "splash": "52cc49c1c859a37a0bd96696c90d6d80",
     "discovery_splash": "ccb4c0f00dc6533bb89905818f4bbe04",
     "banner": "4e4de72c80f53c36e4974b29fe6248a0",
-    "approximate_presence_count": 1989,
-    "approximate_member_count": 7953,
-    "premium_subscription_count": 2,
+    "approximate_presence_count": 2075,
+    "approximate_member_count": 8051,
+    "premium_subscription_count": 4,
     "preferred_locale": "ru",
     "vanity_url_code": "silentmashiko-i-ko-284756522590928897",
     "keywords": [
-        "warframe",
         "genshin impact",
-        "новости",
+        "silentmashiko",
+        "smashiko",
+        "warframe",
         "варфрейм",
         "геншин импакт",
-        "silentmashiko",
-        "smashiko"
+        "новости"
     ],
     "features": [
         "COMMUNITY",
@@ -32,27 +32,27 @@
     "raw": {
         "id": "284756522590928897",
         "name": "SilentMashiko и кО",
-        "description": "Сервер SilentMashiko - собираем новости по Варфу и общаемся мимоходом!",
+        "description": "Сервер SilentMashiko - собираем новости по Варфу и общаемся мимоходом! Я лимоню бабку.",
         "icon": "a_4f685e76068ca7e149f6a6c2d53099cc",
         "splash": "52cc49c1c859a37a0bd96696c90d6d80",
         "banner": "4e4de72c80f53c36e4974b29fe6248a0",
-        "approximate_presence_count": 1989,
-        "approximate_member_count": 7953,
-        "premium_subscription_count": 2,
+        "approximate_presence_count": 2075,
+        "approximate_member_count": 8051,
+        "premium_subscription_count": 4,
         "preferred_locale": "ru",
         "auto_removed": false,
         "discovery_splash": "ccb4c0f00dc6533bb89905818f4bbe04",
-        "primary_category_id": 1,
+        "primary_category_id": 8,
         "vanity_url_code": "silentmashiko-i-ko-284756522590928897",
         "is_published": true,
         "keywords": [
-            "warframe",
             "genshin impact",
-            "новости",
+            "silentmashiko",
+            "smashiko",
+            "warframe",
             "варфрейм",
             "геншин импакт",
-            "silentmashiko",
-            "smashiko"
+            "новости"
         ],
         "features": [
             "COMMUNITY",
@@ -211,78 +211,115 @@
                 }
             },
             {
-                "id": 1,
-                "is_primary": true,
-                "name": "Gaming",
+                "id": 47,
+                "is_primary": false,
+                "name": "Charity & Nonprofit",
                 "name_localizations": {
-                    "bg": "Гейминг",
-                    "cs": "Hraní",
-                    "da": "Spil",
-                    "de": "Gaming",
-                    "el": "Gaming",
-                    "fi": "Pelaaminen",
-                    "fr": "Gaming",
-                    "hi": "गेमिंग",
-                    "hr": "Gaming",
-                    "hu": "Játék",
-                    "it": "Gaming",
-                    "ja": "ゲーム",
-                    "ko": "게임",
-                    "lt": "Žaidimai",
-                    "nl": "Gaming",
-                    "no": "Gaming",
-                    "pl": "Gry",
-                    "ro": "Gaming",
-                    "ru": "Игры",
-                    "th": "การเล่นเกม",
-                    "tr": "Oyun",
-                    "uk": "Ігри",
-                    "vi": "Gaming",
-                    "en-GB": "Gaming",
-                    "en-US": "Gaming",
-                    "es-ES": "Juegos",
-                    "pt-BR": "Jogos",
-                    "sv-SE": "Gaming",
-                    "zh-CN": "游戏",
-                    "zh-TW": "遊戲"
+                    "bg": "Благотворителност и нестопански организации",
+                    "cs": "Charita a neziskovky",
+                    "da": "Velgørenhed og nonprofit",
+                    "de": "Wohltätigkeit & Gemeinnützigkeit",
+                    "el": "Φιλανθρωπία & ΜΚΟ",
+                    "fi": "Hyväntekeväisyys ja voittoa tavoittelemattomat",
+                    "fr": "Caritatif et non lucratif",
+                    "hi": "चैरिटी और नॉन प्रॉफ़िट",
+                    "hr": "Humanitarni i neprofitni rad",
+                    "hu": "Jótékonyság és nonprofit",
+                    "it": "Beneficenza e non profit",
+                    "ja": "チャリティ&非営利活動",
+                    "ko": "자선 및 비영리",
+                    "lt": "Labdara ir pelno nesiekiančios organizacijos",
+                    "nl": "Liefdadigheid en non-profit",
+                    "no": "Veldedig arbeid",
+                    "pl": "Działalność charytatywna/non-profit",
+                    "ro": "Organizații caritabile și non-profit",
+                    "ru": "Благотворительность и некоммерческая деятельность",
+                    "th": "มูลนิธิและองค์กรไม่แสวงผลกำไร",
+                    "tr": "Kâr Amacı Gütmeyen Hayır İşi",
+                    "uk": "Благодійність та неприбуткова діяльність",
+                    "vi": "Từ Thiện và Phi Lợi Nhuận",
+                    "en-GB": "Charity & Non-profit",
+                    "en-US": "Charity & Nonprofit",
+                    "es-ES": "Eventos benéficos y sin ánimo de lucro",
+                    "pt-BR": "Caridade e Sem Fins Lucrativos",
+                    "sv-SE": "Välgörenhet och ideellt arbete",
+                    "zh-CN": "慈善&非盈利",
+                    "zh-TW": "慈善及非營利活動"
+                }
+            },
+            {
+                "id": 8,
+                "is_primary": true,
+                "name": "Fashion & Beauty",
+                "name_localizations": {
+                    "bg": "Мода и красота",
+                    "cs": "Móda a krása",
+                    "da": "Mode & skønhed",
+                    "de": "Fashion & Beauty",
+                    "el": "Μόδα & Ομορφιά",
+                    "fi": "Muoti ja kauneus",
+                    "fr": "Mode et beauté",
+                    "hi": "फैशन और ब्यूटी",
+                    "hr": "Moda i ljepota",
+                    "hu": "Divat és szépségápolás",
+                    "it": "Moda e bellezza",
+                    "ja": "ファッション&ビューティー",
+                    "ko": "패션, 미용",
+                    "lt": "Mada ir grožis",
+                    "nl": "Mode en beauty",
+                    "no": "Mote og skjønnhet",
+                    "pl": "Moda i piękno",
+                    "ro": "Modă și frumusețe",
+                    "ru": "Мода и красота",
+                    "th": "แฟชันและความงาม",
+                    "tr": "Moda ve Güzellik",
+                    "uk": "Мода та краса",
+                    "vi": "Thời Trang & Làm Đẹp",
+                    "en-GB": "Fashion & Beauty",
+                    "en-US": "Fashion & Beauty",
+                    "es-ES": "Moda y belleza",
+                    "pt-BR": "Moda e Beleza",
+                    "sv-SE": "Mode och skönhet",
+                    "zh-CN": "时尚&美妆",
+                    "zh-TW": "時尚與美容"
                 }
             }
         ],
         "primary_category": {
-            "id": 1,
+            "id": 8,
             "is_primary": true,
-            "name": "Gaming",
+            "name": "Fashion & Beauty",
             "name_localizations": {
-                "bg": "Гейминг",
-                "cs": "Hraní",
-                "da": "Spil",
-                "de": "Gaming",
-                "el": "Gaming",
-                "fi": "Pelaaminen",
-                "fr": "Gaming",
-                "hi": "गेमिंग",
-                "hr": "Gaming",
-                "hu": "Játék",
-                "it": "Gaming",
-                "ja": "ゲーム",
-                "ko": "게임",
-                "lt": "Žaidimai",
-                "nl": "Gaming",
-                "no": "Gaming",
-                "pl": "Gry",
-                "ro": "Gaming",
-                "ru": "Игры",
-                "th": "การเล่นเกม",
-                "tr": "Oyun",
-                "uk": "Ігри",
-                "vi": "Gaming",
-                "en-GB": "Gaming",
-                "en-US": "Gaming",
-                "es-ES": "Juegos",
-                "pt-BR": "Jogos",
-                "sv-SE": "Gaming",
-                "zh-CN": "游戏",
-                "zh-TW": "遊戲"
+                "bg": "Мода и красота",
+                "cs": "Móda a krása",
+                "da": "Mode & skønhed",
+                "de": "Fashion & Beauty",
+                "el": "Μόδα & Ομορφιά",
+                "fi": "Muoti ja kauneus",
+                "fr": "Mode et beauté",
+                "hi": "फैशन और ब्यूटी",
+                "hr": "Moda i ljepota",
+                "hu": "Divat és szépségápolás",
+                "it": "Moda e bellezza",
+                "ja": "ファッション&ビューティー",
+                "ko": "패션, 미용",
+                "lt": "Mada ir grožis",
+                "nl": "Mode en beauty",
+                "no": "Mote og skjønnhet",
+                "pl": "Moda i piękno",
+                "ro": "Modă și frumusețe",
+                "ru": "Мода и красота",
+                "th": "แฟชันและความงาม",
+                "tr": "Moda ve Güzellik",
+                "uk": "Мода та краса",
+                "vi": "Thời Trang & Làm Đẹp",
+                "en-GB": "Fashion & Beauty",
+                "en-US": "Fashion & Beauty",
+                "es-ES": "Moda y belleza",
+                "pt-BR": "Moda e Beleza",
+                "sv-SE": "Mode och skönhet",
+                "zh-CN": "时尚&美妆",
+                "zh-TW": "時尚與美容"
             }
         },
         "objectID": "284756522590928897",
@@ -293,7 +330,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Сервер SilentMashiko - собираем новости по Варфу и общаемся мимоходом!",
+                "value": "Сервер SilentMashiko - собираем новости по Варфу и общаемся мимоходом! Я лимоню бабку.",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -304,17 +341,22 @@
             },
             "keywords": [
                 {
-                    "value": "warframe",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "genshin impact",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "новости",
+                    "value": "silentmashiko",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "smashiko",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "warframe",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -329,12 +371,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "silentmashiko",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "smashiko",
+                    "value": "новости",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
@@ -959,152 +996,306 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Гейминг",
+                            "value": "Благотворителност и нестопански организации",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Hraní",
+                            "value": "Charita a neziskovky",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Spil",
+                            "value": "Velgørenhed og nonprofit",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Gaming",
+                            "value": "Wohltätigkeit & Gemeinnützigkeit",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Gaming",
+                            "value": "Φιλανθρωπία & ΜΚΟ",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Pelaaminen",
+                            "value": "Hyväntekeväisyys ja voittoa tavoittelemattomat",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Gaming",
+                            "value": "Caritatif et non lucratif",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "गेमिंग",
+                            "value": "चैरिटी और नॉन प्रॉफ़िट",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Gaming",
+                            "value": "Humanitarni i neprofitni rad",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Játék",
+                            "value": "Jótékonyság és nonprofit",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Gaming",
+                            "value": "Beneficenza e non profit",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "ゲーム",
+                            "value": "チャリティ&非営利活動",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "게임",
+                            "value": "자선 및 비영리",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Žaidimai",
+                            "value": "Labdara ir pelno nesiekiančios organizacijos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Gaming",
+                            "value": "Liefdadigheid en non-profit",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Gaming",
+                            "value": "Veldedig arbeid",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Gry",
+                            "value": "Działalność charytatywna/non-profit",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Gaming",
+                            "value": "Organizații caritabile și non-profit",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Игры",
+                            "value": "Благотворительность и некоммерческая деятельность",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "การเล่นเกม",
+                            "value": "มูลนิธิและองค์กรไม่แสวงผลกำไร",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Oyun",
+                            "value": "Kâr Amacı Gütmeyen Hayır İşi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Ігри",
+                            "value": "Благодійність та неприбуткова діяльність",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Gaming",
+                            "value": "Từ Thiện và Phi Lợi Nhuận",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Gaming",
+                            "value": "Charity & Non-profit",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Gaming",
+                            "value": "Charity & Nonprofit",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Juegos",
+                            "value": "Eventos benéficos y sin ánimo de lucro",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Jogos",
+                            "value": "Caridade e Sem Fins Lucrativos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Gaming",
+                            "value": "Välgörenhet och ideellt arbete",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "游戏",
+                            "value": "慈善&非盈利",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "遊戲",
+                            "value": "慈善及非營利活動",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Мода и красота",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Móda a krása",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Mode & skønhed",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Fashion & Beauty",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Μόδα & Ομορφιά",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Muoti ja kauneus",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Mode et beauté",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "फैशन और ब्यूटी",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Moda i ljepota",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Divat és szépségápolás",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Moda e bellezza",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "ファッション&ビューティー",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "패션, 미용",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Mada ir grožis",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Mode en beauty",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Mote og skjønnhet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Moda i piękno",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Modă și frumusețe",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Мода и красота",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "แฟชันและความงาม",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Moda ve Güzellik",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Мода та краса",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Thời Trang & Làm Đẹp",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Fashion & Beauty",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Fashion & Beauty",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Moda y belleza",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Moda e Beleza",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Mode och skönhet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "时尚&美妆",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "時尚與美容",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -1114,152 +1305,152 @@
             "primary_category": {
                 "name_localizations": {
                     "bg": {
-                        "value": "Гейминг",
+                        "value": "Мода и красота",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "cs": {
-                        "value": "Hraní",
+                        "value": "Móda a krása",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "da": {
-                        "value": "Spil",
+                        "value": "Mode & skønhed",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "de": {
-                        "value": "Gaming",
+                        "value": "Fashion & Beauty",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "el": {
-                        "value": "Gaming",
+                        "value": "Μόδα & Ομορφιά",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "fi": {
-                        "value": "Pelaaminen",
+                        "value": "Muoti ja kauneus",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "fr": {
-                        "value": "Gaming",
+                        "value": "Mode et beauté",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "hi": {
-                        "value": "गेमिंग",
+                        "value": "फैशन और ब्यूटी",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "hr": {
-                        "value": "Gaming",
+                        "value": "Moda i ljepota",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "hu": {
-                        "value": "Játék",
+                        "value": "Divat és szépségápolás",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "it": {
-                        "value": "Gaming",
+                        "value": "Moda e bellezza",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ja": {
-                        "value": "ゲーム",
+                        "value": "ファッション&ビューティー",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ko": {
-                        "value": "게임",
+                        "value": "패션, 미용",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "lt": {
-                        "value": "Žaidimai",
+                        "value": "Mada ir grožis",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "nl": {
-                        "value": "Gaming",
+                        "value": "Mode en beauty",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "no": {
-                        "value": "Gaming",
+                        "value": "Mote og skjønnhet",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "pl": {
-                        "value": "Gry",
+                        "value": "Moda i piękno",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ro": {
-                        "value": "Gaming",
+                        "value": "Modă și frumusețe",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ru": {
-                        "value": "Игры",
+                        "value": "Мода и красота",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "th": {
-                        "value": "การเล่นเกม",
+                        "value": "แฟชันและความงาม",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "tr": {
-                        "value": "Oyun",
+                        "value": "Moda ve Güzellik",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "uk": {
-                        "value": "Ігри",
+                        "value": "Мода та краса",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "vi": {
-                        "value": "Gaming",
+                        "value": "Thời Trang & Làm Đẹp",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "en-GB": {
-                        "value": "Gaming",
+                        "value": "Fashion & Beauty",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "en-US": {
-                        "value": "Gaming",
+                        "value": "Fashion & Beauty",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "es-ES": {
-                        "value": "Juegos",
+                        "value": "Moda y belleza",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "pt-BR": {
-                        "value": "Jogos",
+                        "value": "Moda e Beleza",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "sv-SE": {
-                        "value": "Gaming",
+                        "value": "Mode och skönhet",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "zh-CN": {
-                        "value": "游戏",
+                        "value": "时尚&美妆",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "zh-TW": {
-                        "value": "遊戲",
+                        "value": "時尚與美容",
                         "matchLevel": "none",
                         "matchedWords": []
                     }

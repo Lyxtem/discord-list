@@ -2,23 +2,23 @@
     "id": "1010031398897340458",
     "name": "Printers Paradise",
     "description": "Printers Paradise was founded by a group of friends who want to teach and inspire everyone around them to become better!",
-    "icon": "083948ed8f239e260bca9875f71a67dc",
+    "icon": "123f4f9cbcea6959598d796c77e69d13",
     "splash": "d3e69d264d03ac6b7995cf36e07b7f8b",
     "discovery_splash": "d3e69d264d03ac6b7995cf36e07b7f8b",
     "banner": "a_a543d9ad9fcacd591728c7c1d7cc346d",
-    "approximate_presence_count": 244,
-    "approximate_member_count": 3662,
-    "premium_subscription_count": 17,
+    "approximate_presence_count": 737,
+    "approximate_member_count": 5466,
+    "premium_subscription_count": 15,
     "preferred_locale": "en-US",
     "vanity_url_code": "printersparadise",
     "keywords": [
-        "trading",
-        "education",
-        "investing",
         "crypto",
         "daytrading",
+        "education",
+        "investing",
+        "options",
         "stocks",
-        "options"
+        "trading"
     ],
     "features": [
         "COMMUNITY",
@@ -34,12 +34,12 @@
         "id": "1010031398897340458",
         "name": "Printers Paradise",
         "description": "Printers Paradise was founded by a group of friends who want to teach and inspire everyone around them to become better!",
-        "icon": "083948ed8f239e260bca9875f71a67dc",
+        "icon": "123f4f9cbcea6959598d796c77e69d13",
         "splash": "d3e69d264d03ac6b7995cf36e07b7f8b",
         "banner": "a_a543d9ad9fcacd591728c7c1d7cc346d",
-        "approximate_presence_count": 244,
-        "approximate_member_count": 3662,
-        "premium_subscription_count": 17,
+        "approximate_presence_count": 737,
+        "approximate_member_count": 5466,
+        "premium_subscription_count": 15,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "d3e69d264d03ac6b7995cf36e07b7f8b",
@@ -47,13 +47,13 @@
         "vanity_url_code": "printersparadise",
         "is_published": false,
         "keywords": [
-            "trading",
-            "education",
-            "investing",
             "crypto",
             "daytrading",
+            "education",
+            "investing",
+            "options",
             "stocks",
-            "options"
+            "trading"
         ],
         "features": [
             "COMMUNITY",
@@ -205,7 +205,12 @@
             },
             "keywords": [
                 {
-                    "value": "trading",
+                    "value": "crypto",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "daytrading",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -220,12 +225,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "crypto",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "daytrading",
+                    "value": "options",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -235,7 +235,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "options",
+                    "value": "trading",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

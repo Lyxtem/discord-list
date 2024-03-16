@@ -2,22 +2,22 @@
     "id": "971990935095357470",
     "name": "🔥 Ignis Network 🔥",
     "description": "IP: mc.ignisnw.com",
-    "icon": "8fb1c0e0ba4f7979ac1b9e3417d40db7",
+    "icon": "651368cf777302bd4e66ea2f72fb2539",
     "splash": "1b1a343a9d75bcdeddad2d3e9212ee3d",
     "discovery_splash": "651368cf777302bd4e66ea2f72fb2539",
     "banner": "dcd6704c8732860a2709c07d0d3e96a5",
-    "approximate_presence_count": 155,
-    "approximate_member_count": 5572,
-    "premium_subscription_count": 13,
+    "approximate_presence_count": 552,
+    "approximate_member_count": 5993,
+    "premium_subscription_count": 5,
     "preferred_locale": "es-ES",
     "vanity_url_code": "ignis-network-971990935095357470",
     "keywords": [
-        "minecraft",
         "juegos",
-        "twitch",
         "memes",
+        "minecraft",
+        "social",
         "streamer",
-        "social"
+        "twitch"
     ],
     "features": [
         "COMMUNITY",
@@ -33,12 +33,12 @@
         "id": "971990935095357470",
         "name": "🔥 Ignis Network 🔥",
         "description": "IP: mc.ignisnw.com",
-        "icon": "8fb1c0e0ba4f7979ac1b9e3417d40db7",
+        "icon": "651368cf777302bd4e66ea2f72fb2539",
         "splash": "1b1a343a9d75bcdeddad2d3e9212ee3d",
         "banner": "dcd6704c8732860a2709c07d0d3e96a5",
-        "approximate_presence_count": 155,
-        "approximate_member_count": 5572,
-        "premium_subscription_count": 13,
+        "approximate_presence_count": 552,
+        "approximate_member_count": 5993,
+        "premium_subscription_count": 5,
         "preferred_locale": "es-ES",
         "auto_removed": false,
         "discovery_splash": "651368cf777302bd4e66ea2f72fb2539",
@@ -46,12 +46,12 @@
         "vanity_url_code": "ignis-network-971990935095357470",
         "is_published": true,
         "keywords": [
-            "minecraft",
             "juegos",
-            "twitch",
             "memes",
+            "minecraft",
+            "social",
             "streamer",
-            "social"
+            "twitch"
         ],
         "features": [
             "COMMUNITY",
@@ -341,17 +341,7 @@
             },
             "keywords": [
                 {
-                    "value": "minecraft",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "juegos",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "twitch",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -361,12 +351,22 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "streamer",
+                    "value": "minecraft",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "social",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "streamer",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "twitch",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
