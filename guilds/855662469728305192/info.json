@@ -6,17 +6,17 @@
     "splash": "dca9af3555338a8ac0e6dcc59021f967",
     "discovery_splash": "dca9af3555338a8ac0e6dcc59021f967",
     "banner": "e69b4b9b1f87833e6e762df085f37bfe",
-    "approximate_presence_count": 2112,
-    "approximate_member_count": 5585,
-    "premium_subscription_count": 7,
+    "approximate_presence_count": 2009,
+    "approximate_member_count": 5898,
+    "premium_subscription_count": 3,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
     "keywords": [
-        "Modding",
-        "Darkest Dungeon",
-        "Black Reliquary",
         "BR",
-        "DD"
+        "Black Reliquary",
+        "DD",
+        "Darkest Dungeon",
+        "Modding"
     ],
     "features": [
         "COMMUNITY",
@@ -35,9 +35,9 @@
         "icon": "6c20dcd967f4b03e1899c213487a75ec",
         "splash": "dca9af3555338a8ac0e6dcc59021f967",
         "banner": "e69b4b9b1f87833e6e762df085f37bfe",
-        "approximate_presence_count": 2112,
-        "approximate_member_count": 5585,
-        "premium_subscription_count": 7,
+        "approximate_presence_count": 2009,
+        "approximate_member_count": 5898,
+        "premium_subscription_count": 3,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "dca9af3555338a8ac0e6dcc59021f967",
@@ -45,11 +45,11 @@
         "vanity_url_code": null,
         "is_published": false,
         "keywords": [
-            "Modding",
-            "Darkest Dungeon",
-            "Black Reliquary",
             "BR",
-            "DD"
+            "Black Reliquary",
+            "DD",
+            "Darkest Dungeon",
+            "Modding"
         ],
         "features": [
             "COMMUNITY",
@@ -186,12 +186,7 @@
             },
             "keywords": [
                 {
-                    "value": "Modding",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "Darkest Dungeon",
+                    "value": "BR",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -201,12 +196,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "BR",
+                    "value": "DD",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "DD",
+                    "value": "Darkest Dungeon",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Modding",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
