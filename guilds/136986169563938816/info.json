@@ -6,19 +6,19 @@
     "splash": "766907b1f172a3b0f80d6429d34cb29c",
     "discovery_splash": "ac62ed296a88d259bbc167b854caefea",
     "banner": "8baa7d6d11e157e4cb1b0496967e4891",
-    "approximate_presence_count": 91271,
-    "approximate_member_count": 543429,
-    "premium_subscription_count": 256,
+    "approximate_presence_count": 107579,
+    "approximate_member_count": 543609,
+    "premium_subscription_count": 252,
     "preferred_locale": "en-US",
     "vanity_url_code": "callofduty",
     "keywords": [
         "Black Ops",
         "COD",
         "Call of Duty",
-        "Chat",
         "DMZ",
         "LFG",
         "Memes",
+        "Mobile",
         "Modern Warfare",
         "Warzone",
         "Zombies"
@@ -39,23 +39,23 @@
         "icon": "a_25650a34493daf97d97da7e25f255494",
         "splash": "766907b1f172a3b0f80d6429d34cb29c",
         "banner": "8baa7d6d11e157e4cb1b0496967e4891",
-        "approximate_presence_count": 91271,
-        "approximate_member_count": 543429,
-        "premium_subscription_count": 256,
+        "approximate_presence_count": 107579,
+        "approximate_member_count": 543609,
+        "premium_subscription_count": 252,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "ac62ed296a88d259bbc167b854caefea",
         "primary_category_id": 1,
         "vanity_url_code": "callofduty",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
             "Black Ops",
             "COD",
             "Call of Duty",
-            "Chat",
             "DMZ",
             "LFG",
             "Memes",
+            "Mobile",
             "Modern Warfare",
             "Warzone",
             "Zombies"
@@ -325,11 +325,6 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "Chat",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "DMZ",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -341,6 +336,11 @@
                 },
                 {
                     "value": "Memes",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Mobile",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
