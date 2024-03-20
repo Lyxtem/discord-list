@@ -1,26 +1,27 @@
 {
     "id": "933846070344167464",
     "name": "moonwell",
-    "description": "Moonwell is a DeFi lending and borrowing protocol.",
-    "icon": "8e5f666842ea1f8d1091f433c2c1c345",
+    "description": "Moonwell is an open lending and borrowing app on Base, Moonbeam, and Moonriver.",
+    "icon": "fa0220ff2d2dae40d9e600cc76fb478e",
     "splash": "e630375fbc00e53c6bf072cfcd6091ca",
     "discovery_splash": "e630375fbc00e53c6bf072cfcd6091ca",
     "banner": "454e470b32d4fc927589f89c99c8072b",
-    "approximate_presence_count": 546,
-    "approximate_member_count": 4746,
+    "approximate_presence_count": 594,
+    "approximate_member_count": 5136,
     "premium_subscription_count": 15,
     "preferred_locale": "en-US",
     "vanity_url_code": "moonwellfi",
     "keywords": [
+        "base",
         "borrowing",
         "crypto",
-        "decentralized-finance",
         "defi",
         "evm",
         "governance",
         "lending",
         "moonbeam",
-        "polkadot"
+        "polkadot",
+        "well"
     ],
     "features": [
         "COMMUNITY",
@@ -34,12 +35,12 @@
     "raw": {
         "id": "933846070344167464",
         "name": "moonwell",
-        "description": "Moonwell is a DeFi lending and borrowing protocol.",
-        "icon": "8e5f666842ea1f8d1091f433c2c1c345",
+        "description": "Moonwell is an open lending and borrowing app on Base, Moonbeam, and Moonriver.",
+        "icon": "fa0220ff2d2dae40d9e600cc76fb478e",
         "splash": "e630375fbc00e53c6bf072cfcd6091ca",
         "banner": "454e470b32d4fc927589f89c99c8072b",
-        "approximate_presence_count": 546,
-        "approximate_member_count": 4746,
+        "approximate_presence_count": 594,
+        "approximate_member_count": 5136,
         "premium_subscription_count": 15,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -48,15 +49,16 @@
         "vanity_url_code": "moonwellfi",
         "is_published": true,
         "keywords": [
+            "base",
             "borrowing",
             "crypto",
-            "decentralized-finance",
             "defi",
             "evm",
             "governance",
             "lending",
             "moonbeam",
-            "polkadot"
+            "polkadot",
+            "well"
         ],
         "features": [
             "COMMUNITY",
@@ -186,7 +188,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Moonwell is a DeFi lending and borrowing protocol.",
+                "value": "Moonwell is an open lending and borrowing app on Base, Moonbeam, and Moonriver.",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -197,17 +199,17 @@
             },
             "keywords": [
                 {
+                    "value": "base",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "borrowing",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "crypto",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "decentralized-finance",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -238,6 +240,11 @@
                 },
                 {
                     "value": "polkadot",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "well",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

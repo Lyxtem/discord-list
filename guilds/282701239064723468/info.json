@@ -4,20 +4,20 @@
     "description": "A discord server for Prizepicks, Underdog, and sportsbook sports betting picks",
     "icon": "f349a0e219c46a3f292c799e43cdca2d",
     "splash": "c530dbad2cf976475996013f296f1667",
-    "discovery_splash": null,
+    "discovery_splash": "f6a8d580d55375695b26bccaaf72038e",
     "banner": null,
-    "approximate_presence_count": 295,
-    "approximate_member_count": 10076,
-    "premium_subscription_count": 4,
+    "approximate_presence_count": 804,
+    "approximate_member_count": 12483,
+    "premium_subscription_count": 2,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
     "keywords": [
-        "prizepicks",
-        "underdog",
-        "nba",
         "bets",
+        "nba",
+        "prizepicks",
         "prizepicks-bets",
         "prizepicks-picks",
+        "underdog",
         "underdog-picks"
     ],
     "features": [
@@ -36,22 +36,22 @@
         "icon": "f349a0e219c46a3f292c799e43cdca2d",
         "splash": "c530dbad2cf976475996013f296f1667",
         "banner": null,
-        "approximate_presence_count": 295,
-        "approximate_member_count": 10076,
-        "premium_subscription_count": 4,
+        "approximate_presence_count": 804,
+        "approximate_member_count": 12483,
+        "premium_subscription_count": 2,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "f6a8d580d55375695b26bccaaf72038e",
         "primary_category_id": 7,
         "vanity_url_code": null,
         "is_published": false,
         "keywords": [
-            "prizepicks",
-            "underdog",
-            "nba",
             "bets",
+            "nba",
+            "prizepicks",
             "prizepicks-bets",
             "prizepicks-picks",
+            "underdog",
             "underdog-picks"
         ],
         "features": [
@@ -97,12 +97,7 @@
             },
             "keywords": [
                 {
-                    "value": "prizepicks",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "underdog",
+                    "value": "bets",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -112,7 +107,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "bets",
+                    "value": "prizepicks",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -123,6 +118,11 @@
                 },
                 {
                     "value": "prizepicks-picks",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "underdog",
                     "matchLevel": "none",
                     "matchedWords": []
                 },

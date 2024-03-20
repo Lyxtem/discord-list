@@ -6,11 +6,11 @@
     "splash": "da6ac5d4278878dc80834801adf2c142",
     "discovery_splash": null,
     "banner": "ef01596aba7e11e92c21187435122917",
-    "approximate_presence_count": 629,
-    "approximate_member_count": 7417,
-    "premium_subscription_count": 2,
+    "approximate_presence_count": 144,
+    "approximate_member_count": 6818,
+    "premium_subscription_count": 15,
     "preferred_locale": "cs",
-    "vanity_url_code": null,
+    "vanity_url_code": "grolldir",
     "keywords": [
         "grolldir",
         "ets2",
@@ -27,6 +27,7 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -39,14 +40,14 @@
         "icon": "16a91590070e8df0990d8bac448a5b72",
         "splash": "da6ac5d4278878dc80834801adf2c142",
         "banner": "ef01596aba7e11e92c21187435122917",
-        "approximate_presence_count": 629,
-        "approximate_member_count": 7417,
-        "premium_subscription_count": 2,
+        "approximate_presence_count": 144,
+        "approximate_member_count": 6818,
+        "premium_subscription_count": 15,
         "preferred_locale": "cs",
         "auto_removed": false,
         "discovery_splash": null,
         "primary_category_id": 1,
-        "vanity_url_code": null,
+        "vanity_url_code": "grolldir",
         "is_published": false,
         "keywords": [
             "grolldir",
@@ -64,6 +65,7 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -337,6 +339,11 @@
             },
             "description": {
                 "value": "Discord komunity streamu https://www.twitch.tv/grolldir",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "grolldir",
                 "matchLevel": "none",
                 "matchedWords": []
             },

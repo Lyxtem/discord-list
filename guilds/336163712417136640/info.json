@@ -1,22 +1,22 @@
 {
     "id": "336163712417136640",
     "name": "Brawl Box Community",
-    "description": "The support server for Brawl Box — the loot box simulator for Brawl Stars!",
-    "icon": "f4e6089a816675f6efd963a3802f0900",
+    "description": "This is the community server for Brawl Box — the loot box simulator for Brawl Stars.",
+    "icon": "61e3f041cae46fb3444b95cfbde46cb3",
     "splash": "566e1272ee30499b5467523fba719194",
     "discovery_splash": "f5413dcf7cbf869f57588e9822b10755",
     "banner": null,
-    "approximate_presence_count": 658,
-    "approximate_member_count": 12553,
+    "approximate_presence_count": 749,
+    "approximate_member_count": 12537,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "brawl-box-community-336163712417136640",
     "keywords": [
-        "brawl",
-        "stars",
-        "brawlstars",
         "box",
-        "brawlbox"
+        "brawl",
+        "brawlbox",
+        "brawlstars",
+        "stars"
     ],
     "features": [
         "COMMUNITY",
@@ -29,12 +29,12 @@
     "raw": {
         "id": "336163712417136640",
         "name": "Brawl Box Community",
-        "description": "The support server for Brawl Box — the loot box simulator for Brawl Stars!",
-        "icon": "f4e6089a816675f6efd963a3802f0900",
+        "description": "This is the community server for Brawl Box — the loot box simulator for Brawl Stars.",
+        "icon": "61e3f041cae46fb3444b95cfbde46cb3",
         "splash": "566e1272ee30499b5467523fba719194",
         "banner": null,
-        "approximate_presence_count": 658,
-        "approximate_member_count": 12553,
+        "approximate_presence_count": 749,
+        "approximate_member_count": 12537,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -43,11 +43,11 @@
         "vanity_url_code": "brawl-box-community-336163712417136640",
         "is_published": true,
         "keywords": [
-            "brawl",
-            "stars",
-            "brawlstars",
             "box",
-            "brawlbox"
+            "brawl",
+            "brawlbox",
+            "brawlstars",
+            "stars"
         ],
         "features": [
             "COMMUNITY",
@@ -250,7 +250,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "The support server for Brawl Box — the loot box simulator for Brawl Stars!",
+                "value": "This is the community server for Brawl Box — the loot box simulator for Brawl Stars.",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -261,12 +261,17 @@
             },
             "keywords": [
                 {
+                    "value": "box",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "brawl",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "stars",
+                    "value": "brawlbox",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -276,12 +281,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "box",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "brawlbox",
+                    "value": "stars",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

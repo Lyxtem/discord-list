@@ -3,30 +3,31 @@
     "name": "IV Games",
     "description": "",
     "icon": "a_a65e187df64c2e0ee15548a33b14e735",
-    "splash": null,
-    "discovery_splash": null,
-    "banner": "c1e48ab1bb2cf5f2bfe5c91b6ea6b71b",
-    "approximate_presence_count": 882,
-    "approximate_member_count": 5051,
-    "premium_subscription_count": 17,
+    "splash": "1663b0768e517d0f01255c7c9109f5c8",
+    "discovery_splash": "1663b0768e517d0f01255c7c9109f5c8",
+    "banner": "a1482b1fd907f1bb080f4712a08990bd",
+    "approximate_presence_count": 1606,
+    "approximate_member_count": 6208,
+    "premium_subscription_count": 14,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "ivgames",
     "keywords": [
-        "ivstudio",
-        "ivgames",
-        "moonrakers",
-        "veiledfate",
-        "mythicmischief",
-        "shattermage",
         "boardgames",
-        "tabletopgames",
+        "gamedev",
+        "ivgames",
+        "ivstudio",
+        "moonrakers",
+        "mythicmischief",
         "playtesting",
-        "gamedev"
+        "shattermage",
+        "tabletopgames",
+        "veiledfate"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED"
     ],
     "partnered": false,
@@ -36,33 +37,34 @@
         "name": "IV Games",
         "description": "",
         "icon": "a_a65e187df64c2e0ee15548a33b14e735",
-        "splash": null,
-        "banner": "c1e48ab1bb2cf5f2bfe5c91b6ea6b71b",
-        "approximate_presence_count": 882,
-        "approximate_member_count": 5051,
-        "premium_subscription_count": 17,
+        "splash": "1663b0768e517d0f01255c7c9109f5c8",
+        "banner": "a1482b1fd907f1bb080f4712a08990bd",
+        "approximate_presence_count": 1606,
+        "approximate_member_count": 6208,
+        "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "1663b0768e517d0f01255c7c9109f5c8",
         "primary_category_id": 1,
-        "vanity_url_code": null,
+        "vanity_url_code": "ivgames",
         "is_published": false,
         "keywords": [
-            "ivstudio",
-            "ivgames",
-            "moonrakers",
-            "veiledfate",
-            "mythicmischief",
-            "shattermage",
             "boardgames",
-            "tabletopgames",
+            "gamedev",
+            "ivgames",
+            "ivstudio",
+            "moonrakers",
+            "mythicmischief",
             "playtesting",
-            "gamedev"
+            "shattermage",
+            "tabletopgames",
+            "veiledfate"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED"
         ],
         "categories": [
@@ -190,9 +192,19 @@
                 "matchLevel": "none",
                 "matchedWords": []
             },
+            "vanity_url_code": {
+                "value": "ivgames",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
             "keywords": [
                 {
-                    "value": "ivstudio",
+                    "value": "boardgames",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "gamedev",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -202,12 +214,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "moonrakers",
+                    "value": "ivstudio",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "veiledfate",
+                    "value": "moonrakers",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -217,12 +229,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "shattermage",
+                    "value": "playtesting",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "boardgames",
+                    "value": "shattermage",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -232,12 +244,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "playtesting",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "gamedev",
+                    "value": "veiledfate",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
