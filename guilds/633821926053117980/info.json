@@ -2,15 +2,15 @@
     "id": "633821926053117980",
     "name": "Neverest.gg",
     "description": "Evolua até o RADIANTE no #valorant com:🎮 | Cursos com PROs BR🎯 | Pixels de mapas/agentes",
-    "icon": "a_63dfb4deecf77847ce52a0eb9e5e376d",
-    "splash": "db80def21977dc578c1b4dfafb7270bc",
+    "icon": "a_f4ad6da17840262bc972971c5e53fa88",
+    "splash": "0f76163afb327980b1befac18817579a",
     "discovery_splash": "c5321a6ee63af6947ed0e81ab1cb6121",
-    "banner": "027d9c47a81d3cf9a56b30cbec21e789",
-    "approximate_presence_count": 1416,
-    "approximate_member_count": 4003,
-    "premium_subscription_count": 12,
+    "banner": "0f9b86cd5c1eb2e339b1716a6d762e33",
+    "approximate_presence_count": 1263,
+    "approximate_member_count": 5355,
+    "premium_subscription_count": 26,
     "preferred_locale": "pt-BR",
-    "vanity_url_code": null,
+    "vanity_url_code": "neverest",
     "keywords": [
         "radiante",
         "valorant"
@@ -28,17 +28,17 @@
         "id": "633821926053117980",
         "name": "Neverest.gg",
         "description": "Evolua até o RADIANTE no #valorant com:🎮 | Cursos com PROs BR🎯 | Pixels de mapas/agentes",
-        "icon": "a_63dfb4deecf77847ce52a0eb9e5e376d",
-        "splash": "db80def21977dc578c1b4dfafb7270bc",
-        "banner": "027d9c47a81d3cf9a56b30cbec21e789",
-        "approximate_presence_count": 1416,
-        "approximate_member_count": 4003,
-        "premium_subscription_count": 12,
+        "icon": "a_f4ad6da17840262bc972971c5e53fa88",
+        "splash": "0f76163afb327980b1befac18817579a",
+        "banner": "0f9b86cd5c1eb2e339b1716a6d762e33",
+        "approximate_presence_count": 1263,
+        "approximate_member_count": 5355,
+        "premium_subscription_count": 26,
         "preferred_locale": "pt-BR",
         "auto_removed": false,
         "discovery_splash": "c5321a6ee63af6947ed0e81ab1cb6121",
         "primary_category_id": 1,
-        "vanity_url_code": null,
+        "vanity_url_code": "neverest",
         "is_published": false,
         "keywords": [
             "radiante",
@@ -52,6 +52,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
             {
                 "id": 3,
                 "is_primary": true,
@@ -87,16 +97,6 @@
                     "sv-SE": "Underhållning",
                     "zh-CN": "娱乐",
                     "zh-TW": "娛樂"
-                }
-            },
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
                 }
             },
             {
@@ -186,6 +186,11 @@
                 "matchLevel": "none",
                 "matchedWords": []
             },
+            "vanity_url_code": {
+                "value": "neverest",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
             "keywords": [
                 {
                     "value": "radiante",
@@ -199,6 +204,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -348,25 +372,6 @@
                         },
                         "zh-TW": {
                             "value": "娛樂",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

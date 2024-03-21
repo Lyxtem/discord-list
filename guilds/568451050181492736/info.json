@@ -3,12 +3,12 @@
     "name": "City of Heroes Rebirth",
     "description": "Official City of Heroes Rebirth Discord. Join this FREE, fan-revived classic! A superhero MMO with ongoing development.",
     "icon": "be76c99788a989aa9c95a8f996053e21",
-    "splash": "6bed15f30517295f900bec9ae9e71a80",
+    "splash": "f8209e73f544c04bde6aa8d2d18c2aec",
     "discovery_splash": "8fa5b3d756fcb9d02997ad50e35c8bb3",
     "banner": "d26be3d3605136bf445925abb897f9c4",
-    "approximate_presence_count": 3620,
-    "approximate_member_count": 15233,
-    "premium_subscription_count": 16,
+    "approximate_presence_count": 3729,
+    "approximate_member_count": 15199,
+    "premium_subscription_count": 15,
     "preferred_locale": "en-US",
     "vanity_url_code": "city-of-heroes",
     "keywords": [
@@ -17,6 +17,7 @@
         "coh",
         "cov",
         "homecoming",
+        "mids",
         "mmorpg",
         "rebirth"
     ],
@@ -34,11 +35,11 @@
         "name": "City of Heroes Rebirth",
         "description": "Official City of Heroes Rebirth Discord. Join this FREE, fan-revived classic! A superhero MMO with ongoing development.",
         "icon": "be76c99788a989aa9c95a8f996053e21",
-        "splash": "6bed15f30517295f900bec9ae9e71a80",
+        "splash": "f8209e73f544c04bde6aa8d2d18c2aec",
         "banner": "d26be3d3605136bf445925abb897f9c4",
-        "approximate_presence_count": 3620,
-        "approximate_member_count": 15233,
-        "premium_subscription_count": 16,
+        "approximate_presence_count": 3729,
+        "approximate_member_count": 15199,
+        "premium_subscription_count": 15,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "8fa5b3d756fcb9d02997ad50e35c8bb3",
@@ -51,6 +52,7 @@
             "coh",
             "cov",
             "homecoming",
+            "mids",
             "mmorpg",
             "rebirth"
         ],
@@ -251,6 +253,11 @@
                 },
                 {
                     "value": "homecoming",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "mids",
                     "matchLevel": "none",
                     "matchedWords": []
                 },

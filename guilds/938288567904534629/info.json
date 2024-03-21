@@ -6,31 +6,18 @@
     "splash": "021c59f3d84ede95f9be646e47089f52",
     "discovery_splash": null,
     "banner": "cf430143ccd9b037b6b2011e9d243623",
-    "approximate_presence_count": 7867,
-    "approximate_member_count": 29961,
-    "premium_subscription_count": 13,
+    "approximate_presence_count": 6610,
+    "approximate_member_count": 26998,
+    "premium_subscription_count": 12,
     "preferred_locale": "en-US",
     "vanity_url_code": "morbius",
     "keywords": [],
     "features": [
-        "ANIMATED_ICON",
-        "BANNER",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_LARGE_GATED",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "INVITE_SPLASH",
-        "MEMBER_PROFILES",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "NEWS",
         "PREVIEW_ENABLED",
-        "PRIVATE_THREADS",
-        "ROLE_ICONS",
-        "SEVEN_DAY_THREAD_ARCHIVE",
-        "SOUNDBOARD",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
         "VERIFIED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -43,9 +30,9 @@
         "icon": "61756ee9125acb66cd0812576be386f4",
         "splash": "021c59f3d84ede95f9be646e47089f52",
         "banner": "cf430143ccd9b037b6b2011e9d243623",
-        "approximate_presence_count": 7867,
-        "approximate_member_count": 29961,
-        "premium_subscription_count": 13,
+        "approximate_presence_count": 6610,
+        "approximate_member_count": 26998,
+        "premium_subscription_count": 12,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": null,
@@ -54,26 +41,45 @@
         "is_published": false,
         "keywords": [],
         "features": [
-            "ANIMATED_ICON",
-            "BANNER",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_LARGE_GATED",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "INVITE_SPLASH",
-            "MEMBER_PROFILES",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "NEWS",
             "PREVIEW_ENABLED",
-            "PRIVATE_THREADS",
-            "ROLE_ICONS",
-            "SEVEN_DAY_THREAD_ARCHIVE",
-            "SOUNDBOARD",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
             "VERIFIED",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "938288567904534629",
+        "_highlightResult": {
+            "name": {
+                "value": "MORBIUS",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "It’s morbin time 😈",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "morbius",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }

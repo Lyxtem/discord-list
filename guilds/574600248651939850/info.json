@@ -6,24 +6,25 @@
     "splash": "0cc2cb2a0a6138325216f12bd7217d68",
     "discovery_splash": "0cc2cb2a0a6138325216f12bd7217d68",
     "banner": "3b9ecdfa7221475f4367be53b4c5fbec",
-    "approximate_presence_count": 500,
-    "approximate_member_count": 4530,
+    "approximate_presence_count": 1114,
+    "approximate_member_count": 4649,
     "premium_subscription_count": 16,
     "preferred_locale": "bg",
     "vanity_url_code": "ohost",
     "keywords": [
-        "ohost",
-        "ohost.bg",
-        "hosting",
+        "community",
         "ddos",
         "ddos-protection",
-        "community",
-        "minecraft"
+        "hosting",
+        "minecraft",
+        "ohost",
+        "ohost.bg"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -36,8 +37,8 @@
         "icon": "423c68dbec234ec386771e832e0cfa9b",
         "splash": "0cc2cb2a0a6138325216f12bd7217d68",
         "banner": "3b9ecdfa7221475f4367be53b4c5fbec",
-        "approximate_presence_count": 500,
-        "approximate_member_count": 4530,
+        "approximate_presence_count": 1114,
+        "approximate_member_count": 4649,
         "premium_subscription_count": 16,
         "preferred_locale": "bg",
         "auto_removed": false,
@@ -46,18 +47,19 @@
         "vanity_url_code": "ohost",
         "is_published": true,
         "keywords": [
-            "ohost",
-            "ohost.bg",
-            "hosting",
+            "community",
             "ddos",
             "ddos-protection",
-            "community",
-            "minecraft"
+            "hosting",
+            "minecraft",
+            "ohost",
+            "ohost.bg"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -193,17 +195,7 @@
             },
             "keywords": [
                 {
-                    "value": "ohost",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "ohost.bg",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "hosting",
+                    "value": "community",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -218,12 +210,22 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "community",
+                    "value": "hosting",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "minecraft",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "ohost",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "ohost.bg",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

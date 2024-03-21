@@ -6,12 +6,13 @@
     "splash": "0d6aedb7889380ff2bf4addd45ed5dcd",
     "discovery_splash": "c06c8b5b58dce63ddb798ed120890152",
     "banner": "a_583e384f2fefe9dadf8bac4ff4c5c36a",
-    "approximate_presence_count": 3888,
-    "approximate_member_count": 22549,
-    "premium_subscription_count": 31,
+    "approximate_presence_count": 4060,
+    "approximate_member_count": 22695,
+    "premium_subscription_count": 26,
     "preferred_locale": "it",
     "vanity_url_code": "xeud",
     "keywords": [
+        "LoL",
         "anime",
         "animeitalia",
         "chill",
@@ -20,8 +21,7 @@
         "ita",
         "italia",
         "italiano",
-        "social",
-        "videogiochi"
+        "social"
     ],
     "features": [
         "COMMUNITY",
@@ -38,9 +38,9 @@
         "icon": "a_3c29f2d054d61c785aff68d119b04477",
         "splash": "0d6aedb7889380ff2bf4addd45ed5dcd",
         "banner": "a_583e384f2fefe9dadf8bac4ff4c5c36a",
-        "approximate_presence_count": 3888,
-        "approximate_member_count": 22549,
-        "premium_subscription_count": 31,
+        "approximate_presence_count": 4060,
+        "approximate_member_count": 22695,
+        "premium_subscription_count": 26,
         "preferred_locale": "it",
         "auto_removed": false,
         "discovery_splash": "c06c8b5b58dce63ddb798ed120890152",
@@ -48,6 +48,7 @@
         "vanity_url_code": "xeud",
         "is_published": true,
         "keywords": [
+            "LoL",
             "anime",
             "animeitalia",
             "chill",
@@ -56,8 +57,7 @@
             "ita",
             "italia",
             "italiano",
-            "social",
-            "videogiochi"
+            "social"
         ],
         "features": [
             "COMMUNITY",
@@ -308,6 +308,11 @@
             },
             "keywords": [
                 {
+                    "value": "LoL",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "anime",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -349,11 +354,6 @@
                 },
                 {
                     "value": "social",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "videogiochi",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
