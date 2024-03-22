@@ -6,29 +6,30 @@
     "splash": null,
     "discovery_splash": "ea86a49cc089b61f5d3dbede1751931f",
     "banner": "09459c23714b0bb6938afafebeba0f3e",
-    "approximate_presence_count": 4005,
-    "approximate_member_count": 19817,
-    "premium_subscription_count": 14,
+    "approximate_presence_count": 1859,
+    "approximate_member_count": 24885,
+    "premium_subscription_count": 10,
     "preferred_locale": "pl",
-    "vanity_url_code": null,
+    "vanity_url_code": "jbwm-763806044664102974",
     "keywords": [
-        "minez",
-        "minecraft",
-        "survial",
-        "skyblock",
-        "server",
-        "bedwars",
         "mc",
+        "minecraft",
+        "minez",
+        "polska",
         "pvp",
         "role-playing",
-        "polska"
+        "server",
+        "skyblock",
+        "skymmo",
+        "survial"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "PREVIEW_ENABLED"
+        "PREVIEW_ENABLED",
+        "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": false,
     "verified": false,
@@ -39,33 +40,34 @@
         "icon": "a_940687a75d02c71b41804377733c23fc",
         "splash": null,
         "banner": "09459c23714b0bb6938afafebeba0f3e",
-        "approximate_presence_count": 4005,
-        "approximate_member_count": 19817,
-        "premium_subscription_count": 14,
+        "approximate_presence_count": 1859,
+        "approximate_member_count": 24885,
+        "premium_subscription_count": 10,
         "preferred_locale": "pl",
         "auto_removed": false,
         "discovery_splash": "ea86a49cc089b61f5d3dbede1751931f",
         "primary_category_id": 1,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "jbwm-763806044664102974",
+        "is_published": true,
         "keywords": [
-            "minez",
-            "minecraft",
-            "survial",
-            "skyblock",
-            "server",
-            "bedwars",
             "mc",
+            "minecraft",
+            "minez",
+            "polska",
             "pvp",
             "role-playing",
-            "polska"
+            "server",
+            "skyblock",
+            "skymmo",
+            "survial"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "PREVIEW_ENABLED"
+            "PREVIEW_ENABLED",
+            "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
             {
@@ -155,9 +157,14 @@
                 "matchLevel": "none",
                 "matchedWords": []
             },
+            "vanity_url_code": {
+                "value": "jbwm-763806044664102974",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
             "keywords": [
                 {
-                    "value": "minez",
+                    "value": "mc",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -167,27 +174,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "survial",
+                    "value": "minez",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "skyblock",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "server",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "bedwars",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "mc",
+                    "value": "polska",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -202,7 +194,22 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "polska",
+                    "value": "server",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "skyblock",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "skymmo",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "survial",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

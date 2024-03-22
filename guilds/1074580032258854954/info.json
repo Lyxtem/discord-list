@@ -6,8 +6,8 @@
     "splash": "4231a2f1cddb49f7ef1811e5aeed3229",
     "discovery_splash": "4231a2f1cddb49f7ef1811e5aeed3229",
     "banner": "64d10adff4aa9ee22604817564a51ed7",
-    "approximate_presence_count": 11229,
-    "approximate_member_count": 29838,
+    "approximate_presence_count": 13263,
+    "approximate_member_count": 32672,
     "premium_subscription_count": 8,
     "preferred_locale": "en-US",
     "vanity_url_code": "pleb-masters-1074580032258854954",
@@ -17,10 +17,10 @@
         "databrowser",
         "esx",
         "fivem",
+        "forge",
         "gta",
         "gtav",
         "plebmasters",
-        "rage",
         "ragemp"
     ],
     "features": [
@@ -40,8 +40,8 @@
         "icon": "ccd1845727d01303337962212fa58d09",
         "splash": "4231a2f1cddb49f7ef1811e5aeed3229",
         "banner": "64d10adff4aa9ee22604817564a51ed7",
-        "approximate_presence_count": 11229,
-        "approximate_member_count": 29838,
+        "approximate_presence_count": 13263,
+        "approximate_member_count": 32672,
         "premium_subscription_count": 8,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -55,10 +55,10 @@
             "databrowser",
             "esx",
             "fivem",
+            "forge",
             "gta",
             "gtav",
             "plebmasters",
-            "rage",
             "ragemp"
         ],
         "features": [
@@ -337,6 +337,11 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "forge",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "gta",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -348,11 +353,6 @@
                 },
                 {
                     "value": "plebmasters",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "rage",
                     "matchLevel": "none",
                     "matchedWords": []
                 },

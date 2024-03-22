@@ -5,18 +5,18 @@
     "icon": "44981d9f10488184d90d2214845cef49",
     "splash": "cf3c4d2e24fdcd630bb647803010ef42",
     "discovery_splash": "cf3c4d2e24fdcd630bb647803010ef42",
-    "banner": "5d65f5e1bccc09335e1cda88ac96d27d",
-    "approximate_presence_count": 651,
-    "approximate_member_count": 13975,
+    "banner": "1809a980265ec7cadca9f84f52b5a01e",
+    "approximate_presence_count": 583,
+    "approximate_member_count": 13947,
     "premium_subscription_count": 6,
     "preferred_locale": "it",
     "vanity_url_code": "mobilelegendsitalia",
     "keywords": [
-        "mobile legends",
-        "mlbb",
         "league of legends",
+        "lol",
         "lol mobile",
-        "lol"
+        "mlbb",
+        "mobile legends"
     ],
     "features": [
         "COMMUNITY",
@@ -36,9 +36,9 @@
         "description": "Server Ufficiale della Community Italiana di Mobile Legends: Bang Bang.",
         "icon": "44981d9f10488184d90d2214845cef49",
         "splash": "cf3c4d2e24fdcd630bb647803010ef42",
-        "banner": "5d65f5e1bccc09335e1cda88ac96d27d",
-        "approximate_presence_count": 651,
-        "approximate_member_count": 13975,
+        "banner": "1809a980265ec7cadca9f84f52b5a01e",
+        "approximate_presence_count": 583,
+        "approximate_member_count": 13947,
         "premium_subscription_count": 6,
         "preferred_locale": "it",
         "auto_removed": false,
@@ -47,11 +47,11 @@
         "vanity_url_code": "mobilelegendsitalia",
         "is_published": true,
         "keywords": [
-            "mobile legends",
-            "mlbb",
             "league of legends",
+            "lol",
             "lol mobile",
-            "lol"
+            "mlbb",
+            "mobile legends"
         ],
         "features": [
             "COMMUNITY",
@@ -269,17 +269,12 @@
             },
             "keywords": [
                 {
-                    "value": "mobile legends",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "mlbb",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "league of legends",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "lol",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -289,7 +284,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "lol",
+                    "value": "mlbb",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "mobile legends",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
