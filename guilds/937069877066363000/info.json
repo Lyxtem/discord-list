@@ -1,26 +1,27 @@
 {
     "id": "937069877066363000",
     "name": "Sphere Finance",
-    "description": "",
+    "description": "Sphere Finance is the center of DeFi - earn revenue from multiple innovative streams by holding one token.",
     "icon": "a_fcdce8fb85c75583a3ed9833194a2a5b",
-    "splash": "f0d3043f59c343d488c9b0d85afc04c1",
-    "discovery_splash": "c40ed797e9b208837ac5ccdce9b17214",
-    "banner": "a_d6968ad62b8a6735c9263d0863a20af4",
-    "approximate_presence_count": 2635,
-    "approximate_member_count": 27933,
-    "premium_subscription_count": 28,
+    "splash": "14381c8eb892514c5772d936b28d55ba",
+    "discovery_splash": "14381c8eb892514c5772d936b28d55ba",
+    "banner": "a_8691499cb51d3990acbb9a1a9c713254",
+    "approximate_presence_count": 2355,
+    "approximate_member_count": 26269,
+    "premium_subscription_count": 19,
     "preferred_locale": "en-US",
     "vanity_url_code": "spheredefi",
     "keywords": [
-        "sphere",
-        "spherefinance",
         "crypto",
         "cryptocurrency",
-        "spherean",
-        "trading",
-        "investing",
         "defi",
-        "rebase"
+        "dyson",
+        "investing",
+        "penrose",
+        "preon",
+        "sphere",
+        "spherean",
+        "unknown"
     ],
     "features": [
         "COMMUNITY",
@@ -35,29 +36,30 @@
     "raw": {
         "id": "937069877066363000",
         "name": "Sphere Finance",
-        "description": "",
+        "description": "Sphere Finance is the center of DeFi - earn revenue from multiple innovative streams by holding one token.",
         "icon": "a_fcdce8fb85c75583a3ed9833194a2a5b",
-        "splash": "f0d3043f59c343d488c9b0d85afc04c1",
-        "banner": "a_d6968ad62b8a6735c9263d0863a20af4",
-        "approximate_presence_count": 2635,
-        "approximate_member_count": 27933,
-        "premium_subscription_count": 28,
+        "splash": "14381c8eb892514c5772d936b28d55ba",
+        "banner": "a_8691499cb51d3990acbb9a1a9c713254",
+        "approximate_presence_count": 2355,
+        "approximate_member_count": 26269,
+        "premium_subscription_count": 19,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "c40ed797e9b208837ac5ccdce9b17214",
+        "discovery_splash": "14381c8eb892514c5772d936b28d55ba",
         "primary_category_id": 12,
         "vanity_url_code": "spheredefi",
         "is_published": false,
         "keywords": [
-            "sphere",
-            "spherefinance",
             "crypto",
             "cryptocurrency",
-            "spherean",
-            "trading",
-            "investing",
             "defi",
-            "rebase"
+            "dyson",
+            "investing",
+            "penrose",
+            "preon",
+            "sphere",
+            "spherean",
+            "unknown"
         ],
         "features": [
             "COMMUNITY",
@@ -68,16 +70,6 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
-                }
-            },
             {
                 "id": 30,
                 "is_primary": false,
@@ -113,6 +105,16 @@
                     "sv-SE": "Letar efter grupp (LFG)",
                     "zh-CN": "找同好（LFG）",
                     "zh-TW": "LFG"
+                }
+            },
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
                 }
             },
             {
@@ -235,7 +237,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "",
+                "value": "Sphere Finance is the center of DeFi - earn revenue from multiple innovative streams by holding one token.",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -245,16 +247,6 @@
                 "matchedWords": []
             },
             "keywords": [
-                {
-                    "value": "sphere",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "spherefinance",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
                 {
                     "value": "crypto",
                     "matchLevel": "none",
@@ -266,12 +258,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "spherean",
+                    "value": "defi",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "trading",
+                    "value": "dyson",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -281,36 +273,32 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "defi",
+                    "value": "penrose",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "rebase",
+                    "value": "preon",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "sphere",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "spherean",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "unknown",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -460,6 +448,25 @@
                         },
                         "zh-TW": {
                             "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

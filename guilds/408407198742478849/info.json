@@ -4,21 +4,21 @@
     "description": "Serwer zbierający widownię kanału twitch.tv/miszel",
     "icon": "22e8bbde1ae78a64913f4c381cc541ec",
     "splash": "41f7fa086eadc8222c9317b9c68102e4",
-    "discovery_splash": "5472832d01f7bd0bf171d9338b9fa54f",
+    "discovery_splash": "41f7fa086eadc8222c9317b9c68102e4",
     "banner": "a3f4519df21a4941b345f63e8153bc49",
-    "approximate_presence_count": 3302,
-    "approximate_member_count": 9267,
-    "premium_subscription_count": 42,
+    "approximate_presence_count": 3853,
+    "approximate_member_count": 10983,
+    "premium_subscription_count": 39,
     "preferred_locale": "pl",
     "vanity_url_code": "miszel",
     "keywords": [
-        "miszel",
-        "streamer",
-        "twitch",
         "meme",
         "memy",
+        "miszel",
+        "rozrywka",
+        "streamer",
         "streaming",
-        "rozrywka"
+        "twitch"
     ],
     "features": [
         "COMMUNITY",
@@ -37,23 +37,23 @@
         "icon": "22e8bbde1ae78a64913f4c381cc541ec",
         "splash": "41f7fa086eadc8222c9317b9c68102e4",
         "banner": "a3f4519df21a4941b345f63e8153bc49",
-        "approximate_presence_count": 3302,
-        "approximate_member_count": 9267,
-        "premium_subscription_count": 42,
+        "approximate_presence_count": 3853,
+        "approximate_member_count": 10983,
+        "premium_subscription_count": 39,
         "preferred_locale": "pl",
         "auto_removed": false,
-        "discovery_splash": "5472832d01f7bd0bf171d9338b9fa54f",
+        "discovery_splash": "41f7fa086eadc8222c9317b9c68102e4",
         "primary_category_id": 3,
         "vanity_url_code": "miszel",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
-            "miszel",
-            "streamer",
-            "twitch",
             "meme",
             "memy",
+            "miszel",
+            "rozrywka",
+            "streamer",
             "streaming",
-            "rozrywka"
+            "twitch"
         ],
         "features": [
             "COMMUNITY",
@@ -306,21 +306,6 @@
             },
             "keywords": [
                 {
-                    "value": "miszel",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "streamer",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "twitch",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "meme",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -331,12 +316,27 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "streaming",
+                    "value": "miszel",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "rozrywka",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "streamer",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "streaming",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "twitch",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

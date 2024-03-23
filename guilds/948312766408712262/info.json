@@ -1,26 +1,26 @@
 {
     "id": "948312766408712262",
     "name": "Le Qanistan",
-    "description": "Serveur communautaire de taoqan : Discussion, Mèmes, Débats, Histoire, Géographie, Géopolitique, Countryballs",
-    "icon": "a_dd6a66616930edbf3371f6e8860894c6",
+    "description": "Serveur communautaire de taoqan",
+    "icon": "a669dc340909aabef7233020542eca22",
     "splash": "56645d441816d1be1f14b5ab5c601dee",
     "discovery_splash": "56645d441816d1be1f14b5ab5c601dee",
     "banner": "a_8de2ded9cff8c117e3dfbaba0f92e641",
-    "approximate_presence_count": 2791,
-    "approximate_member_count": 12234,
+    "approximate_presence_count": 2510,
+    "approximate_member_count": 12168,
     "premium_subscription_count": 19,
     "preferred_locale": "fr",
     "vanity_url_code": "taoqan",
     "keywords": [
         "communauté",
         "countryball",
-        "polandball",
-        "géopolitique",
-        "histoire",
-        "politique",
         "débat",
         "géographie",
-        "maps"
+        "géopolitique",
+        "histoire",
+        "maps",
+        "polandball",
+        "politique"
     ],
     "features": [
         "COMMUNITY",
@@ -34,12 +34,12 @@
     "raw": {
         "id": "948312766408712262",
         "name": "Le Qanistan",
-        "description": "Serveur communautaire de taoqan : Discussion, Mèmes, Débats, Histoire, Géographie, Géopolitique, Countryballs",
-        "icon": "a_dd6a66616930edbf3371f6e8860894c6",
+        "description": "Serveur communautaire de taoqan",
+        "icon": "a669dc340909aabef7233020542eca22",
         "splash": "56645d441816d1be1f14b5ab5c601dee",
         "banner": "a_8de2ded9cff8c117e3dfbaba0f92e641",
-        "approximate_presence_count": 2791,
-        "approximate_member_count": 12234,
+        "approximate_presence_count": 2510,
+        "approximate_member_count": 12168,
         "premium_subscription_count": 19,
         "preferred_locale": "fr",
         "auto_removed": false,
@@ -50,13 +50,13 @@
         "keywords": [
             "communauté",
             "countryball",
-            "polandball",
-            "géopolitique",
-            "histoire",
-            "politique",
             "débat",
             "géographie",
-            "maps"
+            "géopolitique",
+            "histoire",
+            "maps",
+            "polandball",
+            "politique"
         ],
         "features": [
             "COMMUNITY",
@@ -297,7 +297,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Serveur communautaire de taoqan : Discussion, Mèmes, Débats, Histoire, Géographie, Géopolitique, Countryballs",
+                "value": "Serveur communautaire de taoqan",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -318,7 +318,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "polandball",
+                    "value": "débat",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "géographie",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -333,22 +338,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "politique",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "débat",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "géographie",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "maps",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "polandball",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "politique",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
