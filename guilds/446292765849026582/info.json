@@ -1,25 +1,25 @@
 {
     "id": "446292765849026582",
     "name": "Borkata's Community",
-    "description": "Официалният Discord сървър на Borkata TV.",
-    "icon": "eac291234adbcb669c031aa4e1ac0045",
-    "splash": "d0b1900f8b70bac9ed616f9183d7328b",
-    "discovery_splash": "d0b1900f8b70bac9ed616f9183d7328b",
-    "banner": "2d3602cbb020f9365780aba5d3f1c42b",
-    "approximate_presence_count": 346,
-    "approximate_member_count": 3273,
-    "premium_subscription_count": 0,
+    "description": "Добре дошли в официалният Discord сървър на Borkata TV. Запознайте се с правилата и информацията на сървъра. Have fun!",
+    "icon": "85af5c7dae4ae8f39fa4e268859a9f27",
+    "splash": "5783f605afc468599c06ec0866817df2",
+    "discovery_splash": "f0ee8989c580c12abdb806836e8a9131",
+    "banner": "92c2f6c9d6bbd6c1f4e556e6efbe7c85",
+    "approximate_presence_count": 594,
+    "approximate_member_count": 4359,
+    "premium_subscription_count": 2,
     "preferred_locale": "bg",
-    "vanity_url_code": null,
+    "vanity_url_code": "borkata-s-community-446292765849026582",
     "keywords": [
-        "fortnite",
-        "twitch",
-        "youtube",
-        "minecraft",
-        "save the world",
         "battle royale",
         "borkata",
-        "borkata tv"
+        "borkata tv",
+        "fortnite",
+        "minecraft",
+        "save the world",
+        "twitch",
+        "youtube"
     ],
     "features": [
         "COMMUNITY",
@@ -34,28 +34,28 @@
     "raw": {
         "id": "446292765849026582",
         "name": "Borkata's Community",
-        "description": "Официалният Discord сървър на Borkata TV.",
-        "icon": "eac291234adbcb669c031aa4e1ac0045",
-        "splash": "d0b1900f8b70bac9ed616f9183d7328b",
-        "banner": "2d3602cbb020f9365780aba5d3f1c42b",
-        "approximate_presence_count": 346,
-        "approximate_member_count": 3273,
-        "premium_subscription_count": 0,
+        "description": "Добре дошли в официалният Discord сървър на Borkata TV. Запознайте се с правилата и информацията на сървъра. Have fun!",
+        "icon": "85af5c7dae4ae8f39fa4e268859a9f27",
+        "splash": "5783f605afc468599c06ec0866817df2",
+        "banner": "92c2f6c9d6bbd6c1f4e556e6efbe7c85",
+        "approximate_presence_count": 594,
+        "approximate_member_count": 4359,
+        "premium_subscription_count": 2,
         "preferred_locale": "bg",
         "auto_removed": false,
-        "discovery_splash": "d0b1900f8b70bac9ed616f9183d7328b",
+        "discovery_splash": "f0ee8989c580c12abdb806836e8a9131",
         "primary_category_id": 1,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "borkata-s-community-446292765849026582",
+        "is_published": true,
         "keywords": [
-            "fortnite",
-            "twitch",
-            "youtube",
-            "minecraft",
-            "save the world",
             "battle royale",
             "borkata",
-            "borkata tv"
+            "borkata tv",
+            "fortnite",
+            "minecraft",
+            "save the world",
+            "twitch",
+            "youtube"
         ],
         "features": [
             "COMMUNITY",
@@ -260,23 +260,33 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Официалният Discord сървър на Borkata TV.",
+                "value": "Добре дошли в официалният Discord сървър на Borkata TV. Запознайте се с правилата и информацията на сървъра. Have fun!",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "borkata-s-community-446292765849026582",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
                 {
+                    "value": "battle royale",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "borkata",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "borkata tv",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "fortnite",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "twitch",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "youtube",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -291,17 +301,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "battle royale",
+                    "value": "twitch",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "borkata",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "borkata tv",
+                    "value": "youtube",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

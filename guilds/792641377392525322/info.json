@@ -6,22 +6,22 @@
     "splash": "fb92eb058c83e1c1c2f97cd16e302a4f",
     "discovery_splash": "eaaaa2778e63f55305b981dc58487366",
     "banner": null,
-    "approximate_presence_count": 298,
-    "approximate_member_count": 1193,
+    "approximate_presence_count": 283,
+    "approximate_member_count": 1200,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
     "keywords": [
-        "minecraft",
+        "factions",
         "gaming",
         "memes",
+        "minecraft",
         "modded",
-        "vanilla",
-        "factions",
         "towny",
         "ubc",
         "university",
-        "vancouver"
+        "vancouver",
+        "vanilla"
     ],
     "features": [
         "COMMUNITY",
@@ -40,8 +40,8 @@
         "icon": "17be0682abe0424adb56ea4d9e5db476",
         "splash": "fb92eb058c83e1c1c2f97cd16e302a4f",
         "banner": null,
-        "approximate_presence_count": 298,
-        "approximate_member_count": 1193,
+        "approximate_presence_count": 283,
+        "approximate_member_count": 1200,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -50,16 +50,16 @@
         "vanity_url_code": null,
         "is_published": false,
         "keywords": [
-            "minecraft",
+            "factions",
             "gaming",
             "memes",
+            "minecraft",
             "modded",
-            "vanilla",
-            "factions",
             "towny",
             "ubc",
             "university",
-            "vancouver"
+            "vancouver",
+            "vanilla"
         ],
         "features": [
             "COMMUNITY",
@@ -307,7 +307,7 @@
             },
             "keywords": [
                 {
-                    "value": "minecraft",
+                    "value": "factions",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -322,17 +322,12 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "minecraft",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "modded",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "vanilla",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "factions",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -353,6 +348,11 @@
                 },
                 {
                     "value": "vancouver",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "vanilla",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

@@ -4,24 +4,24 @@
     "description": "Official Final Fantasy XIV Subreddit Discord",
     "icon": "c97497557df048c2216030acf3db343b",
     "splash": "3b3320f35251cf47a6cfa54960028ce9",
-    "discovery_splash": "64c0a28fd0b2d362a17e91dd848645bc",
+    "discovery_splash": "07ee81ebe02311db137e975522f38ab5",
     "banner": "210372c769b3be5b0379163b855f2c27",
-    "approximate_presence_count": 105196,
-    "approximate_member_count": 247905,
-    "premium_subscription_count": 82,
+    "approximate_presence_count": 107966,
+    "approximate_member_count": 247978,
+    "premium_subscription_count": 84,
     "preferred_locale": "en-US",
     "vanity_url_code": "ffxiv",
     "keywords": [
-        "FF14",
-        "MMORPG",
         "ARR",
+        "FF14",
         "HW",
+        "Kupo Bot",
+        "MMORPG",
+        "PC",
+        "PS4",
         "SB",
         "SHB",
-        "Shadowbringers",
-        "Kupo Bot",
-        "PC",
-        "PS4"
+        "Shadowbringers"
     ],
     "features": [
         "COMMUNITY",
@@ -40,26 +40,26 @@
         "icon": "c97497557df048c2216030acf3db343b",
         "splash": "3b3320f35251cf47a6cfa54960028ce9",
         "banner": "210372c769b3be5b0379163b855f2c27",
-        "approximate_presence_count": 105196,
-        "approximate_member_count": 247905,
-        "premium_subscription_count": 82,
+        "approximate_presence_count": 107966,
+        "approximate_member_count": 247978,
+        "premium_subscription_count": 84,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "64c0a28fd0b2d362a17e91dd848645bc",
+        "discovery_splash": "07ee81ebe02311db137e975522f38ab5",
         "primary_category_id": 1,
         "vanity_url_code": "ffxiv",
         "is_published": true,
         "keywords": [
-            "FF14",
-            "MMORPG",
             "ARR",
+            "FF14",
             "HW",
+            "Kupo Bot",
+            "MMORPG",
+            "PC",
+            "PS4",
             "SB",
             "SHB",
-            "Shadowbringers",
-            "Kupo Bot",
-            "PC",
-            "PS4"
+            "Shadowbringers"
         ],
         "features": [
             "COMMUNITY",
@@ -349,7 +349,22 @@
             },
             "keywords": [
                 {
+                    "value": "ARR",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "FF14",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "HW",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Kupo Bot",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -359,12 +374,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "ARR",
+                    "value": "PC",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "HW",
+                    "value": "PS4",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -380,21 +395,6 @@
                 },
                 {
                     "value": "Shadowbringers",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "Kupo Bot",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "PC",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "PS4",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

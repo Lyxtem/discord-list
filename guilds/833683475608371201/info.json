@@ -3,22 +3,22 @@
     "name": "Dopex",
     "description": "Dopex is a maximum liquidity and minimal exposure options protocol.",
     "icon": "d72f2b5242cbd1a64c10f2fcc7909f7c",
-    "splash": "38c0ae388727258049a7e0ba67e292be",
-    "discovery_splash": null,
-    "banner": "64b7ca1cce3796b14605549009770208",
-    "approximate_presence_count": 1933,
-    "approximate_member_count": 31825,
-    "premium_subscription_count": 22,
+    "splash": "0fd78f5f45e26ca482386d8ce6eaaa75",
+    "discovery_splash": "0fd78f5f45e26ca482386d8ce6eaaa75",
+    "banner": "446f833424aa6b8b5756ab46ebaeda4f",
+    "approximate_presence_count": 2318,
+    "approximate_member_count": 32350,
+    "premium_subscription_count": 15,
     "preferred_locale": "en-US",
     "vanity_url_code": "dopex",
     "keywords": [
-        "Ethereum",
-        "Cryptocurrency",
         "Bitcoin",
-        "Options",
+        "Blockchain",
+        "Cryptocurrency",
         "Decentralization",
+        "Ethereum",
         "Memes",
-        "Blockchain"
+        "Options"
     ],
     "features": [
         "COMMUNITY",
@@ -34,25 +34,25 @@
         "name": "Dopex",
         "description": "Dopex is a maximum liquidity and minimal exposure options protocol.",
         "icon": "d72f2b5242cbd1a64c10f2fcc7909f7c",
-        "splash": "38c0ae388727258049a7e0ba67e292be",
-        "banner": "64b7ca1cce3796b14605549009770208",
-        "approximate_presence_count": 1933,
-        "approximate_member_count": 31825,
-        "premium_subscription_count": 22,
+        "splash": "0fd78f5f45e26ca482386d8ce6eaaa75",
+        "banner": "446f833424aa6b8b5756ab46ebaeda4f",
+        "approximate_presence_count": 2318,
+        "approximate_member_count": 32350,
+        "premium_subscription_count": 15,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "0fd78f5f45e26ca482386d8ce6eaaa75",
         "primary_category_id": 12,
         "vanity_url_code": "dopex",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
-            "Ethereum",
-            "Cryptocurrency",
             "Bitcoin",
-            "Options",
+            "Blockchain",
+            "Cryptocurrency",
             "Decentralization",
+            "Ethereum",
             "Memes",
-            "Blockchain"
+            "Options"
         ],
         "features": [
             "COMMUNITY",
@@ -240,7 +240,12 @@
             },
             "keywords": [
                 {
-                    "value": "Ethereum",
+                    "value": "Bitcoin",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Blockchain",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -250,17 +255,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "Bitcoin",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "Options",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "Decentralization",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Ethereum",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -270,7 +270,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "Blockchain",
+                    "value": "Options",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
