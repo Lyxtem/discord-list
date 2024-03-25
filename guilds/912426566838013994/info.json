@@ -1,26 +1,27 @@
 {
     "id": "912426566838013994",
-    "name": "Kindelia Community",
-    "description": "Community Server for the Kindelia Blockchain and related technologies.",
-    "icon": "a_b75b323aa3d59523effa7c19d869f624",
-    "splash": "4dc22365b959aaade081e086beff7670",
-    "discovery_splash": "3ca70885cbdf917465ac1492406ba567",
-    "banner": "a_45da58547e8b9a7426b2461c53907dde",
-    "approximate_presence_count": 319,
-    "approximate_member_count": 1162,
-    "premium_subscription_count": 14,
+    "name": "HoC - Higher Order Community",
+    "description": "Community Server for the HVM and related technologies.",
+    "icon": "eac41748d3d00319cf86d917d698ad4e",
+    "splash": "13f4ef252ea87c86366d1ac19c936f80",
+    "discovery_splash": "8d17be6f80c96bf2b3c2f6e64620f291",
+    "banner": "a_ca34ed56fdaee85f1d3338977ea1d5de",
+    "approximate_presence_count": 537,
+    "approximate_member_count": 2273,
+    "premium_subscription_count": 15,
     "preferred_locale": "en-US",
     "vanity_url_code": "kindelia",
     "keywords": [
-        "programming",
-        "tech",
+        "InteractionNets",
+        "InterctionCombinators",
+        "blockchain",
+        "functional-programming",
         "github",
         "opensource",
-        "blockchain",
-        "gamedev",
-        "functional-programming",
-        "type-theory",
-        "software"
+        "programming",
+        "software",
+        "tech",
+        "type-theory"
     ],
     "features": [
         "COMMUNITY",
@@ -33,30 +34,31 @@
     "verified": false,
     "raw": {
         "id": "912426566838013994",
-        "name": "Kindelia Community",
-        "description": "Community Server for the Kindelia Blockchain and related technologies.",
-        "icon": "a_b75b323aa3d59523effa7c19d869f624",
-        "splash": "4dc22365b959aaade081e086beff7670",
-        "banner": "a_45da58547e8b9a7426b2461c53907dde",
-        "approximate_presence_count": 319,
-        "approximate_member_count": 1162,
-        "premium_subscription_count": 14,
+        "name": "HoC - Higher Order Community",
+        "description": "Community Server for the HVM and related technologies.",
+        "icon": "eac41748d3d00319cf86d917d698ad4e",
+        "splash": "13f4ef252ea87c86366d1ac19c936f80",
+        "banner": "a_ca34ed56fdaee85f1d3338977ea1d5de",
+        "approximate_presence_count": 537,
+        "approximate_member_count": 2273,
+        "premium_subscription_count": 15,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "3ca70885cbdf917465ac1492406ba567",
+        "discovery_splash": "8d17be6f80c96bf2b3c2f6e64620f291",
         "primary_category_id": 5,
         "vanity_url_code": "kindelia",
         "is_published": false,
         "keywords": [
-            "programming",
-            "tech",
+            "InteractionNets",
+            "InterctionCombinators",
+            "blockchain",
+            "functional-programming",
             "github",
             "opensource",
-            "blockchain",
-            "gamedev",
-            "functional-programming",
-            "type-theory",
-            "software"
+            "programming",
+            "software",
+            "tech",
+            "type-theory"
         ],
         "features": [
             "COMMUNITY",
@@ -66,6 +68,43 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 6,
+                "is_primary": true,
+                "name": "Education",
+                "name_localizations": {
+                    "bg": "Образование",
+                    "cs": "Vzdělávání",
+                    "da": "Uddannelse",
+                    "de": "Bildung",
+                    "el": "Εκπαίδευση",
+                    "fi": "Koulutus",
+                    "fr": "Éducation",
+                    "hi": "एजुकेशन",
+                    "hr": "Obrazovanje",
+                    "hu": "Oktatás",
+                    "it": "Istruzione",
+                    "ja": "教育",
+                    "ko": "교육",
+                    "lt": "Švietimas",
+                    "nl": "Onderwijs",
+                    "no": "Utdanning",
+                    "pl": "Edukacja",
+                    "ro": "Educație",
+                    "ru": "Образование",
+                    "th": "การศึกษา",
+                    "tr": "Eğitim",
+                    "uk": "Освіта",
+                    "vi": "Giáo Dục",
+                    "en-GB": "Education",
+                    "en-US": "Education",
+                    "es-ES": "Educación",
+                    "pt-BR": "Educação",
+                    "sv-SE": "Utbildning",
+                    "zh-CN": "教育",
+                    "zh-TW": "教育"
+                }
+            },
             {
                 "id": 22,
                 "is_primary": false,
@@ -138,43 +177,6 @@
                     "sv-SE": "Spelutvecklare",
                     "zh-CN": "游戏开发人员",
                     "zh-TW": "遊戲開發者"
-                }
-            },
-            {
-                "id": 6,
-                "is_primary": true,
-                "name": "Education",
-                "name_localizations": {
-                    "bg": "Образование",
-                    "cs": "Vzdělávání",
-                    "da": "Uddannelse",
-                    "de": "Bildung",
-                    "el": "Εκπαίδευση",
-                    "fi": "Koulutus",
-                    "fr": "Éducation",
-                    "hi": "एजुकेशन",
-                    "hr": "Obrazovanje",
-                    "hu": "Oktatás",
-                    "it": "Istruzione",
-                    "ja": "教育",
-                    "ko": "교육",
-                    "lt": "Švietimas",
-                    "nl": "Onderwijs",
-                    "no": "Utdanning",
-                    "pl": "Edukacja",
-                    "ro": "Educație",
-                    "ru": "Образование",
-                    "th": "การศึกษา",
-                    "tr": "Eğitim",
-                    "uk": "Освіта",
-                    "vi": "Giáo Dục",
-                    "en-GB": "Education",
-                    "en-US": "Education",
-                    "es-ES": "Educación",
-                    "pt-BR": "Educação",
-                    "sv-SE": "Utbildning",
-                    "zh-CN": "教育",
-                    "zh-TW": "教育"
                 }
             },
             {
@@ -292,12 +294,12 @@
         "objectID": "912426566838013994",
         "_highlightResult": {
             "name": {
-                "value": "Kindelia Community",
+                "value": "HoC - Higher Order Community",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "description": {
-                "value": "Community Server for the Kindelia Blockchain and related technologies.",
+                "value": "Community Server for the HVM and related technologies.",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -308,12 +310,22 @@
             },
             "keywords": [
                 {
-                    "value": "programming",
+                    "value": "InteractionNets",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "tech",
+                    "value": "InterctionCombinators",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "blockchain",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "functional-programming",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -328,22 +340,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "blockchain",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "gamedev",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "functional-programming",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "type-theory",
+                    "value": "programming",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -351,9 +348,173 @@
                     "value": "software",
                     "matchLevel": "none",
                     "matchedWords": []
+                },
+                {
+                    "value": "tech",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "type-theory",
+                    "matchLevel": "none",
+                    "matchedWords": []
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Образование",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Vzdělávání",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Uddannelse",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Bildung",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Εκπαίδευση",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Koulutus",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Éducation",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "एजुकेशन",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Obrazovanje",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Oktatás",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Istruzione",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "教育",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "교육",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Švietimas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Onderwijs",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Utdanning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Edukacja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Educație",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Образование",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การศึกษา",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Eğitim",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Освіта",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Giáo Dục",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Education",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Education",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Educación",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Educação",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Utbildning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "教育",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "教育",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -657,160 +818,6 @@
                         },
                         "zh-TW": {
                             "value": "遊戲開發者",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Образование",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Vzdělávání",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Uddannelse",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Bildung",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Εκπαίδευση",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Koulutus",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Éducation",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "एजुकेशन",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Obrazovanje",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Oktatás",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Istruzione",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "教育",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "교육",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Švietimas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Onderwijs",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Utdanning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Edukacja",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Educație",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Образование",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "การศึกษา",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Eğitim",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Освіта",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Giáo Dục",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Education",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Education",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Educación",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Educação",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Utbildning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "教育",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "教育",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

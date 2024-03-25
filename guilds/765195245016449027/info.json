@@ -3,21 +3,21 @@
     "name": "Bluefin",
     "description": "Welcome to Bluefin's discord community! Bluefin is a decentralized exchange for perpetual swaps.",
     "icon": "b725cfd9974b7e232eeae40b143e781e",
-    "splash": null,
-    "discovery_splash": "e9f20b737e926b9d812ed4efc04ad776",
-    "banner": "313b2d8fab6b4b541b564748115ce73c",
-    "approximate_presence_count": 1510,
-    "approximate_member_count": 40513,
-    "premium_subscription_count": 16,
+    "splash": "ccd3f8718f40a3fc7d5126ffddfb0b84",
+    "discovery_splash": "ccd3f8718f40a3fc7d5126ffddfb0b84",
+    "banner": "bfa5695ceb539b45fb8ccd25bb24c14f",
+    "approximate_presence_count": 1500,
+    "approximate_member_count": 40960,
+    "premium_subscription_count": 14,
     "preferred_locale": "en-US",
     "vanity_url_code": "bluefinapp",
     "keywords": [
+        "blockchain",
         "cryptocurrency",
         "defi",
-        "trading",
-        "blockchain",
+        "moonbeam",
         "polkadot",
-        "moonbeam"
+        "trading"
     ],
     "features": [
         "COMMUNITY",
@@ -34,24 +34,24 @@
         "name": "Bluefin",
         "description": "Welcome to Bluefin's discord community! Bluefin is a decentralized exchange for perpetual swaps.",
         "icon": "b725cfd9974b7e232eeae40b143e781e",
-        "splash": null,
-        "banner": "313b2d8fab6b4b541b564748115ce73c",
-        "approximate_presence_count": 1510,
-        "approximate_member_count": 40513,
-        "premium_subscription_count": 16,
+        "splash": "ccd3f8718f40a3fc7d5126ffddfb0b84",
+        "banner": "bfa5695ceb539b45fb8ccd25bb24c14f",
+        "approximate_presence_count": 1500,
+        "approximate_member_count": 40960,
+        "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "e9f20b737e926b9d812ed4efc04ad776",
+        "discovery_splash": "ccd3f8718f40a3fc7d5126ffddfb0b84",
         "primary_category_id": 12,
         "vanity_url_code": "bluefinapp",
         "is_published": false,
         "keywords": [
+            "blockchain",
             "cryptocurrency",
             "defi",
-            "trading",
-            "blockchain",
+            "moonbeam",
             "polkadot",
-            "moonbeam"
+            "trading"
         ],
         "features": [
             "COMMUNITY",
@@ -230,6 +230,11 @@
             },
             "keywords": [
                 {
+                    "value": "blockchain",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "cryptocurrency",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -240,12 +245,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "trading",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "blockchain",
+                    "value": "moonbeam",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -255,7 +255,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "moonbeam",
+                    "value": "trading",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

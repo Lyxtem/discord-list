@@ -6,27 +6,18 @@
     "splash": "56e3ca89e08899032149da388595f320",
     "discovery_splash": "56e3ca89e08899032149da388595f320",
     "banner": null,
-    "approximate_presence_count": 3000,
-    "approximate_member_count": 8340,
-    "premium_subscription_count": 5,
+    "approximate_presence_count": 3458,
+    "approximate_member_count": 9013,
+    "premium_subscription_count": 6,
     "preferred_locale": "en-US",
     "vanity_url_code": "nightdivestudios",
     "keywords": null,
     "features": [
-        "ANIMATED_ICON",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_LARGE_UNGATED",
         "DISCOVERABLE",
         "FEATURABLE",
-        "INVITE_SPLASH",
-        "NEWS",
-        "NEW_THREAD_PERMISSIONS",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
-        "SOUNDBOARD",
-        "THREADS_ENABLED",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
         "VERIFIED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -39,9 +30,9 @@
         "icon": "327c8347a57e34ed725847bf28f87a9d",
         "splash": "56e3ca89e08899032149da388595f320",
         "banner": null,
-        "approximate_presence_count": 3000,
-        "approximate_member_count": 8340,
-        "premium_subscription_count": 5,
+        "approximate_presence_count": 3458,
+        "approximate_member_count": 9013,
+        "premium_subscription_count": 6,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "56e3ca89e08899032149da388595f320",
@@ -50,22 +41,45 @@
         "is_published": false,
         "keywords": null,
         "features": [
-            "ANIMATED_ICON",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_LARGE_UNGATED",
             "DISCOVERABLE",
             "FEATURABLE",
-            "INVITE_SPLASH",
-            "NEWS",
-            "NEW_THREAD_PERMISSIONS",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
-            "SOUNDBOARD",
-            "THREADS_ENABLED",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
             "VERIFIED",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "190583485826727936",
+        "_highlightResult": {
+            "name": {
+                "value": "Nightdive Studios",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "Nightdive Studios is an independent developer and publisher of classic videogames.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "nightdivestudios",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }
