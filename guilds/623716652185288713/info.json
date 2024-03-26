@@ -6,27 +6,17 @@
     "splash": "fb0cd0001bc202f5b5baf9a4b081648a",
     "discovery_splash": null,
     "banner": null,
-    "approximate_presence_count": 792,
-    "approximate_member_count": 3666,
-    "premium_subscription_count": 3,
+    "approximate_presence_count": 934,
+    "approximate_member_count": 4216,
+    "premium_subscription_count": 4,
     "preferred_locale": "en-US",
     "vanity_url_code": "hoodedhorse",
     "keywords": null,
     "features": [
-        "ANIMATED_ICON",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_MEDIUM",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "INVITE_SPLASH",
-        "NEWS",
-        "NEW_THREAD_PERMISSIONS",
         "PREVIEW_ENABLED",
-        "TEXT_IN_VOICE_ENABLED",
-        "THREADS_ENABLED",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
         "VERIFIED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -39,9 +29,9 @@
         "icon": "3762b2b2b5fa0bf280d683417b84e7fe",
         "splash": "fb0cd0001bc202f5b5baf9a4b081648a",
         "banner": null,
-        "approximate_presence_count": 792,
-        "approximate_member_count": 3666,
-        "premium_subscription_count": 3,
+        "approximate_presence_count": 934,
+        "approximate_member_count": 4216,
+        "premium_subscription_count": 4,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": null,
@@ -50,22 +40,44 @@
         "is_published": false,
         "keywords": null,
         "features": [
-            "ANIMATED_ICON",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_MEDIUM",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "INVITE_SPLASH",
-            "NEWS",
-            "NEW_THREAD_PERMISSIONS",
             "PREVIEW_ENABLED",
-            "TEXT_IN_VOICE_ENABLED",
-            "THREADS_ENABLED",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
             "VERIFIED",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "623716652185288713",
+        "_highlightResult": {
+            "name": {
+                "value": "Hooded Horse",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "hoodedhorse",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }

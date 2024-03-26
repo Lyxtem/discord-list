@@ -4,15 +4,17 @@
     "description": "This server is a positive space created by Kiaa for her stream community over on Twitch.",
     "icon": "2d3cad8441c1f48f39f9fcdb119d6ad0",
     "splash": "e8e22fdc0d18336d9d60da2bf72fc701",
-    "discovery_splash": "a1e0ef288beb083e3548e96c2d40c1ce",
+    "discovery_splash": "8512bc7f607cbd77642104fb5f8fa119",
     "banner": "c3a15771f8d0195820c4c3559b481e74",
-    "approximate_presence_count": 505,
-    "approximate_member_count": 1446,
+    "approximate_presence_count": 511,
+    "approximate_member_count": 1604,
     "premium_subscription_count": 17,
     "preferred_locale": "en-US",
     "vanity_url_code": "kiaa",
     "keywords": [
-        "kiaa"
+        "kiaa",
+        "stream",
+        "twitch"
     ],
     "features": [
         "COMMUNITY",
@@ -32,17 +34,19 @@
         "icon": "2d3cad8441c1f48f39f9fcdb119d6ad0",
         "splash": "e8e22fdc0d18336d9d60da2bf72fc701",
         "banner": "c3a15771f8d0195820c4c3559b481e74",
-        "approximate_presence_count": 505,
-        "approximate_member_count": 1446,
+        "approximate_presence_count": 511,
+        "approximate_member_count": 1604,
         "premium_subscription_count": 17,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "a1e0ef288beb083e3548e96c2d40c1ce",
+        "discovery_splash": "8512bc7f607cbd77642104fb5f8fa119",
         "primary_category_id": 1,
         "vanity_url_code": "kiaa",
         "is_published": true,
         "keywords": [
-            "kiaa"
+            "kiaa",
+            "stream",
+            "twitch"
         ],
         "features": [
             "COMMUNITY",
@@ -186,6 +190,16 @@
             "keywords": [
                 {
                     "value": "kiaa",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "stream",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "twitch",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

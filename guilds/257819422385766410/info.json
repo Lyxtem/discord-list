@@ -1,24 +1,26 @@
 {
     "id": "257819422385766410",
     "name": "Дальний Восток",
-    "description": "",
+    "description": "Крупнейшее дальневосточное игровое сообщество приглашает Вас вступить в его ряды. У нас ты сможешь найти себе занятие =)",
     "icon": "a_5659aa981156a4c1934fb194fe28be75",
-    "splash": "d8946bd5ec16816a061a06d865de18b1",
-    "discovery_splash": "d8946bd5ec16816a061a06d865de18b1",
-    "banner": null,
-    "approximate_presence_count": 120,
-    "approximate_member_count": 1851,
+    "splash": "a6f865f38d1d0ec2822e38ec4cc300f3",
+    "discovery_splash": "a6f865f38d1d0ec2822e38ec4cc300f3",
+    "banner": "ec191c69c01b867cd13f6db061b4bd8f",
+    "approximate_presence_count": 161,
+    "approximate_member_count": 1981,
     "premium_subscription_count": 0,
     "preferred_locale": "ru",
-    "vanity_url_code": null,
+    "vanity_url_code": "dalnii-vostok-257819422385766410",
     "keywords": [
+        "eft",
         "escapefromtarkov",
         "дальнийвосток",
-        "eft",
-        "fareast",
-        "сообщество",
         "дв",
-        "игры"
+        "игры",
+        "мир танков",
+        "общение",
+        "поиск группы",
+        "сообщество"
     ],
     "features": [
         "COMMUNITY",
@@ -32,27 +34,29 @@
     "raw": {
         "id": "257819422385766410",
         "name": "Дальний Восток",
-        "description": "",
+        "description": "Крупнейшее дальневосточное игровое сообщество приглашает Вас вступить в его ряды. У нас ты сможешь найти себе занятие =)",
         "icon": "a_5659aa981156a4c1934fb194fe28be75",
-        "splash": "d8946bd5ec16816a061a06d865de18b1",
-        "banner": null,
-        "approximate_presence_count": 120,
-        "approximate_member_count": 1851,
+        "splash": "a6f865f38d1d0ec2822e38ec4cc300f3",
+        "banner": "ec191c69c01b867cd13f6db061b4bd8f",
+        "approximate_presence_count": 161,
+        "approximate_member_count": 1981,
         "premium_subscription_count": 0,
         "preferred_locale": "ru",
         "auto_removed": false,
-        "discovery_splash": "d8946bd5ec16816a061a06d865de18b1",
+        "discovery_splash": "a6f865f38d1d0ec2822e38ec4cc300f3",
         "primary_category_id": 1,
-        "vanity_url_code": null,
+        "vanity_url_code": "dalnii-vostok-257819422385766410",
         "is_published": false,
         "keywords": [
+            "eft",
             "escapefromtarkov",
             "дальнийвосток",
-            "eft",
-            "fareast",
-            "сообщество",
             "дв",
-            "игры"
+            "игры",
+            "мир танков",
+            "общение",
+            "поиск группы",
+            "сообщество"
         ],
         "features": [
             "COMMUNITY",
@@ -100,43 +104,6 @@
                 }
             },
             {
-                "id": 3,
-                "is_primary": true,
-                "name": "Entertainment",
-                "name_localizations": {
-                    "bg": "Забавление",
-                    "cs": "Zábava",
-                    "da": "Underholdning",
-                    "de": "Unterhaltung",
-                    "el": "Ψυχαγωγία",
-                    "fi": "Viihde",
-                    "fr": "Divertissements",
-                    "hi": "एंटरटेनमेंट",
-                    "hr": "Zabava",
-                    "hu": "Szórakozás",
-                    "it": "Intrattenimento",
-                    "ja": "エンターテインメント",
-                    "ko": "엔터테인먼트",
-                    "lt": "Pramogos",
-                    "nl": "Entertainment",
-                    "no": "Underholdning",
-                    "pl": "Rozrywka",
-                    "ro": "Divertisment",
-                    "ru": "Развлечения",
-                    "th": "ความบันเทิง",
-                    "tr": "Eğlence",
-                    "uk": "Розваги",
-                    "vi": "Giải Trí",
-                    "en-GB": "Entertainment",
-                    "en-US": "Entertainment",
-                    "es-ES": "Entretenimiento",
-                    "pt-BR": "Entretenimento",
-                    "sv-SE": "Underhållning",
-                    "zh-CN": "娱乐",
-                    "zh-TW": "娛樂"
-                }
-            },
-            {
                 "id": 30,
                 "is_primary": false,
                 "name": "LFG",
@@ -171,6 +138,43 @@
                     "sv-SE": "Letar efter grupp (LFG)",
                     "zh-CN": "找同好（LFG）",
                     "zh-TW": "LFG"
+                }
+            },
+            {
+                "id": 3,
+                "is_primary": true,
+                "name": "Entertainment",
+                "name_localizations": {
+                    "bg": "Забавление",
+                    "cs": "Zábava",
+                    "da": "Underholdning",
+                    "de": "Unterhaltung",
+                    "el": "Ψυχαγωγία",
+                    "fi": "Viihde",
+                    "fr": "Divertissements",
+                    "hi": "एंटरटेनमेंट",
+                    "hr": "Zabava",
+                    "hu": "Szórakozás",
+                    "it": "Intrattenimento",
+                    "ja": "エンターテインメント",
+                    "ko": "엔터테인먼트",
+                    "lt": "Pramogos",
+                    "nl": "Entertainment",
+                    "no": "Underholdning",
+                    "pl": "Rozrywka",
+                    "ro": "Divertisment",
+                    "ru": "Развлечения",
+                    "th": "ความบันเทิง",
+                    "tr": "Eğlence",
+                    "uk": "Розваги",
+                    "vi": "Giải Trí",
+                    "en-GB": "Entertainment",
+                    "en-US": "Entertainment",
+                    "es-ES": "Entretenimiento",
+                    "pt-BR": "Entretenimento",
+                    "sv-SE": "Underhållning",
+                    "zh-CN": "娱乐",
+                    "zh-TW": "娛樂"
                 }
             },
             {
@@ -293,11 +297,21 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "",
+                "value": "Крупнейшее дальневосточное игровое сообщество приглашает Вас вступить в его ряды. У нас ты сможешь найти себе занятие =)",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "dalnii-vostok-257819422385766410",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
+                {
+                    "value": "eft",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
                 {
                     "value": "escapefromtarkov",
                     "matchLevel": "none",
@@ -309,27 +323,32 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "eft",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "fareast",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "сообщество",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "дв",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "игры",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "мир танков",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "общение",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "поиск группы",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "сообщество",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
@@ -492,160 +511,6 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Забавление",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Zábava",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Underholdning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Unterhaltung",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Ψυχαγωγία",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Viihde",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Divertissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "एंटरटेनमेंट",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Zabava",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Szórakozás",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Intrattenimento",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "エンターテインメント",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "엔터테인먼트",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Pramogos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Entertainment",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Underholdning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Rozrywka",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Divertisment",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Развлечения",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "ความบันเทิง",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Eğlence",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Розваги",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Giải Trí",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Entertainment",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Entertainment",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Entretenimiento",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Entretenimento",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Underhållning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "娱乐",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "娛樂",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
                             "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
@@ -792,6 +657,160 @@
                         },
                         "zh-TW": {
                             "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Забавление",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Zábava",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Underholdning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Unterhaltung",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Ψυχαγωγία",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Viihde",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Divertissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "एंटरटेनमेंट",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Zabava",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Szórakozás",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Intrattenimento",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "エンターテインメント",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "엔터테인먼트",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Pramogos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Entertainment",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Underholdning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Rozrywka",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Divertisment",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Развлечения",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ความบันเทิง",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Eğlence",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Розваги",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Giải Trí",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Entertainment",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Entertainment",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Entretenimiento",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Entretenimento",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Underhållning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "娱乐",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "娛樂",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

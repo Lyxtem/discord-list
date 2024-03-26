@@ -6,20 +6,22 @@
     "splash": "a51ae05a38bd528147be5cc53fc70fcd",
     "discovery_splash": "ae708f4c40d3b44262e9d4bee7c296c2",
     "banner": "20fb15a131ed42c178340deb0ea2cdb4",
-    "approximate_presence_count": 2714,
-    "approximate_member_count": 15993,
+    "approximate_presence_count": 3407,
+    "approximate_member_count": 18540,
     "premium_subscription_count": 21,
     "preferred_locale": "en-US",
     "vanity_url_code": "crankgameplays",
     "keywords": [
-        "Unus Annus",
         "CrankGameplays",
-        "Ethan"
+        "Ethan",
+        "Nastor",
+        "Unus Annus"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -32,8 +34,8 @@
         "icon": "a_634461db097805a4c4b41ca01135beb6",
         "splash": "a51ae05a38bd528147be5cc53fc70fcd",
         "banner": "20fb15a131ed42c178340deb0ea2cdb4",
-        "approximate_presence_count": 2714,
-        "approximate_member_count": 15993,
+        "approximate_presence_count": 3407,
+        "approximate_member_count": 18540,
         "premium_subscription_count": 21,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -42,14 +44,16 @@
         "vanity_url_code": "crankgameplays",
         "is_published": false,
         "keywords": [
-            "Unus Annus",
             "CrankGameplays",
-            "Ethan"
+            "Ethan",
+            "Nastor",
+            "Unus Annus"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -185,17 +189,22 @@
             },
             "keywords": [
                 {
-                    "value": "Unus Annus",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "CrankGameplays",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "Ethan",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Nastor",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Unus Annus",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

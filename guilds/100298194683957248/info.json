@@ -6,9 +6,9 @@
     "splash": "092002753e67b0f58c1fa3c923397333",
     "discovery_splash": "fb0f0e2d98003cc8a00394e16baaeca3",
     "banner": "7f03b3a85713a81bb0d81ea04e27e9ac",
-    "approximate_presence_count": 2442,
-    "approximate_member_count": 9574,
-    "premium_subscription_count": 14,
+    "approximate_presence_count": 2277,
+    "approximate_member_count": 9348,
+    "premium_subscription_count": 9,
     "preferred_locale": "en-US",
     "vanity_url_code": "shadowevil",
     "keywords": [
@@ -35,9 +35,9 @@
         "icon": "1e5d199da49c6c89cc878c3236cc8ab7",
         "splash": "092002753e67b0f58c1fa3c923397333",
         "banner": "7f03b3a85713a81bb0d81ea04e27e9ac",
-        "approximate_presence_count": 2442,
-        "approximate_member_count": 9574,
-        "premium_subscription_count": 14,
+        "approximate_presence_count": 2277,
+        "approximate_member_count": 9348,
+        "premium_subscription_count": 9,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "fb0f0e2d98003cc8a00394e16baaeca3",
@@ -172,43 +172,6 @@
                 }
             },
             {
-                "id": 35,
-                "is_primary": false,
-                "name": "Content Creator",
-                "name_localizations": {
-                    "bg": "Създател на съдържание",
-                    "cs": "Tvůrce obsahu",
-                    "da": "Indholdsskaber",
-                    "de": "Content Creator",
-                    "el": "Δημιουργός Περιεχομένου",
-                    "fi": "Sisällöntuottaja",
-                    "fr": "Créateur de contenu",
-                    "hi": "कंटेंट क्रिएटर",
-                    "hr": "Stvaratelj sadržaja",
-                    "hu": "Tartalomkészítő",
-                    "it": "Creazione contenuti",
-                    "ja": "コンテンツクリエイター",
-                    "ko": "콘텐츠 크리에이터",
-                    "lt": "Turinio kūrėjai",
-                    "nl": "Contentontwikkelaar",
-                    "no": "Innholdsskaper",
-                    "pl": "Twórca zawartości",
-                    "ro": "Creator de conținut",
-                    "ru": "Создатель контента",
-                    "th": "ผู้สร้างเนื้อหา",
-                    "tr": "İçerik Üreticisi",
-                    "uk": "Створення контенту",
-                    "vi": "Nhà Sáng Tạo Nội Dung",
-                    "en-GB": "Content creator",
-                    "en-US": "Content Creator",
-                    "es-ES": "Creador de contenido",
-                    "pt-BR": "Criação de Conteúdo",
-                    "sv-SE": "Innehållsskapare",
-                    "zh-CN": "内容创作者",
-                    "zh-TW": "內容創作者"
-                }
-            },
-            {
                 "id": 14,
                 "is_primary": true,
                 "name": "General Chatting",
@@ -243,6 +206,43 @@
                     "sv-SE": "Chatt i allmänhet",
                     "zh-CN": "综合聊天",
                     "zh-TW": "一般聊天"
+                }
+            },
+            {
+                "id": 35,
+                "is_primary": false,
+                "name": "Content Creator",
+                "name_localizations": {
+                    "bg": "Създател на съдържание",
+                    "cs": "Tvůrce obsahu",
+                    "da": "Indholdsskaber",
+                    "de": "Content Creator",
+                    "el": "Δημιουργός Περιεχομένου",
+                    "fi": "Sisällöntuottaja",
+                    "fr": "Créateur de contenu",
+                    "hi": "कंटेंट क्रिएटर",
+                    "hr": "Stvaratelj sadržaja",
+                    "hu": "Tartalomkészítő",
+                    "it": "Creazione contenuti",
+                    "ja": "コンテンツクリエイター",
+                    "ko": "콘텐츠 크리에이터",
+                    "lt": "Turinio kūrėjai",
+                    "nl": "Contentontwikkelaar",
+                    "no": "Innholdsskaper",
+                    "pl": "Twórca zawartości",
+                    "ro": "Creator de conținut",
+                    "ru": "Создатель контента",
+                    "th": "ผู้สร้างเนื้อหา",
+                    "tr": "İçerik Üreticisi",
+                    "uk": "Створення контенту",
+                    "vi": "Nhà Sáng Tạo Nội Dung",
+                    "en-GB": "Content creator",
+                    "en-US": "Content Creator",
+                    "es-ES": "Creador de contenido",
+                    "pt-BR": "Criação de Conteúdo",
+                    "sv-SE": "Innehållsskapare",
+                    "zh-CN": "内容创作者",
+                    "zh-TW": "內容創作者"
                 }
             }
         ],
@@ -798,160 +798,6 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Създател на съдържание",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Tvůrce obsahu",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Indholdsskaber",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Content Creator",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Δημιουργός Περιεχομένου",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Sisällöntuottaja",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Créateur de contenu",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "कंटेंट क्रिएटर",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Stvaratelj sadržaja",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Tartalomkészítő",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Creazione contenuti",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "コンテンツクリエイター",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "콘텐츠 크리에이터",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Turinio kūrėjai",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Contentontwikkelaar",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Innholdsskaper",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Twórca zawartości",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Creator de conținut",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Создатель контента",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "ผู้สร้างเนื้อหา",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "İçerik Üreticisi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Створення контенту",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Nhà Sáng Tạo Nội Dung",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Content creator",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Content Creator",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Creador de contenido",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Criação de Conteúdo",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Innehållsskapare",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "内容创作者",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "內容創作者",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
                             "value": "Общуване",
                             "matchLevel": "none",
                             "matchedWords": []
@@ -1098,6 +944,160 @@
                         },
                         "zh-TW": {
                             "value": "一般聊天",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Създател на съдържание",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Tvůrce obsahu",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Indholdsskaber",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Content Creator",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Δημιουργός Περιεχομένου",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Sisällöntuottaja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Créateur de contenu",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "कंटेंट क्रिएटर",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Stvaratelj sadržaja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Tartalomkészítő",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Creazione contenuti",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "コンテンツクリエイター",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "콘텐츠 크리에이터",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Turinio kūrėjai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Contentontwikkelaar",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Innholdsskaper",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Twórca zawartości",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Creator de conținut",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Создатель контента",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ผู้สร้างเนื้อหา",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "İçerik Üreticisi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Створення контенту",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Nhà Sáng Tạo Nội Dung",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Content creator",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Content Creator",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Creador de contenido",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Criação de Conteúdo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Innehållsskapare",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "内容创作者",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "內容創作者",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
