@@ -6,28 +6,17 @@
     "splash": null,
     "discovery_splash": "2e5612ea48b9c3a6c39f83e160f48457",
     "banner": null,
-    "approximate_presence_count": 706,
-    "approximate_member_count": 5535,
-    "premium_subscription_count": 5,
+    "approximate_presence_count": 794,
+    "approximate_member_count": 5661,
+    "premium_subscription_count": 2,
     "preferred_locale": "en-US",
     "vanity_url_code": "flen",
     "keywords": [],
     "features": [
-        "ANIMATED_ICON",
-        "AUTO_MODERATION",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_LARGE_UNGATED",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "GUILD_ONBOARDING",
-        "GUILD_ONBOARDING_EVER_ENABLED",
-        "GUILD_ONBOARDING_HAS_PROMPTS",
-        "INVITE_SPLASH",
-        "NEWS",
         "PREVIEW_ENABLED",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
         "VERIFIED"
     ],
     "partnered": false,
@@ -39,9 +28,9 @@
         "icon": "db813bf0626b10fecafb3262560681ae",
         "splash": null,
         "banner": null,
-        "approximate_presence_count": 706,
-        "approximate_member_count": 5535,
-        "premium_subscription_count": 5,
+        "approximate_presence_count": 794,
+        "approximate_member_count": 5661,
+        "premium_subscription_count": 2,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "2e5612ea48b9c3a6c39f83e160f48457",
@@ -50,22 +39,43 @@
         "is_published": false,
         "keywords": [],
         "features": [
-            "ANIMATED_ICON",
-            "AUTO_MODERATION",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_LARGE_UNGATED",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "GUILD_ONBOARDING",
-            "GUILD_ONBOARDING_EVER_ENABLED",
-            "GUILD_ONBOARDING_HAS_PROMPTS",
-            "INVITE_SPLASH",
-            "NEWS",
             "PREVIEW_ENABLED",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
             "VERIFIED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "751016369516052550",
+        "_highlightResult": {
+            "name": {
+                "value": "Flyff Official",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "flen",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }
