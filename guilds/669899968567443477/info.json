@@ -4,22 +4,22 @@
     "description": "Oficiálny server youtubera Duklocka",
     "icon": "73ca63acc3e6c89e0e5fdb0f2ecd75f2",
     "splash": "bf1200a0ab94c09a2f1dd3d46f1ee505",
-    "discovery_splash": "bc61f8c344f082bd3bcacc77726b7916",
+    "discovery_splash": "bf1200a0ab94c09a2f1dd3d46f1ee505",
     "banner": "2ab08a43b0b43e64c4262116a9003bee",
-    "approximate_presence_count": 4693,
-    "approximate_member_count": 53721,
-    "premium_subscription_count": 44,
+    "approximate_presence_count": 4078,
+    "approximate_member_count": 53832,
+    "premium_subscription_count": 38,
     "preferred_locale": "cs",
     "vanity_url_code": "duklock",
     "keywords": [
-        "Duklock",
-        "DuklockPlus",
-        "duklockplus",
-        "duklock",
         "Ducklock",
+        "Duklock",
+        "Duklock server",
+        "DuklockPlus",
         "ducklock",
         "ducklockplus",
-        "Duklock server",
+        "duklock",
+        "duklockplus",
         "matoboost"
     ],
     "features": [
@@ -40,24 +40,24 @@
         "icon": "73ca63acc3e6c89e0e5fdb0f2ecd75f2",
         "splash": "bf1200a0ab94c09a2f1dd3d46f1ee505",
         "banner": "2ab08a43b0b43e64c4262116a9003bee",
-        "approximate_presence_count": 4693,
-        "approximate_member_count": 53721,
-        "premium_subscription_count": 44,
+        "approximate_presence_count": 4078,
+        "approximate_member_count": 53832,
+        "premium_subscription_count": 38,
         "preferred_locale": "cs",
         "auto_removed": false,
-        "discovery_splash": "bc61f8c344f082bd3bcacc77726b7916",
+        "discovery_splash": "bf1200a0ab94c09a2f1dd3d46f1ee505",
         "primary_category_id": 3,
         "vanity_url_code": "duklock",
         "is_published": false,
         "keywords": [
-            "Duklock",
-            "DuklockPlus",
-            "duklockplus",
-            "duklock",
             "Ducklock",
+            "Duklock",
+            "Duklock server",
+            "DuklockPlus",
             "ducklock",
             "ducklockplus",
-            "Duklock server",
+            "duklock",
+            "duklockplus",
             "matoboost"
         ],
         "features": [
@@ -349,27 +349,22 @@
             },
             "keywords": [
                 {
+                    "value": "Ducklock",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "Duklock",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
+                    "value": "Duklock server",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "DuklockPlus",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "duklockplus",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "duklock",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "Ducklock",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -384,7 +379,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "Duklock server",
+                    "value": "duklock",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "duklockplus",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
