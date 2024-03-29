@@ -2,17 +2,22 @@
     "id": "694148721058906142",
     "name": "VALORANT DE/CH/AT",
     "description": "Der offizielle, deutschsprachige VALORANT Discord Server.",
-    "icon": "81180edffb3f37a9d931ae524bfbcb46",
-    "splash": "76484efa975e085a033105814dc3e3a2",
-    "discovery_splash": "76484efa975e085a033105814dc3e3a2",
-    "banner": "13b7ba2be4cb801e25d86c2ea504599d",
-    "approximate_presence_count": 22118,
-    "approximate_member_count": 52128,
-    "premium_subscription_count": 21,
+    "icon": "93d799131b2a2930549e9878c9584482",
+    "splash": "61ef7653d89834c6ea66a0f6f601904b",
+    "discovery_splash": "61ef7653d89834c6ea66a0f6f601904b",
+    "banner": "6d2f07c8082961a28960ad06a6629d10",
+    "approximate_presence_count": 21021,
+    "approximate_member_count": 53146,
+    "premium_subscription_count": 18,
     "preferred_locale": "de",
     "vanity_url_code": "valorantde",
     "keywords": [
         "riot",
+        "valo",
+        "valo de",
+        "valo deutsch",
+        "valo germany",
+        "valorant dach",
         "valorant de",
         "valorant deutsch",
         "valorant germany",
@@ -21,6 +26,7 @@
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "VERIFIED"
     ],
@@ -30,20 +36,25 @@
         "id": "694148721058906142",
         "name": "VALORANT DE/CH/AT",
         "description": "Der offizielle, deutschsprachige VALORANT Discord Server.",
-        "icon": "81180edffb3f37a9d931ae524bfbcb46",
-        "splash": "76484efa975e085a033105814dc3e3a2",
-        "banner": "13b7ba2be4cb801e25d86c2ea504599d",
-        "approximate_presence_count": 22118,
-        "approximate_member_count": 52128,
-        "premium_subscription_count": 21,
+        "icon": "93d799131b2a2930549e9878c9584482",
+        "splash": "61ef7653d89834c6ea66a0f6f601904b",
+        "banner": "6d2f07c8082961a28960ad06a6629d10",
+        "approximate_presence_count": 21021,
+        "approximate_member_count": 53146,
+        "premium_subscription_count": 18,
         "preferred_locale": "de",
         "auto_removed": false,
-        "discovery_splash": "76484efa975e085a033105814dc3e3a2",
+        "discovery_splash": "61ef7653d89834c6ea66a0f6f601904b",
         "primary_category_id": 1,
         "vanity_url_code": "valorantde",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
             "riot",
+            "valo",
+            "valo de",
+            "valo deutsch",
+            "valo germany",
+            "valorant dach",
             "valorant de",
             "valorant deutsch",
             "valorant germany",
@@ -52,6 +63,7 @@
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "VERIFIED"
         ],
@@ -299,6 +311,31 @@
             "keywords": [
                 {
                     "value": "riot",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "valo",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "valo de",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "valo deutsch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "valo germany",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "valorant dach",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
