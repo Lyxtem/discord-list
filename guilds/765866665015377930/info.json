@@ -6,20 +6,20 @@
     "splash": "ed7896a8bc2294f2f6aa7550f9268c0c",
     "discovery_splash": "ed7896a8bc2294f2f6aa7550f9268c0c",
     "banner": "fbd3dee927b6a635a21e613bd803a89d",
-    "approximate_presence_count": 560,
-    "approximate_member_count": 8104,
-    "premium_subscription_count": 24,
+    "approximate_presence_count": 623,
+    "approximate_member_count": 8164,
+    "premium_subscription_count": 30,
     "preferred_locale": "en-US",
     "vanity_url_code": "giph",
     "keywords": [
+        "filipino",
         "genshin",
         "genshin-impact",
-        "genshin-impact-philippines",
-        "pinoy",
-        "filipino",
-        "genshin-impact-pinoy",
         "genshin-impact-filipino",
+        "genshin-impact-philippines",
+        "genshin-impact-pinoy",
         "philippines",
+        "pinoy",
         "roleplay"
     ],
     "features": [
@@ -39,24 +39,24 @@
         "icon": "a_de8a0059bf9447550b48e069b6652bda",
         "splash": "ed7896a8bc2294f2f6aa7550f9268c0c",
         "banner": "fbd3dee927b6a635a21e613bd803a89d",
-        "approximate_presence_count": 560,
-        "approximate_member_count": 8104,
-        "premium_subscription_count": 24,
+        "approximate_presence_count": 623,
+        "approximate_member_count": 8164,
+        "premium_subscription_count": 30,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "ed7896a8bc2294f2f6aa7550f9268c0c",
         "primary_category_id": 1,
         "vanity_url_code": "giph",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
+            "filipino",
             "genshin",
             "genshin-impact",
-            "genshin-impact-philippines",
-            "pinoy",
-            "filipino",
-            "genshin-impact-pinoy",
             "genshin-impact-filipino",
+            "genshin-impact-philippines",
+            "genshin-impact-pinoy",
             "philippines",
+            "pinoy",
             "roleplay"
         ],
         "features": [
@@ -273,6 +273,11 @@
             },
             "keywords": [
                 {
+                    "value": "filipino",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "genshin",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -283,17 +288,12 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "genshin-impact-filipino",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "genshin-impact-philippines",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "pinoy",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "filipino",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -303,12 +303,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "genshin-impact-filipino",
+                    "value": "philippines",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "philippines",
+                    "value": "pinoy",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
