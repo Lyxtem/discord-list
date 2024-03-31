@@ -6,30 +6,17 @@
     "splash": "8dac1247bdffa6ae2d6c096d4db88876",
     "discovery_splash": null,
     "banner": "a_7f1dead92a437301eb536af61033939b",
-    "approximate_presence_count": 145,
-    "approximate_member_count": 4679,
-    "premium_subscription_count": 14,
+    "approximate_presence_count": 166,
+    "approximate_member_count": 4547,
+    "premium_subscription_count": 11,
     "preferred_locale": "en-US",
     "vanity_url_code": "fractonx",
     "keywords": [],
     "features": [
-        "ANIMATED_BANNER",
-        "ANIMATED_ICON",
-        "BANNER",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_LARGE_GATED",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "INVITE_SPLASH",
-        "MEMBER_PROFILES",
-        "NEWS",
         "PREVIEW_ENABLED",
-        "PRIVATE_THREADS",
-        "ROLE_ICONS",
-        "SEVEN_DAY_THREAD_ARCHIVE",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
         "VERIFIED"
     ],
     "partnered": false,
@@ -41,9 +28,9 @@
         "icon": "9f2bef94235b4d81e083b9ab4414e4be",
         "splash": "8dac1247bdffa6ae2d6c096d4db88876",
         "banner": "a_7f1dead92a437301eb536af61033939b",
-        "approximate_presence_count": 145,
-        "approximate_member_count": 4679,
-        "premium_subscription_count": 14,
+        "approximate_presence_count": 166,
+        "approximate_member_count": 4547,
+        "premium_subscription_count": 11,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": null,
@@ -52,24 +39,43 @@
         "is_published": false,
         "keywords": [],
         "features": [
-            "ANIMATED_BANNER",
-            "ANIMATED_ICON",
-            "BANNER",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_LARGE_GATED",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "INVITE_SPLASH",
-            "MEMBER_PROFILES",
-            "NEWS",
             "PREVIEW_ENABLED",
-            "PRIVATE_THREADS",
-            "ROLE_ICONS",
-            "SEVEN_DAY_THREAD_ARCHIVE",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
             "VERIFIED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "978578378976272394",
+        "_highlightResult": {
+            "name": {
+                "value": "Fracton X",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "Official group of Fracton Protocol, exclusively partnered with KuCoin. We make pricy NFTs accessible for all traders.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "fractonx",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }

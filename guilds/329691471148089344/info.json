@@ -6,14 +6,17 @@
     "splash": "8c81330a2189231082b3f93249eb82dd",
     "discovery_splash": null,
     "banner": "98f666659a0c35279da1fed1303582a1",
-    "approximate_presence_count": 101,
-    "approximate_member_count": 4709,
-    "premium_subscription_count": 2,
+    "approximate_presence_count": 359,
+    "approximate_member_count": 5259,
+    "premium_subscription_count": 15,
     "preferred_locale": "hr",
     "vanity_url_code": null,
     "keywords": [
-        "minecraft",
+        "balkan",
+        "hrvatski",
         "mc",
+        "minecraft",
+        "minecraftserver",
         "sarma",
         "sarmacraft"
     ],
@@ -32,9 +35,9 @@
         "icon": "22bceab3704f2f08287b9fd6e5a2c2e0",
         "splash": "8c81330a2189231082b3f93249eb82dd",
         "banner": "98f666659a0c35279da1fed1303582a1",
-        "approximate_presence_count": 101,
-        "approximate_member_count": 4709,
-        "premium_subscription_count": 2,
+        "approximate_presence_count": 359,
+        "approximate_member_count": 5259,
+        "premium_subscription_count": 15,
         "preferred_locale": "hr",
         "auto_removed": false,
         "discovery_splash": null,
@@ -42,8 +45,11 @@
         "vanity_url_code": null,
         "is_published": false,
         "keywords": [
-            "minecraft",
+            "balkan",
+            "hrvatski",
             "mc",
+            "minecraft",
+            "minecraftserver",
             "sarma",
             "sarmacraft"
         ],
@@ -143,12 +149,27 @@
             },
             "keywords": [
                 {
-                    "value": "minecraft",
+                    "value": "balkan",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "hrvatski",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "mc",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "minecraft",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "minecraftserver",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
