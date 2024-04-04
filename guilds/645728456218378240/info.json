@@ -4,17 +4,19 @@
     "description": "This server is all about Synology NAS and other products. You can find support for Docker images, Surveillance, etc.",
     "icon": "c84fa8821407f4f6a16f726176522b47",
     "splash": "4f46c641b00aab4e62dfe4764d9b9b02",
-    "discovery_splash": "446dea21a1f05f0cf7a3cf949de406e4",
+    "discovery_splash": "30ea3f3990863eb52f7b357fe0397189",
     "banner": "5225adc12f9818738aae6fdcf307711f",
-    "approximate_presence_count": 864,
-    "approximate_member_count": 5174,
-    "premium_subscription_count": 9,
+    "approximate_presence_count": 942,
+    "approximate_member_count": 7341,
+    "premium_subscription_count": 7,
     "preferred_locale": "en-US",
     "vanity_url_code": "synology-645728456218378240",
     "keywords": [
-        "synology",
+        "docker",
+        "mariushosting",
         "nas",
-        "mariushosting"
+        "portainer",
+        "synology"
     ],
     "features": [
         "COMMUNITY",
@@ -31,19 +33,21 @@
         "icon": "c84fa8821407f4f6a16f726176522b47",
         "splash": "4f46c641b00aab4e62dfe4764d9b9b02",
         "banner": "5225adc12f9818738aae6fdcf307711f",
-        "approximate_presence_count": 864,
-        "approximate_member_count": 5174,
-        "premium_subscription_count": 9,
+        "approximate_presence_count": 942,
+        "approximate_member_count": 7341,
+        "premium_subscription_count": 7,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "446dea21a1f05f0cf7a3cf949de406e4",
+        "discovery_splash": "30ea3f3990863eb52f7b357fe0397189",
         "primary_category_id": 5,
         "vanity_url_code": "synology-645728456218378240",
         "is_published": true,
         "keywords": [
-            "synology",
+            "docker",
+            "mariushosting",
             "nas",
-            "mariushosting"
+            "portainer",
+            "synology"
         ],
         "features": [
             "COMMUNITY",
@@ -146,7 +150,12 @@
             },
             "keywords": [
                 {
-                    "value": "synology",
+                    "value": "docker",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "mariushosting",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -156,7 +165,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "mariushosting",
+                    "value": "portainer",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "synology",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
