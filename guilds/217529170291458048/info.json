@@ -6,19 +6,19 @@
     "splash": null,
     "discovery_splash": null,
     "banner": "a8c2c3f2a7a69d9ee71ccdde9e8d1211",
-    "approximate_presence_count": 1830,
-    "approximate_member_count": 14221,
-    "premium_subscription_count": 5,
+    "approximate_presence_count": 2052,
+    "approximate_member_count": 13736,
+    "premium_subscription_count": 2,
     "preferred_locale": "ru",
     "vanity_url_code": null,
     "keywords": [
-        "World of Wacraft",
-        "Wacraft",
-        "Warlock",
-        "Чернокнижник",
         "MMO",
         "WOW",
-        "Варкрафт"
+        "Wacraft",
+        "Warlock",
+        "World of Wacraft",
+        "Варкрафт",
+        "Чернокнижник"
     ],
     "features": [
         "COMMUNITY",
@@ -37,9 +37,9 @@
         "icon": "deae27c5539a60844e97a3cf210fec18",
         "splash": null,
         "banner": "a8c2c3f2a7a69d9ee71ccdde9e8d1211",
-        "approximate_presence_count": 1830,
-        "approximate_member_count": 14221,
-        "premium_subscription_count": 5,
+        "approximate_presence_count": 2052,
+        "approximate_member_count": 13736,
+        "premium_subscription_count": 2,
         "preferred_locale": "ru",
         "auto_removed": false,
         "discovery_splash": null,
@@ -47,13 +47,13 @@
         "vanity_url_code": null,
         "is_published": false,
         "keywords": [
-            "World of Wacraft",
-            "Wacraft",
-            "Warlock",
-            "Чернокнижник",
             "MMO",
             "WOW",
-            "Варкрафт"
+            "Wacraft",
+            "Warlock",
+            "World of Wacraft",
+            "Варкрафт",
+            "Чернокнижник"
         ],
         "features": [
             "COMMUNITY",
@@ -153,7 +153,12 @@
             },
             "keywords": [
                 {
-                    "value": "World of Wacraft",
+                    "value": "MMO",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "WOW",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -168,22 +173,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "Чернокнижник",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "MMO",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "WOW",
+                    "value": "World of Wacraft",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "Варкрафт",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Чернокнижник",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
