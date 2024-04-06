@@ -6,20 +6,22 @@
     "splash": "985bf7719a320b1f0f6c524f6e3c44e5",
     "discovery_splash": "e40c79c9a45e93441b6043ae21c8ae01",
     "banner": "5ff0fac8db161f1f6d37c67eec3645e7",
-    "approximate_presence_count": 142,
-    "approximate_member_count": 4479,
+    "approximate_presence_count": 137,
+    "approximate_member_count": 4507,
     "premium_subscription_count": 0,
     "preferred_locale": "ru",
     "vanity_url_code": null,
     "keywords": [
-        "fustrp",
-        "gmod",
-        "garrysmod",
-        "гарисмод",
-        "фустрп",
-        "фуст",
         "darkrp",
-        "даркрп"
+        "fustrp",
+        "garrysmod",
+        "gmod",
+        "powerrp",
+        "гарисмод",
+        "даркрп",
+        "паверрп",
+        "фуст",
+        "фустрп"
     ],
     "features": [
         "COMMUNITY",
@@ -37,8 +39,8 @@
         "icon": "a_54924c86b07d9bbc95a33b6258c82edb",
         "splash": "985bf7719a320b1f0f6c524f6e3c44e5",
         "banner": "5ff0fac8db161f1f6d37c67eec3645e7",
-        "approximate_presence_count": 142,
-        "approximate_member_count": 4479,
+        "approximate_presence_count": 137,
+        "approximate_member_count": 4507,
         "premium_subscription_count": 0,
         "preferred_locale": "ru",
         "auto_removed": false,
@@ -47,14 +49,16 @@
         "vanity_url_code": null,
         "is_published": false,
         "keywords": [
-            "fustrp",
-            "gmod",
-            "garrysmod",
-            "гарисмод",
-            "фустрп",
-            "фуст",
             "darkrp",
-            "даркрп"
+            "fustrp",
+            "garrysmod",
+            "gmod",
+            "powerrp",
+            "гарисмод",
+            "даркрп",
+            "паверрп",
+            "фуст",
+            "фустрп"
         ],
         "features": [
             "COMMUNITY",
@@ -264,12 +268,12 @@
             },
             "keywords": [
                 {
-                    "value": "fustrp",
+                    "value": "darkrp",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "gmod",
+                    "value": "fustrp",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -279,12 +283,27 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "gmod",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "powerrp",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "гарисмод",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "фустрп",
+                    "value": "даркрп",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "паверрп",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -294,12 +313,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "darkrp",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "даркрп",
+                    "value": "фустрп",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

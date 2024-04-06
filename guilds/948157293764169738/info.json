@@ -1,16 +1,16 @@
 {
     "id": "948157293764169738",
-    "name": "Interest Protocol - SUI💧",
-    "description": "Interest Protocol is Next Generation DeFi protocol which allows users to Swap, Lend, Borrow and Farm.",
+    "name": "Interest Protocol",
+    "description": "This Server is meant to support Interest Protocol users",
     "icon": "2577ffe87f42c037d1a5bb449e6eacc1",
-    "splash": "863ceab50a07e9f548b8827b91aa659e",
+    "splash": "081e349f69fd40e706d7a98955390ac9",
     "discovery_splash": "863ceab50a07e9f548b8827b91aa659e",
-    "banner": "9766d405bb9780c58f8b900d94c488f9",
-    "approximate_presence_count": 253,
-    "approximate_member_count": 15566,
-    "premium_subscription_count": 14,
+    "banner": "18e3651faa825e4320aa83175be93bf3",
+    "approximate_presence_count": 331,
+    "approximate_member_count": 15275,
+    "premium_subscription_count": 13,
     "preferred_locale": "en-US",
-    "vanity_url_code": "interestprotocol",
+    "vanity_url_code": null,
     "keywords": [
         "bitcoin",
         "bnb",
@@ -35,20 +35,20 @@
     "verified": false,
     "raw": {
         "id": "948157293764169738",
-        "name": "Interest Protocol - SUI💧",
-        "description": "Interest Protocol is Next Generation DeFi protocol which allows users to Swap, Lend, Borrow and Farm.",
+        "name": "Interest Protocol",
+        "description": "This Server is meant to support Interest Protocol users",
         "icon": "2577ffe87f42c037d1a5bb449e6eacc1",
-        "splash": "863ceab50a07e9f548b8827b91aa659e",
-        "banner": "9766d405bb9780c58f8b900d94c488f9",
-        "approximate_presence_count": 253,
-        "approximate_member_count": 15566,
-        "premium_subscription_count": 14,
+        "splash": "081e349f69fd40e706d7a98955390ac9",
+        "banner": "18e3651faa825e4320aa83175be93bf3",
+        "approximate_presence_count": 331,
+        "approximate_member_count": 15275,
+        "premium_subscription_count": 13,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "863ceab50a07e9f548b8827b91aa659e",
         "primary_category_id": 12,
-        "vanity_url_code": "interestprotocol",
-        "is_published": true,
+        "vanity_url_code": null,
+        "is_published": false,
         "keywords": [
             "bitcoin",
             "bnb",
@@ -70,16 +70,6 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
-                }
-            },
             {
                 "id": 36,
                 "is_primary": false,
@@ -115,6 +105,16 @@
                     "sv-SE": "Affärer",
                     "zh-CN": "商务",
                     "zh-TW": "商業"
+                }
+            },
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
                 }
             },
             {
@@ -232,17 +232,12 @@
         "objectID": "948157293764169738",
         "_highlightResult": {
             "name": {
-                "value": "Interest Protocol - SUI💧",
+                "value": "Interest Protocol",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "description": {
-                "value": "Interest Protocol is Next Generation DeFi protocol which allows users to Swap, Lend, Borrow and Farm.",
-                "matchLevel": "none",
-                "matchedWords": []
-            },
-            "vanity_url_code": {
-                "value": "interestprotocol",
+                "value": "This Server is meant to support Interest Protocol users",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -299,25 +294,6 @@
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -467,6 +443,25 @@
                         },
                         "zh-TW": {
                             "value": "商業",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

@@ -6,27 +6,18 @@
     "splash": "4a17b1f47afa2a4014966e4dbb20b6aa",
     "discovery_splash": null,
     "banner": "dbac70bb3eb29080eae06157fd1c4fb6",
-    "approximate_presence_count": 266,
-    "approximate_member_count": 10251,
-    "premium_subscription_count": 3,
+    "approximate_presence_count": 360,
+    "approximate_member_count": 9326,
+    "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "teenwolfonpplus",
     "keywords": [],
     "features": [
-        "ANIMATED_ICON",
-        "AUTO_MODERATION",
-        "BANNER",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "GUILD_ONBOARDING_ADMIN_ONLY",
-        "INVITE_SPLASH",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "NEWS",
         "PREVIEW_ENABLED",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
         "VERIFIED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -39,9 +30,9 @@
         "icon": "e4ee5f2795fd4420311d1ffb317f8daf",
         "splash": "4a17b1f47afa2a4014966e4dbb20b6aa",
         "banner": "dbac70bb3eb29080eae06157fd1c4fb6",
-        "approximate_presence_count": 266,
-        "approximate_member_count": 10251,
-        "premium_subscription_count": 3,
+        "approximate_presence_count": 360,
+        "approximate_member_count": 9326,
+        "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": null,
@@ -50,22 +41,45 @@
         "is_published": false,
         "keywords": [],
         "features": [
-            "ANIMATED_ICON",
-            "AUTO_MODERATION",
-            "BANNER",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "GUILD_ONBOARDING_ADMIN_ONLY",
-            "INVITE_SPLASH",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "NEWS",
             "PREVIEW_ENABLED",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
             "VERIFIED",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "1041800821354004560",
+        "_highlightResult": {
+            "name": {
+                "value": "Teen Wolf: The Movie on Paramount Plus",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "teenwolfonpplus",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }
