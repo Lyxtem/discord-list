@@ -6,15 +6,18 @@
     "splash": "e62f68761d2df8b5aa4ec08e21840f8d",
     "discovery_splash": "356e74f576d80384b179f7d4a8b5890c",
     "banner": "1e601878b70b09cc9bfc1d08f735a676",
-    "approximate_presence_count": 9399,
-    "approximate_member_count": 67668,
+    "approximate_presence_count": 10221,
+    "approximate_member_count": 67674,
     "premium_subscription_count": 9,
     "preferred_locale": "en-US",
     "vanity_url_code": "pubgreddit",
     "keywords": [
         "BATTLEGROUNDS",
+        "CompetitivePUBG",
+        "Esports",
         "PUBATTLEGROUNDS",
         "PUBG",
+        "PUBGConsole",
         "Reddit",
         "Subreddit"
     ],
@@ -36,8 +39,8 @@
         "icon": "a_b3ce69fe7344fd31c73afe8de6783537",
         "splash": "e62f68761d2df8b5aa4ec08e21840f8d",
         "banner": "1e601878b70b09cc9bfc1d08f735a676",
-        "approximate_presence_count": 9399,
-        "approximate_member_count": 67668,
+        "approximate_presence_count": 10221,
+        "approximate_member_count": 67674,
         "premium_subscription_count": 9,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -47,8 +50,11 @@
         "is_published": true,
         "keywords": [
             "BATTLEGROUNDS",
+            "CompetitivePUBG",
+            "Esports",
             "PUBATTLEGROUNDS",
             "PUBG",
+            "PUBGConsole",
             "Reddit",
             "Subreddit"
         ],
@@ -100,40 +106,40 @@
                 }
             },
             {
-                "id": 39,
+                "id": 30,
                 "is_primary": false,
-                "name": "Fandom",
+                "name": "LFG",
                 "name_localizations": {
-                    "bg": "Фендъм",
-                    "cs": "Pro fanoušky",
-                    "da": "Fangruppe",
-                    "de": "Fandom",
-                    "el": "Fandom",
-                    "fi": "Fanikunta",
-                    "fr": "Fandom",
-                    "hi": "फ़ैनडम",
-                    "hr": "Fandom",
-                    "hu": "Rajongói",
-                    "it": "Fandom",
-                    "ja": "ファンダム",
-                    "ko": "팬덤",
-                    "lt": "Fanai",
-                    "nl": "Fandom",
-                    "no": "Fandom",
-                    "pl": "Fandom",
-                    "ro": "Fandom",
-                    "ru": "Фандомы",
-                    "th": "กลุ่มแฟนคลับ",
-                    "tr": "Hayran Kitlesi",
-                    "uk": "Фандом",
-                    "vi": "Cộng Đồng Người Hâm Mộ",
-                    "en-GB": "Fandom",
-                    "en-US": "Fandom",
-                    "es-ES": "Fandom",
-                    "pt-BR": "Fandom",
-                    "sv-SE": "Fandom",
-                    "zh-CN": "同好圈",
-                    "zh-TW": "粉絲社群"
+                    "bg": "LFG",
+                    "cs": "LFG",
+                    "da": "LFG",
+                    "de": "Gruppensuche",
+                    "el": "LFG",
+                    "fi": "Ryhmähaku",
+                    "fr": "LFG",
+                    "hi": "LFG",
+                    "hr": "LFG",
+                    "hu": "LFG",
+                    "it": "LFG",
+                    "ja": "グループ検索",
+                    "ko": "그룹 찾기",
+                    "lt": "Grupės paieškos",
+                    "nl": "LFG",
+                    "no": "LFG",
+                    "pl": "Szukanie grupy",
+                    "ro": "LFG",
+                    "ru": "Поиск группы",
+                    "th": "LFG",
+                    "tr": "Grup Arama",
+                    "uk": "Пошук гільдії",
+                    "vi": "LFG",
+                    "en-GB": "LFG",
+                    "en-US": "LFG",
+                    "es-ES": "LFG",
+                    "pt-BR": "PG",
+                    "sv-SE": "Letar efter grupp (LFG)",
+                    "zh-CN": "找同好（LFG）",
+                    "zh-TW": "LFG"
                 }
             },
             {
@@ -309,12 +315,27 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "CompetitivePUBG",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Esports",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "PUBATTLEGROUNDS",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "PUBG",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "PUBGConsole",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -487,152 +508,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Фендъм",
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Pro fanoušky",
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Fangruppe",
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Fandom",
+                            "value": "Gruppensuche",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Fandom",
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Fanikunta",
+                            "value": "Ryhmähaku",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Fandom",
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "फ़ैनडम",
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Fandom",
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Rajongói",
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Fandom",
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "ファンダム",
+                            "value": "グループ検索",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "팬덤",
+                            "value": "그룹 찾기",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Fanai",
+                            "value": "Grupės paieškos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Fandom",
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Fandom",
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Fandom",
+                            "value": "Szukanie grupy",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Fandom",
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Фандомы",
+                            "value": "Поиск группы",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "กลุ่มแฟนคลับ",
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Hayran Kitlesi",
+                            "value": "Grup Arama",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Фандом",
+                            "value": "Пошук гільдії",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Cộng Đồng Người Hâm Mộ",
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Fandom",
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Fandom",
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Fandom",
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Fandom",
+                            "value": "PG",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Fandom",
+                            "value": "Letar efter grupp (LFG)",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "同好圈",
+                            "value": "找同好（LFG）",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "粉絲社群",
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
