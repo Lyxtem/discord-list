@@ -6,9 +6,9 @@
     "splash": "11ceaa4914832f16cc20334124eb4bb4",
     "discovery_splash": "fc95a99dcc678546a1110be1e200e17b",
     "banner": "1c316dcf1c5e8a6cdd3018bc0fa1ce57",
-    "approximate_presence_count": 10262,
-    "approximate_member_count": 78386,
-    "premium_subscription_count": 89,
+    "approximate_presence_count": 10625,
+    "approximate_member_count": 81088,
+    "premium_subscription_count": 98,
     "preferred_locale": "en-US",
     "vanity_url_code": "wsbverse",
     "keywords": [
@@ -18,7 +18,8 @@
         "memestock",
         "stocks",
         "trading",
-        "wallstreetbets"
+        "wallstreetbets",
+        "wsb"
     ],
     "features": [
         "COMMUNITY",
@@ -37,9 +38,9 @@
         "icon": "a_010cc9a9cb110d8796075e0e4ea3cf2a",
         "splash": "11ceaa4914832f16cc20334124eb4bb4",
         "banner": "1c316dcf1c5e8a6cdd3018bc0fa1ce57",
-        "approximate_presence_count": 10262,
-        "approximate_member_count": 78386,
-        "premium_subscription_count": 89,
+        "approximate_presence_count": 10625,
+        "approximate_member_count": 81088,
+        "premium_subscription_count": 98,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "fc95a99dcc678546a1110be1e200e17b",
@@ -53,7 +54,8 @@
             "memestock",
             "stocks",
             "trading",
-            "wallstreetbets"
+            "wallstreetbets",
+            "wsb"
         ],
         "features": [
             "COMMUNITY",
@@ -189,6 +191,11 @@
                 },
                 {
                     "value": "wallstreetbets",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "wsb",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
