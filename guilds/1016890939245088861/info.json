@@ -6,9 +6,9 @@
     "splash": "b6f7fa1b2f5d45f082d7feaca8bbb75b",
     "discovery_splash": "682d08357bae1af86d7632de54096a5f",
     "banner": "2e53e8f851a13cee2678b794e75ca6f0",
-    "approximate_presence_count": 1293,
-    "approximate_member_count": 6481,
-    "premium_subscription_count": 13,
+    "approximate_presence_count": 1886,
+    "approximate_member_count": 8632,
+    "premium_subscription_count": 15,
     "preferred_locale": "en-US",
     "vanity_url_code": "arcinternet",
     "keywords": [
@@ -41,9 +41,9 @@
         "icon": "a_da528664565b3fd5f395acb537d47944",
         "splash": "b6f7fa1b2f5d45f082d7feaca8bbb75b",
         "banner": "2e53e8f851a13cee2678b794e75ca6f0",
-        "approximate_presence_count": 1293,
-        "approximate_member_count": 6481,
-        "premium_subscription_count": 13,
+        "approximate_presence_count": 1886,
+        "approximate_member_count": 8632,
+        "premium_subscription_count": 15,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "682d08357bae1af86d7632de54096a5f",
@@ -72,6 +72,43 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 19,
+                "is_primary": false,
+                "name": "Art",
+                "name_localizations": {
+                    "bg": "Изкуство",
+                    "cs": "Umění",
+                    "da": "Kunst",
+                    "de": "Kunst",
+                    "el": "Τέχνη",
+                    "fi": "Taide",
+                    "fr": "Art",
+                    "hi": "आर्ट",
+                    "hr": "Umjetnost",
+                    "hu": "Művészet",
+                    "it": "Arte",
+                    "ja": "アート",
+                    "ko": "예술",
+                    "lt": "Menas",
+                    "nl": "Kunst",
+                    "no": "Kunst",
+                    "pl": "Sztuka",
+                    "ro": "Artă",
+                    "ru": "Творчество",
+                    "th": "ศิลปะ",
+                    "tr": "Sanat",
+                    "uk": "Мистецтво",
+                    "vi": "Nghệ Thuật",
+                    "en-GB": "Art",
+                    "en-US": "Art",
+                    "es-ES": "Arte",
+                    "pt-BR": "Arte",
+                    "sv-SE": "Konst",
+                    "zh-CN": "艺术",
+                    "zh-TW": "藝術"
+                }
+            },
             {
                 "id": 22,
                 "is_primary": false,
@@ -110,40 +147,40 @@
                 }
             },
             {
-                "id": 19,
+                "id": 40,
                 "is_primary": false,
-                "name": "Art",
+                "name": "Wiki & Guide",
                 "name_localizations": {
-                    "bg": "Изкуство",
-                    "cs": "Umění",
-                    "da": "Kunst",
-                    "de": "Kunst",
-                    "el": "Τέχνη",
-                    "fi": "Taide",
-                    "fr": "Art",
-                    "hi": "आर्ट",
-                    "hr": "Umjetnost",
-                    "hu": "Művészet",
-                    "it": "Arte",
-                    "ja": "アート",
-                    "ko": "예술",
-                    "lt": "Menas",
-                    "nl": "Kunst",
-                    "no": "Kunst",
-                    "pl": "Sztuka",
-                    "ro": "Artă",
-                    "ru": "Творчество",
-                    "th": "ศิลปะ",
-                    "tr": "Sanat",
-                    "uk": "Мистецтво",
-                    "vi": "Nghệ Thuật",
-                    "en-GB": "Art",
-                    "en-US": "Art",
-                    "es-ES": "Arte",
-                    "pt-BR": "Arte",
-                    "sv-SE": "Konst",
-                    "zh-CN": "艺术",
-                    "zh-TW": "藝術"
+                    "bg": "Уики и ръководство",
+                    "cs": "Wiki a návody",
+                    "da": "Wiki & guide",
+                    "de": "Wiki & Anleitungen",
+                    "el": "Wiki & Οδηγοί",
+                    "fi": "Wikit ja ohjeet",
+                    "fr": "Wiki et guide",
+                    "hi": "विकिपीडिया और गाइड",
+                    "hr": "Wiki i vodiči",
+                    "hu": "Wikik és útmutatók",
+                    "it": "Wiki e guide",
+                    "ja": "ウィキペディア&ガイド",
+                    "ko": "위키, 가이드",
+                    "lt": "Vikis ir instrukcijos",
+                    "nl": "Wiki en gids",
+                    "no": "Wiki og veiledning",
+                    "pl": "Wiki i przewodniki",
+                    "ro": "Wiki și ghid",
+                    "ru": "Вики и руководство",
+                    "th": "วิกิและคู่มือ",
+                    "tr": "Wiki ve Rehber",
+                    "uk": "Вікі та посібники",
+                    "vi": "Wiki & Hướng Dẫn",
+                    "en-GB": "Wiki & Guide",
+                    "en-US": "Wiki & Guide",
+                    "es-ES": "Wikipedia y guías",
+                    "pt-BR": "Wiki e Guias",
+                    "sv-SE": "Wiki och guide",
+                    "zh-CN": "维基&指南",
+                    "zh-TW": "維基百科與指南"
                 }
             },
             {
@@ -291,6 +328,160 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Изкуство",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Umění",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Kunst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Kunst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Τέχνη",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Taide",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Art",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "आर्ट",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Umjetnost",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Művészet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Arte",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "アート",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "예술",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Menas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Kunst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Kunst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Sztuka",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Artă",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Творчество",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ศิลปะ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Sanat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Мистецтво",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Nghệ Thuật",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Art",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Art",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Arte",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Arte",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Konst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "艺术",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "藝術",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -448,152 +639,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Изкуство",
+                            "value": "Уики и ръководство",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Umění",
+                            "value": "Wiki a návody",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Kunst",
+                            "value": "Wiki & guide",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Kunst",
+                            "value": "Wiki & Anleitungen",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Τέχνη",
+                            "value": "Wiki & Οδηγοί",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Taide",
+                            "value": "Wikit ja ohjeet",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Art",
+                            "value": "Wiki et guide",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "आर्ट",
+                            "value": "विकिपीडिया और गाइड",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Umjetnost",
+                            "value": "Wiki i vodiči",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Művészet",
+                            "value": "Wikik és útmutatók",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Arte",
+                            "value": "Wiki e guide",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "アート",
+                            "value": "ウィキペディア&ガイド",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "예술",
+                            "value": "위키, 가이드",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Menas",
+                            "value": "Vikis ir instrukcijos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Kunst",
+                            "value": "Wiki en gids",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Kunst",
+                            "value": "Wiki og veiledning",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Sztuka",
+                            "value": "Wiki i przewodniki",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Artă",
+                            "value": "Wiki și ghid",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Творчество",
+                            "value": "Вики и руководство",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "ศิลปะ",
+                            "value": "วิกิและคู่มือ",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Sanat",
+                            "value": "Wiki ve Rehber",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Мистецтво",
+                            "value": "Вікі та посібники",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Nghệ Thuật",
+                            "value": "Wiki & Hướng Dẫn",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Art",
+                            "value": "Wiki & Guide",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Art",
+                            "value": "Wiki & Guide",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Arte",
+                            "value": "Wikipedia y guías",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Arte",
+                            "value": "Wiki e Guias",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Konst",
+                            "value": "Wiki och guide",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "艺术",
+                            "value": "维基&指南",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "藝術",
+                            "value": "維基百科與指南",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

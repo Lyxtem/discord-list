@@ -1,21 +1,27 @@
 {
     "id": "838497733492080681",
     "name": "La Moustachière",
-    "description": "Bonjour et bienvenue à toutes et tous sur le serveur Discord de La Moustachière.",
-    "icon": "907ec829198437b8cb5011c6f982fefa",
+    "description": "Bienvenue sur le serveur officiel d'Etienne_Moustache - La communauté Discord dédiée aux vroum-vroum !",
+    "icon": "b8433d3d193c532e948821bfddba742b",
     "splash": "0774f706b8078f5d2b91263082783537",
-    "discovery_splash": "fba0b3ecc01e0149b4be36f04db07622",
-    "banner": null,
-    "approximate_presence_count": 610,
-    "approximate_member_count": 2066,
-    "premium_subscription_count": 5,
+    "discovery_splash": "4c9e0caab2a8ece9530d2e4a97151984",
+    "banner": "7ea1d43c48cf23fa9bd07d1795103638",
+    "approximate_presence_count": 621,
+    "approximate_member_count": 2234,
+    "premium_subscription_count": 0,
     "preferred_locale": "fr",
     "vanity_url_code": "la-moustachiere-838497733492080681",
     "keywords": [
-        "sport-mécanique",
-        "sim-racing",
-        "gaming",
-        "moustache"
+        "Etienne",
+        "Etienne Moustache",
+        "Etienne_Moustache",
+        "F1",
+        "GPExplorer",
+        "Moustache",
+        "Racing",
+        "Sim",
+        "Sim-Racing",
+        "Twitch"
     ],
     "features": [
         "COMMUNITY",
@@ -30,24 +36,30 @@
     "raw": {
         "id": "838497733492080681",
         "name": "La Moustachière",
-        "description": "Bonjour et bienvenue à toutes et tous sur le serveur Discord de La Moustachière.",
-        "icon": "907ec829198437b8cb5011c6f982fefa",
+        "description": "Bienvenue sur le serveur officiel d'Etienne_Moustache - La communauté Discord dédiée aux vroum-vroum !",
+        "icon": "b8433d3d193c532e948821bfddba742b",
         "splash": "0774f706b8078f5d2b91263082783537",
-        "banner": null,
-        "approximate_presence_count": 610,
-        "approximate_member_count": 2066,
-        "premium_subscription_count": 5,
+        "banner": "7ea1d43c48cf23fa9bd07d1795103638",
+        "approximate_presence_count": 621,
+        "approximate_member_count": 2234,
+        "premium_subscription_count": 0,
         "preferred_locale": "fr",
         "auto_removed": false,
-        "discovery_splash": "fba0b3ecc01e0149b4be36f04db07622",
-        "primary_category_id": 14,
+        "discovery_splash": "4c9e0caab2a8ece9530d2e4a97151984",
+        "primary_category_id": 1,
         "vanity_url_code": "la-moustachiere-838497733492080681",
         "is_published": true,
         "keywords": [
-            "sport-mécanique",
-            "sim-racing",
-            "gaming",
-            "moustache"
+            "Etienne",
+            "Etienne Moustache",
+            "Etienne_Moustache",
+            "F1",
+            "GPExplorer",
+            "Moustache",
+            "Racing",
+            "Sim",
+            "Sim-Racing",
+            "Twitch"
         ],
         "features": [
             "COMMUNITY",
@@ -58,6 +70,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
             {
                 "id": 33,
                 "is_primary": false,
@@ -93,16 +115,6 @@
                     "sv-SE": "Event",
                     "zh-CN": "组织活动",
                     "zh-TW": "活動"
-                }
-            },
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
                 }
             },
             {
@@ -143,43 +155,6 @@
                 }
             },
             {
-                "id": 35,
-                "is_primary": false,
-                "name": "Content Creator",
-                "name_localizations": {
-                    "bg": "Създател на съдържание",
-                    "cs": "Tvůrce obsahu",
-                    "da": "Indholdsskaber",
-                    "de": "Content Creator",
-                    "el": "Δημιουργός Περιεχομένου",
-                    "fi": "Sisällöntuottaja",
-                    "fr": "Créateur de contenu",
-                    "hi": "कंटेंट क्रिएटर",
-                    "hr": "Stvaratelj sadržaja",
-                    "hu": "Tartalomkészítő",
-                    "it": "Creazione contenuti",
-                    "ja": "コンテンツクリエイター",
-                    "ko": "콘텐츠 크리에이터",
-                    "lt": "Turinio kūrėjai",
-                    "nl": "Contentontwikkelaar",
-                    "no": "Innholdsskaper",
-                    "pl": "Twórca zawartości",
-                    "ro": "Creator de conținut",
-                    "ru": "Создатель контента",
-                    "th": "ผู้สร้างเนื้อหา",
-                    "tr": "İçerik Üreticisi",
-                    "uk": "Створення контенту",
-                    "vi": "Nhà Sáng Tạo Nội Dung",
-                    "en-GB": "Content creator",
-                    "en-US": "Content Creator",
-                    "es-ES": "Creador de contenido",
-                    "pt-BR": "Criação de Conteúdo",
-                    "sv-SE": "Innehållsskapare",
-                    "zh-CN": "内容创作者",
-                    "zh-TW": "內容創作者"
-                }
-            },
-            {
                 "id": 26,
                 "is_primary": false,
                 "name": "News & Current Events",
@@ -217,78 +192,78 @@
                 }
             },
             {
-                "id": 14,
-                "is_primary": true,
-                "name": "General Chatting",
+                "id": 35,
+                "is_primary": false,
+                "name": "Content Creator",
                 "name_localizations": {
-                    "bg": "Общуване",
-                    "cs": "Prostě chat",
-                    "da": "Generelt",
-                    "de": "Allgemeine Chats",
-                    "el": "Γενική συζήτηση",
-                    "fi": "Yleinen keskustelu",
-                    "fr": "Discussion générale",
-                    "hi": "जनरल चैटिंग",
-                    "hr": "Općenito",
-                    "hu": "Általános csevegés",
-                    "it": "Discussioni generali",
-                    "ja": "雑談",
-                    "ko": "일반 채팅",
-                    "lt": "Bendro pobūdžio pokalbiai",
-                    "nl": "Algemene chat",
-                    "no": "Generell chatting",
-                    "pl": "Rozmowy",
-                    "ro": "Discuții generale",
-                    "ru": "Общение",
-                    "th": "การสนทนาทั่วไป",
-                    "tr": "Genel Sohbet",
-                    "uk": "Спілкування на загальні теми",
-                    "vi": "Trò Chuyện Chung",
-                    "en-GB": "General Chatting",
-                    "en-US": "General Chatting",
-                    "es-ES": "Chateo general",
-                    "pt-BR": "Conversas gerais",
-                    "sv-SE": "Chatt i allmänhet",
-                    "zh-CN": "综合聊天",
-                    "zh-TW": "一般聊天"
+                    "bg": "Създател на съдържание",
+                    "cs": "Tvůrce obsahu",
+                    "da": "Indholdsskaber",
+                    "de": "Content Creator",
+                    "el": "Δημιουργός Περιεχομένου",
+                    "fi": "Sisällöntuottaja",
+                    "fr": "Créateur de contenu",
+                    "hi": "कंटेंट क्रिएटर",
+                    "hr": "Stvaratelj sadržaja",
+                    "hu": "Tartalomkészítő",
+                    "it": "Creazione contenuti",
+                    "ja": "コンテンツクリエイター",
+                    "ko": "콘텐츠 크리에이터",
+                    "lt": "Turinio kūrėjai",
+                    "nl": "Contentontwikkelaar",
+                    "no": "Innholdsskaper",
+                    "pl": "Twórca zawartości",
+                    "ro": "Creator de conținut",
+                    "ru": "Создатель контента",
+                    "th": "ผู้สร้างเนื้อหา",
+                    "tr": "İçerik Üreticisi",
+                    "uk": "Створення контенту",
+                    "vi": "Nhà Sáng Tạo Nội Dung",
+                    "en-GB": "Content creator",
+                    "en-US": "Content Creator",
+                    "es-ES": "Creador de contenido",
+                    "pt-BR": "Criação de Conteúdo",
+                    "sv-SE": "Innehållsskapare",
+                    "zh-CN": "内容创作者",
+                    "zh-TW": "內容創作者"
                 }
             }
         ],
         "primary_category": {
-            "id": 14,
+            "id": 1,
             "is_primary": true,
-            "name": "General Chatting",
+            "name": "Gaming",
             "name_localizations": {
-                "bg": "Общуване",
-                "cs": "Prostě chat",
-                "da": "Generelt",
-                "de": "Allgemeine Chats",
-                "el": "Γενική συζήτηση",
-                "fi": "Yleinen keskustelu",
-                "fr": "Discussion générale",
-                "hi": "जनरल चैटिंग",
-                "hr": "Općenito",
-                "hu": "Általános csevegés",
-                "it": "Discussioni generali",
-                "ja": "雑談",
-                "ko": "일반 채팅",
-                "lt": "Bendro pobūdžio pokalbiai",
-                "nl": "Algemene chat",
-                "no": "Generell chatting",
-                "pl": "Rozmowy",
-                "ro": "Discuții generale",
-                "ru": "Общение",
-                "th": "การสนทนาทั่วไป",
-                "tr": "Genel Sohbet",
-                "uk": "Спілкування на загальні теми",
-                "vi": "Trò Chuyện Chung",
-                "en-GB": "General Chatting",
-                "en-US": "General Chatting",
-                "es-ES": "Chateo general",
-                "pt-BR": "Conversas gerais",
-                "sv-SE": "Chatt i allmänhet",
-                "zh-CN": "综合聊天",
-                "zh-TW": "一般聊天"
+                "bg": "Гейминг",
+                "cs": "Hraní",
+                "da": "Spil",
+                "de": "Gaming",
+                "el": "Gaming",
+                "fi": "Pelaaminen",
+                "fr": "Gaming",
+                "hi": "गेमिंग",
+                "hr": "Gaming",
+                "hu": "Játék",
+                "it": "Gaming",
+                "ja": "ゲーム",
+                "ko": "게임",
+                "lt": "Žaidimai",
+                "nl": "Gaming",
+                "no": "Gaming",
+                "pl": "Gry",
+                "ro": "Gaming",
+                "ru": "Игры",
+                "th": "การเล่นเกม",
+                "tr": "Oyun",
+                "uk": "Ігри",
+                "vi": "Gaming",
+                "en-GB": "Gaming",
+                "en-US": "Gaming",
+                "es-ES": "Juegos",
+                "pt-BR": "Jogos",
+                "sv-SE": "Gaming",
+                "zh-CN": "游戏",
+                "zh-TW": "遊戲"
             }
         },
         "objectID": "838497733492080681",
@@ -299,7 +274,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Bonjour et bienvenue à toutes et tous sur le serveur Discord de La Moustachière.",
+                "value": "Bienvenue sur le serveur officiel d'Etienne_Moustache - La communauté Discord dédiée aux vroum-vroum !",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -310,27 +285,76 @@
             },
             "keywords": [
                 {
-                    "value": "sport-mécanique",
+                    "value": "Etienne",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "sim-racing",
+                    "value": "Etienne Moustache",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "gaming",
+                    "value": "Etienne_Moustache",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "moustache",
+                    "value": "F1",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "GPExplorer",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Moustache",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Racing",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Sim",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Sim-Racing",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Twitch",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -480,25 +504,6 @@
                         },
                         "zh-TW": {
                             "value": "活動",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -661,160 +666,6 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Създател на съдържание",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Tvůrce obsahu",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Indholdsskaber",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Content Creator",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Δημιουργός Περιεχομένου",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Sisällöntuottaja",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Créateur de contenu",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "कंटेंट क्रिएटर",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Stvaratelj sadržaja",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Tartalomkészítő",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Creazione contenuti",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "コンテンツクリエイター",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "콘텐츠 크리에이터",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Turinio kūrėjai",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Contentontwikkelaar",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Innholdsskaper",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Twórca zawartości",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Creator de conținut",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Создатель контента",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "ผู้สร้างเนื้อหา",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "İçerik Üreticisi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Створення контенту",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Nhà Sáng Tạo Nội Dung",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Content creator",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Content Creator",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Creador de contenido",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Criação de Conteúdo",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Innehållsskapare",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "内容创作者",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "內容創作者",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
                             "value": "Новини и актуални събития",
                             "matchLevel": "none",
                             "matchedWords": []
@@ -969,152 +820,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Общуване",
+                            "value": "Създател на съдържание",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Prostě chat",
+                            "value": "Tvůrce obsahu",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Generelt",
+                            "value": "Indholdsskaber",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Allgemeine Chats",
+                            "value": "Content Creator",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Γενική συζήτηση",
+                            "value": "Δημιουργός Περιεχομένου",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Yleinen keskustelu",
+                            "value": "Sisällöntuottaja",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Discussion générale",
+                            "value": "Créateur de contenu",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "जनरल चैटिंग",
+                            "value": "कंटेंट क्रिएटर",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Općenito",
+                            "value": "Stvaratelj sadržaja",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Általános csevegés",
+                            "value": "Tartalomkészítő",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Discussioni generali",
+                            "value": "Creazione contenuti",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "雑談",
+                            "value": "コンテンツクリエイター",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "일반 채팅",
+                            "value": "콘텐츠 크리에이터",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Bendro pobūdžio pokalbiai",
+                            "value": "Turinio kūrėjai",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Algemene chat",
+                            "value": "Contentontwikkelaar",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Generell chatting",
+                            "value": "Innholdsskaper",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Rozmowy",
+                            "value": "Twórca zawartości",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Discuții generale",
+                            "value": "Creator de conținut",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Общение",
+                            "value": "Создатель контента",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "การสนทนาทั่วไป",
+                            "value": "ผู้สร้างเนื้อหา",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Genel Sohbet",
+                            "value": "İçerik Üreticisi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Спілкування на загальні теми",
+                            "value": "Створення контенту",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Trò Chuyện Chung",
+                            "value": "Nhà Sáng Tạo Nội Dung",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "General Chatting",
+                            "value": "Content creator",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "General Chatting",
+                            "value": "Content Creator",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Chateo general",
+                            "value": "Creador de contenido",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Conversas gerais",
+                            "value": "Criação de Conteúdo",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Chatt i allmänhet",
+                            "value": "Innehållsskapare",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "综合聊天",
+                            "value": "内容创作者",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "一般聊天",
+                            "value": "內容創作者",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -1124,152 +975,152 @@
             "primary_category": {
                 "name_localizations": {
                     "bg": {
-                        "value": "Общуване",
+                        "value": "Гейминг",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "cs": {
-                        "value": "Prostě chat",
+                        "value": "Hraní",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "da": {
-                        "value": "Generelt",
+                        "value": "Spil",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "de": {
-                        "value": "Allgemeine Chats",
+                        "value": "Gaming",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "el": {
-                        "value": "Γενική συζήτηση",
+                        "value": "Gaming",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "fi": {
-                        "value": "Yleinen keskustelu",
+                        "value": "Pelaaminen",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "fr": {
-                        "value": "Discussion générale",
+                        "value": "Gaming",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "hi": {
-                        "value": "जनरल चैटिंग",
+                        "value": "गेमिंग",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "hr": {
-                        "value": "Općenito",
+                        "value": "Gaming",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "hu": {
-                        "value": "Általános csevegés",
+                        "value": "Játék",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "it": {
-                        "value": "Discussioni generali",
+                        "value": "Gaming",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ja": {
-                        "value": "雑談",
+                        "value": "ゲーム",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ko": {
-                        "value": "일반 채팅",
+                        "value": "게임",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "lt": {
-                        "value": "Bendro pobūdžio pokalbiai",
+                        "value": "Žaidimai",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "nl": {
-                        "value": "Algemene chat",
+                        "value": "Gaming",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "no": {
-                        "value": "Generell chatting",
+                        "value": "Gaming",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "pl": {
-                        "value": "Rozmowy",
+                        "value": "Gry",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ro": {
-                        "value": "Discuții generale",
+                        "value": "Gaming",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ru": {
-                        "value": "Общение",
+                        "value": "Игры",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "th": {
-                        "value": "การสนทนาทั่วไป",
+                        "value": "การเล่นเกม",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "tr": {
-                        "value": "Genel Sohbet",
+                        "value": "Oyun",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "uk": {
-                        "value": "Спілкування на загальні теми",
+                        "value": "Ігри",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "vi": {
-                        "value": "Trò Chuyện Chung",
+                        "value": "Gaming",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "en-GB": {
-                        "value": "General Chatting",
+                        "value": "Gaming",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "en-US": {
-                        "value": "General Chatting",
+                        "value": "Gaming",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "es-ES": {
-                        "value": "Chateo general",
+                        "value": "Juegos",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "pt-BR": {
-                        "value": "Conversas gerais",
+                        "value": "Jogos",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "sv-SE": {
-                        "value": "Chatt i allmänhet",
+                        "value": "Gaming",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "zh-CN": {
-                        "value": "综合聊天",
+                        "value": "游戏",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "zh-TW": {
-                        "value": "一般聊天",
+                        "value": "遊戲",
                         "matchLevel": "none",
                         "matchedWords": []
                     }

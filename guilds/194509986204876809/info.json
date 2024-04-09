@@ -6,27 +6,19 @@
     "splash": "6853359274be413480fa8a650decab14",
     "discovery_splash": "6853359274be413480fa8a650decab14",
     "banner": null,
-    "approximate_presence_count": 506,
-    "approximate_member_count": 2784,
+    "approximate_presence_count": 677,
+    "approximate_member_count": 2837,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "eslsc2",
     "keywords": [],
     "features": [
-        "AUTO_MODERATION",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_MEDIUM",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
         "FEATURABLE",
-        "INVITE_SPLASH",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "NEWS",
-        "NEW_THREAD_PERMISSIONS",
         "PREVIEW_ENABLED",
-        "THREADS_ENABLED",
-        "VANITY_URL",
         "VERIFIED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -39,8 +31,8 @@
         "icon": "79b55de3aca3f571a7fed63bcbd4ab58",
         "splash": "6853359274be413480fa8a650decab14",
         "banner": null,
-        "approximate_presence_count": 506,
-        "approximate_member_count": 2784,
+        "approximate_presence_count": 677,
+        "approximate_member_count": 2837,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -50,22 +42,46 @@
         "is_published": false,
         "keywords": [],
         "features": [
-            "AUTO_MODERATION",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_MEDIUM",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
             "FEATURABLE",
-            "INVITE_SPLASH",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "NEWS",
-            "NEW_THREAD_PERMISSIONS",
             "PREVIEW_ENABLED",
-            "THREADS_ENABLED",
-            "VANITY_URL",
             "VERIFIED",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "194509986204876809",
+        "_highlightResult": {
+            "name": {
+                "value": "ESL StarCraft",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "ESL Play StarCraft Discord server",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "eslsc2",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }
