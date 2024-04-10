@@ -1,65 +1,69 @@
 {
     "id": "460122415259713538",
     "name": "Khaos Kingdom",
-    "description": "Somos una comunidad latina activad de chill y entretenimiento, mes a mes hacemos actividades y semanalmente nos reunimos",
+    "description": "Bienvenidos a Khaos Kingdom, un reino donde conocerás a muchas personas nuevas para platicar y pasar un buen rato!",
     "icon": "a_6e1deff40b50ba556804e3ebf010bba8",
-    "splash": "22adae20e83ac55ca73717809fc045cd",
+    "splash": "7159db99283a6a60b5d493965898a0f1",
     "discovery_splash": "7159db99283a6a60b5d493965898a0f1",
-    "banner": "0e2d8104ef273623a6b626b81ab649a9",
-    "approximate_presence_count": 283,
-    "approximate_member_count": 1469,
-    "premium_subscription_count": 17,
+    "banner": "49c6b35d850f3b106c221b40efc26f65",
+    "approximate_presence_count": 218,
+    "approximate_member_count": 1842,
+    "premium_subscription_count": 6,
     "preferred_locale": "es-ES",
-    "vanity_url_code": null,
+    "vanity_url_code": "khaos-kingdom-460122415259713538",
     "keywords": [
-        "twitch",
-        "leagueoflegends",
-        "juego-de-roles",
-        "minecraft",
-        "youtube",
-        "latinos",
+        "chill",
         "eventos",
-        "chill"
+        "juego-de-roles",
+        "latinos",
+        "leagueoflegends",
+        "minecraft",
+        "twitch",
+        "youtube"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "PREVIEW_ENABLED"
+        "MEMBER_VERIFICATION_GATE_ENABLED",
+        "PREVIEW_ENABLED",
+        "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": false,
     "verified": false,
     "raw": {
         "id": "460122415259713538",
         "name": "Khaos Kingdom",
-        "description": "Somos una comunidad latina activad de chill y entretenimiento, mes a mes hacemos actividades y semanalmente nos reunimos",
+        "description": "Bienvenidos a Khaos Kingdom, un reino donde conocerás a muchas personas nuevas para platicar y pasar un buen rato!",
         "icon": "a_6e1deff40b50ba556804e3ebf010bba8",
-        "splash": "22adae20e83ac55ca73717809fc045cd",
-        "banner": "0e2d8104ef273623a6b626b81ab649a9",
-        "approximate_presence_count": 283,
-        "approximate_member_count": 1469,
-        "premium_subscription_count": 17,
+        "splash": "7159db99283a6a60b5d493965898a0f1",
+        "banner": "49c6b35d850f3b106c221b40efc26f65",
+        "approximate_presence_count": 218,
+        "approximate_member_count": 1842,
+        "premium_subscription_count": 6,
         "preferred_locale": "es-ES",
         "auto_removed": false,
         "discovery_splash": "7159db99283a6a60b5d493965898a0f1",
         "primary_category_id": 1,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "khaos-kingdom-460122415259713538",
+        "is_published": true,
         "keywords": [
-            "twitch",
-            "leagueoflegends",
-            "juego-de-roles",
-            "minecraft",
-            "youtube",
-            "latinos",
+            "chill",
             "eventos",
-            "chill"
+            "juego-de-roles",
+            "latinos",
+            "leagueoflegends",
+            "minecraft",
+            "twitch",
+            "youtube"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "PREVIEW_ENABLED"
+            "MEMBER_VERIFICATION_GATE_ENABLED",
+            "PREVIEW_ENABLED",
+            "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
             {
@@ -100,43 +104,6 @@
                 }
             },
             {
-                "id": 17,
-                "is_primary": false,
-                "name": "Movies & TV",
-                "name_localizations": {
-                    "bg": "Филми и телевизия",
-                    "cs": "Filmy a TV",
-                    "da": "Film & TV",
-                    "de": "Film & TV",
-                    "el": "Ταινίες & TV",
-                    "fi": "Elokuvat ja TV",
-                    "fr": "Films et TV",
-                    "hi": "मूवीज़ और टीवी",
-                    "hr": "Film i TV",
-                    "hu": "Filmek és TV",
-                    "it": "Film e TV",
-                    "ja": "映画&TV",
-                    "ko": "영화, TV",
-                    "lt": "Filmai ir televizija",
-                    "nl": "Film en tv",
-                    "no": "Film og TV",
-                    "pl": "Kino i telewizja",
-                    "ro": "Filme și seriale",
-                    "ru": "Кино и телевидение",
-                    "th": "ภาพยนตร์และทีวี",
-                    "tr": "Film ve Televizyon",
-                    "uk": "Фільми й телебачення",
-                    "vi": "Phim Ảnh & Truyền Hình",
-                    "en-GB": "Films & TV",
-                    "en-US": "Movies & TV",
-                    "es-ES": "Películas y televisión",
-                    "pt-BR": "Filmes e TV",
-                    "sv-SE": "Film och tv",
-                    "zh-CN": "电影&电视",
-                    "zh-TW": "電影與電視"
-                }
-            },
-            {
                 "id": 16,
                 "is_primary": false,
                 "name": "Anime & Manga",
@@ -171,6 +138,43 @@
                     "sv-SE": "Anime och manga",
                     "zh-CN": "动画&漫画",
                     "zh-TW": "動畫與漫畫"
+                }
+            },
+            {
+                "id": 17,
+                "is_primary": false,
+                "name": "Movies & TV",
+                "name_localizations": {
+                    "bg": "Филми и телевизия",
+                    "cs": "Filmy a TV",
+                    "da": "Film & TV",
+                    "de": "Film & TV",
+                    "el": "Ταινίες & TV",
+                    "fi": "Elokuvat ja TV",
+                    "fr": "Films et TV",
+                    "hi": "मूवीज़ और टीवी",
+                    "hr": "Film i TV",
+                    "hu": "Filmek és TV",
+                    "it": "Film e TV",
+                    "ja": "映画&TV",
+                    "ko": "영화, TV",
+                    "lt": "Filmai ir televizija",
+                    "nl": "Film en tv",
+                    "no": "Film og TV",
+                    "pl": "Kino i telewizja",
+                    "ro": "Filme și seriale",
+                    "ru": "Кино и телевидение",
+                    "th": "ภาพยนตร์และทีวี",
+                    "tr": "Film ve Televizyon",
+                    "uk": "Фільми й телебачення",
+                    "vi": "Phim Ảnh & Truyền Hình",
+                    "en-GB": "Films & TV",
+                    "en-US": "Movies & TV",
+                    "es-ES": "Películas y televisión",
+                    "pt-BR": "Filmes e TV",
+                    "sv-SE": "Film och tv",
+                    "zh-CN": "电影&电视",
+                    "zh-TW": "電影與電視"
                 }
             },
             {
@@ -293,38 +297,18 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Somos una comunidad latina activad de chill y entretenimiento, mes a mes hacemos actividades y semanalmente nos reunimos",
+                "value": "Bienvenidos a Khaos Kingdom, un reino donde conocerás a muchas personas nuevas para platicar y pasar un buen rato!",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "khaos-kingdom-460122415259713538",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
                 {
-                    "value": "twitch",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "leagueoflegends",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "juego-de-roles",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "minecraft",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "youtube",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "latinos",
+                    "value": "chill",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -334,7 +318,32 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "chill",
+                    "value": "juego-de-roles",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "latinos",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "leagueoflegends",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "minecraft",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "twitch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "youtube",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
@@ -497,160 +506,6 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Филми и телевизия",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Filmy a TV",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Film & TV",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Film & TV",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Ταινίες & TV",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Elokuvat ja TV",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Films et TV",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "मूवीज़ और टीवी",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Film i TV",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Filmek és TV",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Film e TV",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "映画&TV",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "영화, TV",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Filmai ir televizija",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Film en tv",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Film og TV",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Kino i telewizja",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Filme și seriale",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Кино и телевидение",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "ภาพยนตร์และทีวี",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Film ve Televizyon",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Фільми й телебачення",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Phim Ảnh & Truyền Hình",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Films & TV",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Movies & TV",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Películas y televisión",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Filmes e TV",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Film och tv",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "电影&电视",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "電影與電視",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
                             "value": "Аниме и манга",
                             "matchLevel": "none",
                             "matchedWords": []
@@ -797,6 +652,160 @@
                         },
                         "zh-TW": {
                             "value": "動畫與漫畫",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Филми и телевизия",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Filmy a TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Film & TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Film & TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Ταινίες & TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Elokuvat ja TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Films et TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "मूवीज़ और टीवी",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Film i TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Filmek és TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Film e TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "映画&TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "영화, TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Filmai ir televizija",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Film en tv",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Film og TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Kino i telewizja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Filme și seriale",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Кино и телевидение",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ภาพยนตร์และทีวี",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Film ve Televizyon",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Фільми й телебачення",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Phim Ảnh & Truyền Hình",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Films & TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Movies & TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Películas y televisión",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Filmes e TV",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Film och tv",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "电影&电视",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "電影與電視",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

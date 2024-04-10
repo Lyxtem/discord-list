@@ -6,22 +6,16 @@
     "splash": "a6fe7d1420dd7ee31ac9063111181a04",
     "discovery_splash": "59f231e2109a8360e9d520c4812929f2",
     "banner": null,
-    "approximate_presence_count": 210,
-    "approximate_member_count": 2579,
+    "approximate_presence_count": 167,
+    "approximate_member_count": 2513,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
-    "vanity_url_code": "jinx",
+    "vanity_url_code": null,
     "keywords": null,
     "features": [
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
         "DISCOVERABLE",
-        "INVITE_SPLASH",
-        "NEWS",
-        "NEW_THREAD_PERMISSIONS",
         "PREVIEW_ENABLED",
-        "THREADS_ENABLED",
-        "VANITY_URL",
         "VERIFIED"
     ],
     "partnered": false,
@@ -33,27 +27,48 @@
         "icon": "7384d01b8eee7627f99c5878fb65adec",
         "splash": "a6fe7d1420dd7ee31ac9063111181a04",
         "banner": null,
-        "approximate_presence_count": 210,
-        "approximate_member_count": 2579,
+        "approximate_presence_count": 167,
+        "approximate_member_count": 2513,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "59f231e2109a8360e9d520c4812929f2",
         "primary_category_id": 0,
-        "vanity_url_code": "jinx",
+        "vanity_url_code": null,
         "is_published": false,
         "keywords": null,
         "features": [
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
             "DISCOVERABLE",
-            "INVITE_SPLASH",
-            "NEWS",
-            "NEW_THREAD_PERMISSIONS",
             "PREVIEW_ENABLED",
-            "THREADS_ENABLED",
-            "VANITY_URL",
             "VERIFIED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "185514764494045184",
+        "_highlightResult": {
+            "name": {
+                "value": "J!NX",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }

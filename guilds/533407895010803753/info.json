@@ -6,18 +6,18 @@
     "splash": "34d221fd3dd0656c7f7e1b7200c1c992",
     "discovery_splash": "0eead69f70f2f1d51a2da590111f3811",
     "banner": "0dcc57fc97a3d53f0fe1161012a9ef04",
-    "approximate_presence_count": 3274,
-    "approximate_member_count": 8082,
+    "approximate_presence_count": 2504,
+    "approximate_member_count": 8572,
     "premium_subscription_count": 4,
     "preferred_locale": "en-US",
     "vanity_url_code": "lonedev-s-software-533407895010803753",
     "keywords": [
-        "minecraft",
-        "plugins",
-        "spigot",
-        "itemsadder",
         "custom items",
-        "paper"
+        "itemsadder",
+        "minecraft",
+        "paper",
+        "plugins",
+        "spigot"
     ],
     "features": [
         "COMMUNITY",
@@ -36,8 +36,8 @@
         "icon": "cce2cae94d3bfe95919e2caa1b31caa2",
         "splash": "34d221fd3dd0656c7f7e1b7200c1c992",
         "banner": "0dcc57fc97a3d53f0fe1161012a9ef04",
-        "approximate_presence_count": 3274,
-        "approximate_member_count": 8082,
+        "approximate_presence_count": 2504,
+        "approximate_member_count": 8572,
         "premium_subscription_count": 4,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -46,12 +46,12 @@
         "vanity_url_code": "lonedev-s-software-533407895010803753",
         "is_published": true,
         "keywords": [
-            "minecraft",
-            "plugins",
-            "spigot",
-            "itemsadder",
             "custom items",
-            "paper"
+            "itemsadder",
+            "minecraft",
+            "paper",
+            "plugins",
+            "spigot"
         ],
         "features": [
             "COMMUNITY",
@@ -267,7 +267,22 @@
             },
             "keywords": [
                 {
+                    "value": "custom items",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "itemsadder",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "minecraft",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "paper",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -278,21 +293,6 @@
                 },
                 {
                     "value": "spigot",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "itemsadder",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "custom items",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "paper",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
