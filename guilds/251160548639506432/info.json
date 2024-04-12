@@ -6,9 +6,9 @@
     "splash": null,
     "discovery_splash": null,
     "banner": null,
-    "approximate_presence_count": 259,
-    "approximate_member_count": 1537,
-    "premium_subscription_count": 2,
+    "approximate_presence_count": 244,
+    "approximate_member_count": 1607,
+    "premium_subscription_count": 3,
     "preferred_locale": "en-US",
     "vanity_url_code": "emz",
     "keywords": [
@@ -22,18 +22,10 @@
         "Warzone"
     ],
     "features": [
-        "ANIMATED_ICON",
-        "AUTO_MODERATION",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "INVITE_SPLASH",
-        "NEWS",
         "PREVIEW_ENABLED",
-        "SOUNDBOARD",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
         "VERIFIED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -46,9 +38,9 @@
         "icon": "0315a94a3efe5630d7873c707999bffb",
         "splash": null,
         "banner": null,
-        "approximate_presence_count": 259,
-        "approximate_member_count": 1537,
-        "premium_subscription_count": 2,
+        "approximate_presence_count": 244,
+        "approximate_member_count": 1607,
+        "premium_subscription_count": 3,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": null,
@@ -66,20 +58,86 @@
             "Warzone"
         ],
         "features": [
-            "ANIMATED_ICON",
-            "AUTO_MODERATION",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "INVITE_SPLASH",
-            "NEWS",
             "PREVIEW_ENABLED",
-            "SOUNDBOARD",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
             "VERIFIED",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "251160548639506432",
+        "_highlightResult": {
+            "name": {
+                "value": "#EMZSQUAD🐘",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "emz",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "keywords": [
+                {
+                    "value": "EmZ",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "C9 EmZ",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Cloud9",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Call Of Duty",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Emzy",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Twitch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Fall Guys",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Warzone",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            ]
+        }
     }
 }

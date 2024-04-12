@@ -3,12 +3,12 @@
     "name": "𝐀𝐟𝐭𝐞𝐫 𝐋𝐢𝐟𝐞",
     "description": "",
     "icon": "b385110c025407ec824ee6c5e61a996e",
-    "splash": "d4635f0c03b331d4c5accbb6c67a6104",
+    "splash": "d576a21e1a692f8e0b754f38e4a204cf",
     "discovery_splash": "c0f65bf3bae224a26213ad3c8309e819",
-    "banner": "ed0737d8f772391ad533528a06cb0036",
-    "approximate_presence_count": 362,
-    "approximate_member_count": 11586,
-    "premium_subscription_count": 1,
+    "banner": "0396eec72360ecf20f9fa77a5388bf9c",
+    "approximate_presence_count": 241,
+    "approximate_member_count": 12667,
+    "premium_subscription_count": 16,
     "preferred_locale": "de",
     "vanity_url_code": null,
     "keywords": [
@@ -37,11 +37,11 @@
         "name": "𝐀𝐟𝐭𝐞𝐫 𝐋𝐢𝐟𝐞",
         "description": "",
         "icon": "b385110c025407ec824ee6c5e61a996e",
-        "splash": "d4635f0c03b331d4c5accbb6c67a6104",
-        "banner": "ed0737d8f772391ad533528a06cb0036",
-        "approximate_presence_count": 362,
-        "approximate_member_count": 11586,
-        "premium_subscription_count": 1,
+        "splash": "d576a21e1a692f8e0b754f38e4a204cf",
+        "banner": "0396eec72360ecf20f9fa77a5388bf9c",
+        "approximate_presence_count": 241,
+        "approximate_member_count": 12667,
+        "premium_subscription_count": 16,
         "preferred_locale": "de",
         "auto_removed": false,
         "discovery_splash": "c0f65bf3bae224a26213ad3c8309e819",
@@ -69,40 +69,40 @@
         ],
         "categories": [
             {
-                "id": 33,
+                "id": 15,
                 "is_primary": false,
-                "name": "Events",
+                "name": "Esports",
                 "name_localizations": {
-                    "bg": "Събития",
-                    "cs": "Události",
-                    "da": "Begivenheder",
-                    "de": "Events",
-                    "el": "Εκδηλώσεις",
-                    "fi": "Tapahtumat",
-                    "fr": "Événements",
-                    "hi": "इवेंट्स",
-                    "hr": "Događanja",
-                    "hu": "Rendezvények",
-                    "it": "Eventi",
-                    "ja": "イベント",
-                    "ko": "행사",
-                    "lt": "Renginiai",
-                    "nl": "Evenementen",
-                    "no": "Eventer",
-                    "pl": "Wydarzenia",
-                    "ro": "Evenimente",
-                    "ru": "Мероприятия",
-                    "th": "กิจกรรม",
-                    "tr": "Etkinlikler",
-                    "uk": "Події",
-                    "vi": "Sự Kiện",
-                    "en-GB": "Events",
-                    "en-US": "Events",
-                    "es-ES": "Eventos",
-                    "pt-BR": "Eventos",
-                    "sv-SE": "Event",
-                    "zh-CN": "组织活动",
-                    "zh-TW": "活動"
+                    "bg": "Електронни спортове",
+                    "cs": "Esport",
+                    "da": "Esport",
+                    "de": "E-Sports",
+                    "el": "Esports",
+                    "fi": "Esports",
+                    "fr": "eSport",
+                    "hi": "ईस्पोर्ट्स",
+                    "hr": "E-sport",
+                    "hu": "E-sport",
+                    "it": "Esport",
+                    "ja": "eスポーツ",
+                    "ko": "이스포츠",
+                    "lt": "E. sportas",
+                    "nl": "E-sport",
+                    "no": "E-sport",
+                    "pl": "E-sport",
+                    "ro": "eSports",
+                    "ru": "Киберспорт",
+                    "th": "อีสปอร์ต",
+                    "tr": "E-spor",
+                    "uk": "Електронний спорт",
+                    "vi": "Thể Thao Điện Tử",
+                    "en-GB": "Esports",
+                    "en-US": "Esports",
+                    "es-ES": "E-sports",
+                    "pt-BR": "E-sports",
+                    "sv-SE": "E-sport",
+                    "zh-CN": "电子竞技",
+                    "zh-TW": "電競"
                 }
             },
             {
@@ -143,6 +143,43 @@
                 }
             },
             {
+                "id": 33,
+                "is_primary": false,
+                "name": "Events",
+                "name_localizations": {
+                    "bg": "Събития",
+                    "cs": "Události",
+                    "da": "Begivenheder",
+                    "de": "Events",
+                    "el": "Εκδηλώσεις",
+                    "fi": "Tapahtumat",
+                    "fr": "Événements",
+                    "hi": "इवेंट्स",
+                    "hr": "Događanja",
+                    "hu": "Rendezvények",
+                    "it": "Eventi",
+                    "ja": "イベント",
+                    "ko": "행사",
+                    "lt": "Renginiai",
+                    "nl": "Evenementen",
+                    "no": "Eventer",
+                    "pl": "Wydarzenia",
+                    "ro": "Evenimente",
+                    "ru": "Мероприятия",
+                    "th": "กิจกรรม",
+                    "tr": "Etkinlikler",
+                    "uk": "Події",
+                    "vi": "Sự Kiện",
+                    "en-GB": "Events",
+                    "en-US": "Events",
+                    "es-ES": "Eventos",
+                    "pt-BR": "Eventos",
+                    "sv-SE": "Event",
+                    "zh-CN": "组织活动",
+                    "zh-TW": "活動"
+                }
+            },
+            {
                 "id": 1,
                 "is_primary": true,
                 "name": "Gaming",
@@ -177,43 +214,6 @@
                     "sv-SE": "Gaming",
                     "zh-CN": "游戏",
                     "zh-TW": "遊戲"
-                }
-            },
-            {
-                "id": 15,
-                "is_primary": false,
-                "name": "Esports",
-                "name_localizations": {
-                    "bg": "Електронни спортове",
-                    "cs": "Esport",
-                    "da": "Esport",
-                    "de": "E-Sports",
-                    "el": "Esports",
-                    "fi": "Esports",
-                    "fr": "eSport",
-                    "hi": "ईस्पोर्ट्स",
-                    "hr": "E-sport",
-                    "hu": "E-sport",
-                    "it": "Esport",
-                    "ja": "eスポーツ",
-                    "ko": "이스포츠",
-                    "lt": "E. sportas",
-                    "nl": "E-sport",
-                    "no": "E-sport",
-                    "pl": "E-sport",
-                    "ro": "eSports",
-                    "ru": "Киберспорт",
-                    "th": "อีสปอร์ต",
-                    "tr": "E-spor",
-                    "uk": "Електронний спорт",
-                    "vi": "Thể Thao Điện Tử",
-                    "en-GB": "Esports",
-                    "en-US": "Esports",
-                    "es-ES": "E-sports",
-                    "pt-BR": "E-sports",
-                    "sv-SE": "E-sport",
-                    "zh-CN": "电子竞技",
-                    "zh-TW": "電競"
                 }
             }
         ],
@@ -322,152 +322,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Събития",
+                            "value": "Електронни спортове",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Události",
+                            "value": "Esport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Begivenheder",
+                            "value": "Esport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Events",
+                            "value": "E-Sports",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Εκδηλώσεις",
+                            "value": "Esports",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Tapahtumat",
+                            "value": "Esports",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Événements",
+                            "value": "eSport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "इवेंट्स",
+                            "value": "ईस्पोर्ट्स",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Događanja",
+                            "value": "E-sport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Rendezvények",
+                            "value": "E-sport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Eventi",
+                            "value": "Esport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "イベント",
+                            "value": "eスポーツ",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "행사",
+                            "value": "이스포츠",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Renginiai",
+                            "value": "E. sportas",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Evenementen",
+                            "value": "E-sport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Eventer",
+                            "value": "E-sport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Wydarzenia",
+                            "value": "E-sport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Evenimente",
+                            "value": "eSports",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Мероприятия",
+                            "value": "Киберспорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "กิจกรรม",
+                            "value": "อีสปอร์ต",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Etkinlikler",
+                            "value": "E-spor",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Події",
+                            "value": "Електронний спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Sự Kiện",
+                            "value": "Thể Thao Điện Tử",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Events",
+                            "value": "Esports",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Events",
+                            "value": "Esports",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Eventos",
+                            "value": "E-sports",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Eventos",
+                            "value": "E-sports",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Event",
+                            "value": "E-sport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "组织活动",
+                            "value": "电子竞技",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "活動",
+                            "value": "電競",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -630,6 +630,160 @@
                 {
                     "name_localizations": {
                         "bg": {
+                            "value": "Събития",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Události",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Begivenheder",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Events",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Εκδηλώσεις",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Tapahtumat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Événements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "इवेंट्स",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Događanja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Rendezvények",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Eventi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "イベント",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "행사",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Renginiai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Evenementen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Eventer",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Wydarzenia",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Evenimente",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Мероприятия",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "กิจกรรม",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Etkinlikler",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Події",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Sự Kiện",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Events",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Events",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Eventos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Eventos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Event",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "组织活动",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "活動",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
                             "value": "Гейминг",
                             "matchLevel": "none",
                             "matchedWords": []
@@ -776,160 +930,6 @@
                         },
                         "zh-TW": {
                             "value": "遊戲",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Електронни спортове",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Esport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Esport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "E-Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Esports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Esports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "eSport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "ईस्पोर्ट्स",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "E-sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "E-sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Esport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "eスポーツ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "이스포츠",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "E. sportas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "E-sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "E-sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "E-sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "eSports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Киберспорт",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "อีสปอร์ต",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "E-spor",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Електронний спорт",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Thể Thao Điện Tử",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Esports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Esports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "E-sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "E-sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "E-sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "电子竞技",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "電競",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
