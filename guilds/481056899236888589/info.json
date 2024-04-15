@@ -6,8 +6,8 @@
     "splash": "f4470746c108b34242238e08d053b5ab",
     "discovery_splash": "f4470746c108b34242238e08d053b5ab",
     "banner": null,
-    "approximate_presence_count": 105,
-    "approximate_member_count": 1244,
+    "approximate_presence_count": 103,
+    "approximate_member_count": 1226,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "familyman",
@@ -17,10 +17,7 @@
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
         "FEATURABLE",
-        "INVITE_SPLASH",
-        "NEWS",
         "PREVIEW_ENABLED",
-        "VANITY_URL",
         "VERIFIED"
     ],
     "partnered": false,
@@ -32,8 +29,8 @@
         "icon": "e8872f6b0498f410d68dc26b3c87699f",
         "splash": "f4470746c108b34242238e08d053b5ab",
         "banner": null,
-        "approximate_presence_count": 105,
-        "approximate_member_count": 1244,
+        "approximate_presence_count": 103,
+        "approximate_member_count": 1226,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -47,11 +44,40 @@
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
             "FEATURABLE",
-            "INVITE_SPLASH",
-            "NEWS",
             "PREVIEW_ENABLED",
-            "VANITY_URL",
             "VERIFIED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "481056899236888589",
+        "_highlightResult": {
+            "name": {
+                "value": "Family Man",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "familyman",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }

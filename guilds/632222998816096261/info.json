@@ -6,22 +6,17 @@
     "splash": "4a421de14863b74959576e4fec4c8135",
     "discovery_splash": null,
     "banner": null,
-    "approximate_presence_count": 108,
-    "approximate_member_count": 1245,
+    "approximate_presence_count": 122,
+    "approximate_member_count": 1303,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "armorgames",
     "keywords": null,
     "features": [
-        "AUTO_MODERATION",
         "COMMUNITY",
         "DISCOVERABLE",
-        "INVITE_SPLASH",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "NEWS",
         "PREVIEW_ENABLED",
-        "THREADS_ENABLED",
-        "VANITY_URL",
         "VERIFIED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -34,8 +29,8 @@
         "icon": "2b37cbeb2e283a14771d1f02ec227179",
         "splash": "4a421de14863b74959576e4fec4c8135",
         "banner": null,
-        "approximate_presence_count": 108,
-        "approximate_member_count": 1245,
+        "approximate_presence_count": 122,
+        "approximate_member_count": 1303,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -45,17 +40,44 @@
         "is_published": false,
         "keywords": null,
         "features": [
-            "AUTO_MODERATION",
             "COMMUNITY",
             "DISCOVERABLE",
-            "INVITE_SPLASH",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "NEWS",
             "PREVIEW_ENABLED",
-            "THREADS_ENABLED",
-            "VANITY_URL",
             "VERIFIED",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "632222998816096261",
+        "_highlightResult": {
+            "name": {
+                "value": "Armor Games",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "armorgames",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }

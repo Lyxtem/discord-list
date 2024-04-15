@@ -6,9 +6,9 @@
     "splash": "c5402f0f3bb5044ec22889761e2b82f4",
     "discovery_splash": "f2af223af321484b908ee30dcf70871f",
     "banner": "74b0a34315bc9dcfb243c73eb11a8097",
-    "approximate_presence_count": 405,
-    "approximate_member_count": 1734,
-    "premium_subscription_count": 10,
+    "approximate_presence_count": 420,
+    "approximate_member_count": 1801,
+    "premium_subscription_count": 12,
     "preferred_locale": "en-US",
     "vanity_url_code": "action-fiction-community-570727591762198538",
     "keywords": [
@@ -40,9 +40,9 @@
         "icon": "a_fcbb9e4670223cd51c69e5e60552c720",
         "splash": "c5402f0f3bb5044ec22889761e2b82f4",
         "banner": "74b0a34315bc9dcfb243c73eb11a8097",
-        "approximate_presence_count": 405,
-        "approximate_member_count": 1734,
-        "premium_subscription_count": 10,
+        "approximate_presence_count": 420,
+        "approximate_member_count": 1801,
+        "premium_subscription_count": 12,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "f2af223af321484b908ee30dcf70871f",
@@ -71,77 +71,40 @@
         ],
         "categories": [
             {
-                "id": 24,
+                "id": 30,
                 "is_primary": false,
-                "name": "Tabletop Games",
+                "name": "LFG",
                 "name_localizations": {
-                    "bg": "Настолни игри",
-                    "cs": "Stolní hry",
-                    "da": "Brætspil",
-                    "de": "Tabletop-Spiele",
-                    "el": "Επιτραπέζια παιχνίδια",
-                    "fi": "Lautapelit",
-                    "fr": "Jeux de société",
-                    "hi": "टेबलटॉप गेम्स",
-                    "hr": "Stolne igre",
-                    "hu": "Társasjátékok",
-                    "it": "Giochi da tavolo",
-                    "ja": "テーブルゲーム",
-                    "ko": "테이블탑 게임",
-                    "lt": "Stalo žaidimai",
-                    "nl": "Bordspellen",
-                    "no": "Brettspill",
-                    "pl": "Gry planszowe",
-                    "ro": "Jocuri pe tablă",
-                    "ru": "Настольные игры",
-                    "th": "เกมกระดาน",
-                    "tr": "Kutu Oyunları",
-                    "uk": "Настільні ігри",
-                    "vi": "Game Chơi Trên Bàn",
-                    "en-GB": "Tabletop Games",
-                    "en-US": "Tabletop Games",
-                    "es-ES": "Juegos de mesa",
-                    "pt-BR": "Jogos de tabuleiro",
-                    "sv-SE": "Bordsspel",
-                    "zh-CN": "桌游",
-                    "zh-TW": "桌遊"
-                }
-            },
-            {
-                "id": 48,
-                "is_primary": false,
-                "name": "Game Developer",
-                "name_localizations": {
-                    "bg": "Разработчик на игри",
-                    "cs": "Vývojář her",
-                    "da": "Spiludvikler",
-                    "de": "Spieleentwicklung",
-                    "el": "Προγραμματιστής παιχνιδιών",
-                    "fi": "Pelinkehittäjät",
-                    "fr": "Développeur de jeux vidéo",
-                    "hi": "गेम डेवलपर",
-                    "hr": "Razvoj igara",
-                    "hu": "Játékfejlesztő",
-                    "it": "Sviluppatore di videogiochi",
-                    "ja": "ゲームデベロッパー",
-                    "ko": "게임 개발",
-                    "lt": "Žaidimų kūrėjai",
-                    "nl": "Gameontwikkelaar",
-                    "no": "Spillutvikler",
-                    "pl": "Deweloper gry",
-                    "ro": "Dezvoltarea jocurilor",
-                    "ru": "Разработка игр",
-                    "th": "ผู้พัฒนาเกม",
-                    "tr": "Oyun Geliştiricisi",
-                    "uk": "Розробка ігор",
-                    "vi": "Nhà Phát Triển Game",
-                    "en-GB": "Game Developer",
-                    "en-US": "Game Developer",
-                    "es-ES": "Desarrollo de juegos",
-                    "pt-BR": "Desenvolvedor de Jogos",
-                    "sv-SE": "Spelutvecklare",
-                    "zh-CN": "游戏开发人员",
-                    "zh-TW": "遊戲開發者"
+                    "bg": "LFG",
+                    "cs": "LFG",
+                    "da": "LFG",
+                    "de": "Gruppensuche",
+                    "el": "LFG",
+                    "fi": "Ryhmähaku",
+                    "fr": "LFG",
+                    "hi": "LFG",
+                    "hr": "LFG",
+                    "hu": "LFG",
+                    "it": "LFG",
+                    "ja": "グループ検索",
+                    "ko": "그룹 찾기",
+                    "lt": "Grupės paieškos",
+                    "nl": "LFG",
+                    "no": "LFG",
+                    "pl": "Szukanie grupy",
+                    "ro": "LFG",
+                    "ru": "Поиск группы",
+                    "th": "LFG",
+                    "tr": "Grup Arama",
+                    "uk": "Пошук гільдії",
+                    "vi": "LFG",
+                    "en-GB": "LFG",
+                    "en-US": "LFG",
+                    "es-ES": "LFG",
+                    "pt-BR": "PG",
+                    "sv-SE": "Letar efter grupp (LFG)",
+                    "zh-CN": "找同好（LFG）",
+                    "zh-TW": "LFG"
                 }
             },
             {
@@ -219,40 +182,77 @@
                 }
             },
             {
-                "id": 30,
+                "id": 48,
                 "is_primary": false,
-                "name": "LFG",
+                "name": "Game Developer",
                 "name_localizations": {
-                    "bg": "LFG",
-                    "cs": "LFG",
-                    "da": "LFG",
-                    "de": "Gruppensuche",
-                    "el": "LFG",
-                    "fi": "Ryhmähaku",
-                    "fr": "LFG",
-                    "hi": "LFG",
-                    "hr": "LFG",
-                    "hu": "LFG",
-                    "it": "LFG",
-                    "ja": "グループ検索",
-                    "ko": "그룹 찾기",
-                    "lt": "Grupės paieškos",
-                    "nl": "LFG",
-                    "no": "LFG",
-                    "pl": "Szukanie grupy",
-                    "ro": "LFG",
-                    "ru": "Поиск группы",
-                    "th": "LFG",
-                    "tr": "Grup Arama",
-                    "uk": "Пошук гільдії",
-                    "vi": "LFG",
-                    "en-GB": "LFG",
-                    "en-US": "LFG",
-                    "es-ES": "LFG",
-                    "pt-BR": "PG",
-                    "sv-SE": "Letar efter grupp (LFG)",
-                    "zh-CN": "找同好（LFG）",
-                    "zh-TW": "LFG"
+                    "bg": "Разработчик на игри",
+                    "cs": "Vývojář her",
+                    "da": "Spiludvikler",
+                    "de": "Spieleentwicklung",
+                    "el": "Προγραμματιστής παιχνιδιών",
+                    "fi": "Pelinkehittäjät",
+                    "fr": "Développeur de jeux vidéo",
+                    "hi": "गेम डेवलपर",
+                    "hr": "Razvoj igara",
+                    "hu": "Játékfejlesztő",
+                    "it": "Sviluppatore di videogiochi",
+                    "ja": "ゲームデベロッパー",
+                    "ko": "게임 개발",
+                    "lt": "Žaidimų kūrėjai",
+                    "nl": "Gameontwikkelaar",
+                    "no": "Spillutvikler",
+                    "pl": "Deweloper gry",
+                    "ro": "Dezvoltarea jocurilor",
+                    "ru": "Разработка игр",
+                    "th": "ผู้พัฒนาเกม",
+                    "tr": "Oyun Geliştiricisi",
+                    "uk": "Розробка ігор",
+                    "vi": "Nhà Phát Triển Game",
+                    "en-GB": "Game Developer",
+                    "en-US": "Game Developer",
+                    "es-ES": "Desarrollo de juegos",
+                    "pt-BR": "Desenvolvedor de Jogos",
+                    "sv-SE": "Spelutvecklare",
+                    "zh-CN": "游戏开发人员",
+                    "zh-TW": "遊戲開發者"
+                }
+            },
+            {
+                "id": 24,
+                "is_primary": false,
+                "name": "Tabletop Games",
+                "name_localizations": {
+                    "bg": "Настолни игри",
+                    "cs": "Stolní hry",
+                    "da": "Brætspil",
+                    "de": "Tabletop-Spiele",
+                    "el": "Επιτραπέζια παιχνίδια",
+                    "fi": "Lautapelit",
+                    "fr": "Jeux de société",
+                    "hi": "टेबलटॉप गेम्स",
+                    "hr": "Stolne igre",
+                    "hu": "Társasjátékok",
+                    "it": "Giochi da tavolo",
+                    "ja": "テーブルゲーム",
+                    "ko": "테이블탑 게임",
+                    "lt": "Stalo žaidimai",
+                    "nl": "Bordspellen",
+                    "no": "Brettspill",
+                    "pl": "Gry planszowe",
+                    "ro": "Jocuri pe tablă",
+                    "ru": "Настольные игры",
+                    "th": "เกมกระดาน",
+                    "tr": "Kutu Oyunları",
+                    "uk": "Настільні ігри",
+                    "vi": "Game Chơi Trên Bàn",
+                    "en-GB": "Tabletop Games",
+                    "en-US": "Tabletop Games",
+                    "es-ES": "Juegos de mesa",
+                    "pt-BR": "Jogos de tabuleiro",
+                    "sv-SE": "Bordsspel",
+                    "zh-CN": "桌游",
+                    "zh-TW": "桌遊"
                 }
             },
             {
@@ -403,306 +403,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Настолни игри",
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Stolní hry",
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Brætspil",
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Tabletop-Spiele",
+                            "value": "Gruppensuche",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Επιτραπέζια παιχνίδια",
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Lautapelit",
+                            "value": "Ryhmähaku",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Jeux de société",
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "टेबलटॉप गेम्स",
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Stolne igre",
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Társasjátékok",
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Giochi da tavolo",
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "テーブルゲーム",
+                            "value": "グループ検索",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "테이블탑 게임",
+                            "value": "그룹 찾기",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Stalo žaidimai",
+                            "value": "Grupės paieškos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Bordspellen",
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Brettspill",
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Gry planszowe",
+                            "value": "Szukanie grupy",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Jocuri pe tablă",
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Настольные игры",
+                            "value": "Поиск группы",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "เกมกระดาน",
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Kutu Oyunları",
+                            "value": "Grup Arama",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Настільні ігри",
+                            "value": "Пошук гільдії",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Game Chơi Trên Bàn",
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Tabletop Games",
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Tabletop Games",
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Juegos de mesa",
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Jogos de tabuleiro",
+                            "value": "PG",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Bordsspel",
+                            "value": "Letar efter grupp (LFG)",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "桌游",
+                            "value": "找同好（LFG）",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "桌遊",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Разработчик на игри",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Vývojář her",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Spiludvikler",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Spieleentwicklung",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Προγραμματιστής παιχνιδιών",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Pelinkehittäjät",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Développeur de jeux vidéo",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "गेम डेवलपर",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Razvoj igara",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Játékfejlesztő",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Sviluppatore di videogiochi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "ゲームデベロッパー",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "게임 개발",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Žaidimų kūrėjai",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Gameontwikkelaar",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Spillutvikler",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Deweloper gry",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Dezvoltarea jocurilor",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Разработка игр",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "ผู้พัฒนาเกม",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Oyun Geliştiricisi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Розробка ігор",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Nhà Phát Triển Game",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Game Developer",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Game Developer",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Desarrollo de juegos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Desenvolvedor de Jogos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Spelutvecklare",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "游戏开发人员",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "遊戲開發者",
+                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -1019,152 +865,306 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "LFG",
+                            "value": "Разработчик на игри",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "LFG",
+                            "value": "Vývojář her",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "LFG",
+                            "value": "Spiludvikler",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Gruppensuche",
+                            "value": "Spieleentwicklung",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "LFG",
+                            "value": "Προγραμματιστής παιχνιδιών",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Ryhmähaku",
+                            "value": "Pelinkehittäjät",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "LFG",
+                            "value": "Développeur de jeux vidéo",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "LFG",
+                            "value": "गेम डेवलपर",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "LFG",
+                            "value": "Razvoj igara",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "LFG",
+                            "value": "Játékfejlesztő",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "LFG",
+                            "value": "Sviluppatore di videogiochi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "グループ検索",
+                            "value": "ゲームデベロッパー",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "그룹 찾기",
+                            "value": "게임 개발",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Grupės paieškos",
+                            "value": "Žaidimų kūrėjai",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "LFG",
+                            "value": "Gameontwikkelaar",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "LFG",
+                            "value": "Spillutvikler",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Szukanie grupy",
+                            "value": "Deweloper gry",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "LFG",
+                            "value": "Dezvoltarea jocurilor",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Поиск группы",
+                            "value": "Разработка игр",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "LFG",
+                            "value": "ผู้พัฒนาเกม",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Grup Arama",
+                            "value": "Oyun Geliştiricisi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Пошук гільдії",
+                            "value": "Розробка ігор",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "LFG",
+                            "value": "Nhà Phát Triển Game",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "LFG",
+                            "value": "Game Developer",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "LFG",
+                            "value": "Game Developer",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "LFG",
+                            "value": "Desarrollo de juegos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "PG",
+                            "value": "Desenvolvedor de Jogos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Letar efter grupp (LFG)",
+                            "value": "Spelutvecklare",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "找同好（LFG）",
+                            "value": "游戏开发人员",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "LFG",
+                            "value": "遊戲開發者",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Настолни игри",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Stolní hry",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Brætspil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Tabletop-Spiele",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Επιτραπέζια παιχνίδια",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Lautapelit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Jeux de société",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "टेबलटॉप गेम्स",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Stolne igre",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Társasjátékok",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Giochi da tavolo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "テーブルゲーム",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "테이블탑 게임",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Stalo žaidimai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Bordspellen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Brettspill",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Gry planszowe",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Jocuri pe tablă",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Настольные игры",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "เกมกระดาน",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Kutu Oyunları",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Настільні ігри",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Game Chơi Trên Bàn",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Tabletop Games",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Tabletop Games",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Juegos de mesa",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Jogos de tabuleiro",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Bordsspel",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "桌游",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "桌遊",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

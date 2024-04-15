@@ -6,21 +6,17 @@
     "splash": "82562807390ef4bec82bb277c7b380cf",
     "discovery_splash": "82562807390ef4bec82bb277c7b380cf",
     "banner": null,
-    "approximate_presence_count": 69,
-    "approximate_member_count": 463,
+    "approximate_presence_count": 88,
+    "approximate_member_count": 448,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "filamentpuzzle",
     "keywords": [],
     "features": [
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "INVITE_SPLASH",
-        "NEWS",
         "PREVIEW_ENABLED",
-        "VANITY_URL",
         "VERIFIED"
     ],
     "partnered": false,
@@ -32,8 +28,8 @@
         "icon": "8679a470f4dc82dca12f477b20dd4bba",
         "splash": "82562807390ef4bec82bb277c7b380cf",
         "banner": null,
-        "approximate_presence_count": 69,
-        "approximate_member_count": 463,
+        "approximate_presence_count": 88,
+        "approximate_member_count": 448,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -43,15 +39,43 @@
         "is_published": false,
         "keywords": [],
         "features": [
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "INVITE_SPLASH",
-            "NEWS",
             "PREVIEW_ENABLED",
-            "VANITY_URL",
             "VERIFIED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "643792562968068107",
+        "_highlightResult": {
+            "name": {
+                "value": "Filament",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "The official Discord server for Filament - A challenging indie puzzle game set in space! www.kasedogames.com/filament",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "filamentpuzzle",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }

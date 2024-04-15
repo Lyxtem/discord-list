@@ -1,26 +1,27 @@
 {
     "id": "935508660568875029",
-    "name": "nctzen　𝜗𝜚",
-    "description": "/nctzen　﹕　ssfw　﹠　stox",
-    "icon": "a_7fdc6f15c798b2164fa54201e822b3b0",
-    "splash": "3fe3f5eb1f7dbfcb2a50ddc0ad5bd490",
-    "discovery_splash": "987583a7dd70b3375a64346a489d7b94",
-    "banner": "a_2c525f1b7b15e1f62896017f772a5ea8",
-    "approximate_presence_count": 205,
-    "approximate_member_count": 1611,
-    "premium_subscription_count": 16,
+    "name": "wonu　　౨ৎ　　revamp",
+    "description": "/wonwoo　﹕　sfw　﹠　stox",
+    "icon": "a_843e1fce1963c1a9790609367e44e63d",
+    "splash": "643ed467bbcde5ab8388ead63502ed68",
+    "discovery_splash": "3a673a8ab294da5ad6d5a70d35405419",
+    "banner": "a_6c1c2ab2cb46e01bb0673cc222caa4cc",
+    "approximate_presence_count": 260,
+    "approximate_member_count": 1704,
+    "premium_subscription_count": 15,
     "preferred_locale": "en-US",
-    "vanity_url_code": "nctzen",
+    "vanity_url_code": "wonwoo",
     "keywords": [
-        "community",
-        "egirl",
-        "emoji",
-        "emotes",
         "giveaways",
-        "minimal",
+        "kdecor",
+        "kpop",
+        "ksoc",
         "nitro",
-        "purple",
-        "social"
+        "sfw",
+        "stox",
+        "svt",
+        "wonu",
+        "wonwoo"
     ],
     "features": [
         "COMMUNITY",
@@ -33,30 +34,31 @@
     "verified": false,
     "raw": {
         "id": "935508660568875029",
-        "name": "nctzen　𝜗𝜚",
-        "description": "/nctzen　﹕　ssfw　﹠　stox",
-        "icon": "a_7fdc6f15c798b2164fa54201e822b3b0",
-        "splash": "3fe3f5eb1f7dbfcb2a50ddc0ad5bd490",
-        "banner": "a_2c525f1b7b15e1f62896017f772a5ea8",
-        "approximate_presence_count": 205,
-        "approximate_member_count": 1611,
-        "premium_subscription_count": 16,
+        "name": "wonu　　౨ৎ　　revamp",
+        "description": "/wonwoo　﹕　sfw　﹠　stox",
+        "icon": "a_843e1fce1963c1a9790609367e44e63d",
+        "splash": "643ed467bbcde5ab8388ead63502ed68",
+        "banner": "a_6c1c2ab2cb46e01bb0673cc222caa4cc",
+        "approximate_presence_count": 260,
+        "approximate_member_count": 1704,
+        "premium_subscription_count": 15,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "987583a7dd70b3375a64346a489d7b94",
+        "discovery_splash": "3a673a8ab294da5ad6d5a70d35405419",
         "primary_category_id": 3,
-        "vanity_url_code": "nctzen",
-        "is_published": false,
+        "vanity_url_code": "wonwoo",
+        "is_published": true,
         "keywords": [
-            "community",
-            "egirl",
-            "emoji",
-            "emotes",
             "giveaways",
-            "minimal",
+            "kdecor",
+            "kpop",
+            "ksoc",
             "nitro",
-            "purple",
-            "social"
+            "sfw",
+            "stox",
+            "svt",
+            "wonu",
+            "wonwoo"
         ],
         "features": [
             "COMMUNITY",
@@ -66,6 +68,43 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 39,
+                "is_primary": false,
+                "name": "Fandom",
+                "name_localizations": {
+                    "bg": "Фендъм",
+                    "cs": "Pro fanoušky",
+                    "da": "Fangruppe",
+                    "de": "Fandom",
+                    "el": "Fandom",
+                    "fi": "Fanikunta",
+                    "fr": "Fandom",
+                    "hi": "फ़ैनडम",
+                    "hr": "Fandom",
+                    "hu": "Rajongói",
+                    "it": "Fandom",
+                    "ja": "ファンダム",
+                    "ko": "팬덤",
+                    "lt": "Fanai",
+                    "nl": "Fandom",
+                    "no": "Fandom",
+                    "pl": "Fandom",
+                    "ro": "Fandom",
+                    "ru": "Фандомы",
+                    "th": "กลุ่มแฟนคลับ",
+                    "tr": "Hayran Kitlesi",
+                    "uk": "Фандом",
+                    "vi": "Cộng Đồng Người Hâm Mộ",
+                    "en-GB": "Fandom",
+                    "en-US": "Fandom",
+                    "es-ES": "Fandom",
+                    "pt-BR": "Fandom",
+                    "sv-SE": "Fandom",
+                    "zh-CN": "同好圈",
+                    "zh-TW": "粉絲社群"
+                }
+            },
             {
                 "id": 2,
                 "is_primary": true,
@@ -104,40 +143,40 @@
                 }
             },
             {
-                "id": 16,
-                "is_primary": false,
-                "name": "Anime & Manga",
+                "id": 3,
+                "is_primary": true,
+                "name": "Entertainment",
                 "name_localizations": {
-                    "bg": "Аниме и манга",
-                    "cs": "Anime a manga",
-                    "da": "Anime & manga",
-                    "de": "Anime & Manga",
-                    "el": "Anime & Manga",
-                    "fi": "Anime ja manga",
-                    "fr": "Animés et mangas",
-                    "hi": "Anime & Manga",
-                    "hr": "Anime i Manga",
-                    "hu": "Anime és manga",
-                    "it": "Anime e manga",
-                    "ja": "アニメ&マンガ",
-                    "ko": "애니메이션, 만화",
-                    "lt": "Animė ir manga",
-                    "nl": "Anime en manga",
-                    "no": "Anime og manga",
-                    "pl": "Anime i manga",
-                    "ro": "Anime și manga",
-                    "ru": "Аниме и манга",
-                    "th": "อนิเมะและมังงะ",
-                    "tr": "Anime ve Manga",
-                    "uk": "Аніме та манга",
-                    "vi": "Anime & Manga",
-                    "en-GB": "Anime & manga",
-                    "en-US": "Anime & Manga",
-                    "es-ES": "Anime y manga",
-                    "pt-BR": "Anime e Mangá",
-                    "sv-SE": "Anime och manga",
-                    "zh-CN": "动画&漫画",
-                    "zh-TW": "動畫與漫畫"
+                    "bg": "Забавление",
+                    "cs": "Zábava",
+                    "da": "Underholdning",
+                    "de": "Unterhaltung",
+                    "el": "Ψυχαγωγία",
+                    "fi": "Viihde",
+                    "fr": "Divertissements",
+                    "hi": "एंटरटेनमेंट",
+                    "hr": "Zabava",
+                    "hu": "Szórakozás",
+                    "it": "Intrattenimento",
+                    "ja": "エンターテインメント",
+                    "ko": "엔터테인먼트",
+                    "lt": "Pramogos",
+                    "nl": "Entertainment",
+                    "no": "Underholdning",
+                    "pl": "Rozrywka",
+                    "ro": "Divertisment",
+                    "ru": "Развлечения",
+                    "th": "ความบันเทิง",
+                    "tr": "Eğlence",
+                    "uk": "Розваги",
+                    "vi": "Giải Trí",
+                    "en-GB": "Entertainment",
+                    "en-US": "Entertainment",
+                    "es-ES": "Entretenimiento",
+                    "pt-BR": "Entretenimento",
+                    "sv-SE": "Underhållning",
+                    "zh-CN": "娱乐",
+                    "zh-TW": "娛樂"
                 }
             },
             {
@@ -178,77 +217,40 @@
                 }
             },
             {
-                "id": 43,
+                "id": 49,
                 "is_primary": true,
-                "name": "Emoji",
+                "name": "Bots",
                 "name_localizations": {
-                    "bg": "Емотикон",
-                    "cs": "Smajlíci",
-                    "da": "Emoji",
-                    "de": "Emojis",
-                    "el": "Emoji",
-                    "fi": "Emoji",
-                    "fr": "Émoji",
-                    "hi": "इमोजी",
-                    "hr": "Emoji",
-                    "hu": "Emotikon",
-                    "it": "Emoji",
-                    "ja": "絵文字",
-                    "ko": "이모티콘",
-                    "lt": "Jaustukai",
-                    "nl": "Emoji",
-                    "no": "Emoji",
-                    "pl": "Emoji",
-                    "ro": "Emoji",
-                    "ru": "Эмодзи",
-                    "th": "อีโมจิ",
-                    "tr": "Emoji",
-                    "uk": "Емодзі",
-                    "vi": "Emoji",
-                    "en-GB": "Emoji",
-                    "en-US": "Emoji",
-                    "es-ES": "Emojis",
-                    "pt-BR": "Emoji",
-                    "sv-SE": "Emoji",
-                    "zh-CN": "表情符号",
-                    "zh-TW": "表情符號"
-                }
-            },
-            {
-                "id": 3,
-                "is_primary": true,
-                "name": "Entertainment",
-                "name_localizations": {
-                    "bg": "Забавление",
-                    "cs": "Zábava",
-                    "da": "Underholdning",
-                    "de": "Unterhaltung",
-                    "el": "Ψυχαγωγία",
-                    "fi": "Viihde",
-                    "fr": "Divertissements",
-                    "hi": "एंटरटेनमेंट",
-                    "hr": "Zabava",
-                    "hu": "Szórakozás",
-                    "it": "Intrattenimento",
-                    "ja": "エンターテインメント",
-                    "ko": "엔터테인먼트",
-                    "lt": "Pramogos",
-                    "nl": "Entertainment",
-                    "no": "Underholdning",
-                    "pl": "Rozrywka",
-                    "ro": "Divertisment",
-                    "ru": "Развлечения",
-                    "th": "ความบันเทิง",
-                    "tr": "Eğlence",
-                    "uk": "Розваги",
-                    "vi": "Giải Trí",
-                    "en-GB": "Entertainment",
-                    "en-US": "Entertainment",
-                    "es-ES": "Entretenimiento",
-                    "pt-BR": "Entretenimento",
-                    "sv-SE": "Underhållning",
-                    "zh-CN": "娱乐",
-                    "zh-TW": "娛樂"
+                    "bg": "Ботове",
+                    "cs": "Boti",
+                    "da": "Bots",
+                    "de": "Bots",
+                    "el": "Bots",
+                    "fi": "Botit",
+                    "fr": "Bots",
+                    "hi": "बॉट्स",
+                    "hr": "Botovi",
+                    "hu": "Botok",
+                    "it": "Bot",
+                    "ja": "Bot",
+                    "ko": "봇",
+                    "lt": "Botai",
+                    "nl": "Bots",
+                    "no": "Boter",
+                    "pl": "Boty",
+                    "ro": "Boți",
+                    "ru": "Боты",
+                    "th": "Bot",
+                    "tr": "Botlar",
+                    "uk": "Боти",
+                    "vi": "Bot",
+                    "en-GB": "Bots",
+                    "en-US": "Bots",
+                    "es-ES": "Bots",
+                    "pt-BR": "Bots",
+                    "sv-SE": "Bottar",
+                    "zh-CN": "机器人",
+                    "zh-TW": "機器人"
                 }
             }
         ],
@@ -292,48 +294,38 @@
         "objectID": "935508660568875029",
         "_highlightResult": {
             "name": {
-                "value": "nctzen　𝜗𝜚",
+                "value": "wonu　　౨ৎ　　revamp",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "description": {
-                "value": "/nctzen　﹕　ssfw　﹠　stox",
+                "value": "/wonwoo　﹕　sfw　﹠　stox",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "vanity_url_code": {
-                "value": "nctzen",
+                "value": "wonwoo",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
-                {
-                    "value": "community",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "egirl",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "emoji",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "emotes",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
                 {
                     "value": "giveaways",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "minimal",
+                    "value": "kdecor",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "kpop",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "ksoc",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -343,17 +335,186 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "purple",
+                    "value": "sfw",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "social",
+                    "value": "stox",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "svt",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "wonu",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "wonwoo",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Фендъм",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Pro fanoušky",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Fangruppe",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Fanikunta",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "फ़ैनडम",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Rajongói",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "ファンダム",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "팬덤",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Fanai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Фандомы",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "กลุ่มแฟนคลับ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Hayran Kitlesi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Фандом",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Cộng Đồng Người Hâm Mộ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Fandom",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "同好圈",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "粉絲社群",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -511,152 +672,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Аниме и манга",
+                            "value": "Забавление",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Anime a manga",
+                            "value": "Zábava",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Anime & manga",
+                            "value": "Underholdning",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Anime & Manga",
+                            "value": "Unterhaltung",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Anime & Manga",
+                            "value": "Ψυχαγωγία",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Anime ja manga",
+                            "value": "Viihde",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Animés et mangas",
+                            "value": "Divertissements",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "Anime & Manga",
+                            "value": "एंटरटेनमेंट",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Anime i Manga",
+                            "value": "Zabava",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Anime és manga",
+                            "value": "Szórakozás",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Anime e manga",
+                            "value": "Intrattenimento",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "アニメ&マンガ",
+                            "value": "エンターテインメント",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "애니메이션, 만화",
+                            "value": "엔터테인먼트",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Animė ir manga",
+                            "value": "Pramogos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Anime en manga",
+                            "value": "Entertainment",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Anime og manga",
+                            "value": "Underholdning",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Anime i manga",
+                            "value": "Rozrywka",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Anime și manga",
+                            "value": "Divertisment",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Аниме и манга",
+                            "value": "Развлечения",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "อนิเมะและมังงะ",
+                            "value": "ความบันเทิง",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Anime ve Manga",
+                            "value": "Eğlence",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Аніме та манга",
+                            "value": "Розваги",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Anime & Manga",
+                            "value": "Giải Trí",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Anime & manga",
+                            "value": "Entertainment",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Anime & Manga",
+                            "value": "Entertainment",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Anime y manga",
+                            "value": "Entretenimiento",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Anime e Mangá",
+                            "value": "Entretenimento",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Anime och manga",
+                            "value": "Underhållning",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "动画&漫画",
+                            "value": "娱乐",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "動畫與漫畫",
+                            "value": "娛樂",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -819,306 +980,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Емотикон",
+                            "value": "Ботове",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Smajlíci",
+                            "value": "Boti",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Emoji",
+                            "value": "Bots",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Emojis",
+                            "value": "Bots",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Emoji",
+                            "value": "Bots",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Emoji",
+                            "value": "Botit",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Émoji",
+                            "value": "Bots",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "इमोजी",
+                            "value": "बॉट्स",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Emoji",
+                            "value": "Botovi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Emotikon",
+                            "value": "Botok",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Emoji",
+                            "value": "Bot",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "絵文字",
+                            "value": "Bot",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "이모티콘",
+                            "value": "봇",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Jaustukai",
+                            "value": "Botai",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Emoji",
+                            "value": "Bots",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Emoji",
+                            "value": "Boter",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Emoji",
+                            "value": "Boty",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Emoji",
+                            "value": "Boți",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Эмодзи",
+                            "value": "Боты",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "อีโมจิ",
+                            "value": "Bot",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Emoji",
+                            "value": "Botlar",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Емодзі",
+                            "value": "Боти",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Emoji",
+                            "value": "Bot",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Emoji",
+                            "value": "Bots",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Emoji",
+                            "value": "Bots",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Emojis",
+                            "value": "Bots",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Emoji",
+                            "value": "Bots",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Emoji",
+                            "value": "Bottar",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "表情符号",
+                            "value": "机器人",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "表情符號",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Забавление",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Zábava",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Underholdning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Unterhaltung",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Ψυχαγωγία",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Viihde",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Divertissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "एंटरटेनमेंट",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Zabava",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Szórakozás",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Intrattenimento",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "エンターテインメント",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "엔터테인먼트",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Pramogos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Entertainment",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Underholdning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Rozrywka",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Divertisment",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Развлечения",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "ความบันเทิง",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Eğlence",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Розваги",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Giải Trí",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Entertainment",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Entertainment",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Entretenimiento",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Entretenimento",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Underhållning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "娱乐",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "娛樂",
+                            "value": "機器人",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
