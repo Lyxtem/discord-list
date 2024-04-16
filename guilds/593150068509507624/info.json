@@ -6,26 +6,17 @@
     "splash": "c9821b9b92030019869c22c9b9be78aa",
     "discovery_splash": "c9821b9b92030019869c22c9b9be78aa",
     "banner": "337c6e724f6aef6b33635817749b14f0",
-    "approximate_presence_count": 692,
-    "approximate_member_count": 12287,
-    "premium_subscription_count": 2,
+    "approximate_presence_count": 614,
+    "approximate_member_count": 11913,
+    "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "vidcon",
     "keywords": [],
     "features": [
-        "ANIMATED_ICON",
-        "BANNER",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_LARGE_GATED",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "INVITE_SPLASH",
-        "NEWS",
         "PREVIEW_ENABLED",
-        "THREADS_ENABLED",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
         "VERIFIED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -38,9 +29,9 @@
         "icon": "c680da1d586c1fc0b19a21064e38bc15",
         "splash": "c9821b9b92030019869c22c9b9be78aa",
         "banner": "337c6e724f6aef6b33635817749b14f0",
-        "approximate_presence_count": 692,
-        "approximate_member_count": 12287,
-        "premium_subscription_count": 2,
+        "approximate_presence_count": 614,
+        "approximate_member_count": 11913,
+        "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "c9821b9b92030019869c22c9b9be78aa",
@@ -49,21 +40,44 @@
         "is_published": false,
         "keywords": [],
         "features": [
-            "ANIMATED_ICON",
-            "BANNER",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_LARGE_GATED",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "INVITE_SPLASH",
-            "NEWS",
             "PREVIEW_ENABLED",
-            "THREADS_ENABLED",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
             "VERIFIED",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "593150068509507624",
+        "_highlightResult": {
+            "name": {
+                "value": "VidCon",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "Welcome to the official VidCon Discord. A place to hang out, learn, get exclusive VidCon news, Giveaways and much more.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "vidcon",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }

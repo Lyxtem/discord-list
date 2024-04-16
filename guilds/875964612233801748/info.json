@@ -1,21 +1,21 @@
 {
     "id": "875964612233801748",
     "name": "Uncletopia",
-    "description": "",
+    "description": "Official Uncletopia Server",
     "icon": "3ba8473c58b87f573df00cab00b432e8",
     "splash": "472e80f819a44b4067e3abc44121df06",
     "discovery_splash": "c238b22650de23fed854e02d6f19f009",
     "banner": "5e209dcceb94cee7167bce865b75b26c",
-    "approximate_presence_count": 2843,
-    "approximate_member_count": 11425,
-    "premium_subscription_count": 14,
+    "approximate_presence_count": 4690,
+    "approximate_member_count": 12374,
+    "premium_subscription_count": 12,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
     "keywords": [
-        "tf2",
-        "teamfortress",
         "gaming",
         "server",
+        "teamfortress",
+        "tf2",
         "uncle dane"
     ],
     "features": [
@@ -30,13 +30,13 @@
     "raw": {
         "id": "875964612233801748",
         "name": "Uncletopia",
-        "description": "",
+        "description": "Official Uncletopia Server",
         "icon": "3ba8473c58b87f573df00cab00b432e8",
         "splash": "472e80f819a44b4067e3abc44121df06",
         "banner": "5e209dcceb94cee7167bce865b75b26c",
-        "approximate_presence_count": 2843,
-        "approximate_member_count": 11425,
-        "premium_subscription_count": 14,
+        "approximate_presence_count": 4690,
+        "approximate_member_count": 12374,
+        "premium_subscription_count": 12,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "c238b22650de23fed854e02d6f19f009",
@@ -44,10 +44,10 @@
         "vanity_url_code": null,
         "is_published": false,
         "keywords": [
-            "tf2",
-            "teamfortress",
             "gaming",
             "server",
+            "teamfortress",
+            "tf2",
             "uncle dane"
         ],
         "features": [
@@ -141,13 +141,18 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "",
+                "value": "Official Uncletopia Server",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
                 {
-                    "value": "tf2",
+                    "value": "gaming",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "server",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -157,12 +162,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "gaming",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "server",
+                    "value": "tf2",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
