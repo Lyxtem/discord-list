@@ -2,26 +2,27 @@
     "id": "113162462034948096",
     "name": "Currently Online",
     "description": "Currently Online is a multi-game community committed to creating a welcoming environment to game with friends.",
-    "icon": "2e9b2eab6e54613840960493281c7619",
+    "icon": "0c0307c8bb0c2a8633d960230e3dc8a6",
     "splash": "30050a9c9ffdc1413ebdca292b01d066",
     "discovery_splash": "41d3df717621ba3d05b9f2bb9e77f6b6",
-    "banner": "fb68afc7ea1789d45315118dfeb5ac42",
-    "approximate_presence_count": 722,
-    "approximate_member_count": 2091,
-    "premium_subscription_count": 22,
+    "banner": "67d60f93def2b01ef41a28ef7fbacd54",
+    "approximate_presence_count": 603,
+    "approximate_member_count": 1723,
+    "premium_subscription_count": 14,
     "preferred_locale": "en-US",
     "vanity_url_code": "currentlyonline",
     "keywords": [
-        "wow",
         "diablo",
-        "osrs",
         "ffxiv",
-        "social"
+        "osrs",
+        "social",
+        "wow"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED"
     ],
     "partnered": false,
@@ -30,12 +31,12 @@
         "id": "113162462034948096",
         "name": "Currently Online",
         "description": "Currently Online is a multi-game community committed to creating a welcoming environment to game with friends.",
-        "icon": "2e9b2eab6e54613840960493281c7619",
+        "icon": "0c0307c8bb0c2a8633d960230e3dc8a6",
         "splash": "30050a9c9ffdc1413ebdca292b01d066",
-        "banner": "fb68afc7ea1789d45315118dfeb5ac42",
-        "approximate_presence_count": 722,
-        "approximate_member_count": 2091,
-        "premium_subscription_count": 22,
+        "banner": "67d60f93def2b01ef41a28ef7fbacd54",
+        "approximate_presence_count": 603,
+        "approximate_member_count": 1723,
+        "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "41d3df717621ba3d05b9f2bb9e77f6b6",
@@ -43,16 +44,17 @@
         "vanity_url_code": "currentlyonline",
         "is_published": true,
         "keywords": [
-            "wow",
             "diablo",
-            "osrs",
             "ffxiv",
-            "social"
+            "osrs",
+            "social",
+            "wow"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED"
         ],
         "categories": [
@@ -261,17 +263,7 @@
             },
             "keywords": [
                 {
-                    "value": "wow",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "diablo",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "osrs",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -281,7 +273,17 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "osrs",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "social",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "wow",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
