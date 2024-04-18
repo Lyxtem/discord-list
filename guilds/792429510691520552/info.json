@@ -6,11 +6,11 @@
     "splash": "45d7140a1f10d8600282d1e39c4d245c",
     "discovery_splash": "f76a3b41dde93bb8bb25ca1cd0f0fe76",
     "banner": "e60c26c797d74cb323af4c42a481fe85",
-    "approximate_presence_count": 973,
-    "approximate_member_count": 13785,
-    "premium_subscription_count": 0,
+    "approximate_presence_count": 848,
+    "approximate_member_count": 14775,
+    "premium_subscription_count": 14,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "bruhify",
     "keywords": [
         "bruhify",
         "community",
@@ -39,14 +39,14 @@
         "icon": "dfa99ebdc1ae1fd6079c438dba71d3b3",
         "splash": "45d7140a1f10d8600282d1e39c4d245c",
         "banner": "e60c26c797d74cb323af4c42a481fe85",
-        "approximate_presence_count": 973,
-        "approximate_member_count": 13785,
-        "premium_subscription_count": 0,
+        "approximate_presence_count": 848,
+        "approximate_member_count": 14775,
+        "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "f76a3b41dde93bb8bb25ca1cd0f0fe76",
         "primary_category_id": 14,
-        "vanity_url_code": null,
+        "vanity_url_code": "bruhify",
         "is_published": false,
         "keywords": [
             "bruhify",
@@ -300,6 +300,11 @@
             },
             "description": {
                 "value": "bruh server",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "bruhify",
                 "matchLevel": "none",
                 "matchedWords": []
             },

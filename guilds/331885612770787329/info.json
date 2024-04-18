@@ -6,22 +6,22 @@
     "splash": null,
     "discovery_splash": "19215590e074ec3c4a1c3b1c2709e4cb",
     "banner": "00aa39a892c048ec6f10754d27480a28",
-    "approximate_presence_count": 266,
-    "approximate_member_count": 5571,
-    "premium_subscription_count": 3,
+    "approximate_presence_count": 1040,
+    "approximate_member_count": 8661,
+    "premium_subscription_count": 14,
     "preferred_locale": "tr",
     "vanity_url_code": "bbcrypto",
     "keywords": [
+        "apex",
+        "cs go",
+        "gaming",
         "league of legends",
         "lol",
-        "gaming",
         "oyun",
         "oyun dünyası",
-        "valorant",
         "pubg",
-        "cs go",
         "tft",
-        "apex"
+        "valorant"
     ],
     "features": [
         "COMMUNITY",
@@ -39,26 +39,26 @@
         "icon": "a_cb5bae819f6deda2ce9adf4f178dab81",
         "splash": null,
         "banner": "00aa39a892c048ec6f10754d27480a28",
-        "approximate_presence_count": 266,
-        "approximate_member_count": 5571,
-        "premium_subscription_count": 3,
+        "approximate_presence_count": 1040,
+        "approximate_member_count": 8661,
+        "premium_subscription_count": 14,
         "preferred_locale": "tr",
         "auto_removed": false,
         "discovery_splash": "19215590e074ec3c4a1c3b1c2709e4cb",
-        "primary_category_id": 1,
+        "primary_category_id": 12,
         "vanity_url_code": "bbcrypto",
         "is_published": false,
         "keywords": [
+            "apex",
+            "cs go",
+            "gaming",
             "league of legends",
             "lol",
-            "gaming",
             "oyun",
             "oyun dünyası",
-            "valorant",
             "pubg",
-            "cs go",
             "tft",
-            "apex"
+            "valorant"
         ],
         "features": [
             "COMMUNITY",
@@ -68,6 +68,43 @@
             "PREVIEW_ENABLED"
         ],
         "categories": [
+            {
+                "id": 12,
+                "is_primary": true,
+                "name": "Finance",
+                "name_localizations": {
+                    "bg": "Финанси",
+                    "cs": "Finance",
+                    "da": "Finans",
+                    "de": "Finanzen",
+                    "el": "Οικονομία",
+                    "fi": "Talous",
+                    "fr": "Finance",
+                    "hi": "फ़ाइनेंस",
+                    "hr": "Financije",
+                    "hu": "Pénzügyek",
+                    "it": "Finanza",
+                    "ja": "ファイナンス",
+                    "ko": "금융",
+                    "lt": "Finansai",
+                    "nl": "Financiën",
+                    "no": "Økonomi",
+                    "pl": "Finanse",
+                    "ro": "Finanțe",
+                    "ru": "Финансы",
+                    "th": "การเงิน",
+                    "tr": "Finans",
+                    "uk": "Фінанси",
+                    "vi": "Tài Chính",
+                    "en-GB": "Finance",
+                    "en-US": "Finance",
+                    "es-ES": "Finanzas",
+                    "pt-BR": "Finanças",
+                    "sv-SE": "Ekonomi",
+                    "zh-CN": "理财",
+                    "zh-TW": "財經"
+                }
+            },
             {
                 "id": 1,
                 "is_primary": true,
@@ -104,43 +141,80 @@
                     "zh-CN": "游戏",
                     "zh-TW": "遊戲"
                 }
+            },
+            {
+                "id": 5,
+                "is_primary": true,
+                "name": "Science & Tech",
+                "name_localizations": {
+                    "bg": "Наука и технологии",
+                    "cs": "Věda a technika",
+                    "da": "Videnskab & teknologi",
+                    "de": "Wissenschaft & Technik",
+                    "el": "Επιστήμη & Τεχνολογία",
+                    "fi": "Tiede ja tekniikka",
+                    "fr": "Science et technologie",
+                    "hi": "साइंस और टेक",
+                    "hr": "Znanost i tehnologija",
+                    "hu": "Tudomány és technológia",
+                    "it": "Scienza e tecnologia",
+                    "ja": "サイエンス&テクノロジー",
+                    "ko": "과학, 기술",
+                    "lt": "Mokslas ir technologijos",
+                    "nl": "Wetenschap en tech",
+                    "no": "Vitenskap og teknologi",
+                    "pl": "Nauka i technika",
+                    "ro": "Știință și tehnologie",
+                    "ru": "Наука и техника",
+                    "th": "วิทยาศาสตร์และเทคโนโลยี",
+                    "tr": "Bilim ve Teknoloji",
+                    "uk": "Наука й технології",
+                    "vi": "Khoa Học & Công Nghệ",
+                    "en-GB": "Science & tech",
+                    "en-US": "Science & Tech",
+                    "es-ES": "Ciencia y tecnología",
+                    "pt-BR": "Ciência e Tecnologia",
+                    "sv-SE": "Vetenskap och teknologi",
+                    "zh-CN": "科学&技术",
+                    "zh-TW": "科學與技術"
+                }
             }
         ],
         "primary_category": {
-            "id": 1,
+            "id": 12,
             "is_primary": true,
-            "name": "Gaming",
+            "name": "Finance",
             "name_localizations": {
-                "bg": "Гейминг",
-                "cs": "Hraní",
-                "da": "Spil",
-                "de": "Gaming",
-                "el": "Gaming",
-                "fi": "Pelaaminen",
-                "fr": "Gaming",
-                "hi": "गेमिंग",
-                "hr": "Gaming",
-                "hu": "Játék",
-                "it": "Gaming",
-                "ja": "ゲーム",
-                "ko": "게임",
-                "lt": "Žaidimai",
-                "nl": "Gaming",
-                "no": "Gaming",
-                "pl": "Gry",
-                "ro": "Gaming",
-                "ru": "Игры",
-                "th": "การเล่นเกม",
-                "tr": "Oyun",
-                "uk": "Ігри",
-                "vi": "Gaming",
-                "en-GB": "Gaming",
-                "en-US": "Gaming",
-                "es-ES": "Juegos",
-                "pt-BR": "Jogos",
-                "sv-SE": "Gaming",
-                "zh-CN": "游戏",
-                "zh-TW": "遊戲"
+                "bg": "Финанси",
+                "cs": "Finance",
+                "da": "Finans",
+                "de": "Finanzen",
+                "el": "Οικονομία",
+                "fi": "Talous",
+                "fr": "Finance",
+                "hi": "फ़ाइनेंस",
+                "hr": "Financije",
+                "hu": "Pénzügyek",
+                "it": "Finanza",
+                "ja": "ファイナンス",
+                "ko": "금융",
+                "lt": "Finansai",
+                "nl": "Financiën",
+                "no": "Økonomi",
+                "pl": "Finanse",
+                "ro": "Finanțe",
+                "ru": "Финансы",
+                "th": "การเงิน",
+                "tr": "Finans",
+                "uk": "Фінанси",
+                "vi": "Tài Chính",
+                "en-GB": "Finance",
+                "en-US": "Finance",
+                "es-ES": "Finanzas",
+                "pt-BR": "Finanças",
+                "sv-SE": "Ekonomi",
+                "zh-CN": "理财",
+                "zh-TW": "財經"
             }
         },
         "objectID": "331885612770787329",
@@ -162,17 +236,27 @@
             },
             "keywords": [
                 {
+                    "value": "apex",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "cs go",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "gaming",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "league of legends",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "lol",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "gaming",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -187,17 +271,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "valorant",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "pubg",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "cs go",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -207,12 +281,166 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "apex",
+                    "value": "valorant",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Финанси",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Finance",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Finans",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Finanzen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Οικονομία",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Talous",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Finance",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "फ़ाइनेंस",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Financije",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Pénzügyek",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Finanza",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "ファイナンス",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "금융",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Finansai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Financiën",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Økonomi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Finanse",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Finanțe",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Финансы",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การเงิน",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Finans",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Фінанси",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Tài Chính",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Finance",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Finance",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Finanzas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Finanças",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Ekonomi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "理财",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "財經",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -366,157 +594,311 @@
                             "matchedWords": []
                         }
                     }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Наука и технологии",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Věda a technika",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Videnskab & teknologi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Wissenschaft & Technik",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Επιστήμη & Τεχνολογία",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Tiede ja tekniikka",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Science et technologie",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "साइंस और टेक",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Znanost i tehnologija",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Tudomány és technológia",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Scienza e tecnologia",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "サイエンス&テクノロジー",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "과학, 기술",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Mokslas ir technologijos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Wetenschap en tech",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Vitenskap og teknologi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Nauka i technika",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Știință și tehnologie",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Наука и техника",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "วิทยาศาสตร์และเทคโนโลยี",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Bilim ve Teknoloji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Наука й технології",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Khoa Học & Công Nghệ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Science & tech",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Science & Tech",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Ciencia y tecnología",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Ciência e Tecnologia",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Vetenskap och teknologi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "科学&技术",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "科學與技術",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
                 }
             ],
             "primary_category": {
                 "name_localizations": {
                     "bg": {
-                        "value": "Гейминг",
+                        "value": "Финанси",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "cs": {
-                        "value": "Hraní",
+                        "value": "Finance",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "da": {
-                        "value": "Spil",
+                        "value": "Finans",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "de": {
-                        "value": "Gaming",
+                        "value": "Finanzen",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "el": {
-                        "value": "Gaming",
+                        "value": "Οικονομία",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "fi": {
-                        "value": "Pelaaminen",
+                        "value": "Talous",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "fr": {
-                        "value": "Gaming",
+                        "value": "Finance",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "hi": {
-                        "value": "गेमिंग",
+                        "value": "फ़ाइनेंस",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "hr": {
-                        "value": "Gaming",
+                        "value": "Financije",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "hu": {
-                        "value": "Játék",
+                        "value": "Pénzügyek",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "it": {
-                        "value": "Gaming",
+                        "value": "Finanza",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ja": {
-                        "value": "ゲーム",
+                        "value": "ファイナンス",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ko": {
-                        "value": "게임",
+                        "value": "금융",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "lt": {
-                        "value": "Žaidimai",
+                        "value": "Finansai",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "nl": {
-                        "value": "Gaming",
+                        "value": "Financiën",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "no": {
-                        "value": "Gaming",
+                        "value": "Økonomi",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "pl": {
-                        "value": "Gry",
+                        "value": "Finanse",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ro": {
-                        "value": "Gaming",
+                        "value": "Finanțe",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ru": {
-                        "value": "Игры",
+                        "value": "Финансы",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "th": {
-                        "value": "การเล่นเกม",
+                        "value": "การเงิน",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "tr": {
-                        "value": "Oyun",
+                        "value": "Finans",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "uk": {
-                        "value": "Ігри",
+                        "value": "Фінанси",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "vi": {
-                        "value": "Gaming",
+                        "value": "Tài Chính",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "en-GB": {
-                        "value": "Gaming",
+                        "value": "Finance",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "en-US": {
-                        "value": "Gaming",
+                        "value": "Finance",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "es-ES": {
-                        "value": "Juegos",
+                        "value": "Finanzas",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "pt-BR": {
-                        "value": "Jogos",
+                        "value": "Finanças",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "sv-SE": {
-                        "value": "Gaming",
+                        "value": "Ekonomi",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "zh-CN": {
-                        "value": "游戏",
+                        "value": "理财",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "zh-TW": {
-                        "value": "遊戲",
+                        "value": "財經",
                         "matchLevel": "none",
                         "matchedWords": []
                     }

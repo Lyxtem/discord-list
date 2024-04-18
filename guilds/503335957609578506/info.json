@@ -6,17 +6,17 @@
     "splash": "7fbe8d4293d922968a128144a4da1c0a",
     "discovery_splash": "c04d3f07b68ad35db2a495c38be3c08a",
     "banner": "69c318e60133518e3613d611a0a4929c",
-    "approximate_presence_count": 960,
-    "approximate_member_count": 2873,
-    "premium_subscription_count": 14,
+    "approximate_presence_count": 1032,
+    "approximate_member_count": 4526,
+    "premium_subscription_count": 13,
     "preferred_locale": "en-GB",
-    "vanity_url_code": "silencio",
+    "vanity_url_code": null,
     "keywords": [
+        "eft",
         "rust",
         "silencio",
         "twitch",
-        "youtube",
-        "eft"
+        "youtube"
     ],
     "features": [
         "COMMUNITY",
@@ -34,21 +34,21 @@
         "icon": "a3ac335020fd3561d7e4715fa14d1e03",
         "splash": "7fbe8d4293d922968a128144a4da1c0a",
         "banner": "69c318e60133518e3613d611a0a4929c",
-        "approximate_presence_count": 960,
-        "approximate_member_count": 2873,
-        "premium_subscription_count": 14,
+        "approximate_presence_count": 1032,
+        "approximate_member_count": 4526,
+        "premium_subscription_count": 13,
         "preferred_locale": "en-GB",
         "auto_removed": false,
         "discovery_splash": "c04d3f07b68ad35db2a495c38be3c08a",
         "primary_category_id": 1,
-        "vanity_url_code": "silencio",
+        "vanity_url_code": null,
         "is_published": false,
         "keywords": [
+            "eft",
             "rust",
             "silencio",
             "twitch",
-            "youtube",
-            "eft"
+            "youtube"
         ],
         "features": [
             "COMMUNITY",
@@ -182,12 +182,12 @@
                 "matchLevel": "none",
                 "matchedWords": []
             },
-            "vanity_url_code": {
-                "value": "silencio",
-                "matchLevel": "none",
-                "matchedWords": []
-            },
             "keywords": [
+                {
+                    "value": "eft",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
                 {
                     "value": "rust",
                     "matchLevel": "none",
@@ -205,11 +205,6 @@
                 },
                 {
                     "value": "youtube",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "eft",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

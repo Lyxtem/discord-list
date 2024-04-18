@@ -6,11 +6,11 @@
     "splash": "db0a2b54da44588d9b465b04cd0c9433",
     "discovery_splash": "cd72647b80763896901eb9ff05f3f986",
     "banner": "42a7664203225b7b463b2eea9fa52267",
-    "approximate_presence_count": 1161,
-    "approximate_member_count": 32049,
+    "approximate_presence_count": 1003,
+    "approximate_member_count": 31899,
     "premium_subscription_count": 14,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "egtoken",
     "keywords": [
         "charity",
         "crypto",
@@ -35,14 +35,14 @@
         "icon": "00bb471369b2bb674961494d75ffb80c",
         "splash": "db0a2b54da44588d9b465b04cd0c9433",
         "banner": "42a7664203225b7b463b2eea9fa52267",
-        "approximate_presence_count": 1161,
-        "approximate_member_count": 32049,
+        "approximate_presence_count": 1003,
+        "approximate_member_count": 31899,
         "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "cd72647b80763896901eb9ff05f3f986",
         "primary_category_id": 5,
-        "vanity_url_code": null,
+        "vanity_url_code": "egtoken",
         "is_published": false,
         "keywords": [
             "charity",
@@ -265,6 +265,11 @@
             },
             "description": {
                 "value": "EG is a community-owned token driving powerful social impact.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "egtoken",
                 "matchLevel": "none",
                 "matchedWords": []
             },

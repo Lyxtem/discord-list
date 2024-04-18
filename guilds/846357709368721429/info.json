@@ -4,19 +4,19 @@
     "description": "A place for traders and aspiring traders to learn how to navigate the futures market.",
     "icon": "d8ad5ca27dc96242758ce399ee833738",
     "splash": "d8ad5ca27dc96242758ce399ee833738",
-    "discovery_splash": "5ba63c3c990b0d16fe7d7cf3e96a770e",
+    "discovery_splash": "d8ad5ca27dc96242758ce399ee833738",
     "banner": "7bfcfbb2cf529282144545b232c31e22",
-    "approximate_presence_count": 961,
-    "approximate_member_count": 12122,
-    "premium_subscription_count": 30,
+    "approximate_presence_count": 1049,
+    "approximate_member_count": 15128,
+    "premium_subscription_count": 14,
     "preferred_locale": "en-US",
     "vanity_url_code": "earn2trade",
     "keywords": [
-        "trading",
-        "investing",
         "e2t",
         "earn2trade",
-        "futures"
+        "futures",
+        "investing",
+        "trading"
     ],
     "features": [
         "COMMUNITY",
@@ -35,21 +35,21 @@
         "icon": "d8ad5ca27dc96242758ce399ee833738",
         "splash": "d8ad5ca27dc96242758ce399ee833738",
         "banner": "7bfcfbb2cf529282144545b232c31e22",
-        "approximate_presence_count": 961,
-        "approximate_member_count": 12122,
-        "premium_subscription_count": 30,
+        "approximate_presence_count": 1049,
+        "approximate_member_count": 15128,
+        "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "5ba63c3c990b0d16fe7d7cf3e96a770e",
+        "discovery_splash": "d8ad5ca27dc96242758ce399ee833738",
         "primary_category_id": 12,
         "vanity_url_code": "earn2trade",
         "is_published": true,
         "keywords": [
-            "trading",
-            "investing",
             "e2t",
             "earn2trade",
-            "futures"
+            "futures",
+            "investing",
+            "trading"
         ],
         "features": [
             "COMMUNITY",
@@ -60,6 +60,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
+                }
+            },
             {
                 "id": 6,
                 "is_primary": true,
@@ -95,16 +105,6 @@
                     "sv-SE": "Utbildning",
                     "zh-CN": "教育",
                     "zh-TW": "教育"
-                }
-            },
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
                 }
             },
             {
@@ -201,16 +201,6 @@
             },
             "keywords": [
                 {
-                    "value": "trading",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "investing",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "e2t",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -224,9 +214,38 @@
                     "value": "futures",
                     "matchLevel": "none",
                     "matchedWords": []
+                },
+                {
+                    "value": "investing",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "trading",
+                    "matchLevel": "none",
+                    "matchedWords": []
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -376,25 +395,6 @@
                         },
                         "zh-TW": {
                             "value": "教育",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

@@ -1,21 +1,26 @@
 {
     "id": "913372009185050654",
-    "name": "CryptoWhales",
-    "description": "CryptoWhales is the first NFT project that rewards holders as the price of ETH rises.",
-    "icon": "a_2d0837480c31dfa1846913177810304b",
-    "splash": "962ee9a5ef711432e19dadeebe68b057",
-    "discovery_splash": "8868207a27ce2952ca6981a9059aab4f",
+    "name": "Illogical Collective",
+    "description": "",
+    "icon": "a_63680954ce57e560c58fc44cc6f2eb18",
+    "splash": "27bd752b36db23b9eacb6dd68db47b4e",
+    "discovery_splash": "27bd752b36db23b9eacb6dd68db47b4e",
     "banner": "b44cba5024f1a39190d815165016c77b",
-    "approximate_presence_count": 286,
-    "approximate_member_count": 12323,
-    "premium_subscription_count": 9,
+    "approximate_presence_count": 126,
+    "approximate_member_count": 11096,
+    "premium_subscription_count": 4,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
     "keywords": [
+        "BTC",
+        "Ordinals",
+        "bitcoin",
         "community",
+        "ethereum",
         "nft",
+        "nftart",
         "nftcommunity",
-        "nftart"
+        "polygon"
     ],
     "features": [
         "COMMUNITY",
@@ -27,25 +32,30 @@
     "verified": false,
     "raw": {
         "id": "913372009185050654",
-        "name": "CryptoWhales",
-        "description": "CryptoWhales is the first NFT project that rewards holders as the price of ETH rises.",
-        "icon": "a_2d0837480c31dfa1846913177810304b",
-        "splash": "962ee9a5ef711432e19dadeebe68b057",
+        "name": "Illogical Collective",
+        "description": "",
+        "icon": "a_63680954ce57e560c58fc44cc6f2eb18",
+        "splash": "27bd752b36db23b9eacb6dd68db47b4e",
         "banner": "b44cba5024f1a39190d815165016c77b",
-        "approximate_presence_count": 286,
-        "approximate_member_count": 12323,
-        "premium_subscription_count": 9,
+        "approximate_presence_count": 126,
+        "approximate_member_count": 11096,
+        "premium_subscription_count": 4,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "8868207a27ce2952ca6981a9059aab4f",
+        "discovery_splash": "27bd752b36db23b9eacb6dd68db47b4e",
         "primary_category_id": 13,
         "vanity_url_code": null,
         "is_published": false,
         "keywords": [
+            "BTC",
+            "Ordinals",
+            "bitcoin",
             "community",
+            "ethereum",
             "nft",
+            "nftart",
             "nftcommunity",
-            "nftart"
+            "polygon"
         ],
         "features": [
             "COMMUNITY",
@@ -54,6 +64,16 @@
             "PREVIEW_ENABLED"
         ],
         "categories": [
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
+                }
+            },
             {
                 "id": 4,
                 "is_primary": true,
@@ -166,16 +186,6 @@
                 }
             },
             {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
-                }
-            },
-            {
                 "id": 37,
                 "is_primary": false,
                 "name": "Local Group",
@@ -236,18 +246,38 @@
         "objectID": "913372009185050654",
         "_highlightResult": {
             "name": {
-                "value": "CryptoWhales",
+                "value": "Illogical Collective",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "description": {
-                "value": "CryptoWhales is the first NFT project that rewards holders as the price of ETH rises.",
+                "value": "",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
                 {
+                    "value": "BTC",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Ordinals",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "bitcoin",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "community",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "ethereum",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -257,17 +287,41 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "nftart",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "nftcommunity",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "nftart",
+                    "value": "polygon",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -725,25 +779,6 @@
                         },
                         "zh-TW": {
                             "value": "加密貨幣",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
