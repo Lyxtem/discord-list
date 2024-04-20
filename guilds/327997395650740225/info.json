@@ -6,22 +6,22 @@
     "splash": "c763598ec16517b3e77b95e6bb5c8395",
     "discovery_splash": "e42fce23528a5930819c5143ea913792",
     "banner": "54df1bb169b3f7435b7b54dab286e454",
-    "approximate_presence_count": 46484,
-    "approximate_member_count": 354800,
+    "approximate_presence_count": 49183,
+    "approximate_member_count": 354769,
     "premium_subscription_count": 19,
     "preferred_locale": "en-US",
     "vanity_url_code": "splitgate",
     "keywords": [
+        "Chatting",
+        "Events",
         "Splitgate",
-        "halo",
-        "portal",
+        "cross platform",
         "fps",
         "free",
         "gaming",
-        "cross platform",
+        "halo",
         "lfg",
-        "Chatting",
-        "Events"
+        "portal"
     ],
     "features": [
         "COMMUNITY",
@@ -43,8 +43,8 @@
         "icon": "b7a1ee72ffdecca0a904255425acb8fb",
         "splash": "c763598ec16517b3e77b95e6bb5c8395",
         "banner": "54df1bb169b3f7435b7b54dab286e454",
-        "approximate_presence_count": 46484,
-        "approximate_member_count": 354800,
+        "approximate_presence_count": 49183,
+        "approximate_member_count": 354769,
         "premium_subscription_count": 19,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -53,16 +53,16 @@
         "vanity_url_code": "splitgate",
         "is_published": true,
         "keywords": [
+            "Chatting",
+            "Events",
             "Splitgate",
-            "halo",
-            "portal",
+            "cross platform",
             "fps",
             "free",
             "gaming",
-            "cross platform",
+            "halo",
             "lfg",
-            "Chatting",
-            "Events"
+            "portal"
         ],
         "features": [
             "COMMUNITY",
@@ -318,17 +318,22 @@
             },
             "keywords": [
                 {
+                    "value": "Chatting",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Events",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "Splitgate",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "halo",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "portal",
+                    "value": "cross platform",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -348,7 +353,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "cross platform",
+                    "value": "halo",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -358,12 +363,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "Chatting",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "Events",
+                    "value": "portal",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

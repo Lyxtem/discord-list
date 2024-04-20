@@ -1,26 +1,26 @@
 {
     "id": "816753669278138449",
     "name": "PFC",
-    "description": "O maior servidor português de FIFA, temos um mod da segunda e terceiras divisões.",
+    "description": "O maior servidor português de EAFC, temos um mod da segunda e terceiras divisões.",
     "icon": "65e2b4ec711729ad032bf73e333852cb",
     "splash": "f65cc51dd0196e3e6358964c1e6a6f46",
     "discovery_splash": "0ee5a3c7512ca6f28e81320725c06da4",
     "banner": null,
-    "approximate_presence_count": 887,
-    "approximate_member_count": 4434,
+    "approximate_presence_count": 378,
+    "approximate_member_count": 4449,
     "premium_subscription_count": 0,
     "preferred_locale": "pt-BR",
     "vanity_url_code": "fifa-mod-pack-tugao-816753669278138449",
     "keywords": [
         "fifa",
+        "fifa 23",
         "fifa22",
-        "modding",
-        "portugal",
-        "futebol",
-        "ligaportugal",
         "fifa22modding",
         "fifapt",
-        "fifa 23"
+        "futebol",
+        "ligaportugal",
+        "modding",
+        "portugal"
     ],
     "features": [
         "COMMUNITY",
@@ -35,12 +35,12 @@
     "raw": {
         "id": "816753669278138449",
         "name": "PFC",
-        "description": "O maior servidor português de FIFA, temos um mod da segunda e terceiras divisões.",
+        "description": "O maior servidor português de EAFC, temos um mod da segunda e terceiras divisões.",
         "icon": "65e2b4ec711729ad032bf73e333852cb",
         "splash": "f65cc51dd0196e3e6358964c1e6a6f46",
         "banner": null,
-        "approximate_presence_count": 887,
-        "approximate_member_count": 4434,
+        "approximate_presence_count": 378,
+        "approximate_member_count": 4449,
         "premium_subscription_count": 0,
         "preferred_locale": "pt-BR",
         "auto_removed": false,
@@ -50,14 +50,14 @@
         "is_published": true,
         "keywords": [
             "fifa",
+            "fifa 23",
             "fifa22",
-            "modding",
-            "portugal",
-            "futebol",
-            "ligaportugal",
             "fifa22modding",
             "fifapt",
-            "fifa 23"
+            "futebol",
+            "ligaportugal",
+            "modding",
+            "portugal"
         ],
         "features": [
             "COMMUNITY",
@@ -68,6 +68,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
             {
                 "id": 1,
                 "is_primary": true,
@@ -178,16 +188,6 @@
                     "zh-CN": "内容创作者",
                     "zh-TW": "內容創作者"
                 }
-            },
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
-                }
             }
         ],
         "primary_category": {
@@ -235,7 +235,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "O maior servidor português de FIFA, temos um mod da segunda e terceiras divisões.",
+                "value": "O maior servidor português de EAFC, temos um mod da segunda e terceiras divisões.",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -251,27 +251,12 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "fifa 23",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "fifa22",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "modding",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "portugal",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "futebol",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "ligaportugal",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -286,12 +271,46 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "fifa 23",
+                    "value": "futebol",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "ligaportugal",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "modding",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "portugal",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -749,25 +768,6 @@
                         },
                         "zh-TW": {
                             "value": "內容創作者",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

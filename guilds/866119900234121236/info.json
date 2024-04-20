@@ -6,20 +6,21 @@
     "splash": null,
     "discovery_splash": "c092631dd7fc39a3942ad6df177beb6b",
     "banner": null,
-    "approximate_presence_count": 682,
-    "approximate_member_count": 4883,
-    "premium_subscription_count": 4,
+    "approximate_presence_count": 1114,
+    "approximate_member_count": 5173,
+    "premium_subscription_count": 0,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "perfect-heist-2-866119900234121236",
     "keywords": [
+        "cops",
         "perfect-heist-2",
-        "robber",
-        "cops"
+        "robber"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -32,24 +33,25 @@
         "icon": "10318e8401e150f254b0aa052b6f9ad1",
         "splash": null,
         "banner": null,
-        "approximate_presence_count": 682,
-        "approximate_member_count": 4883,
-        "premium_subscription_count": 4,
+        "approximate_presence_count": 1114,
+        "approximate_member_count": 5173,
+        "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "c092631dd7fc39a3942ad6df177beb6b",
         "primary_category_id": 1,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "perfect-heist-2-866119900234121236",
+        "is_published": true,
         "keywords": [
+            "cops",
             "perfect-heist-2",
-            "robber",
-            "cops"
+            "robber"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -141,7 +143,17 @@
                 "matchLevel": "none",
                 "matchedWords": []
             },
+            "vanity_url_code": {
+                "value": "perfect-heist-2-866119900234121236",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
             "keywords": [
+                {
+                    "value": "cops",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
                 {
                     "value": "perfect-heist-2",
                     "matchLevel": "none",
@@ -149,11 +161,6 @@
                 },
                 {
                     "value": "robber",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "cops",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

@@ -6,20 +6,20 @@
     "splash": "84dd6ff7e55a5f912ac814bbd045b809",
     "discovery_splash": "b19cc043155eb23026186dacefdb7b60",
     "banner": "a_fc72a7c193d3951f45e111ef5fca5a5b",
-    "approximate_presence_count": 372,
-    "approximate_member_count": 14777,
+    "approximate_presence_count": 370,
+    "approximate_member_count": 14521,
     "premium_subscription_count": 3,
     "preferred_locale": "en-US",
     "vanity_url_code": "supremacygame",
     "keywords": [
-        "supremacy",
-        "metaverse",
-        "sups",
-        "nfts",
-        "nft",
-        "p2e",
         "crypto",
-        "gaming"
+        "gaming",
+        "metaverse",
+        "nft",
+        "nfts",
+        "p2e",
+        "supremacy",
+        "sups"
     ],
     "features": [
         "COMMUNITY",
@@ -39,24 +39,24 @@
         "icon": "a_82e65c0e30e81b3c10230bb14b0ccda0",
         "splash": "84dd6ff7e55a5f912ac814bbd045b809",
         "banner": "a_fc72a7c193d3951f45e111ef5fca5a5b",
-        "approximate_presence_count": 372,
-        "approximate_member_count": 14777,
+        "approximate_presence_count": 370,
+        "approximate_member_count": 14521,
         "premium_subscription_count": 3,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "b19cc043155eb23026186dacefdb7b60",
         "primary_category_id": 1,
         "vanity_url_code": "supremacygame",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
-            "supremacy",
-            "metaverse",
-            "sups",
-            "nfts",
-            "nft",
-            "p2e",
             "crypto",
-            "gaming"
+            "gaming",
+            "metaverse",
+            "nft",
+            "nfts",
+            "p2e",
+            "supremacy",
+            "sups"
         ],
         "features": [
             "COMMUNITY",
@@ -236,7 +236,12 @@
             },
             "keywords": [
                 {
-                    "value": "supremacy",
+                    "value": "crypto",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "gaming",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -246,7 +251,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "sups",
+                    "value": "nft",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -256,22 +261,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "nft",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "p2e",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "crypto",
+                    "value": "supremacy",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "gaming",
+                    "value": "sups",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

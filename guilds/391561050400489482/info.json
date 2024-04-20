@@ -6,8 +6,8 @@
     "splash": "e27caab76cbef5fd3e71c8f705cad5bc",
     "discovery_splash": "0c5599160d7c14056f052e8dc30b9dcc",
     "banner": "591778fe4015fac54eeec5c6ecab2aa4",
-    "approximate_presence_count": 1692,
-    "approximate_member_count": 4912,
+    "approximate_presence_count": 1489,
+    "approximate_member_count": 4913,
     "premium_subscription_count": 5,
     "preferred_locale": "en-US",
     "vanity_url_code": "globku",
@@ -15,17 +15,15 @@
         "anime",
         "anime games",
         "anime gaming",
-        "naruto",
-        "dragon ball",
         "attack on titan",
         "demon slayer",
-        "my hero academia"
+        "dragon ball",
+        "my hero academia",
+        "naruto"
     ],
     "features": [
         "COMMUNITY",
-        "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PARTNERED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
@@ -39,8 +37,8 @@
         "icon": "a_94bac9a31279699867030aaa513f6c06",
         "splash": "e27caab76cbef5fd3e71c8f705cad5bc",
         "banner": "591778fe4015fac54eeec5c6ecab2aa4",
-        "approximate_presence_count": 1692,
-        "approximate_member_count": 4912,
+        "approximate_presence_count": 1489,
+        "approximate_member_count": 4913,
         "premium_subscription_count": 5,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -52,17 +50,15 @@
             "anime",
             "anime games",
             "anime gaming",
-            "naruto",
-            "dragon ball",
             "attack on titan",
             "demon slayer",
-            "my hero academia"
+            "dragon ball",
+            "my hero academia",
+            "naruto"
         ],
         "features": [
             "COMMUNITY",
-            "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PARTNERED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
@@ -214,16 +210,6 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "naruto",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "dragon ball",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "attack on titan",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -234,7 +220,17 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "dragon ball",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "my hero academia",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "naruto",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

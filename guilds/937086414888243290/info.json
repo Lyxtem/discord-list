@@ -1,27 +1,27 @@
 {
     "id": "937086414888243290",
     "name": "ImpendMC Network",
-    "description": "A minecraft network that has gamemodes with fun filled! Make friends, PvP others, Crystal PvP!",
-    "icon": "c1bbb779e9f4fbae5b773ce4293c2043",
+    "description": "A Minecraft network that has gamemodes with fun filled! Make friends, PvP others, Crystal PvP!",
+    "icon": "3c77e5ce1828cabd836bffafe46c313b",
     "splash": null,
     "discovery_splash": "1375b4718af8a053d6b6056aa0a85445",
     "banner": "6cf9ecaadd91a903139634e4d2be9b75",
-    "approximate_presence_count": 1449,
-    "approximate_member_count": 6007,
-    "premium_subscription_count": 12,
+    "approximate_presence_count": 1380,
+    "approximate_member_count": 6359,
+    "premium_subscription_count": 19,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "impendmc",
     "keywords": [
         "crystal pvp",
         "crystal pvp",
+        "impendmc",
         "kitpvp",
+        "lifesteal",
         "minecraft",
         "minecraft crystal pvp",
         "minehut",
         "pvp",
-        "pvp minecraft",
-        "randomkit",
-        "randomkits"
+        "pvp minecraft"
     ],
     "features": [
         "COMMUNITY",
@@ -36,30 +36,30 @@
     "raw": {
         "id": "937086414888243290",
         "name": "ImpendMC Network",
-        "description": "A minecraft network that has gamemodes with fun filled! Make friends, PvP others, Crystal PvP!",
-        "icon": "c1bbb779e9f4fbae5b773ce4293c2043",
+        "description": "A Minecraft network that has gamemodes with fun filled! Make friends, PvP others, Crystal PvP!",
+        "icon": "3c77e5ce1828cabd836bffafe46c313b",
         "splash": null,
         "banner": "6cf9ecaadd91a903139634e4d2be9b75",
-        "approximate_presence_count": 1449,
-        "approximate_member_count": 6007,
-        "premium_subscription_count": 12,
+        "approximate_presence_count": 1380,
+        "approximate_member_count": 6359,
+        "premium_subscription_count": 19,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "1375b4718af8a053d6b6056aa0a85445",
         "primary_category_id": 1,
-        "vanity_url_code": null,
+        "vanity_url_code": "impendmc",
         "is_published": false,
         "keywords": [
             "crystal pvp",
             "crystal pvp",
+            "impendmc",
             "kitpvp",
+            "lifesteal",
             "minecraft",
             "minecraft crystal pvp",
             "minehut",
             "pvp",
-            "pvp minecraft",
-            "randomkit",
-            "randomkits"
+            "pvp minecraft"
         ],
         "features": [
             "COMMUNITY",
@@ -190,7 +190,12 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "A minecraft network that has gamemodes with fun filled! Make friends, PvP others, Crystal PvP!",
+                "value": "A Minecraft network that has gamemodes with fun filled! Make friends, PvP others, Crystal PvP!",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "impendmc",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -206,7 +211,17 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "impendmc",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "kitpvp",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "lifesteal",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -232,16 +247,6 @@
                 },
                 {
                     "value": "pvp minecraft",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "randomkit",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "randomkits",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

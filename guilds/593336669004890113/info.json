@@ -3,21 +3,21 @@
     "name": "Mids Reborn",
     "description": "The current #1 build planner for City of Heroes that supports both Homecoming Servers and Rebirth!!",
     "icon": "a_d773a3eb4e4015f1fb12fb38f9767d69",
-    "splash": "38e58b4a5461c3a177ed75fa06cfb112",
+    "splash": "d5dd3faf7e67692ff4c95d0284a58ff2",
     "discovery_splash": "492343b5ae4ed0d9845c64eafa6b5c4c",
     "banner": null,
-    "approximate_presence_count": 1109,
-    "approximate_member_count": 3307,
+    "approximate_presence_count": 1412,
+    "approximate_member_count": 3501,
     "premium_subscription_count": 2,
     "preferred_locale": "en-US",
     "vanity_url_code": "mids-reborn-593336669004890113",
     "keywords": [
-        "midsreborn",
-        "homecoming",
         "cityofheroes",
+        "herodesigner",
+        "homecoming",
         "mids",
-        "rebirth",
-        "herodesigner"
+        "midsreborn",
+        "rebirth"
     ],
     "features": [
         "COMMUNITY",
@@ -34,10 +34,10 @@
         "name": "Mids Reborn",
         "description": "The current #1 build planner for City of Heroes that supports both Homecoming Servers and Rebirth!!",
         "icon": "a_d773a3eb4e4015f1fb12fb38f9767d69",
-        "splash": "38e58b4a5461c3a177ed75fa06cfb112",
+        "splash": "d5dd3faf7e67692ff4c95d0284a58ff2",
         "banner": null,
-        "approximate_presence_count": 1109,
-        "approximate_member_count": 3307,
+        "approximate_presence_count": 1412,
+        "approximate_member_count": 3501,
         "premium_subscription_count": 2,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -46,12 +46,12 @@
         "vanity_url_code": "mids-reborn-593336669004890113",
         "is_published": true,
         "keywords": [
-            "midsreborn",
-            "homecoming",
             "cityofheroes",
+            "herodesigner",
+            "homecoming",
             "mids",
-            "rebirth",
-            "herodesigner"
+            "midsreborn",
+            "rebirth"
         ],
         "features": [
             "COMMUNITY",
@@ -62,6 +62,43 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 32,
+                "is_primary": false,
+                "name": "Theorycraft",
+                "name_localizations": {
+                    "bg": "Теорикрафт",
+                    "cs": "Theorycraft",
+                    "da": "Theorycraft",
+                    "de": "Theorycraft",
+                    "el": "Theorycraft",
+                    "fi": "Pelianalysointi",
+                    "fr": "Theorycraft",
+                    "hi": "थ्योरीक्राफ़्ट",
+                    "hr": "Theorycraft",
+                    "hu": "Játékelméletek",
+                    "it": "Theorycraft",
+                    "ja": "ゲーム戦略研究",
+                    "ko": "게임 분석",
+                    "lt": "Žaidimų teorijos analizė",
+                    "nl": "Theorycraft",
+                    "no": "Theorycraft",
+                    "pl": "Theorycrafting",
+                    "ro": "Theorycraft",
+                    "ru": "Теорикрафтинг",
+                    "th": "การสร้างทฤษฎี",
+                    "tr": "Teoriler",
+                    "uk": "Теорікрафт",
+                    "vi": "Phân Tích Game",
+                    "en-GB": "Theorycraft",
+                    "en-US": "Theorycraft",
+                    "es-ES": "Theorycraft",
+                    "pt-BR": "Metajogo",
+                    "sv-SE": "Theorycraft",
+                    "zh-CN": "游戏机制研究",
+                    "zh-TW": "Theorycraft"
+                }
+            },
             {
                 "id": 22,
                 "is_primary": false,
@@ -134,43 +171,6 @@
                     "sv-SE": "Samarbete",
                     "zh-CN": "合作",
                     "zh-TW": "合作"
-                }
-            },
-            {
-                "id": 32,
-                "is_primary": false,
-                "name": "Theorycraft",
-                "name_localizations": {
-                    "bg": "Теорикрафт",
-                    "cs": "Theorycraft",
-                    "da": "Theorycraft",
-                    "de": "Theorycraft",
-                    "el": "Theorycraft",
-                    "fi": "Pelianalysointi",
-                    "fr": "Theorycraft",
-                    "hi": "थ्योरीक्राफ़्ट",
-                    "hr": "Theorycraft",
-                    "hu": "Játékelméletek",
-                    "it": "Theorycraft",
-                    "ja": "ゲーム戦略研究",
-                    "ko": "게임 분석",
-                    "lt": "Žaidimų teorijos analizė",
-                    "nl": "Theorycraft",
-                    "no": "Theorycraft",
-                    "pl": "Theorycrafting",
-                    "ro": "Theorycraft",
-                    "ru": "Теорикрафтинг",
-                    "th": "การสร้างทฤษฎี",
-                    "tr": "Teoriler",
-                    "uk": "Теорікрафт",
-                    "vi": "Phân Tích Game",
-                    "en-GB": "Theorycraft",
-                    "en-US": "Theorycraft",
-                    "es-ES": "Theorycraft",
-                    "pt-BR": "Metajogo",
-                    "sv-SE": "Theorycraft",
-                    "zh-CN": "游戏机制研究",
-                    "zh-TW": "Theorycraft"
                 }
             },
             {
@@ -267,7 +267,12 @@
             },
             "keywords": [
                 {
-                    "value": "midsreborn",
+                    "value": "cityofheroes",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "herodesigner",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -277,12 +282,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "cityofheroes",
+                    "value": "mids",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "mids",
+                    "value": "midsreborn",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -290,14 +295,163 @@
                     "value": "rebirth",
                     "matchLevel": "none",
                     "matchedWords": []
-                },
-                {
-                    "value": "herodesigner",
-                    "matchLevel": "none",
-                    "matchedWords": []
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Теорикрафт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Theorycraft",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Theorycraft",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Theorycraft",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Theorycraft",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Pelianalysointi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Theorycraft",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "थ्योरीक्राफ़्ट",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Theorycraft",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Játékelméletek",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Theorycraft",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "ゲーム戦略研究",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "게임 분석",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Žaidimų teorijos analizė",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Theorycraft",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Theorycraft",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Theorycrafting",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Theorycraft",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Теорикрафтинг",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การสร้างทฤษฎี",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Teoriler",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Теорікрафт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Phân Tích Game",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Theorycraft",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Theorycraft",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Theorycraft",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Metajogo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Theorycraft",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "游戏机制研究",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "Theorycraft",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -601,160 +755,6 @@
                         },
                         "zh-TW": {
                             "value": "合作",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Теорикрафт",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Theorycraft",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Theorycraft",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Theorycraft",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Theorycraft",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Pelianalysointi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Theorycraft",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "थ्योरीक्राफ़्ट",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Theorycraft",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Játékelméletek",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Theorycraft",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "ゲーム戦略研究",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "게임 분석",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Žaidimų teorijos analizė",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Theorycraft",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Theorycraft",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Theorycrafting",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Theorycraft",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Теорикрафтинг",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "การสร้างทฤษฎี",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Teoriler",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Теорікрафт",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Phân Tích Game",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Theorycraft",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Theorycraft",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Theorycraft",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Metajogo",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Theorycraft",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "游戏机制研究",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "Theorycraft",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
