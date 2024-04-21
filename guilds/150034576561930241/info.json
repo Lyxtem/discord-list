@@ -6,8 +6,8 @@
     "splash": "7f9423487c3d8237731a55635279e920",
     "discovery_splash": "7f9423487c3d8237731a55635279e920",
     "banner": null,
-    "approximate_presence_count": 34,
-    "approximate_member_count": 446,
+    "approximate_presence_count": 36,
+    "approximate_member_count": 451,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "stashrpg",
@@ -16,10 +16,7 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "FEATURABLE",
-        "INVITE_SPLASH",
-        "NEWS",
         "PREVIEW_ENABLED",
-        "VANITY_URL",
         "VERIFIED"
     ],
     "partnered": false,
@@ -31,8 +28,8 @@
         "icon": "4bc3be3c4e761b1cb5072efdac5a7e41",
         "splash": "7f9423487c3d8237731a55635279e920",
         "banner": null,
-        "approximate_presence_count": 34,
-        "approximate_member_count": 446,
+        "approximate_presence_count": 36,
+        "approximate_member_count": 451,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -45,11 +42,40 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "FEATURABLE",
-            "INVITE_SPLASH",
-            "NEWS",
             "PREVIEW_ENABLED",
-            "VANITY_URL",
             "VERIFIED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "150034576561930241",
+        "_highlightResult": {
+            "name": {
+                "value": "Stash",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "stashrpg",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }

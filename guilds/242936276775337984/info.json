@@ -6,11 +6,11 @@
     "splash": "beefb37fa6baad69776386e462d9eb52",
     "discovery_splash": "5ce64bfe001669c38211bfe719daee53",
     "banner": "bb2ce75e97b2333e6e8c1813be859aee",
-    "approximate_presence_count": 162,
-    "approximate_member_count": 1425,
-    "premium_subscription_count": 8,
+    "approximate_presence_count": 252,
+    "approximate_member_count": 1714,
+    "premium_subscription_count": 26,
     "preferred_locale": "hr",
-    "vanity_url_code": "arma-srbija-zajednitsa-arma-serbia-community-242936276775337984",
+    "vanity_url_code": "armasrbija",
     "keywords": [
         "airsoft",
         "arma",
@@ -27,6 +27,7 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -39,14 +40,14 @@
         "icon": "6eca8004a1a2d292a00041839f2af71e",
         "splash": "beefb37fa6baad69776386e462d9eb52",
         "banner": "bb2ce75e97b2333e6e8c1813be859aee",
-        "approximate_presence_count": 162,
-        "approximate_member_count": 1425,
-        "premium_subscription_count": 8,
+        "approximate_presence_count": 252,
+        "approximate_member_count": 1714,
+        "premium_subscription_count": 26,
         "preferred_locale": "hr",
         "auto_removed": false,
         "discovery_splash": "5ce64bfe001669c38211bfe719daee53",
         "primary_category_id": 1,
-        "vanity_url_code": "arma-srbija-zajednitsa-arma-serbia-community-242936276775337984",
+        "vanity_url_code": "armasrbija",
         "is_published": true,
         "keywords": [
             "airsoft",
@@ -64,10 +65,48 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 34,
+                "is_primary": false,
+                "name": "Roleplay",
+                "name_localizations": {
+                    "bg": "Ролева игра",
+                    "cs": "Roleplay",
+                    "da": "Rollespil",
+                    "de": "Rollenspiele",
+                    "el": "Παιχνίδια ρόλων",
+                    "fi": "Roolipeli",
+                    "fr": "Jeux de rôles",
+                    "hi": "रोलप्ले",
+                    "hr": "Roleplay",
+                    "hu": "Szerepjáték",
+                    "it": "Giochi di ruolo",
+                    "ja": "なりきり",
+                    "ko": "역할 놀이",
+                    "lt": "Vaidmenų žaidimai",
+                    "nl": "Rollenspel",
+                    "no": "Rollespill",
+                    "pl": "Role playing",
+                    "ro": "Jocuri de rol",
+                    "ru": "Ролевая игра",
+                    "th": "การเล่นบทบาทสมมติ",
+                    "tr": "Rol Yapma",
+                    "uk": "Рольові ігри",
+                    "vi": "Nhập Vai",
+                    "en-GB": "Roleplay",
+                    "en-US": "Roleplay",
+                    "es-ES": "Juego de roles",
+                    "pt-BR": "Interpretação de personagens",
+                    "sv-SE": "Rollspel",
+                    "zh-CN": "跑团",
+                    "zh-TW": "角色扮演"
+                }
+            },
             {
                 "id": 1,
                 "is_primary": true,
@@ -141,43 +180,6 @@
                     "zh-CN": "游戏开发人员",
                     "zh-TW": "遊戲開發者"
                 }
-            },
-            {
-                "id": 34,
-                "is_primary": false,
-                "name": "Roleplay",
-                "name_localizations": {
-                    "bg": "Ролева игра",
-                    "cs": "Roleplay",
-                    "da": "Rollespil",
-                    "de": "Rollenspiele",
-                    "el": "Παιχνίδια ρόλων",
-                    "fi": "Roolipeli",
-                    "fr": "Jeux de rôles",
-                    "hi": "रोलप्ले",
-                    "hr": "Roleplay",
-                    "hu": "Szerepjáték",
-                    "it": "Giochi di ruolo",
-                    "ja": "なりきり",
-                    "ko": "역할 놀이",
-                    "lt": "Vaidmenų žaidimai",
-                    "nl": "Rollenspel",
-                    "no": "Rollespill",
-                    "pl": "Role playing",
-                    "ro": "Jocuri de rol",
-                    "ru": "Ролевая игра",
-                    "th": "การเล่นบทบาทสมมติ",
-                    "tr": "Rol Yapma",
-                    "uk": "Рольові ігри",
-                    "vi": "Nhập Vai",
-                    "en-GB": "Roleplay",
-                    "en-US": "Roleplay",
-                    "es-ES": "Juego de roles",
-                    "pt-BR": "Interpretação de personagens",
-                    "sv-SE": "Rollspel",
-                    "zh-CN": "跑团",
-                    "zh-TW": "角色扮演"
-                }
             }
         ],
         "primary_category": {
@@ -230,7 +232,7 @@
                 "matchedWords": []
             },
             "vanity_url_code": {
-                "value": "arma-srbija-zajednitsa-arma-serbia-community-242936276775337984",
+                "value": "armasrbija",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -287,6 +289,160 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Ролева игра",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Roleplay",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Rollespil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Rollenspiele",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Παιχνίδια ρόλων",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Roolipeli",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Jeux de rôles",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "रोलप्ले",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Roleplay",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Szerepjáték",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Giochi di ruolo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "なりきり",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "역할 놀이",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Vaidmenų žaidimai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Rollenspel",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Rollespill",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Role playing",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Jocuri de rol",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Ролевая игра",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การเล่นบทบาทสมมติ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Rol Yapma",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Рольові ігри",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Nhập Vai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Roleplay",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Roleplay",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Juego de roles",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Interpretação de personagens",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Rollspel",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "跑团",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "角色扮演",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -590,160 +746,6 @@
                         },
                         "zh-TW": {
                             "value": "遊戲開發者",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Ролева игра",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Roleplay",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Rollespil",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Rollenspiele",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Παιχνίδια ρόλων",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Roolipeli",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Jeux de rôles",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "रोलप्ले",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Roleplay",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Szerepjáték",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Giochi di ruolo",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "なりきり",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "역할 놀이",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Vaidmenų žaidimai",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Rollenspel",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Rollespill",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Role playing",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Jocuri de rol",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Ролевая игра",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "การเล่นบทบาทสมมติ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Rol Yapma",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Рольові ігри",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Nhập Vai",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Roleplay",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Roleplay",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Juego de roles",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Interpretação de personagens",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Rollspel",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "跑团",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "角色扮演",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
