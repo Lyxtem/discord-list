@@ -6,18 +6,18 @@
     "splash": null,
     "discovery_splash": "a4ebea9e8704216ec802f6fbebcae1ad",
     "banner": null,
-    "approximate_presence_count": 2180,
-    "approximate_member_count": 7882,
+    "approximate_presence_count": 2438,
+    "approximate_member_count": 8084,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "jellyfin-772232779534172171",
     "keywords": [
-        "opensource",
+        "github",
         "jellyfin",
         "media-server",
-        "streaming",
+        "opensource",
         "software",
-        "github"
+        "streaming"
     ],
     "features": [
         "COMMUNITY",
@@ -35,22 +35,22 @@
         "icon": "d47114d967d0fe3acaa499d68c3433f0",
         "splash": null,
         "banner": null,
-        "approximate_presence_count": 2180,
-        "approximate_member_count": 7882,
+        "approximate_presence_count": 2438,
+        "approximate_member_count": 8084,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "a4ebea9e8704216ec802f6fbebcae1ad",
         "primary_category_id": 5,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "jellyfin-772232779534172171",
+        "is_published": true,
         "keywords": [
-            "opensource",
+            "github",
             "jellyfin",
             "media-server",
-            "streaming",
+            "opensource",
             "software",
-            "github"
+            "streaming"
         ],
         "features": [
             "COMMUNITY",
@@ -184,9 +184,14 @@
                 "matchLevel": "none",
                 "matchedWords": []
             },
+            "vanity_url_code": {
+                "value": "jellyfin-772232779534172171",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
             "keywords": [
                 {
-                    "value": "opensource",
+                    "value": "github",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -201,7 +206,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "streaming",
+                    "value": "opensource",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -211,7 +216,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "github",
+                    "value": "streaming",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
