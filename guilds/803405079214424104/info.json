@@ -6,22 +6,22 @@
     "splash": "e0c186acbe752a57f90db0a3f3afdebb",
     "discovery_splash": "508a1c6332012ab005a787b660efe1b5",
     "banner": "ef4bad690e73422157099c01fb32ad7e",
-    "approximate_presence_count": 146,
-    "approximate_member_count": 2888,
+    "approximate_presence_count": 121,
+    "approximate_member_count": 2887,
     "premium_subscription_count": 0,
     "preferred_locale": "es-ES",
     "vanity_url_code": "club-de-los-incomprendidos-803405079214424104",
     "keywords": [
-        "Anime FBI",
-        "AnimeYT",
         "anime",
-        "chatear",
+        "bots",
+        "chat",
         "conversar",
         "entretenimiento",
         "jugar",
         "kpop",
-        "nameH",
-        "noticia anime"
+        "musica",
+        "noticia anime",
+        "peliculas"
     ],
     "features": [
         "COMMUNITY",
@@ -40,8 +40,8 @@
         "icon": "a24400fbde617bf7bde2b46808cddc87",
         "splash": "e0c186acbe752a57f90db0a3f3afdebb",
         "banner": "ef4bad690e73422157099c01fb32ad7e",
-        "approximate_presence_count": 146,
-        "approximate_member_count": 2888,
+        "approximate_presence_count": 121,
+        "approximate_member_count": 2887,
         "premium_subscription_count": 0,
         "preferred_locale": "es-ES",
         "auto_removed": false,
@@ -50,16 +50,16 @@
         "vanity_url_code": "club-de-los-incomprendidos-803405079214424104",
         "is_published": true,
         "keywords": [
-            "Anime FBI",
-            "AnimeYT",
             "anime",
-            "chatear",
+            "bots",
+            "chat",
             "conversar",
             "entretenimiento",
             "jugar",
             "kpop",
-            "nameH",
-            "noticia anime"
+            "musica",
+            "noticia anime",
+            "peliculas"
         ],
         "features": [
             "COMMUNITY",
@@ -349,22 +349,17 @@
             },
             "keywords": [
                 {
-                    "value": "Anime FBI",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "AnimeYT",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "anime",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "chatear",
+                    "value": "bots",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "chat",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -389,12 +384,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "nameH",
+                    "value": "musica",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "noticia anime",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "peliculas",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
