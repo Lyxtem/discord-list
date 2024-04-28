@@ -1,22 +1,22 @@
 {
     "id": "660598122749100042",
     "name": "TORE1005",
-    "description": "Discord de la comunidad de tore1005 en twitch",
+    "description": "Discord de la comunidad de TORE1005",
     "icon": "ecff54d389fe5db6d8fbd339781504df",
     "splash": null,
     "discovery_splash": "5c479690cd113f9b0a2a03cf07cdf8a7",
     "banner": null,
-    "approximate_presence_count": 321,
-    "approximate_member_count": 4614,
-    "premium_subscription_count": 1,
+    "approximate_presence_count": 1421,
+    "approximate_member_count": 5009,
+    "premium_subscription_count": 2,
     "preferred_locale": "es-ES",
-    "vanity_url_code": null,
+    "vanity_url_code": "tore1005-660598122749100042",
     "keywords": [
-        "twitch",
-        "youtube",
-        "rust",
         "creador-de-contenido",
-        "tore1005"
+        "rust",
+        "tore1005",
+        "twitch",
+        "youtube"
     ],
     "features": [
         "COMMUNITY",
@@ -30,25 +30,25 @@
     "raw": {
         "id": "660598122749100042",
         "name": "TORE1005",
-        "description": "Discord de la comunidad de tore1005 en twitch",
+        "description": "Discord de la comunidad de TORE1005",
         "icon": "ecff54d389fe5db6d8fbd339781504df",
         "splash": null,
         "banner": null,
-        "approximate_presence_count": 321,
-        "approximate_member_count": 4614,
-        "premium_subscription_count": 1,
+        "approximate_presence_count": 1421,
+        "approximate_member_count": 5009,
+        "premium_subscription_count": 2,
         "preferred_locale": "es-ES",
         "auto_removed": false,
         "discovery_splash": "5c479690cd113f9b0a2a03cf07cdf8a7",
         "primary_category_id": 1,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "tore1005-660598122749100042",
+        "is_published": true,
         "keywords": [
-            "twitch",
-            "youtube",
-            "rust",
             "creador-de-contenido",
-            "tore1005"
+            "rust",
+            "tore1005",
+            "twitch",
+            "youtube"
         ],
         "features": [
             "COMMUNITY",
@@ -178,18 +178,18 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Discord de la comunidad de tore1005 en twitch",
+                "value": "Discord de la comunidad de TORE1005",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "tore1005-660598122749100042",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
                 {
-                    "value": "twitch",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "youtube",
+                    "value": "creador-de-contenido",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -199,12 +199,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "creador-de-contenido",
+                    "value": "tore1005",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "tore1005",
+                    "value": "twitch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "youtube",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

@@ -1,29 +1,28 @@
 {
     "id": "593948695804772352",
     "name": "Newwind",
-    "description": "The official community discord server for newwind survival.",
-    "icon": "a_c03c2c021c15e440239127c14b9dc68f",
-    "splash": "af2783be3581d153a415aac412e63ce6",
-    "discovery_splash": "4d0dc44f7497dd36f695c598487df086",
-    "banner": "e49ce9187a1309362296662657b90f57",
-    "approximate_presence_count": 236,
-    "approximate_member_count": 1617,
-    "premium_subscription_count": 11,
+    "description": "Official Newwind Discord Server",
+    "icon": "a_ef0a5e4408ac6bb87c20a8d5789ebcd9",
+    "splash": "470795b7b39e5d21dccdfb6e6c955fc6",
+    "discovery_splash": "fdbb54a1b066cb39df2b35fd129b6cae",
+    "banner": "2bf4fd6d6ef14b42a98928fdf5a224f1",
+    "approximate_presence_count": 258,
+    "approximate_member_count": 1664,
+    "premium_subscription_count": 7,
     "preferred_locale": "en-US",
     "vanity_url_code": "newwind-593948695804772352",
     "keywords": [
-        "minecraft",
-        "newwind",
-        "minecraft-server",
-        "survival",
         "anarchy",
-        "minecraft-anarchy"
+        "minecraft",
+        "minecraft-anarchy",
+        "minecraft-server",
+        "newwind",
+        "survival"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -32,32 +31,31 @@
     "raw": {
         "id": "593948695804772352",
         "name": "Newwind",
-        "description": "The official community discord server for newwind survival.",
-        "icon": "a_c03c2c021c15e440239127c14b9dc68f",
-        "splash": "af2783be3581d153a415aac412e63ce6",
-        "banner": "e49ce9187a1309362296662657b90f57",
-        "approximate_presence_count": 236,
-        "approximate_member_count": 1617,
-        "premium_subscription_count": 11,
+        "description": "Official Newwind Discord Server",
+        "icon": "a_ef0a5e4408ac6bb87c20a8d5789ebcd9",
+        "splash": "470795b7b39e5d21dccdfb6e6c955fc6",
+        "banner": "2bf4fd6d6ef14b42a98928fdf5a224f1",
+        "approximate_presence_count": 258,
+        "approximate_member_count": 1664,
+        "premium_subscription_count": 7,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "4d0dc44f7497dd36f695c598487df086",
+        "discovery_splash": "fdbb54a1b066cb39df2b35fd129b6cae",
         "primary_category_id": 1,
         "vanity_url_code": "newwind-593948695804772352",
         "is_published": true,
         "keywords": [
-            "minecraft",
-            "newwind",
-            "minecraft-server",
-            "survival",
             "anarchy",
-            "minecraft-anarchy"
+            "minecraft",
+            "minecraft-anarchy",
+            "minecraft-server",
+            "newwind",
+            "survival"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -256,7 +254,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "The official community discord server for newwind survival.",
+                "value": "Official Newwind Discord Server",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -267,12 +265,17 @@
             },
             "keywords": [
                 {
+                    "value": "anarchy",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "minecraft",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "newwind",
+                    "value": "minecraft-anarchy",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -282,17 +285,12 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "newwind",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "survival",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "anarchy",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "minecraft-anarchy",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
