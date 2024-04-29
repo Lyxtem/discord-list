@@ -4,23 +4,23 @@
     "description": "The SkyGen Hub is a MCBE community based around SkyGen servers/realms. Our goal is simply to unite all SkyGens together!",
     "icon": "28d58a7ce982964be5475a147310dd16",
     "splash": null,
-    "discovery_splash": null,
+    "discovery_splash": "447e0cfdd888a45856231d9e7f9fc14a",
     "banner": null,
-    "approximate_presence_count": 537,
-    "approximate_member_count": 3819,
-    "premium_subscription_count": 1,
+    "approximate_presence_count": 512,
+    "approximate_member_count": 3655,
+    "premium_subscription_count": 18,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "skygenhub",
     "keywords": [
-        "skygen",
-        "minecraft",
-        "bedrockedition",
         "bedrock",
+        "bedrockedition",
+        "mcbe",
+        "minecraft",
         "realm",
         "server",
         "skyblock",
-        "stormy",
-        "mcbe"
+        "skygen",
+        "stormy"
     ],
     "features": [
         "COMMUNITY",
@@ -39,25 +39,25 @@
         "icon": "28d58a7ce982964be5475a147310dd16",
         "splash": null,
         "banner": null,
-        "approximate_presence_count": 537,
-        "approximate_member_count": 3819,
-        "premium_subscription_count": 1,
+        "approximate_presence_count": 512,
+        "approximate_member_count": 3655,
+        "premium_subscription_count": 18,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "447e0cfdd888a45856231d9e7f9fc14a",
         "primary_category_id": 1,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "skygenhub",
+        "is_published": true,
         "keywords": [
-            "skygen",
-            "minecraft",
-            "bedrockedition",
             "bedrock",
+            "bedrockedition",
+            "mcbe",
+            "minecraft",
             "realm",
             "server",
             "skyblock",
-            "stormy",
-            "mcbe"
+            "skygen",
+            "stormy"
         ],
         "features": [
             "COMMUNITY",
@@ -266,14 +266,14 @@
                 "matchLevel": "none",
                 "matchedWords": []
             },
+            "vanity_url_code": {
+                "value": "skygenhub",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
             "keywords": [
                 {
-                    "value": "skygen",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "minecraft",
+                    "value": "bedrock",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -283,7 +283,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "bedrock",
+                    "value": "mcbe",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "minecraft",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -303,12 +308,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "stormy",
+                    "value": "skygen",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "mcbe",
+                    "value": "stormy",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

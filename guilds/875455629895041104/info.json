@@ -6,36 +6,18 @@
     "splash": "04983bd849e7a163c2162b69d07a7c40",
     "discovery_splash": null,
     "banner": "994937918543667e9e6be451d1d94ce1",
-    "approximate_presence_count": 142,
-    "approximate_member_count": 3490,
-    "premium_subscription_count": 2,
+    "approximate_presence_count": 166,
+    "approximate_member_count": 3808,
+    "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "petermcpoland",
     "keywords": [],
     "features": [
-        "ANIMATED_BANNER",
-        "ANIMATED_ICON",
-        "AUTO_MODERATION",
-        "BANNER",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "GUILD_ONBOARDING",
-        "GUILD_ONBOARDING_EVER_ENABLED",
-        "GUILD_ONBOARDING_HAS_PROMPTS",
-        "GUILD_SERVER_GUIDE",
-        "INVITE_SPLASH",
-        "MEMBER_PROFILES",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "NEWS",
-        "PREMIUM_TIER_3_OVERRIDE",
         "PREVIEW_ENABLED",
-        "PRIVATE_THREADS",
-        "ROLE_ICONS",
-        "SEVEN_DAY_THREAD_ARCHIVE",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
         "VERIFIED"
     ],
     "partnered": false,
@@ -47,9 +29,9 @@
         "icon": "33daf0add96b893354321a69d8817314",
         "splash": "04983bd849e7a163c2162b69d07a7c40",
         "banner": "994937918543667e9e6be451d1d94ce1",
-        "approximate_presence_count": 142,
-        "approximate_member_count": 3490,
-        "premium_subscription_count": 2,
+        "approximate_presence_count": 166,
+        "approximate_member_count": 3808,
+        "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": null,
@@ -58,30 +40,44 @@
         "is_published": false,
         "keywords": [],
         "features": [
-            "ANIMATED_BANNER",
-            "ANIMATED_ICON",
-            "AUTO_MODERATION",
-            "BANNER",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "GUILD_ONBOARDING",
-            "GUILD_ONBOARDING_EVER_ENABLED",
-            "GUILD_ONBOARDING_HAS_PROMPTS",
-            "GUILD_SERVER_GUIDE",
-            "INVITE_SPLASH",
-            "MEMBER_PROFILES",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "NEWS",
-            "PREMIUM_TIER_3_OVERRIDE",
             "PREVIEW_ENABLED",
-            "PRIVATE_THREADS",
-            "ROLE_ICONS",
-            "SEVEN_DAY_THREAD_ARCHIVE",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
             "VERIFIED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "875455629895041104",
+        "_highlightResult": {
+            "name": {
+                "value": "Peter McPoland",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "petermcpoland",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }
