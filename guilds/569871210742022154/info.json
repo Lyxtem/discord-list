@@ -6,25 +6,27 @@
     "splash": "d6a26950dabb0a44c1826d49584ed94b",
     "discovery_splash": "d6a26950dabb0a44c1826d49584ed94b",
     "banner": "ca21e788fe86371048250f448ed6a09b",
-    "approximate_presence_count": 225,
-    "approximate_member_count": 6904,
+    "approximate_presence_count": 1000,
+    "approximate_member_count": 6936,
     "premium_subscription_count": 0,
     "preferred_locale": "pl",
     "vanity_url_code": "maly-swiat-569871210742022154",
     "keywords": [
         "Active",
+        "Anime",
         "Community",
         "Gaming",
-        "MS",
+        "Gry",
         "Mały Świat",
         "Memy",
-        "Poland"
+        "Poland",
+        "Polska",
+        "Rozmowy"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED"
     ],
     "partnered": false,
@@ -36,8 +38,8 @@
         "icon": "dbf17a7d3171494f53cf08cac356d45a",
         "splash": "d6a26950dabb0a44c1826d49584ed94b",
         "banner": "ca21e788fe86371048250f448ed6a09b",
-        "approximate_presence_count": 225,
-        "approximate_member_count": 6904,
+        "approximate_presence_count": 1000,
+        "approximate_member_count": 6936,
         "premium_subscription_count": 0,
         "preferred_locale": "pl",
         "auto_removed": false,
@@ -47,18 +49,20 @@
         "is_published": true,
         "keywords": [
             "Active",
+            "Anime",
             "Community",
             "Gaming",
-            "MS",
+            "Gry",
             "Mały Świat",
             "Memy",
-            "Poland"
+            "Poland",
+            "Polska",
+            "Rozmowy"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED"
         ],
         "categories": [
@@ -309,6 +313,11 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "Anime",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "Community",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -319,7 +328,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "MS",
+                    "value": "Gry",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -335,6 +344,16 @@
                 },
                 {
                     "value": "Poland",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Polska",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Rozmowy",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

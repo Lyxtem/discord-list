@@ -4,24 +4,24 @@
     "description": "A very customizable multipurpose bot for welcome image, In-depth logs, Social commands, Moderation and many more!",
     "icon": "0fd733fa3766a99326c26ae8fc62ea4a",
     "splash": null,
-    "discovery_splash": "0487bae6c21b6a90d41976f1f5837aaa",
+    "discovery_splash": "b0f2d1febf3b489b14fae73a97e337f3",
     "banner": "48235dad5db72285d70f962ba62e1339",
-    "approximate_presence_count": 27454,
-    "approximate_member_count": 200546,
-    "premium_subscription_count": 111,
+    "approximate_presence_count": 20916,
+    "approximate_member_count": 200571,
+    "premium_subscription_count": 112,
     "preferred_locale": "en-US",
     "vanity_url_code": "probot",
     "keywords": [
-        "بروبوت",
-        "bot",
         "arabic",
-        "support",
+        "bot",
         "pro",
-        "برو",
         "pro bot",
-        "probotsupport",
         "pro bot support",
-        "probot"
+        "probot",
+        "probotsupport",
+        "support",
+        "برو",
+        "بروبوت"
     ],
     "features": [
         "COMMUNITY",
@@ -41,26 +41,26 @@
         "icon": "0fd733fa3766a99326c26ae8fc62ea4a",
         "splash": null,
         "banner": "48235dad5db72285d70f962ba62e1339",
-        "approximate_presence_count": 27454,
-        "approximate_member_count": 200546,
-        "premium_subscription_count": 111,
+        "approximate_presence_count": 20916,
+        "approximate_member_count": 200571,
+        "premium_subscription_count": 112,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "0487bae6c21b6a90d41976f1f5837aaa",
+        "discovery_splash": "b0f2d1febf3b489b14fae73a97e337f3",
         "primary_category_id": 49,
         "vanity_url_code": "probot",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
-            "بروبوت",
-            "bot",
             "arabic",
-            "support",
+            "bot",
             "pro",
-            "برو",
             "pro bot",
-            "probotsupport",
             "pro bot support",
-            "probot"
+            "probot",
+            "probotsupport",
+            "support",
+            "برو",
+            "بروبوت"
         ],
         "features": [
             "COMMUNITY",
@@ -240,7 +240,7 @@
             },
             "keywords": [
                 {
-                    "value": "بروبوت",
+                    "value": "arabic",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -250,32 +250,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "arabic",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "support",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "pro",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "برو",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "pro bot",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "probotsupport",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -286,6 +266,26 @@
                 },
                 {
                     "value": "probot",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "probotsupport",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "support",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "برو",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "بروبوت",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

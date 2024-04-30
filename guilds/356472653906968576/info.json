@@ -4,21 +4,21 @@
     "description": "Discord oficial do Mush! Entre já: jogar.mush.com.br no Minecraft",
     "icon": "a_8bfdcdc229f5a303b13199b725d5cf5b",
     "splash": "f9a1fcdaf987a213ea3a8356b1623aa6",
-    "discovery_splash": "4b074b5d6cd0121eea3f5062bf48b8d0",
+    "discovery_splash": "f9a1fcdaf987a213ea3a8356b1623aa6",
     "banner": "2ba5ee37fc220e9a9e8a781bb3466131",
-    "approximate_presence_count": 11274,
-    "approximate_member_count": 105370,
-    "premium_subscription_count": 401,
+    "approximate_presence_count": 14526,
+    "approximate_member_count": 105674,
+    "premium_subscription_count": 397,
     "preferred_locale": "pt-BR",
     "vanity_url_code": "mush",
     "keywords": [
         "Minecraft",
         "Mush",
         "MushMC",
-        "servidor",
-        "pvp",
-        "hg",
         "bedwars",
+        "hg",
+        "pvp",
+        "servidor",
         "skywars"
     ],
     "features": [
@@ -37,12 +37,12 @@
         "icon": "a_8bfdcdc229f5a303b13199b725d5cf5b",
         "splash": "f9a1fcdaf987a213ea3a8356b1623aa6",
         "banner": "2ba5ee37fc220e9a9e8a781bb3466131",
-        "approximate_presence_count": 11274,
-        "approximate_member_count": 105370,
-        "premium_subscription_count": 401,
+        "approximate_presence_count": 14526,
+        "approximate_member_count": 105674,
+        "premium_subscription_count": 397,
         "preferred_locale": "pt-BR",
         "auto_removed": false,
-        "discovery_splash": "4b074b5d6cd0121eea3f5062bf48b8d0",
+        "discovery_splash": "f9a1fcdaf987a213ea3a8356b1623aa6",
         "primary_category_id": 1,
         "vanity_url_code": "mush",
         "is_published": false,
@@ -50,10 +50,10 @@
             "Minecraft",
             "Mush",
             "MushMC",
-            "servidor",
-            "pvp",
-            "hg",
             "bedwars",
+            "hg",
+            "pvp",
+            "servidor",
             "skywars"
         ],
         "features": [
@@ -210,12 +210,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "servidor",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "pvp",
+                    "value": "bedwars",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -225,7 +220,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "bedwars",
+                    "value": "pvp",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "servidor",
                     "matchLevel": "none",
                     "matchedWords": []
                 },

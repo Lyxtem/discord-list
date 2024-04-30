@@ -2,12 +2,12 @@
     "id": "820056640417038356",
     "name": "Due Diligence",
     "description": "Crowdsourcing research and high-quality due diligence on misunderstood stocks.",
-    "icon": "a_20ade441d24a03dbc7843c8da93c142c",
-    "splash": "4f23d70d166cc61ce3aeff66ba22e717",
+    "icon": "a_5c1dc3d9d407886a21c9846d4b0f3807",
+    "splash": "1482a9e567202b3286efb03d05db4a10",
     "discovery_splash": "07be6245f8e0dbc72fe85104d07b19e0",
-    "banner": "5892c0892945a3e7f839752d71a7b09d",
-    "approximate_presence_count": 839,
-    "approximate_member_count": 7260,
+    "banner": "a_187782c906aa49f3b8200b55d19e643e",
+    "approximate_presence_count": 718,
+    "approximate_member_count": 6992,
     "premium_subscription_count": 15,
     "preferred_locale": "en-US",
     "vanity_url_code": "gmedd",
@@ -24,36 +24,12 @@
         "gmedd.com"
     ],
     "features": [
-        "ANIMATED_BANNER",
-        "ANIMATED_ICON",
-        "AUTO_MODERATION",
-        "BANNER",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "CREATOR_ACCEPTED_NEW_TERMS",
-        "CREATOR_MONETIZABLE",
-        "CREATOR_STORE_PAGE",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "GUILD_HOME_TEST",
-        "GUILD_WEB_PAGE_VANITY_URL",
-        "INVITE_SPLASH",
-        "MEMBER_PROFILES",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "NEWS",
-        "NEW_THREAD_PERMISSIONS",
         "PARTNERED",
         "PREVIEW_ENABLED",
-        "PRIVATE_THREADS",
-        "ROLE_ICONS",
-        "ROLE_SUBSCRIPTIONS_AVAILABLE_FOR_PURCHASE",
-        "ROLE_SUBSCRIPTIONS_ENABLED",
-        "SEVEN_DAY_THREAD_ARCHIVE",
-        "TEXT_IN_VOICE_ENABLED",
-        "THREADS_ENABLED",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
-        "VIP_REGIONS",
         "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": true,
@@ -62,11 +38,11 @@
         "id": "820056640417038356",
         "name": "Due Diligence",
         "description": "Crowdsourcing research and high-quality due diligence on misunderstood stocks.",
-        "icon": "a_20ade441d24a03dbc7843c8da93c142c",
-        "splash": "4f23d70d166cc61ce3aeff66ba22e717",
-        "banner": "5892c0892945a3e7f839752d71a7b09d",
-        "approximate_presence_count": 839,
-        "approximate_member_count": 7260,
+        "icon": "a_5c1dc3d9d407886a21c9846d4b0f3807",
+        "splash": "1482a9e567202b3286efb03d05db4a10",
+        "banner": "a_187782c906aa49f3b8200b55d19e643e",
+        "approximate_presence_count": 718,
+        "approximate_member_count": 6992,
         "premium_subscription_count": 15,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -87,37 +63,498 @@
             "gmedd.com"
         ],
         "features": [
-            "ANIMATED_BANNER",
-            "ANIMATED_ICON",
-            "AUTO_MODERATION",
-            "BANNER",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "CREATOR_ACCEPTED_NEW_TERMS",
-            "CREATOR_MONETIZABLE",
-            "CREATOR_STORE_PAGE",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "GUILD_HOME_TEST",
-            "GUILD_WEB_PAGE_VANITY_URL",
-            "INVITE_SPLASH",
-            "MEMBER_PROFILES",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "NEWS",
-            "NEW_THREAD_PERMISSIONS",
             "PARTNERED",
             "PREVIEW_ENABLED",
-            "PRIVATE_THREADS",
-            "ROLE_ICONS",
-            "ROLE_SUBSCRIPTIONS_AVAILABLE_FOR_PURCHASE",
-            "ROLE_SUBSCRIPTIONS_ENABLED",
-            "SEVEN_DAY_THREAD_ARCHIVE",
-            "TEXT_IN_VOICE_ENABLED",
-            "THREADS_ENABLED",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
-            "VIP_REGIONS",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
+                }
+            },
+            {
+                "id": 12,
+                "is_primary": true,
+                "name": "Finance",
+                "name_localizations": {
+                    "bg": "Финанси",
+                    "cs": "Finance",
+                    "da": "Finans",
+                    "de": "Finanzen",
+                    "el": "Οικονομία",
+                    "fi": "Talous",
+                    "fr": "Finance",
+                    "hi": "फ़ाइनेंस",
+                    "hr": "Financije",
+                    "hu": "Pénzügyek",
+                    "it": "Finanza",
+                    "ja": "ファイナンス",
+                    "ko": "금융",
+                    "lt": "Finansai",
+                    "nl": "Financiën",
+                    "no": "Økonomi",
+                    "pl": "Finanse",
+                    "ro": "Finanțe",
+                    "ru": "Финансы",
+                    "th": "การเงิน",
+                    "tr": "Finans",
+                    "uk": "Фінанси",
+                    "vi": "Tài Chính",
+                    "en-GB": "Finance",
+                    "en-US": "Finance",
+                    "es-ES": "Finanzas",
+                    "pt-BR": "Finanças",
+                    "sv-SE": "Ekonomi",
+                    "zh-CN": "理财",
+                    "zh-TW": "財經"
+                }
+            }
+        ],
+        "primary_category": {
+            "id": 12,
+            "is_primary": true,
+            "name": "Finance",
+            "name_localizations": {
+                "bg": "Финанси",
+                "cs": "Finance",
+                "da": "Finans",
+                "de": "Finanzen",
+                "el": "Οικονομία",
+                "fi": "Talous",
+                "fr": "Finance",
+                "hi": "फ़ाइनेंस",
+                "hr": "Financije",
+                "hu": "Pénzügyek",
+                "it": "Finanza",
+                "ja": "ファイナンス",
+                "ko": "금융",
+                "lt": "Finansai",
+                "nl": "Financiën",
+                "no": "Økonomi",
+                "pl": "Finanse",
+                "ro": "Finanțe",
+                "ru": "Финансы",
+                "th": "การเงิน",
+                "tr": "Finans",
+                "uk": "Фінанси",
+                "vi": "Tài Chính",
+                "en-GB": "Finance",
+                "en-US": "Finance",
+                "es-ES": "Finanzas",
+                "pt-BR": "Finanças",
+                "sv-SE": "Ekonomi",
+                "zh-CN": "理财",
+                "zh-TW": "財經"
+            }
+        },
+        "objectID": "820056640417038356",
+        "_highlightResult": {
+            "name": {
+                "value": "Due Diligence",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "Crowdsourcing research and high-quality due diligence on misunderstood stocks.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "gmedd",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "keywords": [
+                {
+                    "value": "Gamestop",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Investing",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "meme stocks",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "stocks",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "stock market",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "GME",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "stonk",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "robinhood",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "gmedd",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "gmedd.com",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            ],
+            "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Финанси",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Finance",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Finans",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Finanzen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Οικονομία",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Talous",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Finance",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "फ़ाइनेंस",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Financije",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Pénzügyek",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Finanza",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "ファイナンス",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "금융",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Finansai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Financiën",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Økonomi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Finanse",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Finanțe",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Финансы",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การเงิน",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Finans",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Фінанси",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Tài Chính",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Finance",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Finance",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Finanzas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Finanças",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Ekonomi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "理财",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "財經",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                }
+            ],
+            "primary_category": {
+                "name_localizations": {
+                    "bg": {
+                        "value": "Финанси",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "cs": {
+                        "value": "Finance",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "da": {
+                        "value": "Finans",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "de": {
+                        "value": "Finanzen",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "el": {
+                        "value": "Οικονομία",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "fi": {
+                        "value": "Talous",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "fr": {
+                        "value": "Finance",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hi": {
+                        "value": "फ़ाइनेंस",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hr": {
+                        "value": "Financije",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hu": {
+                        "value": "Pénzügyek",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "it": {
+                        "value": "Finanza",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ja": {
+                        "value": "ファイナンス",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ko": {
+                        "value": "금융",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "lt": {
+                        "value": "Finansai",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "nl": {
+                        "value": "Financiën",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "no": {
+                        "value": "Økonomi",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "pl": {
+                        "value": "Finanse",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ro": {
+                        "value": "Finanțe",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ru": {
+                        "value": "Финансы",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "th": {
+                        "value": "การเงิน",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "tr": {
+                        "value": "Finans",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "uk": {
+                        "value": "Фінанси",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "vi": {
+                        "value": "Tài Chính",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "en-GB": {
+                        "value": "Finance",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "en-US": {
+                        "value": "Finance",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "es-ES": {
+                        "value": "Finanzas",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "pt-BR": {
+                        "value": "Finanças",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "sv-SE": {
+                        "value": "Ekonomi",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "zh-CN": {
+                        "value": "理财",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "zh-TW": {
+                        "value": "財經",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    }
+                }
+            }
+        }
     }
 }

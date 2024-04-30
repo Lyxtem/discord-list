@@ -6,28 +6,18 @@
     "splash": "44e31fa8b350305a6c80bb9aed72e4dc",
     "discovery_splash": "44e31fa8b350305a6c80bb9aed72e4dc",
     "banner": null,
-    "approximate_presence_count": 1850,
-    "approximate_member_count": 6211,
+    "approximate_presence_count": 1784,
+    "approximate_member_count": 6460,
     "premium_subscription_count": 3,
     "preferred_locale": "en-US",
     "vanity_url_code": "wizardoflegend",
     "keywords": [],
     "features": [
-        "ANIMATED_ICON",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_MEDIUM",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
         "FEATURABLE",
-        "INVITE_SPLASH",
-        "NEWS",
-        "NEW_THREAD_PERMISSIONS",
         "PREVIEW_ENABLED",
-        "SOUNDBOARD",
-        "THREADS_ENABLED",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
         "VERIFIED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -40,8 +30,8 @@
         "icon": "851f8ed5f36b126ede464fed952e908d",
         "splash": "44e31fa8b350305a6c80bb9aed72e4dc",
         "banner": null,
-        "approximate_presence_count": 1850,
-        "approximate_member_count": 6211,
+        "approximate_presence_count": 1784,
+        "approximate_member_count": 6460,
         "premium_subscription_count": 3,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -51,23 +41,45 @@
         "is_published": false,
         "keywords": [],
         "features": [
-            "ANIMATED_ICON",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_MEDIUM",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
             "FEATURABLE",
-            "INVITE_SPLASH",
-            "NEWS",
-            "NEW_THREAD_PERMISSIONS",
             "PREVIEW_ENABLED",
-            "SOUNDBOARD",
-            "THREADS_ENABLED",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
             "VERIFIED",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "421800263167246339",
+        "_highlightResult": {
+            "name": {
+                "value": "Wizard of Legend",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "Join the Wizard of Legend community!",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "wizardoflegend",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }

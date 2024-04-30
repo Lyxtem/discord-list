@@ -6,22 +6,22 @@
     "splash": "f0e449700e4f0657153e1190f098de1d",
     "discovery_splash": "568d912e11a2b12af494a4f5ca70dfc2",
     "banner": "842d91a692111edb27b59dc0b3872801",
-    "approximate_presence_count": 746,
-    "approximate_member_count": 8281,
-    "premium_subscription_count": 11,
+    "approximate_presence_count": 530,
+    "approximate_member_count": 8248,
+    "premium_subscription_count": 9,
     "preferred_locale": "tr",
     "vanity_url_code": null,
     "keywords": [
-        "filmler ve filimler",
-        "film",
-        "filim",
-        "movies and tv",
-        "game",
-        "memes",
-        "taha ulukaya",
         "eleştirel parodi",
         "eleştiri",
-        "parodi"
+        "filim",
+        "film",
+        "filmler ve filimler",
+        "game",
+        "memes",
+        "movies and tv",
+        "parodi",
+        "taha ulukaya"
     ],
     "features": [
         "COMMUNITY",
@@ -39,9 +39,9 @@
         "icon": "a_14e6c1300d386dd734e3a6a5509909d4",
         "splash": "f0e449700e4f0657153e1190f098de1d",
         "banner": "842d91a692111edb27b59dc0b3872801",
-        "approximate_presence_count": 746,
-        "approximate_member_count": 8281,
-        "premium_subscription_count": 11,
+        "approximate_presence_count": 530,
+        "approximate_member_count": 8248,
+        "premium_subscription_count": 9,
         "preferred_locale": "tr",
         "auto_removed": false,
         "discovery_splash": "568d912e11a2b12af494a4f5ca70dfc2",
@@ -49,16 +49,16 @@
         "vanity_url_code": null,
         "is_published": false,
         "keywords": [
-            "filmler ve filimler",
-            "film",
-            "filim",
-            "movies and tv",
-            "game",
-            "memes",
-            "taha ulukaya",
             "eleştirel parodi",
             "eleştiri",
-            "parodi"
+            "filim",
+            "film",
+            "filmler ve filimler",
+            "game",
+            "memes",
+            "movies and tv",
+            "parodi",
+            "taha ulukaya"
         ],
         "features": [
             "COMMUNITY",
@@ -231,12 +231,12 @@
             },
             "keywords": [
                 {
-                    "value": "filmler ve filimler",
+                    "value": "eleştirel parodi",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "film",
+                    "value": "eleştiri",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -246,7 +246,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "movies and tv",
+                    "value": "film",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "filmler ve filimler",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -261,22 +266,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "taha ulukaya",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "eleştirel parodi",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "eleştiri",
+                    "value": "movies and tv",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "parodi",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "taha ulukaya",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
