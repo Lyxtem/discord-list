@@ -3,14 +3,14 @@
     "name": "5M Leaks Bulgaria",
     "description": "FiveM Scripts",
     "icon": "ae890926f95a6508f76dd46c669cc251",
-    "splash": null,
+    "splash": "f20b7f39d234f5dea8e8f09b61de9487",
     "discovery_splash": null,
-    "banner": null,
-    "approximate_presence_count": 206,
-    "approximate_member_count": 1143,
-    "premium_subscription_count": 9,
+    "banner": "8a27db2d271a6cb75da718fa63d8750c",
+    "approximate_presence_count": 427,
+    "approximate_member_count": 3106,
+    "premium_subscription_count": 23,
     "preferred_locale": "bg",
-    "vanity_url_code": null,
+    "vanity_url_code": "5mleaksbulgaria",
     "keywords": [
         "fivem",
         "scripts",
@@ -21,6 +21,7 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED"
     ],
     "partnered": false,
@@ -30,16 +31,16 @@
         "name": "5M Leaks Bulgaria",
         "description": "FiveM Scripts",
         "icon": "ae890926f95a6508f76dd46c669cc251",
-        "splash": null,
-        "banner": null,
-        "approximate_presence_count": 206,
-        "approximate_member_count": 1143,
-        "premium_subscription_count": 9,
+        "splash": "f20b7f39d234f5dea8e8f09b61de9487",
+        "banner": "8a27db2d271a6cb75da718fa63d8750c",
+        "approximate_presence_count": 427,
+        "approximate_member_count": 3106,
+        "premium_subscription_count": 23,
         "preferred_locale": "bg",
         "auto_removed": false,
         "discovery_splash": null,
         "primary_category_id": 1,
-        "vanity_url_code": null,
+        "vanity_url_code": "5mleaksbulgaria",
         "is_published": false,
         "keywords": [
             "fivem",
@@ -51,6 +52,7 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED"
         ],
         "categories": [
@@ -138,6 +140,11 @@
             },
             "description": {
                 "value": "FiveM Scripts",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "5mleaksbulgaria",
                 "matchLevel": "none",
                 "matchedWords": []
             },

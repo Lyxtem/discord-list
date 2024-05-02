@@ -6,27 +6,28 @@
     "splash": "98844708e212a9c4cae6f5a4771b7034",
     "discovery_splash": "5b7734b1fffca01369e75571179e7683",
     "banner": null,
-    "approximate_presence_count": 846,
-    "approximate_member_count": 2700,
-    "premium_subscription_count": 4,
+    "approximate_presence_count": 535,
+    "approximate_member_count": 2852,
+    "premium_subscription_count": 2,
     "preferred_locale": "fr",
     "vanity_url_code": "russian-fishing-4-fr-611104383337365504",
     "keywords": [
-        "rf4",
-        "pêche",
-        "russianfishing4",
-        "support",
         "carpe",
+        "events",
         "fishing",
         "gaming",
         "jeuxvideo",
-        "twitch",
-        "events"
+        "pêche",
+        "rf4",
+        "russianfishing4",
+        "support",
+        "twitch"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -39,9 +40,9 @@
         "icon": "3a94c8912c3ed70439b59aa1cf2827e6",
         "splash": "98844708e212a9c4cae6f5a4771b7034",
         "banner": null,
-        "approximate_presence_count": 846,
-        "approximate_member_count": 2700,
-        "premium_subscription_count": 4,
+        "approximate_presence_count": 535,
+        "approximate_member_count": 2852,
+        "premium_subscription_count": 2,
         "preferred_locale": "fr",
         "auto_removed": false,
         "discovery_splash": "5b7734b1fffca01369e75571179e7683",
@@ -49,21 +50,22 @@
         "vanity_url_code": "russian-fishing-4-fr-611104383337365504",
         "is_published": true,
         "keywords": [
-            "rf4",
-            "pêche",
-            "russianfishing4",
-            "support",
             "carpe",
+            "events",
             "fishing",
             "gaming",
             "jeuxvideo",
-            "twitch",
-            "events"
+            "pêche",
+            "rf4",
+            "russianfishing4",
+            "support",
+            "twitch"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -310,27 +312,12 @@
             },
             "keywords": [
                 {
-                    "value": "rf4",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "pêche",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "russianfishing4",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "support",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "carpe",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "events",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -350,12 +337,27 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "twitch",
+                    "value": "pêche",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "events",
+                    "value": "rf4",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "russianfishing4",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "support",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "twitch",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

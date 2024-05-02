@@ -1,27 +1,27 @@
 {
     "id": "626245435979202573",
     "name": "Nexus Server",
-    "description": "Democratically run Paradox-Focused Game Server.",
+    "description": "",
     "icon": "78909d1c52cac3158b09064b982b3796",
     "splash": "c0f596a5dfb280c98266db04690ed6fc",
     "discovery_splash": "1992c3e576df3f79f942aa40a5c9d42b",
     "banner": "b8c96f5f9beca860b9ba533ebffd0921",
-    "approximate_presence_count": 809,
-    "approximate_member_count": 2886,
-    "premium_subscription_count": 6,
+    "approximate_presence_count": 762,
+    "approximate_member_count": 2906,
+    "premium_subscription_count": 7,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
     "keywords": [
-        "hoi4",
-        "eu4",
-        "paradox",
-        "vic3",
-        "gaming",
-        "nexus",
-        "leaderboard",
         "competitive",
+        "gaming",
+        "hell divers 2",
+        "helldivers",
+        "history",
+        "hoi4",
         "hosts",
-        "history"
+        "leaderboard",
+        "nexus",
+        "paradox"
     ],
     "features": [
         "COMMUNITY",
@@ -36,13 +36,13 @@
     "raw": {
         "id": "626245435979202573",
         "name": "Nexus Server",
-        "description": "Democratically run Paradox-Focused Game Server.",
+        "description": "",
         "icon": "78909d1c52cac3158b09064b982b3796",
         "splash": "c0f596a5dfb280c98266db04690ed6fc",
         "banner": "b8c96f5f9beca860b9ba533ebffd0921",
-        "approximate_presence_count": 809,
-        "approximate_member_count": 2886,
-        "premium_subscription_count": 6,
+        "approximate_presence_count": 762,
+        "approximate_member_count": 2906,
+        "premium_subscription_count": 7,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "1992c3e576df3f79f942aa40a5c9d42b",
@@ -50,16 +50,16 @@
         "vanity_url_code": null,
         "is_published": false,
         "keywords": [
-            "hoi4",
-            "eu4",
-            "paradox",
-            "vic3",
-            "gaming",
-            "nexus",
-            "leaderboard",
             "competitive",
+            "gaming",
+            "hell divers 2",
+            "helldivers",
+            "history",
+            "hoi4",
             "hosts",
-            "history"
+            "leaderboard",
+            "nexus",
+            "paradox"
         ],
         "features": [
             "COMMUNITY",
@@ -190,28 +190,13 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Democratically run Paradox-Focused Game Server.",
+                "value": "",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
                 {
-                    "value": "hoi4",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "eu4",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "paradox",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "vic3",
+                    "value": "competitive",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -221,17 +206,22 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "nexus",
+                    "value": "hell divers 2",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "leaderboard",
+                    "value": "helldivers",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "competitive",
+                    "value": "history",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "hoi4",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -241,7 +231,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "history",
+                    "value": "leaderboard",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "nexus",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "paradox",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

@@ -6,11 +6,11 @@
     "splash": "8020cb19836062e166e3594fad20883f",
     "discovery_splash": null,
     "banner": "b23710e1fe192f97612c9b8fab1a993c",
-    "approximate_presence_count": 625,
-    "approximate_member_count": 3328,
+    "approximate_presence_count": 622,
+    "approximate_member_count": 3346,
     "premium_subscription_count": 14,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "owconsole",
     "keywords": [
         "overwatch",
         "console",
@@ -39,14 +39,14 @@
         "icon": "99caeafcdd4cd6ccb800d13616d85535",
         "splash": "8020cb19836062e166e3594fad20883f",
         "banner": "b23710e1fe192f97612c9b8fab1a993c",
-        "approximate_presence_count": 625,
-        "approximate_member_count": 3328,
+        "approximate_presence_count": 622,
+        "approximate_member_count": 3346,
         "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": null,
         "primary_category_id": 1,
-        "vanity_url_code": null,
+        "vanity_url_code": "owconsole",
         "is_published": false,
         "keywords": [
             "overwatch",
@@ -152,6 +152,11 @@
             },
             "description": {
                 "value": "The home for console Overwatch players!",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "owconsole",
                 "matchLevel": "none",
                 "matchedWords": []
             },

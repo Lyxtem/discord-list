@@ -6,9 +6,9 @@
     "splash": "2c9d00736c06ee0d4959631c8c17f6bd",
     "discovery_splash": "2c9d00736c06ee0d4959631c8c17f6bd",
     "banner": "f0a99282a69d1e4c9b33a752c1d5ed2d",
-    "approximate_presence_count": 876,
-    "approximate_member_count": 3807,
-    "premium_subscription_count": 15,
+    "approximate_presence_count": 910,
+    "approximate_member_count": 3897,
+    "premium_subscription_count": 14,
     "preferred_locale": "en-US",
     "vanity_url_code": "tsaoshin",
     "keywords": [
@@ -24,33 +24,11 @@
         "howtodraw"
     ],
     "features": [
-        "ANIMATED_BANNER",
-        "ANIMATED_ICON",
-        "AUTO_MODERATION",
-        "BANNER",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_MEDIUM",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "GUILD_ONBOARDING",
-        "GUILD_ONBOARDING_EVER_ENABLED",
-        "GUILD_ONBOARDING_HAS_PROMPTS",
-        "INVITE_SPLASH",
-        "MEMBER_PROFILES",
-        "NEWS",
-        "NEW_THREAD_PERMISSIONS",
         "PARTNERED",
         "PREVIEW_ENABLED",
-        "PRIVATE_THREADS",
-        "ROLE_ICONS",
-        "SEVEN_DAY_THREAD_ARCHIVE",
-        "SOUNDBOARD",
-        "TEXT_IN_VOICE_ENABLED",
-        "THREADS_ENABLED",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
-        "VIP_REGIONS",
         "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": true,
@@ -62,9 +40,9 @@
         "icon": "a_20f7db8697040443a0ad0f6fa68d329c",
         "splash": "2c9d00736c06ee0d4959631c8c17f6bd",
         "banner": "f0a99282a69d1e4c9b33a752c1d5ed2d",
-        "approximate_presence_count": 876,
-        "approximate_member_count": 3807,
-        "premium_subscription_count": 15,
+        "approximate_presence_count": 910,
+        "approximate_member_count": 3897,
+        "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "2c9d00736c06ee0d4959631c8c17f6bd",
@@ -84,34 +62,1232 @@
             "howtodraw"
         ],
         "features": [
-            "ANIMATED_BANNER",
-            "ANIMATED_ICON",
-            "AUTO_MODERATION",
-            "BANNER",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_MEDIUM",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "GUILD_ONBOARDING",
-            "GUILD_ONBOARDING_EVER_ENABLED",
-            "GUILD_ONBOARDING_HAS_PROMPTS",
-            "INVITE_SPLASH",
-            "MEMBER_PROFILES",
-            "NEWS",
-            "NEW_THREAD_PERMISSIONS",
             "PARTNERED",
             "PREVIEW_ENABLED",
-            "PRIVATE_THREADS",
-            "ROLE_ICONS",
-            "SEVEN_DAY_THREAD_ARCHIVE",
-            "SOUNDBOARD",
-            "TEXT_IN_VOICE_ENABLED",
-            "THREADS_ENABLED",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
-            "VIP_REGIONS",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 4,
+                "is_primary": true,
+                "name": "Creative Arts",
+                "name_localizations": {
+                    "bg": "Художествени изкуства",
+                    "cs": "Umění",
+                    "da": "Kreativt",
+                    "de": "Kreative Künste",
+                    "el": "Δημιουργικές τέχνες",
+                    "fi": "Luovat alat",
+                    "fr": "Arts créatifs",
+                    "hi": "क्रिएटिव आर्ट",
+                    "hr": "Umjetnost i rukotvorine",
+                    "hu": "Kreatív művészetek",
+                    "it": "Arti creative",
+                    "ja": "クリエイティブアート",
+                    "ko": "창작 예술",
+                    "lt": "Kūrybiniai menai",
+                    "nl": "Beeldende kunst",
+                    "no": "Kreativt arbeid",
+                    "pl": "Twórczość artystyczna",
+                    "ro": "Arte creative",
+                    "ru": "Искусство",
+                    "th": "นฤมิตศิลป์",
+                    "tr": "Yaratıcı Sanatlar",
+                    "uk": "Креативне мистецтво",
+                    "vi": "Nghệ Thuật Sáng Tạo",
+                    "en-GB": "Creative Arts",
+                    "en-US": "Creative Arts",
+                    "es-ES": "Artes creativas",
+                    "pt-BR": "Artes",
+                    "sv-SE": "Kultur",
+                    "zh-CN": "创意美术",
+                    "zh-TW": "創作藝術"
+                }
+            },
+            {
+                "id": 6,
+                "is_primary": true,
+                "name": "Education",
+                "name_localizations": {
+                    "bg": "Образование",
+                    "cs": "Vzdělávání",
+                    "da": "Uddannelse",
+                    "de": "Bildung",
+                    "el": "Εκπαίδευση",
+                    "fi": "Koulutus",
+                    "fr": "Éducation",
+                    "hi": "एजुकेशन",
+                    "hr": "Obrazovanje",
+                    "hu": "Oktatás",
+                    "it": "Istruzione",
+                    "ja": "教育",
+                    "ko": "교육",
+                    "lt": "Švietimas",
+                    "nl": "Onderwijs",
+                    "no": "Utdanning",
+                    "pl": "Edukacja",
+                    "ro": "Educație",
+                    "ru": "Образование",
+                    "th": "การศึกษา",
+                    "tr": "Eğitim",
+                    "uk": "Освіта",
+                    "vi": "Giáo Dục",
+                    "en-GB": "Education",
+                    "en-US": "Education",
+                    "es-ES": "Educación",
+                    "pt-BR": "Educação",
+                    "sv-SE": "Utbildning",
+                    "zh-CN": "教育",
+                    "zh-TW": "教育"
+                }
+            },
+            {
+                "id": 19,
+                "is_primary": false,
+                "name": "Art",
+                "name_localizations": {
+                    "bg": "Изкуство",
+                    "cs": "Umění",
+                    "da": "Kunst",
+                    "de": "Kunst",
+                    "el": "Τέχνη",
+                    "fi": "Taide",
+                    "fr": "Art",
+                    "hi": "आर्ट",
+                    "hr": "Umjetnost",
+                    "hu": "Művészet",
+                    "it": "Arte",
+                    "ja": "アート",
+                    "ko": "예술",
+                    "lt": "Menas",
+                    "nl": "Kunst",
+                    "no": "Kunst",
+                    "pl": "Sztuka",
+                    "ro": "Artă",
+                    "ru": "Творчество",
+                    "th": "ศิลปะ",
+                    "tr": "Sanat",
+                    "uk": "Мистецтво",
+                    "vi": "Nghệ Thuật",
+                    "en-GB": "Art",
+                    "en-US": "Art",
+                    "es-ES": "Arte",
+                    "pt-BR": "Arte",
+                    "sv-SE": "Konst",
+                    "zh-CN": "艺术",
+                    "zh-TW": "藝術"
+                }
+            },
+            {
+                "id": 21,
+                "is_primary": false,
+                "name": "Crafts, DIY, & Making",
+                "name_localizations": {
+                    "bg": "Занаяти, хобита и творчество",
+                    "cs": "Tvoření, výroba a kutilství",
+                    "da": "Håndarbejde & DIY",
+                    "de": "Basteln & Handwerk",
+                    "el": "Χειροτεχνίες, Καν' το μόνος σου, & Κατασκευές",
+                    "fi": "Käsityöt ja tee se itse",
+                    "fr": "Travaux manuels, bricolage et artisanat",
+                    "hi": "क्राफ़्ट, DIY और मेकिंग",
+                    "hr": "Obrt, uradi sam, makete",
+                    "hu": "Kézműveskedés",
+                    "it": "Fai da te e bricolage",
+                    "ja": "工作、DIY、メイキング",
+                    "ko": "공예, DIY, 제작",
+                    "lt": "Amatai, pasidaryk pats ir gamyba",
+                    "nl": "Craften, DIY en maken",
+                    "no": "Håndarbeid og oppussing",
+                    "pl": "Majsterkowanie",
+                    "ro": "Lucru manual, bricolaj și artizanat",
+                    "ru": "Хобби, рукоделие",
+                    "th": "งานทำมือ ดีไอวาย และการประดิษฐ์",
+                    "tr": "El Sanatları, Kendin Yap ve Üretim",
+                    "uk": "Майстрування",
+                    "vi": "Đồ Thủ Công, DIY & Chế Tạo",
+                    "en-GB": "Crafts, DIY & Making",
+                    "en-US": "Crafts, DIY, & Making",
+                    "es-ES": "Artesanía y creaciones propias",
+                    "pt-BR": "Artes manuais e Faça-você-mesmo",
+                    "sv-SE": "Hantverk, DIY och tillverkning",
+                    "zh-CN": "手工，DIY & 创作",
+                    "zh-TW": "工藝、DIY與製作"
+                }
+            },
+            {
+                "id": 44,
+                "is_primary": false,
+                "name": "Comics & Cartoons",
+                "name_localizations": {
+                    "bg": "Комикси и рисувани герои",
+                    "cs": "Komiksy",
+                    "da": "Tegneserier og tegnefilm",
+                    "de": "Comics & Cartoons",
+                    "el": "Κόμικς & Καρτούν",
+                    "fi": "Sarjakuvat ja piirretyt",
+                    "fr": "BD et dessins animés",
+                    "hi": "कॉमिक्स और कार्टून",
+                    "hr": "Strip i karikature",
+                    "hu": "Képregények és rajzfilmek",
+                    "it": "Cartoni e fumetti",
+                    "ja": "漫画&カートゥーン",
+                    "ko": "만화",
+                    "lt": "Komiksai ir karikatūros",
+                    "nl": "Strips en cartoons",
+                    "no": "Tegneserier og tegnefilmer",
+                    "pl": "Komiksy i kreskówki",
+                    "ro": "Benzi desenate și desene animate",
+                    "ru": "Комиксы и мультфильмы",
+                    "th": "คอมมิกและการ์ตูน",
+                    "tr": "Çizgi Roman ve Filmler",
+                    "uk": "Комікси та мультфільми",
+                    "vi": "Truyện Tranh và Hoạt Hình",
+                    "en-GB": "Comics & Cartoons",
+                    "en-US": "Comics & Cartoons",
+                    "es-ES": "Cómics y dibujos animados",
+                    "pt-BR": "Quadrinhos e Desenhos Animados",
+                    "sv-SE": "Serietidningar och tecknade serier",
+                    "zh-CN": "漫画&卡通",
+                    "zh-TW": "漫畫與卡通"
+                }
+            }
+        ],
+        "primary_category": {
+            "id": 4,
+            "is_primary": true,
+            "name": "Creative Arts",
+            "name_localizations": {
+                "bg": "Художествени изкуства",
+                "cs": "Umění",
+                "da": "Kreativt",
+                "de": "Kreative Künste",
+                "el": "Δημιουργικές τέχνες",
+                "fi": "Luovat alat",
+                "fr": "Arts créatifs",
+                "hi": "क्रिएटिव आर्ट",
+                "hr": "Umjetnost i rukotvorine",
+                "hu": "Kreatív művészetek",
+                "it": "Arti creative",
+                "ja": "クリエイティブアート",
+                "ko": "창작 예술",
+                "lt": "Kūrybiniai menai",
+                "nl": "Beeldende kunst",
+                "no": "Kreativt arbeid",
+                "pl": "Twórczość artystyczna",
+                "ro": "Arte creative",
+                "ru": "Искусство",
+                "th": "นฤมิตศิลป์",
+                "tr": "Yaratıcı Sanatlar",
+                "uk": "Креативне мистецтво",
+                "vi": "Nghệ Thuật Sáng Tạo",
+                "en-GB": "Creative Arts",
+                "en-US": "Creative Arts",
+                "es-ES": "Artes creativas",
+                "pt-BR": "Artes",
+                "sv-SE": "Kultur",
+                "zh-CN": "创意美术",
+                "zh-TW": "創作藝術"
+            }
+        },
+        "objectID": "238076465890066433",
+        "_highlightResult": {
+            "name": {
+                "value": "Backseat Drawing",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "A community for artists run by artists! Share your art, join our community events, and connect with other creators!",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "tsaoshin",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "keywords": [
+                {
+                    "value": "digital art",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "drawing",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "art",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "draw",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "creative",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "procreate",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "photoshop",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "sketch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "tutorials",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "howtodraw",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            ],
+            "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Художествени изкуства",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Umění",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Kreativt",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Kreative Künste",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Δημιουργικές τέχνες",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Luovat alat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Arts créatifs",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "क्रिएटिव आर्ट",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Umjetnost i rukotvorine",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Kreatív művészetek",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Arti creative",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "クリエイティブアート",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "창작 예술",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Kūrybiniai menai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Beeldende kunst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Kreativt arbeid",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Twórczość artystyczna",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Arte creative",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Искусство",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "นฤมิตศิลป์",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Yaratıcı Sanatlar",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Креативне мистецтво",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Nghệ Thuật Sáng Tạo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Creative Arts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Creative Arts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Artes creativas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Artes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Kultur",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "创意美术",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "創作藝術",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Образование",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Vzdělávání",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Uddannelse",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Bildung",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Εκπαίδευση",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Koulutus",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Éducation",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "एजुकेशन",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Obrazovanje",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Oktatás",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Istruzione",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "教育",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "교육",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Švietimas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Onderwijs",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Utdanning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Edukacja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Educație",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Образование",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การศึกษา",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Eğitim",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Освіта",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Giáo Dục",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Education",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Education",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Educación",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Educação",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Utbildning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "教育",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "教育",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Изкуство",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Umění",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Kunst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Kunst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Τέχνη",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Taide",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Art",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "आर्ट",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Umjetnost",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Művészet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Arte",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "アート",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "예술",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Menas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Kunst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Kunst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Sztuka",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Artă",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Творчество",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ศิลปะ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Sanat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Мистецтво",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Nghệ Thuật",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Art",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Art",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Arte",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Arte",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Konst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "艺术",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "藝術",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Занаяти, хобита и творчество",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Tvoření, výroba a kutilství",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Håndarbejde & DIY",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Basteln & Handwerk",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Χειροτεχνίες, Καν' το μόνος σου, & Κατασκευές",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Käsityöt ja tee se itse",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Travaux manuels, bricolage et artisanat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "क्राफ़्ट, DIY और मेकिंग",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Obrt, uradi sam, makete",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Kézműveskedés",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Fai da te e bricolage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "工作、DIY、メイキング",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "공예, DIY, 제작",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Amatai, pasidaryk pats ir gamyba",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Craften, DIY en maken",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Håndarbeid og oppussing",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Majsterkowanie",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Lucru manual, bricolaj și artizanat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Хобби, рукоделие",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "งานทำมือ ดีไอวาย และการประดิษฐ์",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "El Sanatları, Kendin Yap ve Üretim",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Майстрування",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Đồ Thủ Công, DIY & Chế Tạo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Crafts, DIY & Making",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Crafts, DIY, & Making",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Artesanía y creaciones propias",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Artes manuais e Faça-você-mesmo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Hantverk, DIY och tillverkning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "手工，DIY & 创作",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "工藝、DIY與製作",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Комикси и рисувани герои",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Komiksy",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Tegneserier og tegnefilm",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Comics & Cartoons",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Κόμικς & Καρτούν",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Sarjakuvat ja piirretyt",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "BD et dessins animés",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "कॉमिक्स और कार्टून",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Strip i karikature",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Képregények és rajzfilmek",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Cartoni e fumetti",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "漫画&カートゥーン",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "만화",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Komiksai ir karikatūros",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Strips en cartoons",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Tegneserier og tegnefilmer",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Komiksy i kreskówki",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Benzi desenate și desene animate",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Комиксы и мультфильмы",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "คอมมิกและการ์ตูน",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Çizgi Roman ve Filmler",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Комікси та мультфільми",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Truyện Tranh và Hoạt Hình",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Comics & Cartoons",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Comics & Cartoons",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Cómics y dibujos animados",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Quadrinhos e Desenhos Animados",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Serietidningar och tecknade serier",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "漫画&卡通",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "漫畫與卡通",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                }
+            ],
+            "primary_category": {
+                "name_localizations": {
+                    "bg": {
+                        "value": "Художествени изкуства",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "cs": {
+                        "value": "Umění",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "da": {
+                        "value": "Kreativt",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "de": {
+                        "value": "Kreative Künste",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "el": {
+                        "value": "Δημιουργικές τέχνες",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "fi": {
+                        "value": "Luovat alat",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "fr": {
+                        "value": "Arts créatifs",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hi": {
+                        "value": "क्रिएटिव आर्ट",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hr": {
+                        "value": "Umjetnost i rukotvorine",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hu": {
+                        "value": "Kreatív művészetek",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "it": {
+                        "value": "Arti creative",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ja": {
+                        "value": "クリエイティブアート",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ko": {
+                        "value": "창작 예술",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "lt": {
+                        "value": "Kūrybiniai menai",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "nl": {
+                        "value": "Beeldende kunst",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "no": {
+                        "value": "Kreativt arbeid",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "pl": {
+                        "value": "Twórczość artystyczna",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ro": {
+                        "value": "Arte creative",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ru": {
+                        "value": "Искусство",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "th": {
+                        "value": "นฤมิตศิลป์",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "tr": {
+                        "value": "Yaratıcı Sanatlar",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "uk": {
+                        "value": "Креативне мистецтво",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "vi": {
+                        "value": "Nghệ Thuật Sáng Tạo",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "en-GB": {
+                        "value": "Creative Arts",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "en-US": {
+                        "value": "Creative Arts",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "es-ES": {
+                        "value": "Artes creativas",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "pt-BR": {
+                        "value": "Artes",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "sv-SE": {
+                        "value": "Kultur",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "zh-CN": {
+                        "value": "创意美术",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "zh-TW": {
+                        "value": "創作藝術",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    }
+                }
+            }
+        }
     }
 }

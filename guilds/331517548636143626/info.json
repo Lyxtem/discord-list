@@ -6,9 +6,9 @@
     "splash": "4d79de2fe4eb192fc4246cd2475c620a",
     "discovery_splash": "4d79de2fe4eb192fc4246cd2475c620a",
     "banner": "c2f197cd0d5766f0940a1044ca331933",
-    "approximate_presence_count": 1322,
-    "approximate_member_count": 6837,
-    "premium_subscription_count": 15,
+    "approximate_presence_count": 1226,
+    "approximate_member_count": 6958,
+    "premium_subscription_count": 9,
     "preferred_locale": "en-US",
     "vanity_url_code": "lgbtqplus",
     "keywords": [
@@ -24,37 +24,12 @@
         "Trans"
     ],
     "features": [
-        "ANIMATED_BANNER",
-        "ANIMATED_ICON",
-        "AUTOMOD_TRIGGER_SPAM_LINK_FILTER",
-        "AUTOMOD_TRIGGER_USER_PROFILE",
-        "AUTO_MODERATION",
-        "BANNER",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_MEDIUM",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "GUILD_ONBOARDING",
-        "GUILD_ONBOARDING_EVER_ENABLED",
-        "GUILD_ONBOARDING_HAS_PROMPTS",
-        "GUILD_WEB_PAGE_VANITY_URL",
-        "INVITE_SPLASH",
-        "MEMBER_PROFILES",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "NEWS",
-        "NEW_THREAD_PERMISSIONS",
         "PARTNERED",
         "PREVIEW_ENABLED",
-        "PRIVATE_THREADS",
-        "ROLE_ICONS",
-        "SEVEN_DAY_THREAD_ARCHIVE",
-        "SOUNDBOARD",
-        "TEXT_IN_VOICE_ENABLED",
-        "THREADS_ENABLED",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
-        "VIP_REGIONS",
         "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": true,
@@ -66,9 +41,9 @@
         "icon": "2de93763acad1644a2c5fd8d7033d5e8",
         "splash": "4d79de2fe4eb192fc4246cd2475c620a",
         "banner": "c2f197cd0d5766f0940a1044ca331933",
-        "approximate_presence_count": 1322,
-        "approximate_member_count": 6837,
-        "premium_subscription_count": 15,
+        "approximate_presence_count": 1226,
+        "approximate_member_count": 6958,
+        "premium_subscription_count": 9,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "4d79de2fe4eb192fc4246cd2475c620a",
@@ -88,38 +63,469 @@
             "Trans"
         ],
         "features": [
-            "ANIMATED_BANNER",
-            "ANIMATED_ICON",
-            "AUTOMOD_TRIGGER_SPAM_LINK_FILTER",
-            "AUTOMOD_TRIGGER_USER_PROFILE",
-            "AUTO_MODERATION",
-            "BANNER",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_MEDIUM",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "GUILD_ONBOARDING",
-            "GUILD_ONBOARDING_EVER_ENABLED",
-            "GUILD_ONBOARDING_HAS_PROMPTS",
-            "GUILD_WEB_PAGE_VANITY_URL",
-            "INVITE_SPLASH",
-            "MEMBER_PROFILES",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "NEWS",
-            "NEW_THREAD_PERMISSIONS",
             "PARTNERED",
             "PREVIEW_ENABLED",
-            "PRIVATE_THREADS",
-            "ROLE_ICONS",
-            "SEVEN_DAY_THREAD_ARCHIVE",
-            "SOUNDBOARD",
-            "TEXT_IN_VOICE_ENABLED",
-            "THREADS_ENABLED",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
-            "VIP_REGIONS",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 9,
+                "is_primary": true,
+                "name": "Relationships & Identity",
+                "name_localizations": {
+                    "bg": "Отношения и идентичност",
+                    "cs": "Vztahy a osobnost",
+                    "da": "Forhold & identitet",
+                    "de": "Beziehungen & Identität",
+                    "el": "Σχέσεις & Ταυτότητα",
+                    "fi": "Ihmissuhteet ja identiteetti",
+                    "fr": "Relations et identité",
+                    "hi": "रिलेशनशिप और आइडेंटिटी",
+                    "hr": "Odnosi i veze",
+                    "hu": "Kapcsolatok és identitás",
+                    "it": "Relazioni e identità",
+                    "ja": "人間関係&アイデンティティ",
+                    "ko": "친목, 관계",
+                    "lt": "Santykiai ir tapatybė",
+                    "nl": "Relaties en identiteit",
+                    "no": "Forhold og identitet",
+                    "pl": "Związki i tożsamość",
+                    "ro": "Relații și identitate",
+                    "ru": "Отношения и самоидентификация",
+                    "th": "ความสัมพันธ์และอัตลักษณ์",
+                    "tr": "İlişkiler ve Kimlik",
+                    "uk": "Відносини та особистість",
+                    "vi": "Mối Quan Hệ & Cá Tính",
+                    "en-GB": "Relationships & Identity",
+                    "en-US": "Relationships & Identity",
+                    "es-ES": "Relaciones e identidad",
+                    "pt-BR": "Relacionamentos e Identidade",
+                    "sv-SE": "Förhållanden och identitet",
+                    "zh-CN": "情感&认知",
+                    "zh-TW": "關係與身分"
+                }
+            }
+        ],
+        "primary_category": {
+            "id": 9,
+            "is_primary": true,
+            "name": "Relationships & Identity",
+            "name_localizations": {
+                "bg": "Отношения и идентичност",
+                "cs": "Vztahy a osobnost",
+                "da": "Forhold & identitet",
+                "de": "Beziehungen & Identität",
+                "el": "Σχέσεις & Ταυτότητα",
+                "fi": "Ihmissuhteet ja identiteetti",
+                "fr": "Relations et identité",
+                "hi": "रिलेशनशिप और आइडेंटिटी",
+                "hr": "Odnosi i veze",
+                "hu": "Kapcsolatok és identitás",
+                "it": "Relazioni e identità",
+                "ja": "人間関係&アイデンティティ",
+                "ko": "친목, 관계",
+                "lt": "Santykiai ir tapatybė",
+                "nl": "Relaties en identiteit",
+                "no": "Forhold og identitet",
+                "pl": "Związki i tożsamość",
+                "ro": "Relații și identitate",
+                "ru": "Отношения и самоидентификация",
+                "th": "ความสัมพันธ์และอัตลักษณ์",
+                "tr": "İlişkiler ve Kimlik",
+                "uk": "Відносини та особистість",
+                "vi": "Mối Quan Hệ & Cá Tính",
+                "en-GB": "Relationships & Identity",
+                "en-US": "Relationships & Identity",
+                "es-ES": "Relaciones e identidad",
+                "pt-BR": "Relacionamentos e Identidade",
+                "sv-SE": "Förhållanden och identitet",
+                "zh-CN": "情感&认知",
+                "zh-TW": "關係與身分"
+            }
+        },
+        "objectID": "331517548636143626",
+        "_highlightResult": {
+            "name": {
+                "value": "LGBTQ+Discord",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "A chill space for LGBTQ+ folks and allies of all ages to chat, seek support, and hang out!",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "lgbtqplus",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "keywords": [
+                {
+                    "value": "Asexual",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Bisexual",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Homosexual",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "LGBT",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "LGBTQ+",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Lesbian",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Non-Binary",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Pansexual",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Queer",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Trans",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            ],
+            "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Отношения и идентичност",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Vztahy a osobnost",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Forhold & identitet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Beziehungen & Identität",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Σχέσεις & Ταυτότητα",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Ihmissuhteet ja identiteetti",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Relations et identité",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "रिलेशनशिप और आइडेंटिटी",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Odnosi i veze",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Kapcsolatok és identitás",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Relazioni e identità",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "人間関係&アイデンティティ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "친목, 관계",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Santykiai ir tapatybė",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Relaties en identiteit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Forhold og identitet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Związki i tożsamość",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Relații și identitate",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Отношения и самоидентификация",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ความสัมพันธ์และอัตลักษณ์",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "İlişkiler ve Kimlik",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Відносини та особистість",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Mối Quan Hệ & Cá Tính",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Relationships & Identity",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Relationships & Identity",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Relaciones e identidad",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Relacionamentos e Identidade",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Förhållanden och identitet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "情感&认知",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "關係與身分",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                }
+            ],
+            "primary_category": {
+                "name_localizations": {
+                    "bg": {
+                        "value": "Отношения и идентичност",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "cs": {
+                        "value": "Vztahy a osobnost",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "da": {
+                        "value": "Forhold & identitet",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "de": {
+                        "value": "Beziehungen & Identität",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "el": {
+                        "value": "Σχέσεις & Ταυτότητα",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "fi": {
+                        "value": "Ihmissuhteet ja identiteetti",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "fr": {
+                        "value": "Relations et identité",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hi": {
+                        "value": "रिलेशनशिप और आइडेंटिटी",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hr": {
+                        "value": "Odnosi i veze",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hu": {
+                        "value": "Kapcsolatok és identitás",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "it": {
+                        "value": "Relazioni e identità",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ja": {
+                        "value": "人間関係&アイデンティティ",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ko": {
+                        "value": "친목, 관계",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "lt": {
+                        "value": "Santykiai ir tapatybė",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "nl": {
+                        "value": "Relaties en identiteit",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "no": {
+                        "value": "Forhold og identitet",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "pl": {
+                        "value": "Związki i tożsamość",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ro": {
+                        "value": "Relații și identitate",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ru": {
+                        "value": "Отношения и самоидентификация",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "th": {
+                        "value": "ความสัมพันธ์และอัตลักษณ์",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "tr": {
+                        "value": "İlişkiler ve Kimlik",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "uk": {
+                        "value": "Відносини та особистість",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "vi": {
+                        "value": "Mối Quan Hệ & Cá Tính",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "en-GB": {
+                        "value": "Relationships & Identity",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "en-US": {
+                        "value": "Relationships & Identity",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "es-ES": {
+                        "value": "Relaciones e identidad",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "pt-BR": {
+                        "value": "Relacionamentos e Identidade",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "sv-SE": {
+                        "value": "Förhållanden och identitet",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "zh-CN": {
+                        "value": "情感&认知",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "zh-TW": {
+                        "value": "關係與身分",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    }
+                }
+            }
+        }
     }
 }

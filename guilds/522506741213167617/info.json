@@ -1,14 +1,14 @@
 {
     "id": "522506741213167617",
     "name": "GameGlass",
-    "description": "GameGlass is a platform that allows you to create and consume connected game experiences on your phone/tablet",
-    "icon": "a_ad9952fdbfc21ea70a77f9390e30691c",
-    "splash": "d92aac3f422bd398871aaaf9ff054142",
-    "discovery_splash": "4c55333b1e2659aa4e0fcb0edf89c213",
-    "banner": "9b8e779203fa96257dd6e8361d49e569",
-    "approximate_presence_count": 1964,
-    "approximate_member_count": 4654,
-    "premium_subscription_count": 15,
+    "description": "Create, share, and discover immersive interfaces for your touch screen devices with GameGlass.",
+    "icon": "1ee42ff2dceeb4fb7a9ffd14458affbb",
+    "splash": "abf6b9a5dd032f0285e8a4ad8d78e06f",
+    "discovery_splash": "abf6b9a5dd032f0285e8a4ad8d78e06f",
+    "banner": "442005b5ac76f8be7061b3e59749fb27",
+    "approximate_presence_count": 1924,
+    "approximate_member_count": 5308,
+    "premium_subscription_count": 16,
     "preferred_locale": "en-US",
     "vanity_url_code": "gameglass",
     "keywords": [
@@ -33,16 +33,16 @@
     "raw": {
         "id": "522506741213167617",
         "name": "GameGlass",
-        "description": "GameGlass is a platform that allows you to create and consume connected game experiences on your phone/tablet",
-        "icon": "a_ad9952fdbfc21ea70a77f9390e30691c",
-        "splash": "d92aac3f422bd398871aaaf9ff054142",
-        "banner": "9b8e779203fa96257dd6e8361d49e569",
-        "approximate_presence_count": 1964,
-        "approximate_member_count": 4654,
-        "premium_subscription_count": 15,
+        "description": "Create, share, and discover immersive interfaces for your touch screen devices with GameGlass.",
+        "icon": "1ee42ff2dceeb4fb7a9ffd14458affbb",
+        "splash": "abf6b9a5dd032f0285e8a4ad8d78e06f",
+        "banner": "442005b5ac76f8be7061b3e59749fb27",
+        "approximate_presence_count": 1924,
+        "approximate_member_count": 5308,
+        "premium_subscription_count": 16,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "4c55333b1e2659aa4e0fcb0edf89c213",
+        "discovery_splash": "abf6b9a5dd032f0285e8a4ad8d78e06f",
         "primary_category_id": 1,
         "vanity_url_code": "gameglass",
         "is_published": true,
@@ -139,6 +139,43 @@
                 }
             },
             {
+                "id": 48,
+                "is_primary": false,
+                "name": "Game Developer",
+                "name_localizations": {
+                    "bg": "Разработчик на игри",
+                    "cs": "Vývojář her",
+                    "da": "Spiludvikler",
+                    "de": "Spieleentwicklung",
+                    "el": "Προγραμματιστής παιχνιδιών",
+                    "fi": "Pelinkehittäjät",
+                    "fr": "Développeur de jeux vidéo",
+                    "hi": "गेम डेवलपर",
+                    "hr": "Razvoj igara",
+                    "hu": "Játékfejlesztő",
+                    "it": "Sviluppatore di videogiochi",
+                    "ja": "ゲームデベロッパー",
+                    "ko": "게임 개발",
+                    "lt": "Žaidimų kūrėjai",
+                    "nl": "Gameontwikkelaar",
+                    "no": "Spillutvikler",
+                    "pl": "Deweloper gry",
+                    "ro": "Dezvoltarea jocurilor",
+                    "ru": "Разработка игр",
+                    "th": "ผู้พัฒนาเกม",
+                    "tr": "Oyun Geliştiricisi",
+                    "uk": "Розробка ігор",
+                    "vi": "Nhà Phát Triển Game",
+                    "en-GB": "Game Developer",
+                    "en-US": "Game Developer",
+                    "es-ES": "Desarrollo de juegos",
+                    "pt-BR": "Desenvolvedor de Jogos",
+                    "sv-SE": "Spelutvecklare",
+                    "zh-CN": "游戏开发人员",
+                    "zh-TW": "遊戲開發者"
+                }
+            },
+            {
                 "id": 1,
                 "is_primary": true,
                 "name": "Gaming",
@@ -221,7 +258,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "GameGlass is a platform that allows you to create and consume connected game experiences on your phone/tablet",
+                "value": "Create, share, and discover immersive interfaces for your touch screen devices with GameGlass.",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -581,6 +618,160 @@
                         },
                         "zh-TW": {
                             "value": "娛樂",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Разработчик на игри",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Vývojář her",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Spiludvikler",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Spieleentwicklung",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Προγραμματιστής παιχνιδιών",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Pelinkehittäjät",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Développeur de jeux vidéo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "गेम डेवलपर",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Razvoj igara",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Játékfejlesztő",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Sviluppatore di videogiochi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "ゲームデベロッパー",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "게임 개발",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Žaidimų kūrėjai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Gameontwikkelaar",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Spillutvikler",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Deweloper gry",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Dezvoltarea jocurilor",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Разработка игр",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ผู้พัฒนาเกม",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Oyun Geliştiricisi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Розробка ігор",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Nhà Phát Triển Game",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Game Developer",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Game Developer",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Desarrollo de juegos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Desenvolvedor de Jogos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Spelutvecklare",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "游戏开发人员",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "遊戲開發者",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

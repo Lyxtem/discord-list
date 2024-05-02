@@ -6,9 +6,9 @@
     "splash": "ad4ade0df928a05d796329c49fcd1de4",
     "discovery_splash": "bd5c297c6150b06c090e4131c4f5810e",
     "banner": "494c5f3bb0dea071500e5e8cdf2e5521",
-    "approximate_presence_count": 909,
-    "approximate_member_count": 4020,
-    "premium_subscription_count": 12,
+    "approximate_presence_count": 896,
+    "approximate_member_count": 4940,
+    "premium_subscription_count": 14,
     "preferred_locale": "en-US",
     "vanity_url_code": "fps",
     "keywords": [
@@ -19,7 +19,8 @@
         "gaming",
         "jared",
         "jaredfps",
-        "twitch",
+        "kick",
+        "stake",
         "youtube"
     ],
     "features": [
@@ -38,9 +39,9 @@
         "icon": "319abce5e5861b07fe19e14e2030576c",
         "splash": "ad4ade0df928a05d796329c49fcd1de4",
         "banner": "494c5f3bb0dea071500e5e8cdf2e5521",
-        "approximate_presence_count": 909,
-        "approximate_member_count": 4020,
-        "premium_subscription_count": 12,
+        "approximate_presence_count": 896,
+        "approximate_member_count": 4940,
+        "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "bd5c297c6150b06c090e4131c4f5810e",
@@ -55,7 +56,8 @@
             "gaming",
             "jared",
             "jaredfps",
-            "twitch",
+            "kick",
+            "stake",
             "youtube"
         ],
         "features": [
@@ -232,7 +234,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "twitch",
+                    "value": "kick",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "stake",
                     "matchLevel": "none",
                     "matchedWords": []
                 },

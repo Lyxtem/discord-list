@@ -4,20 +4,20 @@
     "description": "Сервер для спільних забавок, розмов, чварів та поширення інформації.",
     "icon": "1a391c3d59857d9a6d211d6e750f914e",
     "splash": "cbe2d03f9e1b8af8ba0ceab52916ed07",
-    "discovery_splash": "e294231d52720864590c4ab8711102c5",
+    "discovery_splash": "13277d2ea709a26d5301abb399911b02",
     "banner": "50fa155f8e6b6fc2326c21b863dd61b1",
-    "approximate_presence_count": 972,
-    "approximate_member_count": 4688,
-    "premium_subscription_count": 4,
+    "approximate_presence_count": 328,
+    "approximate_member_count": 4777,
+    "premium_subscription_count": 3,
     "preferred_locale": "uk",
     "vanity_url_code": "ukrainian-gamers-community-205691838760353792",
     "keywords": [
-        "ukraine",
         "ua",
+        "ukraine",
+        "спілкування",
         "укр",
         "україна",
-        "ігри",
-        "спілкування"
+        "ігри"
     ],
     "features": [
         "COMMUNITY",
@@ -36,22 +36,22 @@
         "icon": "1a391c3d59857d9a6d211d6e750f914e",
         "splash": "cbe2d03f9e1b8af8ba0ceab52916ed07",
         "banner": "50fa155f8e6b6fc2326c21b863dd61b1",
-        "approximate_presence_count": 972,
-        "approximate_member_count": 4688,
-        "premium_subscription_count": 4,
+        "approximate_presence_count": 328,
+        "approximate_member_count": 4777,
+        "premium_subscription_count": 3,
         "preferred_locale": "uk",
         "auto_removed": false,
-        "discovery_splash": "e294231d52720864590c4ab8711102c5",
+        "discovery_splash": "13277d2ea709a26d5301abb399911b02",
         "primary_category_id": 1,
         "vanity_url_code": "ukrainian-gamers-community-205691838760353792",
         "is_published": true,
         "keywords": [
-            "ukraine",
             "ua",
+            "ukraine",
+            "спілкування",
             "укр",
             "україна",
-            "ігри",
-            "спілкування"
+            "ігри"
         ],
         "features": [
             "COMMUNITY",
@@ -304,12 +304,17 @@
             },
             "keywords": [
                 {
+                    "value": "ua",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "ukraine",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "ua",
+                    "value": "спілкування",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -325,11 +330,6 @@
                 },
                 {
                     "value": "ігри",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "спілкування",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

@@ -6,25 +6,18 @@
     "splash": "4a4c27ce864c910790bc4ea0502908b3",
     "discovery_splash": "25675836b38acf1384fbc53d967bf99d",
     "banner": null,
-    "approximate_presence_count": 2176,
-    "approximate_member_count": 7113,
+    "approximate_presence_count": 1888,
+    "approximate_member_count": 6811,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "cellardoorgames",
     "keywords": [],
     "features": [
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_LARGE_UNGATED",
         "DISCOVERABLE",
         "FEATURABLE",
-        "INVITE_SPLASH",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "NEWS",
         "PREVIEW_ENABLED",
-        "SOUNDBOARD",
-        "TEXT_IN_VOICE_ENABLED",
-        "VANITY_URL",
         "VERIFIED"
     ],
     "partnered": false,
@@ -36,8 +29,8 @@
         "icon": "db034e9dc3435ba31f103266f06cfb69",
         "splash": "4a4c27ce864c910790bc4ea0502908b3",
         "banner": null,
-        "approximate_presence_count": 2176,
-        "approximate_member_count": 7113,
+        "approximate_presence_count": 1888,
+        "approximate_member_count": 6811,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -47,19 +40,44 @@
         "is_published": false,
         "keywords": [],
         "features": [
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_LARGE_UNGATED",
             "DISCOVERABLE",
             "FEATURABLE",
-            "INVITE_SPLASH",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "NEWS",
             "PREVIEW_ENABLED",
-            "SOUNDBOARD",
-            "TEXT_IN_VOICE_ENABLED",
-            "VANITY_URL",
             "VERIFIED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "403607175638941706",
+        "_highlightResult": {
+            "name": {
+                "value": "Cellar Door Games",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "The official server for Cellar Door Games.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "cellardoorgames",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }

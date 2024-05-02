@@ -6,22 +6,22 @@
     "splash": "b214f287b761df1eb27a4ec816238805",
     "discovery_splash": "45c70b00e8c5604269bc8a164681e59d",
     "banner": "9fe845c3f0a2df60585afc9de0e43b5b",
-    "approximate_presence_count": 326,
-    "approximate_member_count": 3170,
-    "premium_subscription_count": 10,
+    "approximate_presence_count": 512,
+    "approximate_member_count": 3018,
+    "premium_subscription_count": 2,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
     "keywords": [
+        "classes",
         "esports",
         "minecraft",
         "minecraftbedrock",
         "minecraftjava",
         "minecraftmod",
         "minecraftserver",
+        "origins",
         "plugin",
-        "roleplay",
-        "twitch",
-        "youtube"
+        "roleplay"
     ],
     "features": [
         "COMMUNITY",
@@ -40,9 +40,9 @@
         "icon": "d487866aa29c5fe8144ba00872f4c955",
         "splash": "b214f287b761df1eb27a4ec816238805",
         "banner": "9fe845c3f0a2df60585afc9de0e43b5b",
-        "approximate_presence_count": 326,
-        "approximate_member_count": 3170,
-        "premium_subscription_count": 10,
+        "approximate_presence_count": 512,
+        "approximate_member_count": 3018,
+        "premium_subscription_count": 2,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "45c70b00e8c5604269bc8a164681e59d",
@@ -50,16 +50,16 @@
         "vanity_url_code": null,
         "is_published": false,
         "keywords": [
+            "classes",
             "esports",
             "minecraft",
             "minecraftbedrock",
             "minecraftjava",
             "minecraftmod",
             "minecraftserver",
+            "origins",
             "plugin",
-            "roleplay",
-            "twitch",
-            "youtube"
+            "roleplay"
         ],
         "features": [
             "COMMUNITY",
@@ -307,6 +307,11 @@
             },
             "keywords": [
                 {
+                    "value": "classes",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "esports",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -337,22 +342,17 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "origins",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "plugin",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "roleplay",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "twitch",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "youtube",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
