@@ -4,24 +4,24 @@
     "description": "\"Free cybersecurity education, without the fluff.\" Come hang out, play CTFs, and learn!",
     "icon": "ec6602d392bbea8c3ffbd067cb3aa192",
     "splash": "96c11049ec717f5077e620e8b6c472c6",
-    "discovery_splash": "d08eaae941b19c74e5106a02de66bfc2",
-    "banner": "c00352844c452113b109261010687609",
-    "approximate_presence_count": 3323,
-    "approximate_member_count": 21094,
-    "premium_subscription_count": 15,
+    "discovery_splash": "96c11049ec717f5077e620e8b6c472c6",
+    "banner": "c9c8de9a9aba1442b858b61fa7ce7550",
+    "approximate_presence_count": 3431,
+    "approximate_member_count": 21395,
+    "premium_subscription_count": 14,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
     "keywords": [
-        "cybersecurity",
-        "htb",
-        "jhd",
         "ctf",
-        "thm",
-        "infosec",
+        "cybersecurity",
+        "hacking",
         "hackthebox",
+        "htb",
+        "infosec",
+        "jhd",
+        "thm",
         "tryhackme",
-        "youtube",
-        "hacking"
+        "youtube"
     ],
     "features": [
         "COMMUNITY",
@@ -39,27 +39,27 @@
         "description": "\"Free cybersecurity education, without the fluff.\" Come hang out, play CTFs, and learn!",
         "icon": "ec6602d392bbea8c3ffbd067cb3aa192",
         "splash": "96c11049ec717f5077e620e8b6c472c6",
-        "banner": "c00352844c452113b109261010687609",
-        "approximate_presence_count": 3323,
-        "approximate_member_count": 21094,
-        "premium_subscription_count": 15,
+        "banner": "c9c8de9a9aba1442b858b61fa7ce7550",
+        "approximate_presence_count": 3431,
+        "approximate_member_count": 21395,
+        "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "d08eaae941b19c74e5106a02de66bfc2",
+        "discovery_splash": "96c11049ec717f5077e620e8b6c472c6",
         "primary_category_id": 5,
         "vanity_url_code": null,
         "is_published": false,
         "keywords": [
-            "cybersecurity",
-            "htb",
-            "jhd",
             "ctf",
-            "thm",
-            "infosec",
+            "cybersecurity",
+            "hacking",
             "hackthebox",
+            "htb",
+            "infosec",
+            "jhd",
+            "thm",
             "tryhackme",
-            "youtube",
-            "hacking"
+            "youtube"
         ],
         "features": [
             "COMMUNITY",
@@ -307,7 +307,22 @@
             },
             "keywords": [
                 {
+                    "value": "ctf",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "cybersecurity",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "hacking",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "hackthebox",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -317,27 +332,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "jhd",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "ctf",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "thm",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "infosec",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "hackthebox",
+                    "value": "jhd",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "thm",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -348,11 +353,6 @@
                 },
                 {
                     "value": "youtube",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "hacking",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

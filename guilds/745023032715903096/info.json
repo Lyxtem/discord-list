@@ -6,17 +6,17 @@
     "splash": "526653e680c31aeab8e642c880cadd83",
     "discovery_splash": "6794cf7d53ceb5e6554637dde3464963",
     "banner": "d1e56054e2b9e777ca0c50c6b3f8ffd4",
-    "approximate_presence_count": 3888,
-    "approximate_member_count": 52131,
-    "premium_subscription_count": 12,
+    "approximate_presence_count": 4722,
+    "approximate_member_count": 52006,
+    "premium_subscription_count": 7,
     "preferred_locale": "pt-BR",
     "vanity_url_code": "stevez-tv-745023032715903096",
     "keywords": [
+        "Steve",
         "SteveZ TV",
         "Stevez",
-        "Steve",
-        "YouTuber",
-        "YouTube"
+        "YouTube",
+        "YouTuber"
     ],
     "features": [
         "COMMUNITY",
@@ -35,9 +35,9 @@
         "icon": "14e16727fdbccead085063c66db0d38b",
         "splash": "526653e680c31aeab8e642c880cadd83",
         "banner": "d1e56054e2b9e777ca0c50c6b3f8ffd4",
-        "approximate_presence_count": 3888,
-        "approximate_member_count": 52131,
-        "premium_subscription_count": 12,
+        "approximate_presence_count": 4722,
+        "approximate_member_count": 52006,
+        "premium_subscription_count": 7,
         "preferred_locale": "pt-BR",
         "auto_removed": false,
         "discovery_splash": "6794cf7d53ceb5e6554637dde3464963",
@@ -45,11 +45,11 @@
         "vanity_url_code": "stevez-tv-745023032715903096",
         "is_published": true,
         "keywords": [
+            "Steve",
             "SteveZ TV",
             "Stevez",
-            "Steve",
-            "YouTuber",
-            "YouTube"
+            "YouTube",
+            "YouTuber"
         ],
         "features": [
             "COMMUNITY",
@@ -265,6 +265,11 @@
             },
             "keywords": [
                 {
+                    "value": "Steve",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "SteveZ TV",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -275,17 +280,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "Steve",
+                    "value": "YouTube",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "YouTuber",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "YouTube",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
