@@ -1,18 +1,21 @@
 {
     "id": "618773560768331806",
     "name": "Final Outpost",
-    "description": "The hub of the Final Outpost community. Come talk with the devs and other players!",
-    "icon": "26fede5928fc9f3cc06a58f9231d0ae7",
+    "description": "Build. Manage. Craft. Survive.",
+    "icon": "53f9952890b2f8b64d18c1d6c0a67fbb",
     "splash": "988d964a1e03e7287cad50e18bf69090",
     "discovery_splash": "e0956d72ebc041d65620f18196105258",
     "banner": null,
-    "approximate_presence_count": 267,
-    "approximate_member_count": 2461,
-    "premium_subscription_count": 2,
+    "approximate_presence_count": 228,
+    "approximate_member_count": 2565,
+    "premium_subscription_count": 0,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "final-outpost-618773560768331806",
     "keywords": [
-        "Exabyte Games"
+        "Exabyte Games",
+        "Mobile Game",
+        "Survival Game",
+        "Zombie Game"
     ],
     "features": [
         "COMMUNITY",
@@ -27,21 +30,24 @@
     "raw": {
         "id": "618773560768331806",
         "name": "Final Outpost",
-        "description": "The hub of the Final Outpost community. Come talk with the devs and other players!",
-        "icon": "26fede5928fc9f3cc06a58f9231d0ae7",
+        "description": "Build. Manage. Craft. Survive.",
+        "icon": "53f9952890b2f8b64d18c1d6c0a67fbb",
         "splash": "988d964a1e03e7287cad50e18bf69090",
         "banner": null,
-        "approximate_presence_count": 267,
-        "approximate_member_count": 2461,
-        "premium_subscription_count": 2,
+        "approximate_presence_count": 228,
+        "approximate_member_count": 2565,
+        "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "e0956d72ebc041d65620f18196105258",
         "primary_category_id": 1,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "final-outpost-618773560768331806",
+        "is_published": true,
         "keywords": [
-            "Exabyte Games"
+            "Exabyte Games",
+            "Mobile Game",
+            "Survival Game",
+            "Zombie Game"
         ],
         "features": [
             "COMMUNITY",
@@ -209,13 +215,33 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "The hub of the Final Outpost community. Come talk with the devs and other players!",
+                "value": "Build. Manage. Craft. Survive.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "final-outpost-618773560768331806",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
                 {
                     "value": "Exabyte Games",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Mobile Game",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Survival Game",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Zombie Game",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

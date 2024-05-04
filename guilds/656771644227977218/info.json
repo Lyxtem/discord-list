@@ -1,13 +1,13 @@
 {
     "id": "656771644227977218",
     "name": "Laumania",
-    "description": "Official community for \"Fireworks Mania\".",
+    "description": "Official \"Fireworks Mania\" community server.",
     "icon": "a_f0294da366520a6312f349b3944ed812",
     "splash": "68b1623668421ec373089e8353f86b63",
     "discovery_splash": "e2a70e8c5f6fa16cd7da5bf5706da03d",
     "banner": "8d324a6e2dcea3fd00a4dbaff1da9d64",
-    "approximate_presence_count": 646,
-    "approximate_member_count": 4949,
+    "approximate_presence_count": 528,
+    "approximate_member_count": 4924,
     "premium_subscription_count": 4,
     "preferred_locale": "en-US",
     "vanity_url_code": "laumania-656771644227977218",
@@ -23,6 +23,7 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -31,12 +32,12 @@
     "raw": {
         "id": "656771644227977218",
         "name": "Laumania",
-        "description": "Official community for \"Fireworks Mania\".",
+        "description": "Official \"Fireworks Mania\" community server.",
         "icon": "a_f0294da366520a6312f349b3944ed812",
         "splash": "68b1623668421ec373089e8353f86b63",
         "banner": "8d324a6e2dcea3fd00a4dbaff1da9d64",
-        "approximate_presence_count": 646,
-        "approximate_member_count": 4949,
+        "approximate_presence_count": 528,
+        "approximate_member_count": 4924,
         "premium_subscription_count": 4,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -56,6 +57,7 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -217,7 +219,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Official community for \"Fireworks Mania\".",
+                "value": "Official \"Fireworks Mania\" community server.",
                 "matchLevel": "none",
                 "matchedWords": []
             },

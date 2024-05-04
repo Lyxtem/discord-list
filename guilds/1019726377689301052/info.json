@@ -1,14 +1,14 @@
 {
     "id": "1019726377689301052",
-    "name": "Codm-iliya",
-    "description": "Hey Welcome to Codm iliya s official Server",
-    "icon": "a1c7ed33f752ca02b348b272f3a0b040",
+    "name": "CODM.ILIYA",
+    "description": "Hey Welcome to Codm iliya’s official Server",
+    "icon": "544912cd4911365d5191d7217c5b8d36",
     "splash": null,
     "discovery_splash": null,
-    "banner": "a_fe2c3fe6cd3c24c7f67be596aed1b090",
-    "approximate_presence_count": 49,
-    "approximate_member_count": 1430,
-    "premium_subscription_count": 5,
+    "banner": "a_4328e66d68559492326522f86fc072fa",
+    "approximate_presence_count": 34,
+    "approximate_member_count": 2387,
+    "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
     "keywords": [
@@ -31,14 +31,14 @@
     "verified": false,
     "raw": {
         "id": "1019726377689301052",
-        "name": "Codm-iliya",
-        "description": "Hey Welcome to Codm iliya s official Server",
-        "icon": "a1c7ed33f752ca02b348b272f3a0b040",
+        "name": "CODM.ILIYA",
+        "description": "Hey Welcome to Codm iliya’s official Server",
+        "icon": "544912cd4911365d5191d7217c5b8d36",
         "splash": null,
-        "banner": "a_fe2c3fe6cd3c24c7f67be596aed1b090",
-        "approximate_presence_count": 49,
-        "approximate_member_count": 1430,
-        "premium_subscription_count": 5,
+        "banner": "a_4328e66d68559492326522f86fc072fa",
+        "approximate_presence_count": 34,
+        "approximate_member_count": 2387,
+        "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": null,
@@ -62,6 +62,16 @@
             "PREVIEW_ENABLED"
         ],
         "categories": [
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
             {
                 "id": 46,
                 "is_primary": false,
@@ -97,16 +107,6 @@
                     "sv-SE": "Konsol",
                     "zh-CN": "主机端",
                     "zh-TW": "遊戲主機"
-                }
-            },
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
                 }
             },
             {
@@ -187,12 +187,12 @@
         "objectID": "1019726377689301052",
         "_highlightResult": {
             "name": {
-                "value": "Codm-iliya",
+                "value": "CODM.ILIYA",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "description": {
-                "value": "Hey Welcome to Codm iliya s official Server",
+                "value": "Hey Welcome to Codm iliya’s official Server",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -239,6 +239,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -388,25 +407,6 @@
                         },
                         "zh-TW": {
                             "value": "遊戲主機",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

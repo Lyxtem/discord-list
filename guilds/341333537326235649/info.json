@@ -6,22 +6,22 @@
     "splash": "51a5ecadc64541c4cf97e6cc5f5f4646",
     "discovery_splash": "40e8b984dcaf12b6413fb61ad1d494db",
     "banner": null,
-    "approximate_presence_count": 534,
-    "approximate_member_count": 3043,
-    "premium_subscription_count": 0,
+    "approximate_presence_count": 285,
+    "approximate_member_count": 3953,
+    "premium_subscription_count": 4,
     "preferred_locale": "ru",
     "vanity_url_code": "asian-languages-learning-russian-japanese-chinese-341333537326235649",
     "keywords": [
-        "language",
-        "study",
-        "learning",
+        "chinese",
         "japanese",
         "korean",
-        "chinese",
-        "японский",
+        "language",
+        "learning",
+        "study",
         "китайский",
         "корейский",
-        "язык"
+        "язык",
+        "японский"
     ],
     "features": [
         "COMMUNITY",
@@ -39,9 +39,9 @@
         "icon": "30e8e4ef375441e4c5af2611ba644aa1",
         "splash": "51a5ecadc64541c4cf97e6cc5f5f4646",
         "banner": null,
-        "approximate_presence_count": 534,
-        "approximate_member_count": 3043,
-        "premium_subscription_count": 0,
+        "approximate_presence_count": 285,
+        "approximate_member_count": 3953,
+        "premium_subscription_count": 4,
         "preferred_locale": "ru",
         "auto_removed": false,
         "discovery_splash": "40e8b984dcaf12b6413fb61ad1d494db",
@@ -49,16 +49,16 @@
         "vanity_url_code": "asian-languages-learning-russian-japanese-chinese-341333537326235649",
         "is_published": true,
         "keywords": [
-            "language",
-            "study",
-            "learning",
+            "chinese",
             "japanese",
             "korean",
-            "chinese",
-            "японский",
+            "language",
+            "learning",
+            "study",
             "китайский",
             "корейский",
-            "язык"
+            "язык",
+            "японский"
         ],
         "features": [
             "COMMUNITY",
@@ -310,17 +310,7 @@
             },
             "keywords": [
                 {
-                    "value": "language",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "study",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "learning",
+                    "value": "chinese",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -335,12 +325,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "chinese",
+                    "value": "language",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "японский",
+                    "value": "learning",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "study",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -356,6 +351,11 @@
                 },
                 {
                     "value": "язык",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "японский",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

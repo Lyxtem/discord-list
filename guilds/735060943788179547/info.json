@@ -2,25 +2,25 @@
     "id": "735060943788179547",
     "name": "Virtua Fighter",
     "description": "We love Virtua Fighter!",
-    "icon": "a_7694df9baab342a11dc1e7656cfc0c61",
+    "icon": "a_35a43ab03b536e8dabc37215764e69c0",
     "splash": "27957544f0007737475230a23c9ac6a8",
     "discovery_splash": "3b23a4a58be1950b1c233aa1857e0aea",
-    "banner": "5a3f759d896e4e78a34b0d04df9cf0dd",
-    "approximate_presence_count": 515,
-    "approximate_member_count": 2432,
-    "premium_subscription_count": 21,
+    "banner": "5b30f9b7c5face129abfe1c58f36ae01",
+    "approximate_presence_count": 861,
+    "approximate_member_count": 2820,
+    "premium_subscription_count": 15,
     "preferred_locale": "en-US",
     "vanity_url_code": "virtuafighter",
     "keywords": [
-        "fgc",
-        "esports",
-        "fighting",
+        "arcade",
         "art",
+        "esports",
+        "fgc",
+        "fighting",
         "ps4",
         "retro",
         "sega",
         "sonic",
-        "arcade",
         "バーチャファイター"
     ],
     "features": [
@@ -36,12 +36,12 @@
         "id": "735060943788179547",
         "name": "Virtua Fighter",
         "description": "We love Virtua Fighter!",
-        "icon": "a_7694df9baab342a11dc1e7656cfc0c61",
+        "icon": "a_35a43ab03b536e8dabc37215764e69c0",
         "splash": "27957544f0007737475230a23c9ac6a8",
-        "banner": "5a3f759d896e4e78a34b0d04df9cf0dd",
-        "approximate_presence_count": 515,
-        "approximate_member_count": 2432,
-        "premium_subscription_count": 21,
+        "banner": "5b30f9b7c5face129abfe1c58f36ae01",
+        "approximate_presence_count": 861,
+        "approximate_member_count": 2820,
+        "premium_subscription_count": 15,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "3b23a4a58be1950b1c233aa1857e0aea",
@@ -49,15 +49,15 @@
         "vanity_url_code": "virtuafighter",
         "is_published": true,
         "keywords": [
-            "fgc",
-            "esports",
-            "fighting",
+            "arcade",
             "art",
+            "esports",
+            "fgc",
+            "fighting",
             "ps4",
             "retro",
             "sega",
             "sonic",
-            "arcade",
             "バーチャファイター"
         ],
         "features": [
@@ -347,7 +347,12 @@
             },
             "keywords": [
                 {
-                    "value": "fgc",
+                    "value": "arcade",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "art",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -357,12 +362,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "fighting",
+                    "value": "fgc",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "art",
+                    "value": "fighting",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -383,11 +388,6 @@
                 },
                 {
                     "value": "sonic",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "arcade",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
