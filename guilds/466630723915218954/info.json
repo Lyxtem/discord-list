@@ -2,32 +2,33 @@
     "id": "466630723915218954",
     "name": "neiv community",
     "description": "neiv community to ogromna społeczność FiveM z mnóstwem modów do wykorzystania.",
-    "icon": "250d18d2a93cc45939986ca8f657ca60",
-    "splash": "17465a1071ae4a91370fef7502e57805",
-    "discovery_splash": "d79379ce87c0801008a1fb45aca2a0a1",
-    "banner": "b40c00ce62c974f2716242e03af4e304",
-    "approximate_presence_count": 4064,
-    "approximate_member_count": 13381,
-    "premium_subscription_count": 52,
+    "icon": "a452e3da58967e4a05d82e007f1d32fd",
+    "splash": "007471b48c8b70adaccbe9789604b8b4",
+    "discovery_splash": "46c8a4e893263a90f8d47f28f56a2947",
+    "banner": "1f19f658b7f767454fb592d3040c40fb",
+    "approximate_presence_count": 3084,
+    "approximate_member_count": 13418,
+    "premium_subscription_count": 39,
     "preferred_locale": "pl",
     "vanity_url_code": "neiv",
     "keywords": [
-        "cheating",
-        "cheats",
+        "community",
         "fivem",
-        "fps",
         "gta5",
-        "mods",
         "rdm",
-        "role-playing",
-        "twitch",
-        "youtube"
+        "roleplay",
+        "rp",
+        "społeczność",
+        "trujca",
+        "trujcardm",
+        "trujcawloff"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "PREVIEW_ENABLED"
+        "PREVIEW_ENABLED",
+        "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": false,
     "verified": false,
@@ -35,35 +36,36 @@
         "id": "466630723915218954",
         "name": "neiv community",
         "description": "neiv community to ogromna społeczność FiveM z mnóstwem modów do wykorzystania.",
-        "icon": "250d18d2a93cc45939986ca8f657ca60",
-        "splash": "17465a1071ae4a91370fef7502e57805",
-        "banner": "b40c00ce62c974f2716242e03af4e304",
-        "approximate_presence_count": 4064,
-        "approximate_member_count": 13381,
-        "premium_subscription_count": 52,
+        "icon": "a452e3da58967e4a05d82e007f1d32fd",
+        "splash": "007471b48c8b70adaccbe9789604b8b4",
+        "banner": "1f19f658b7f767454fb592d3040c40fb",
+        "approximate_presence_count": 3084,
+        "approximate_member_count": 13418,
+        "premium_subscription_count": 39,
         "preferred_locale": "pl",
         "auto_removed": false,
-        "discovery_splash": "d79379ce87c0801008a1fb45aca2a0a1",
+        "discovery_splash": "46c8a4e893263a90f8d47f28f56a2947",
         "primary_category_id": 1,
         "vanity_url_code": "neiv",
         "is_published": true,
         "keywords": [
-            "cheating",
-            "cheats",
+            "community",
             "fivem",
-            "fps",
             "gta5",
-            "mods",
             "rdm",
-            "role-playing",
-            "twitch",
-            "youtube"
+            "roleplay",
+            "rp",
+            "społeczność",
+            "trujca",
+            "trujcardm",
+            "trujcawloff"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "PREVIEW_ENABLED"
+            "PREVIEW_ENABLED",
+            "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
             {
@@ -213,43 +215,6 @@
                     "zh-CN": "综合聊天",
                     "zh-TW": "一般聊天"
                 }
-            },
-            {
-                "id": 49,
-                "is_primary": true,
-                "name": "Bots",
-                "name_localizations": {
-                    "bg": "Ботове",
-                    "cs": "Boti",
-                    "da": "Bots",
-                    "de": "Bots",
-                    "el": "Bots",
-                    "fi": "Botit",
-                    "fr": "Bots",
-                    "hi": "बॉट्स",
-                    "hr": "Botovi",
-                    "hu": "Botok",
-                    "it": "Bot",
-                    "ja": "Bot",
-                    "ko": "봇",
-                    "lt": "Botai",
-                    "nl": "Bots",
-                    "no": "Boter",
-                    "pl": "Boty",
-                    "ro": "Boți",
-                    "ru": "Боты",
-                    "th": "Bot",
-                    "tr": "Botlar",
-                    "uk": "Боти",
-                    "vi": "Bot",
-                    "en-GB": "Bots",
-                    "en-US": "Bots",
-                    "es-ES": "Bots",
-                    "pt-BR": "Bots",
-                    "sv-SE": "Bottar",
-                    "zh-CN": "机器人",
-                    "zh-TW": "機器人"
-                }
             }
         ],
         "primary_category": {
@@ -308,12 +273,7 @@
             },
             "keywords": [
                 {
-                    "value": "cheating",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "cheats",
+                    "value": "community",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -323,17 +283,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "fps",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "gta5",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "mods",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -343,17 +293,32 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "role-playing",
+                    "value": "roleplay",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "twitch",
+                    "value": "rp",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "youtube",
+                    "value": "społeczność",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "trujca",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "trujcardm",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "trujcawloff",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
@@ -970,160 +935,6 @@
                         },
                         "zh-TW": {
                             "value": "一般聊天",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Ботове",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Boti",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Bots",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Bots",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Bots",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Botit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Bots",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "बॉट्स",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Botovi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Botok",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Bot",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "Bot",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "봇",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Botai",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Bots",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Boter",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Boty",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Boți",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Боты",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "Bot",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Botlar",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Боти",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Bot",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Bots",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Bots",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Bots",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Bots",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Bottar",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "机器人",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "機器人",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

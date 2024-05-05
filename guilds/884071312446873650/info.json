@@ -1,18 +1,20 @@
 {
     "id": "884071312446873650",
     "name": "Florida State",
-    "description": "Florida State Roleplay is a dedicated ERLC & FiveM server focused on providing a top tier RP experience to users.",
+    "description": "Florida State is a dedicated ERLC & FiveM server focused on providing a top tier RP experience to users.",
     "icon": "5a80df3dbdf22923a5a9d565bdbe6230",
-    "splash": "341a0fdd106e201d74f8daa6f4541c2c",
+    "splash": "5874f5b8f340ca6b78b03b753e753a39",
     "discovery_splash": "0626a312c33c60d30adacb4a016a48d2",
-    "banner": "03eede9653dab0c9c1bba2dd81694a86",
-    "approximate_presence_count": 1891,
-    "approximate_member_count": 10940,
-    "premium_subscription_count": 57,
+    "banner": "b6ea1155ee7e0f145859c448a4379f84",
+    "approximate_presence_count": 1733,
+    "approximate_member_count": 11262,
+    "premium_subscription_count": 67,
     "preferred_locale": "en-US",
     "vanity_url_code": "floridast",
     "keywords": [
         "erlc",
+        "fivem",
+        "floridastate",
         "floridastateroleplay",
         "fsrp",
         "roblox"
@@ -21,6 +23,7 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -29,13 +32,13 @@
     "raw": {
         "id": "884071312446873650",
         "name": "Florida State",
-        "description": "Florida State Roleplay is a dedicated ERLC & FiveM server focused on providing a top tier RP experience to users.",
+        "description": "Florida State is a dedicated ERLC & FiveM server focused on providing a top tier RP experience to users.",
         "icon": "5a80df3dbdf22923a5a9d565bdbe6230",
-        "splash": "341a0fdd106e201d74f8daa6f4541c2c",
-        "banner": "03eede9653dab0c9c1bba2dd81694a86",
-        "approximate_presence_count": 1891,
-        "approximate_member_count": 10940,
-        "premium_subscription_count": 57,
+        "splash": "5874f5b8f340ca6b78b03b753e753a39",
+        "banner": "b6ea1155ee7e0f145859c448a4379f84",
+        "approximate_presence_count": 1733,
+        "approximate_member_count": 11262,
+        "premium_subscription_count": 67,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "0626a312c33c60d30adacb4a016a48d2",
@@ -44,6 +47,8 @@
         "is_published": true,
         "keywords": [
             "erlc",
+            "fivem",
+            "floridastate",
             "floridastateroleplay",
             "fsrp",
             "roblox"
@@ -52,6 +57,7 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -250,7 +256,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Florida State Roleplay is a dedicated ERLC & FiveM server focused on providing a top tier RP experience to users.",
+                "value": "Florida State is a dedicated ERLC & FiveM server focused on providing a top tier RP experience to users.",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -262,6 +268,16 @@
             "keywords": [
                 {
                     "value": "erlc",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "fivem",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "floridastate",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
