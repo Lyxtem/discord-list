@@ -6,28 +6,18 @@
     "splash": "244024450abcb663ad2ef923f145ba0b",
     "discovery_splash": null,
     "banner": "244024450abcb663ad2ef923f145ba0b",
-    "approximate_presence_count": 802,
-    "approximate_member_count": 9239,
+    "approximate_presence_count": 945,
+    "approximate_member_count": 9377,
     "premium_subscription_count": 2,
     "preferred_locale": "en-US",
     "vanity_url_code": "xcretzu",
     "keywords": [],
     "features": [
-        "ANIMATED_ICON",
-        "BANNER",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_LARGE_UNGATED",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "INVITE_SPLASH",
-        "NEWS",
         "PARTNERED",
-        "PREVIEW_ENABLED",
-        "SOUNDBOARD",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
-        "VIP_REGIONS"
+        "PREVIEW_ENABLED"
     ],
     "partnered": true,
     "verified": false,
@@ -38,8 +28,8 @@
         "icon": "9a40eac5b9bc03640379b6898fa4b6aa",
         "splash": "244024450abcb663ad2ef923f145ba0b",
         "banner": "244024450abcb663ad2ef923f145ba0b",
-        "approximate_presence_count": 802,
-        "approximate_member_count": 9239,
+        "approximate_presence_count": 945,
+        "approximate_member_count": 9377,
         "premium_subscription_count": 2,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -49,21 +39,43 @@
         "is_published": false,
         "keywords": [],
         "features": [
-            "ANIMATED_ICON",
-            "BANNER",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_LARGE_UNGATED",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "INVITE_SPLASH",
-            "NEWS",
             "PARTNERED",
-            "PREVIEW_ENABLED",
-            "SOUNDBOARD",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
-            "VIP_REGIONS"
-        ]
+            "PREVIEW_ENABLED"
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "264464022856794112",
+        "_highlightResult": {
+            "name": {
+                "value": "xCretzu Family",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "xcretzu",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }
