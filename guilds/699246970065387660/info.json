@@ -6,8 +6,8 @@
     "splash": "ddfceffbf848c7daf8bda2cbbb5d7ecb",
     "discovery_splash": "ea18f86f271a6bb1bba2d4d4f9601326",
     "banner": "a_dd98267ea1ee456ab4c83ff133cb9083",
-    "approximate_presence_count": 2022,
-    "approximate_member_count": 16360,
+    "approximate_presence_count": 2686,
+    "approximate_member_count": 16411,
     "premium_subscription_count": 25,
     "preferred_locale": "es-ES",
     "vanity_url_code": "dropsba",
@@ -40,8 +40,8 @@
         "icon": "a_5e91fe697d40f9306694efe655c7acf1",
         "splash": "ddfceffbf848c7daf8bda2cbbb5d7ecb",
         "banner": "a_dd98267ea1ee456ab4c83ff133cb9083",
-        "approximate_presence_count": 2022,
-        "approximate_member_count": 16360,
+        "approximate_presence_count": 2686,
+        "approximate_member_count": 16411,
         "premium_subscription_count": 25,
         "preferred_locale": "es-ES",
         "auto_removed": false,
@@ -70,43 +70,6 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 36,
-                "is_primary": false,
-                "name": "Business",
-                "name_localizations": {
-                    "bg": "Бизнес",
-                    "cs": "Business",
-                    "da": "Forretning",
-                    "de": "Unternehmen",
-                    "el": "Επιχείρηση",
-                    "fi": "Liiketoiminta",
-                    "fr": "Activités commerciales",
-                    "hi": "बिज़नेस",
-                    "hr": "Posao",
-                    "hu": "Üzlet",
-                    "it": "Affari",
-                    "ja": "ビジネス",
-                    "ko": "사업",
-                    "lt": "Verslas",
-                    "nl": "Zakelijk",
-                    "no": "Næringsliv",
-                    "pl": "Biznes",
-                    "ro": "Activități comerciale",
-                    "ru": "Бизнес",
-                    "th": "ธุรกิจ",
-                    "tr": "Ticaret",
-                    "uk": "Бізнес",
-                    "vi": "Kinh Doanh",
-                    "en-GB": "Business",
-                    "en-US": "Business",
-                    "es-ES": "Negocios",
-                    "pt-BR": "Negócios",
-                    "sv-SE": "Affärer",
-                    "zh-CN": "商务",
-                    "zh-TW": "商業"
-                }
-            },
             {
                 "id": 31,
                 "is_primary": false,
@@ -145,40 +108,77 @@
                 }
             },
             {
-                "id": 8,
-                "is_primary": true,
-                "name": "Fashion & Beauty",
+                "id": 36,
+                "is_primary": false,
+                "name": "Business",
                 "name_localizations": {
-                    "bg": "Мода и красота",
-                    "cs": "Móda a krása",
-                    "da": "Mode & skønhed",
-                    "de": "Fashion & Beauty",
-                    "el": "Μόδα & Ομορφιά",
-                    "fi": "Muoti ja kauneus",
-                    "fr": "Mode et beauté",
-                    "hi": "फैशन और ब्यूटी",
-                    "hr": "Moda i ljepota",
-                    "hu": "Divat és szépségápolás",
-                    "it": "Moda e bellezza",
-                    "ja": "ファッション&ビューティー",
-                    "ko": "패션, 미용",
-                    "lt": "Mada ir grožis",
-                    "nl": "Mode en beauty",
-                    "no": "Mote og skjønnhet",
-                    "pl": "Moda i piękno",
-                    "ro": "Modă și frumusețe",
-                    "ru": "Мода и красота",
-                    "th": "แฟชันและความงาม",
-                    "tr": "Moda ve Güzellik",
-                    "uk": "Мода та краса",
-                    "vi": "Thời Trang & Làm Đẹp",
-                    "en-GB": "Fashion & Beauty",
-                    "en-US": "Fashion & Beauty",
-                    "es-ES": "Moda y belleza",
-                    "pt-BR": "Moda e Beleza",
-                    "sv-SE": "Mode och skönhet",
-                    "zh-CN": "时尚&美妆",
-                    "zh-TW": "時尚與美容"
+                    "bg": "Бизнес",
+                    "cs": "Business",
+                    "da": "Forretning",
+                    "de": "Unternehmen",
+                    "el": "Επιχείρηση",
+                    "fi": "Liiketoiminta",
+                    "fr": "Activités commerciales",
+                    "hi": "बिज़नेस",
+                    "hr": "Posao",
+                    "hu": "Üzlet",
+                    "it": "Affari",
+                    "ja": "ビジネス",
+                    "ko": "사업",
+                    "lt": "Verslas",
+                    "nl": "Zakelijk",
+                    "no": "Næringsliv",
+                    "pl": "Biznes",
+                    "ro": "Activități comerciale",
+                    "ru": "Бизнес",
+                    "th": "ธุรกิจ",
+                    "tr": "Ticaret",
+                    "uk": "Бізнес",
+                    "vi": "Kinh Doanh",
+                    "en-GB": "Business",
+                    "en-US": "Business",
+                    "es-ES": "Negocios",
+                    "pt-BR": "Negócios",
+                    "sv-SE": "Affärer",
+                    "zh-CN": "商务",
+                    "zh-TW": "商業"
+                }
+            },
+            {
+                "id": 26,
+                "is_primary": false,
+                "name": "News & Current Events",
+                "name_localizations": {
+                    "bg": "Новини и актуални събития",
+                    "cs": "Zprávy a aktuální dění",
+                    "da": "Nyheder & nuværende begivenheder",
+                    "de": "Nachrichten & Zeitgeschehen",
+                    "el": "Νέα & Επικαιρότητα",
+                    "fi": "Uutiset ja ajankohtaistapahtumat",
+                    "fr": "Actualité",
+                    "hi": "न्यूज़ और करेंट इवेंट्स",
+                    "hr": "Vijesti i aktualnosti",
+                    "hu": "Hírek és aktuális események",
+                    "it": "Notizie ed eventi attuali",
+                    "ja": "ニュース&時事",
+                    "ko": "뉴스, 시사",
+                    "lt": "Naujienos ir dabartiniai įvykiai",
+                    "nl": "Nieuws en actualiteiten",
+                    "no": "Nyheter og aktuelt",
+                    "pl": "Aktualności i bieżące wydarzenia",
+                    "ro": "Actualități",
+                    "ru": "Новости и текущие события",
+                    "th": "ข่าวสารและเหตุการณ์ปัจจุบัน",
+                    "tr": "Haberler ve Güncel Olaylar",
+                    "uk": "Новини й поточні події",
+                    "vi": "Tin Tức & Sự Kiện Đang Diễn Ra",
+                    "en-GB": "News & Current Events",
+                    "en-US": "News & Current Events",
+                    "es-ES": "Noticias y actualidad",
+                    "pt-BR": "Notícias e Atualidades",
+                    "sv-SE": "Nyheter och aktuella händelser",
+                    "zh-CN": "新闻&时事",
+                    "zh-TW": "新消息與目前活動"
                 }
             },
             {
@@ -219,40 +219,40 @@
                 }
             },
             {
-                "id": 26,
-                "is_primary": false,
-                "name": "News & Current Events",
+                "id": 8,
+                "is_primary": true,
+                "name": "Fashion & Beauty",
                 "name_localizations": {
-                    "bg": "Новини и актуални събития",
-                    "cs": "Zprávy a aktuální dění",
-                    "da": "Nyheder & nuværende begivenheder",
-                    "de": "Nachrichten & Zeitgeschehen",
-                    "el": "Νέα & Επικαιρότητα",
-                    "fi": "Uutiset ja ajankohtaistapahtumat",
-                    "fr": "Actualité",
-                    "hi": "न्यूज़ और करेंट इवेंट्स",
-                    "hr": "Vijesti i aktualnosti",
-                    "hu": "Hírek és aktuális események",
-                    "it": "Notizie ed eventi attuali",
-                    "ja": "ニュース&時事",
-                    "ko": "뉴스, 시사",
-                    "lt": "Naujienos ir dabartiniai įvykiai",
-                    "nl": "Nieuws en actualiteiten",
-                    "no": "Nyheter og aktuelt",
-                    "pl": "Aktualności i bieżące wydarzenia",
-                    "ro": "Actualități",
-                    "ru": "Новости и текущие события",
-                    "th": "ข่าวสารและเหตุการณ์ปัจจุบัน",
-                    "tr": "Haberler ve Güncel Olaylar",
-                    "uk": "Новини й поточні події",
-                    "vi": "Tin Tức & Sự Kiện Đang Diễn Ra",
-                    "en-GB": "News & Current Events",
-                    "en-US": "News & Current Events",
-                    "es-ES": "Noticias y actualidad",
-                    "pt-BR": "Notícias e Atualidades",
-                    "sv-SE": "Nyheter och aktuella händelser",
-                    "zh-CN": "新闻&时事",
-                    "zh-TW": "新消息與目前活動"
+                    "bg": "Мода и красота",
+                    "cs": "Móda a krása",
+                    "da": "Mode & skønhed",
+                    "de": "Fashion & Beauty",
+                    "el": "Μόδα & Ομορφιά",
+                    "fi": "Muoti ja kauneus",
+                    "fr": "Mode et beauté",
+                    "hi": "फैशन और ब्यूटी",
+                    "hr": "Moda i ljepota",
+                    "hu": "Divat és szépségápolás",
+                    "it": "Moda e bellezza",
+                    "ja": "ファッション&ビューティー",
+                    "ko": "패션, 미용",
+                    "lt": "Mada ir grožis",
+                    "nl": "Mode en beauty",
+                    "no": "Mote og skjønnhet",
+                    "pl": "Moda i piękno",
+                    "ro": "Modă și frumusețe",
+                    "ru": "Мода и красота",
+                    "th": "แฟชันและความงาม",
+                    "tr": "Moda ve Güzellik",
+                    "uk": "Мода та краса",
+                    "vi": "Thời Trang & Làm Đẹp",
+                    "en-GB": "Fashion & Beauty",
+                    "en-US": "Fashion & Beauty",
+                    "es-ES": "Moda y belleza",
+                    "pt-BR": "Moda e Beleza",
+                    "sv-SE": "Mode och skönhet",
+                    "zh-CN": "时尚&美妆",
+                    "zh-TW": "時尚與美容"
                 }
             }
         ],
@@ -363,160 +363,6 @@
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Бизнес",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Business",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Forretning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Unternehmen",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Επιχείρηση",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Liiketoiminta",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Activités commerciales",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "बिज़नेस",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Posao",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Üzlet",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Affari",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "ビジネス",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "사업",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Verslas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Zakelijk",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Næringsliv",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Biznes",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Activități comerciale",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Бизнес",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "ธุรกิจ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Ticaret",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Бізнес",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Kinh Doanh",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Business",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Business",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Negocios",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Negócios",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Affärer",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "商务",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "商業",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -674,152 +520,306 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Мода и красота",
+                            "value": "Бизнес",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Móda a krása",
+                            "value": "Business",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Mode & skønhed",
+                            "value": "Forretning",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Fashion & Beauty",
+                            "value": "Unternehmen",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Μόδα & Ομορφιά",
+                            "value": "Επιχείρηση",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Muoti ja kauneus",
+                            "value": "Liiketoiminta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Mode et beauté",
+                            "value": "Activités commerciales",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "फैशन और ब्यूटी",
+                            "value": "बिज़नेस",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Moda i ljepota",
+                            "value": "Posao",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Divat és szépségápolás",
+                            "value": "Üzlet",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Moda e bellezza",
+                            "value": "Affari",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "ファッション&ビューティー",
+                            "value": "ビジネス",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "패션, 미용",
+                            "value": "사업",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Mada ir grožis",
+                            "value": "Verslas",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Mode en beauty",
+                            "value": "Zakelijk",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Mote og skjønnhet",
+                            "value": "Næringsliv",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Moda i piękno",
+                            "value": "Biznes",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Modă și frumusețe",
+                            "value": "Activități comerciale",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Мода и красота",
+                            "value": "Бизнес",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "แฟชันและความงาม",
+                            "value": "ธุรกิจ",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Moda ve Güzellik",
+                            "value": "Ticaret",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Мода та краса",
+                            "value": "Бізнес",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Thời Trang & Làm Đẹp",
+                            "value": "Kinh Doanh",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Fashion & Beauty",
+                            "value": "Business",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Fashion & Beauty",
+                            "value": "Business",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Moda y belleza",
+                            "value": "Negocios",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Moda e Beleza",
+                            "value": "Negócios",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Mode och skönhet",
+                            "value": "Affärer",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "时尚&美妆",
+                            "value": "商务",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "時尚與美容",
+                            "value": "商業",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Новини и актуални събития",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Zprávy a aktuální dění",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Nyheder & nuværende begivenheder",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Nachrichten & Zeitgeschehen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Νέα & Επικαιρότητα",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Uutiset ja ajankohtaistapahtumat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Actualité",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "न्यूज़ और करेंट इवेंट्स",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Vijesti i aktualnosti",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Hírek és aktuális események",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Notizie ed eventi attuali",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "ニュース&時事",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "뉴스, 시사",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Naujienos ir dabartiniai įvykiai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Nieuws en actualiteiten",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Nyheter og aktuelt",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Aktualności i bieżące wydarzenia",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Actualități",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Новости и текущие события",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ข่าวสารและเหตุการณ์ปัจจุบัน",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Haberler ve Güncel Olaylar",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Новини й поточні події",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Tin Tức & Sự Kiện Đang Diễn Ra",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "News & Current Events",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "News & Current Events",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Noticias y actualidad",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Notícias e Atualidades",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Nyheter och aktuella händelser",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "新闻&时事",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "新消息與目前活動",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -982,152 +982,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Новини и актуални събития",
+                            "value": "Мода и красота",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Zprávy a aktuální dění",
+                            "value": "Móda a krása",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Nyheder & nuværende begivenheder",
+                            "value": "Mode & skønhed",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Nachrichten & Zeitgeschehen",
+                            "value": "Fashion & Beauty",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Νέα & Επικαιρότητα",
+                            "value": "Μόδα & Ομορφιά",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Uutiset ja ajankohtaistapahtumat",
+                            "value": "Muoti ja kauneus",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Actualité",
+                            "value": "Mode et beauté",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "न्यूज़ और करेंट इवेंट्स",
+                            "value": "फैशन और ब्यूटी",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Vijesti i aktualnosti",
+                            "value": "Moda i ljepota",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Hírek és aktuális események",
+                            "value": "Divat és szépségápolás",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Notizie ed eventi attuali",
+                            "value": "Moda e bellezza",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "ニュース&時事",
+                            "value": "ファッション&ビューティー",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "뉴스, 시사",
+                            "value": "패션, 미용",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Naujienos ir dabartiniai įvykiai",
+                            "value": "Mada ir grožis",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Nieuws en actualiteiten",
+                            "value": "Mode en beauty",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Nyheter og aktuelt",
+                            "value": "Mote og skjønnhet",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Aktualności i bieżące wydarzenia",
+                            "value": "Moda i piękno",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Actualități",
+                            "value": "Modă și frumusețe",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Новости и текущие события",
+                            "value": "Мода и красота",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "ข่าวสารและเหตุการณ์ปัจจุบัน",
+                            "value": "แฟชันและความงาม",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Haberler ve Güncel Olaylar",
+                            "value": "Moda ve Güzellik",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Новини й поточні події",
+                            "value": "Мода та краса",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Tin Tức & Sự Kiện Đang Diễn Ra",
+                            "value": "Thời Trang & Làm Đẹp",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "News & Current Events",
+                            "value": "Fashion & Beauty",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "News & Current Events",
+                            "value": "Fashion & Beauty",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Noticias y actualidad",
+                            "value": "Moda y belleza",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Notícias e Atualidades",
+                            "value": "Moda e Beleza",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Nyheter och aktuella händelser",
+                            "value": "Mode och skönhet",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "新闻&时事",
+                            "value": "时尚&美妆",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "新消息與目前活動",
+                            "value": "時尚與美容",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

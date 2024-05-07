@@ -2,13 +2,13 @@
     "id": "466736630493872151",
     "name": "FORM",
     "description": "a community for online creatives",
-    "icon": "a_47868b8a79ce9c370e3926014ed2992d",
-    "splash": "f6d833a9c74cb3c2890058fee92cc59f",
-    "discovery_splash": "85364a5fdd3527f1771c90c7ce1a4c44",
-    "banner": "f2b92f4da428661d2d947efc8a52838b",
-    "approximate_presence_count": 2293,
-    "approximate_member_count": 7547,
-    "premium_subscription_count": 14,
+    "icon": "a_9d22ab2627036d81f1abfcebbe74e127",
+    "splash": "74f205a557d9efd892bebd0cefa98a0d",
+    "discovery_splash": "74f205a557d9efd892bebd0cefa98a0d",
+    "banner": "761511e53db1227e9dbcc2057c87cbac",
+    "approximate_presence_count": 2236,
+    "approximate_member_count": 7639,
+    "premium_subscription_count": 11,
     "preferred_locale": "en-US",
     "vanity_url_code": "form",
     "keywords": [
@@ -30,15 +30,15 @@
         "id": "466736630493872151",
         "name": "FORM",
         "description": "a community for online creatives",
-        "icon": "a_47868b8a79ce9c370e3926014ed2992d",
-        "splash": "f6d833a9c74cb3c2890058fee92cc59f",
-        "banner": "f2b92f4da428661d2d947efc8a52838b",
-        "approximate_presence_count": 2293,
-        "approximate_member_count": 7547,
-        "premium_subscription_count": 14,
+        "icon": "a_9d22ab2627036d81f1abfcebbe74e127",
+        "splash": "74f205a557d9efd892bebd0cefa98a0d",
+        "banner": "761511e53db1227e9dbcc2057c87cbac",
+        "approximate_presence_count": 2236,
+        "approximate_member_count": 7639,
+        "premium_subscription_count": 11,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "85364a5fdd3527f1771c90c7ce1a4c44",
+        "discovery_splash": "74f205a557d9efd892bebd0cefa98a0d",
         "primary_category_id": 4,
         "vanity_url_code": "form",
         "is_published": true,
@@ -56,6 +56,43 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 20,
+                "is_primary": false,
+                "name": "Writing",
+                "name_localizations": {
+                    "bg": "Литература",
+                    "cs": "Psaní",
+                    "da": "Skrivning",
+                    "de": "Schreiben",
+                    "el": "Συγγραφή",
+                    "fi": "Kirjoittaminen",
+                    "fr": "Écriture",
+                    "hi": "राइटिंग",
+                    "hr": "Pisanje",
+                    "hu": "Írás",
+                    "it": "Scrittura",
+                    "ja": "執筆活動",
+                    "ko": "글쓰기",
+                    "lt": "Rašymas",
+                    "nl": "Schrijven",
+                    "no": "Skrivearbeid",
+                    "pl": "Pisarstwo",
+                    "ro": "Scriere",
+                    "ru": "Литература",
+                    "th": "การเขียน",
+                    "tr": "Yazarlık",
+                    "uk": "Письменництво",
+                    "vi": "Văn Học",
+                    "en-GB": "Writing",
+                    "en-US": "Writing",
+                    "es-ES": "Escritura",
+                    "pt-BR": "Escrita",
+                    "sv-SE": "Litteratur",
+                    "zh-CN": "写作",
+                    "zh-TW": "寫作"
+                }
+            },
             {
                 "id": 2,
                 "is_primary": true,
@@ -128,43 +165,6 @@
                     "sv-SE": "Konst",
                     "zh-CN": "艺术",
                     "zh-TW": "藝術"
-                }
-            },
-            {
-                "id": 20,
-                "is_primary": false,
-                "name": "Writing",
-                "name_localizations": {
-                    "bg": "Литература",
-                    "cs": "Psaní",
-                    "da": "Skrivning",
-                    "de": "Schreiben",
-                    "el": "Συγγραφή",
-                    "fi": "Kirjoittaminen",
-                    "fr": "Écriture",
-                    "hi": "राइटिंग",
-                    "hr": "Pisanje",
-                    "hu": "Írás",
-                    "it": "Scrittura",
-                    "ja": "執筆活動",
-                    "ko": "글쓰기",
-                    "lt": "Rašymas",
-                    "nl": "Schrijven",
-                    "no": "Skrivearbeid",
-                    "pl": "Pisarstwo",
-                    "ro": "Scriere",
-                    "ru": "Литература",
-                    "th": "การเขียน",
-                    "tr": "Yazarlık",
-                    "uk": "Письменництво",
-                    "vi": "Văn Học",
-                    "en-GB": "Writing",
-                    "en-US": "Writing",
-                    "es-ES": "Escritura",
-                    "pt-BR": "Escrita",
-                    "sv-SE": "Litteratur",
-                    "zh-CN": "写作",
-                    "zh-TW": "寫作"
                 }
             },
             {
@@ -351,6 +351,160 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Литература",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Psaní",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Skrivning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Schreiben",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Συγγραφή",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Kirjoittaminen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Écriture",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "राइटिंग",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Pisanje",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Írás",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Scrittura",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "執筆活動",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "글쓰기",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Rašymas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Schrijven",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Skrivearbeid",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Pisarstwo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Scriere",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Литература",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การเขียน",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Yazarlık",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Письменництво",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Văn Học",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Writing",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Writing",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Escritura",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Escrita",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Litteratur",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "写作",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "寫作",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -654,160 +808,6 @@
                         },
                         "zh-TW": {
                             "value": "藝術",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Литература",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Psaní",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Skrivning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Schreiben",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Συγγραφή",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Kirjoittaminen",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Écriture",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "राइटिंग",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Pisanje",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Írás",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Scrittura",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "執筆活動",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "글쓰기",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Rašymas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Schrijven",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Skrivearbeid",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Pisarstwo",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Scriere",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Литература",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "การเขียน",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Yazarlık",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Письменництво",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Văn Học",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Writing",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Writing",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Escritura",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Escrita",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Litteratur",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "写作",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "寫作",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

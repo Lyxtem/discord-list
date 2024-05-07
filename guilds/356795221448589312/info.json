@@ -6,24 +6,18 @@
     "splash": "c8606e699cc837b226b19459200fa63b",
     "discovery_splash": "c8606e699cc837b226b19459200fa63b",
     "banner": null,
-    "approximate_presence_count": 144,
-    "approximate_member_count": 859,
+    "approximate_presence_count": 131,
+    "approximate_member_count": 816,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "digerati",
     "keywords": [],
     "features": [
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
         "FEATURABLE",
-        "INVITE_SPLASH",
-        "NEWS",
-        "NEW_THREAD_PERMISSIONS",
         "PREVIEW_ENABLED",
-        "THREADS_ENABLED",
-        "VANITY_URL",
         "VERIFIED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -36,8 +30,8 @@
         "icon": "089b06dee162727e7b58da508dec1cbb",
         "splash": "c8606e699cc837b226b19459200fa63b",
         "banner": null,
-        "approximate_presence_count": 144,
-        "approximate_member_count": 859,
+        "approximate_presence_count": 131,
+        "approximate_member_count": 816,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -47,19 +41,45 @@
         "is_published": false,
         "keywords": [],
         "features": [
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
             "FEATURABLE",
-            "INVITE_SPLASH",
-            "NEWS",
-            "NEW_THREAD_PERMISSIONS",
             "PREVIEW_ENABLED",
-            "THREADS_ENABLED",
-            "VANITY_URL",
             "VERIFIED",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "356795221448589312",
+        "_highlightResult": {
+            "name": {
+                "value": "Digerati",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "The official server for Digerati - Games publishing at www.digerati.games",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "digerati",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }

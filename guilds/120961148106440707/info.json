@@ -6,37 +6,18 @@
     "splash": "5ef20ea77369ba42f1bf93cdeb5b51c6",
     "discovery_splash": null,
     "banner": "a_1cd62a83297fe6ece28021a905b8754d",
-    "approximate_presence_count": 1263,
-    "approximate_member_count": 7741,
-    "premium_subscription_count": 54,
+    "approximate_presence_count": 877,
+    "approximate_member_count": 7802,
+    "premium_subscription_count": 50,
     "preferred_locale": "tr",
     "vanity_url_code": "grimnax",
     "keywords": null,
     "features": [
-        "ANIMATED_BANNER",
-        "ANIMATED_ICON",
-        "AUTO_MODERATION",
-        "BANNER",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_LARGE_UNGATED",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "INVITE_SPLASH",
-        "MEMBER_PROFILES",
-        "NEWS",
-        "NEW_THREAD_PERMISSIONS",
         "PARTNERED",
         "PREVIEW_ENABLED",
-        "PRIVATE_THREADS",
-        "ROLE_ICONS",
-        "SEVEN_DAY_THREAD_ARCHIVE",
-        "SOUNDBOARD",
-        "TEXT_IN_VOICE_ENABLED",
-        "THREADS_ENABLED",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
-        "VIP_REGIONS",
         "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": true,
@@ -48,9 +29,9 @@
         "icon": "a6c27808ac7b84858d9e5ead95d8255d",
         "splash": "5ef20ea77369ba42f1bf93cdeb5b51c6",
         "banner": "a_1cd62a83297fe6ece28021a905b8754d",
-        "approximate_presence_count": 1263,
-        "approximate_member_count": 7741,
-        "premium_subscription_count": 54,
+        "approximate_presence_count": 877,
+        "approximate_member_count": 7802,
+        "premium_subscription_count": 50,
         "preferred_locale": "tr",
         "auto_removed": false,
         "discovery_splash": null,
@@ -59,31 +40,44 @@
         "is_published": false,
         "keywords": null,
         "features": [
-            "ANIMATED_BANNER",
-            "ANIMATED_ICON",
-            "AUTO_MODERATION",
-            "BANNER",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_LARGE_UNGATED",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "INVITE_SPLASH",
-            "MEMBER_PROFILES",
-            "NEWS",
-            "NEW_THREAD_PERMISSIONS",
             "PARTNERED",
             "PREVIEW_ENABLED",
-            "PRIVATE_THREADS",
-            "ROLE_ICONS",
-            "SEVEN_DAY_THREAD_ARCHIVE",
-            "SOUNDBOARD",
-            "TEXT_IN_VOICE_ENABLED",
-            "THREADS_ENABLED",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
-            "VIP_REGIONS",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "120961148106440707",
+        "_highlightResult": {
+            "name": {
+                "value": "GrimBoyz",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "grimnax",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }

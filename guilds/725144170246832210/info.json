@@ -1,20 +1,21 @@
 {
     "id": "725144170246832210",
     "name": "ElementX - MC",
-    "description": "The server of Element X",
+    "description": "The server of Element X, a Minecraft server.",
     "icon": "ab55ec343520d2f74c7a763fb6ab9b2c",
     "splash": "1f88a164315ae5960e5da80ae2abd6b7",
-    "discovery_splash": null,
+    "discovery_splash": "e6375167c3a8e46cb62bf54d787850a8",
     "banner": null,
-    "approximate_presence_count": 621,
-    "approximate_member_count": 3785,
-    "premium_subscription_count": 0,
+    "approximate_presence_count": 756,
+    "approximate_member_count": 6199,
+    "premium_subscription_count": 2,
     "preferred_locale": "en-US",
     "vanity_url_code": "elementx",
     "keywords": [
-        "ElementX",
+        "Code",
         "Element",
         "Element X",
+        "ElementX",
         "minecraft"
     ],
     "features": [
@@ -23,31 +24,31 @@
         "ENABLED_DISCOVERABLE_BEFORE",
         "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
-        "VERIFIED",
-        "WELCOME_SCREEN_ENABLED"
+        "VERIFIED"
     ],
     "partnered": false,
     "verified": true,
     "raw": {
         "id": "725144170246832210",
         "name": "ElementX - MC",
-        "description": "The server of Element X",
+        "description": "The server of Element X, a Minecraft server.",
         "icon": "ab55ec343520d2f74c7a763fb6ab9b2c",
         "splash": "1f88a164315ae5960e5da80ae2abd6b7",
         "banner": null,
-        "approximate_presence_count": 621,
-        "approximate_member_count": 3785,
-        "premium_subscription_count": 0,
+        "approximate_presence_count": 756,
+        "approximate_member_count": 6199,
+        "premium_subscription_count": 2,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "e6375167c3a8e46cb62bf54d787850a8",
         "primary_category_id": 1,
         "vanity_url_code": "elementx",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
-            "ElementX",
+            "Code",
             "Element",
             "Element X",
+            "ElementX",
             "minecraft"
         ],
         "features": [
@@ -56,8 +57,7 @@
             "ENABLED_DISCOVERABLE_BEFORE",
             "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
-            "VERIFIED",
-            "WELCOME_SCREEN_ENABLED"
+            "VERIFIED"
         ],
         "categories": [
             {
@@ -180,7 +180,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "The server of Element X",
+                "value": "The server of Element X, a Minecraft server.",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -191,7 +191,7 @@
             },
             "keywords": [
                 {
-                    "value": "ElementX",
+                    "value": "Code",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -202,6 +202,11 @@
                 },
                 {
                     "value": "Element X",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "ElementX",
                     "matchLevel": "none",
                     "matchedWords": []
                 },

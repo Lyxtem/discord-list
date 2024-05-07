@@ -6,9 +6,9 @@
     "splash": "6d081778c678229078eba06273e6bb47",
     "discovery_splash": "e189ea066df80af7964680e2d7cf7c79",
     "banner": "0926546df741903caac0ea72f6ae30e3",
-    "approximate_presence_count": 7236,
-    "approximate_member_count": 33109,
-    "premium_subscription_count": 10,
+    "approximate_presence_count": 7046,
+    "approximate_member_count": 33218,
+    "premium_subscription_count": 8,
     "preferred_locale": "en-US",
     "vanity_url_code": "yugioh",
     "keywords": [
@@ -39,9 +39,9 @@
         "icon": "8cac78b3ba89c95a720f7a3b2323b2ab",
         "splash": "6d081778c678229078eba06273e6bb47",
         "banner": "0926546df741903caac0ea72f6ae30e3",
-        "approximate_presence_count": 7236,
-        "approximate_member_count": 33109,
-        "premium_subscription_count": 10,
+        "approximate_presence_count": 7046,
+        "approximate_member_count": 33218,
+        "premium_subscription_count": 8,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "e189ea066df80af7964680e2d7cf7c79",
@@ -68,43 +68,6 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 32,
-                "is_primary": false,
-                "name": "Theorycraft",
-                "name_localizations": {
-                    "bg": "Теорикрафт",
-                    "cs": "Theorycraft",
-                    "da": "Theorycraft",
-                    "de": "Theorycraft",
-                    "el": "Theorycraft",
-                    "fi": "Pelianalysointi",
-                    "fr": "Theorycraft",
-                    "hi": "थ्योरीक्राफ़्ट",
-                    "hr": "Theorycraft",
-                    "hu": "Játékelméletek",
-                    "it": "Theorycraft",
-                    "ja": "ゲーム戦略研究",
-                    "ko": "게임 분석",
-                    "lt": "Žaidimų teorijos analizė",
-                    "nl": "Theorycraft",
-                    "no": "Theorycraft",
-                    "pl": "Theorycrafting",
-                    "ro": "Theorycraft",
-                    "ru": "Теорикрафтинг",
-                    "th": "การสร้างทฤษฎี",
-                    "tr": "Teoriler",
-                    "uk": "Теорікрафт",
-                    "vi": "Phân Tích Game",
-                    "en-GB": "Theorycraft",
-                    "en-US": "Theorycraft",
-                    "es-ES": "Theorycraft",
-                    "pt-BR": "Metajogo",
-                    "sv-SE": "Theorycraft",
-                    "zh-CN": "游戏机制研究",
-                    "zh-TW": "Theorycraft"
-                }
-            },
             {
                 "id": 39,
                 "is_primary": false,
@@ -143,40 +106,40 @@
                 }
             },
             {
-                "id": 42,
+                "id": 32,
                 "is_primary": false,
-                "name": "Subreddit",
+                "name": "Theorycraft",
                 "name_localizations": {
-                    "bg": "Тема в reddit",
-                    "cs": "Subreddit",
-                    "da": "Subreddit",
-                    "de": "Subreddit",
-                    "el": "Subreddit",
-                    "fi": "Alareddit",
-                    "fr": "Subreddit",
-                    "hi": "सब-रेडिट",
-                    "hr": "Subreddit",
-                    "hu": "Subreddit",
-                    "it": "Subreddit",
-                    "ja": "Subreddit",
-                    "ko": "서브레딧",
-                    "lt": "Subreddit",
-                    "nl": "Subreddit",
-                    "no": "Subreddit",
-                    "pl": "Subreddit",
-                    "ro": "Subreddit",
-                    "ru": "Сабреддит",
-                    "th": "Subreddit",
-                    "tr": "Subreddit",
-                    "uk": "Сабреддіт",
-                    "vi": "Subreddit",
-                    "en-GB": "Subreddit",
-                    "en-US": "Subreddit",
-                    "es-ES": "Subreddit",
-                    "pt-BR": "Subreddit",
-                    "sv-SE": "Subreddit",
-                    "zh-CN": "Reddit讨论区",
-                    "zh-TW": "討論區"
+                    "bg": "Теорикрафт",
+                    "cs": "Theorycraft",
+                    "da": "Theorycraft",
+                    "de": "Theorycraft",
+                    "el": "Theorycraft",
+                    "fi": "Pelianalysointi",
+                    "fr": "Theorycraft",
+                    "hi": "थ्योरीक्राफ़्ट",
+                    "hr": "Theorycraft",
+                    "hu": "Játékelméletek",
+                    "it": "Theorycraft",
+                    "ja": "ゲーム戦略研究",
+                    "ko": "게임 분석",
+                    "lt": "Žaidimų teorijos analizė",
+                    "nl": "Theorycraft",
+                    "no": "Theorycraft",
+                    "pl": "Theorycrafting",
+                    "ro": "Theorycraft",
+                    "ru": "Теорикрафтинг",
+                    "th": "การสร้างทฤษฎี",
+                    "tr": "Teoriler",
+                    "uk": "Теорікрафт",
+                    "vi": "Phân Tích Game",
+                    "en-GB": "Theorycraft",
+                    "en-US": "Theorycraft",
+                    "es-ES": "Theorycraft",
+                    "pt-BR": "Metajogo",
+                    "sv-SE": "Theorycraft",
+                    "zh-CN": "游戏机制研究",
+                    "zh-TW": "Theorycraft"
                 }
             },
             {
@@ -251,6 +214,43 @@
                     "sv-SE": "Chatt i allmänhet",
                     "zh-CN": "综合聊天",
                     "zh-TW": "一般聊天"
+                }
+            },
+            {
+                "id": 42,
+                "is_primary": false,
+                "name": "Subreddit",
+                "name_localizations": {
+                    "bg": "Тема в reddit",
+                    "cs": "Subreddit",
+                    "da": "Subreddit",
+                    "de": "Subreddit",
+                    "el": "Subreddit",
+                    "fi": "Alareddit",
+                    "fr": "Subreddit",
+                    "hi": "सब-रेडिट",
+                    "hr": "Subreddit",
+                    "hu": "Subreddit",
+                    "it": "Subreddit",
+                    "ja": "Subreddit",
+                    "ko": "서브레딧",
+                    "lt": "Subreddit",
+                    "nl": "Subreddit",
+                    "no": "Subreddit",
+                    "pl": "Subreddit",
+                    "ro": "Subreddit",
+                    "ru": "Сабреддит",
+                    "th": "Subreddit",
+                    "tr": "Subreddit",
+                    "uk": "Сабреддіт",
+                    "vi": "Subreddit",
+                    "en-GB": "Subreddit",
+                    "en-US": "Subreddit",
+                    "es-ES": "Subreddit",
+                    "pt-BR": "Subreddit",
+                    "sv-SE": "Subreddit",
+                    "zh-CN": "Reddit讨论区",
+                    "zh-TW": "討論區"
                 }
             }
         ],
@@ -351,160 +351,6 @@
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Теорикрафт",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Theorycraft",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Theorycraft",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Theorycraft",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Theorycraft",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Pelianalysointi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Theorycraft",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "थ्योरीक्राफ़्ट",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Theorycraft",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Játékelméletek",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Theorycraft",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "ゲーム戦略研究",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "게임 분석",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Žaidimų teorijos analizė",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Theorycraft",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Theorycraft",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Theorycrafting",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Theorycraft",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Теорикрафтинг",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "การสร้างทฤษฎี",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Teoriler",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Теорікрафт",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Phân Tích Game",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Theorycraft",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Theorycraft",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Theorycraft",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Metajogo",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Theorycraft",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "游戏机制研究",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "Theorycraft",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -662,152 +508,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Тема в reddit",
+                            "value": "Теорикрафт",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Subreddit",
+                            "value": "Theorycraft",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Subreddit",
+                            "value": "Theorycraft",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Subreddit",
+                            "value": "Theorycraft",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Subreddit",
+                            "value": "Theorycraft",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Alareddit",
+                            "value": "Pelianalysointi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Subreddit",
+                            "value": "Theorycraft",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "सब-रेडिट",
+                            "value": "थ्योरीक्राफ़्ट",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Subreddit",
+                            "value": "Theorycraft",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Subreddit",
+                            "value": "Játékelméletek",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Subreddit",
+                            "value": "Theorycraft",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "Subreddit",
+                            "value": "ゲーム戦略研究",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "서브레딧",
+                            "value": "게임 분석",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Subreddit",
+                            "value": "Žaidimų teorijos analizė",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Subreddit",
+                            "value": "Theorycraft",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Subreddit",
+                            "value": "Theorycraft",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Subreddit",
+                            "value": "Theorycrafting",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Subreddit",
+                            "value": "Theorycraft",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Сабреддит",
+                            "value": "Теорикрафтинг",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "Subreddit",
+                            "value": "การสร้างทฤษฎี",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Subreddit",
+                            "value": "Teoriler",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Сабреддіт",
+                            "value": "Теорікрафт",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Subreddit",
+                            "value": "Phân Tích Game",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Subreddit",
+                            "value": "Theorycraft",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Subreddit",
+                            "value": "Theorycraft",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Subreddit",
+                            "value": "Theorycraft",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Subreddit",
+                            "value": "Metajogo",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Subreddit",
+                            "value": "Theorycraft",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "Reddit讨论区",
+                            "value": "游戏机制研究",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "討論區",
+                            "value": "Theorycraft",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -1116,6 +962,160 @@
                         },
                         "zh-TW": {
                             "value": "一般聊天",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Тема в reddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Alareddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "सब-रेडिट",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "서브레딧",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Сабреддит",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Сабреддіт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "Reddit讨论区",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "討論區",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

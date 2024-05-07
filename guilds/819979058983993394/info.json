@@ -2,29 +2,32 @@
     "id": "819979058983993394",
     "name": "Wavedash",
     "description": "The official Discord dedicated to the boyband Wavedash.",
-    "icon": "e25eeb507a12a44adb91501cf8c6b7da",
+    "icon": "d6c03c20e5c38b17398231a9638dfb09",
     "splash": "1201978717b2d7daf68b7c8378d53e15",
     "discovery_splash": "7caa6768ac0b26f93b83b29b3499e969",
     "banner": "4f2dc748e129826b7808b33878dbc3ad",
-    "approximate_presence_count": 329,
-    "approximate_member_count": 1287,
-    "premium_subscription_count": 7,
+    "approximate_presence_count": 326,
+    "approximate_member_count": 1405,
+    "premium_subscription_count": 5,
     "preferred_locale": "en-US",
     "vanity_url_code": "wavedash",
     "keywords": [
-        "Wavedash",
-        "Gud Vibrations",
-        "Porter Robinson",
-        "Electronic Music",
-        "Trap",
-        "Music Production",
         "EDM",
+        "Electronic Music",
+        "Gud Vibrations",
+        "Music",
+        "Music Production",
+        "Porter Robinson",
+        "Tempo",
+        "Trap",
+        "Wavedash",
         "World Famous Tour"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "VERIFIED",
         "WELCOME_SCREEN_ENABLED"
@@ -35,12 +38,12 @@
         "id": "819979058983993394",
         "name": "Wavedash",
         "description": "The official Discord dedicated to the boyband Wavedash.",
-        "icon": "e25eeb507a12a44adb91501cf8c6b7da",
+        "icon": "d6c03c20e5c38b17398231a9638dfb09",
         "splash": "1201978717b2d7daf68b7c8378d53e15",
         "banner": "4f2dc748e129826b7808b33878dbc3ad",
-        "approximate_presence_count": 329,
-        "approximate_member_count": 1287,
-        "premium_subscription_count": 7,
+        "approximate_presence_count": 326,
+        "approximate_member_count": 1405,
+        "premium_subscription_count": 5,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "7caa6768ac0b26f93b83b29b3499e969",
@@ -48,19 +51,22 @@
         "vanity_url_code": "wavedash",
         "is_published": false,
         "keywords": [
-            "Wavedash",
-            "Gud Vibrations",
-            "Porter Robinson",
-            "Electronic Music",
-            "Trap",
-            "Music Production",
             "EDM",
+            "Electronic Music",
+            "Gud Vibrations",
+            "Music",
+            "Music Production",
+            "Porter Robinson",
+            "Tempo",
+            "Trap",
+            "Wavedash",
             "World Famous Tour"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "VERIFIED",
             "WELCOME_SCREEN_ENABLED"
@@ -160,17 +166,7 @@
             },
             "keywords": [
                 {
-                    "value": "Wavedash",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "Gud Vibrations",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "Porter Robinson",
+                    "value": "EDM",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -180,7 +176,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "Trap",
+                    "value": "Gud Vibrations",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Music",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -190,7 +191,22 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "EDM",
+                    "value": "Porter Robinson",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Tempo",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Trap",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Wavedash",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
