@@ -1,31 +1,32 @@
 {
     "id": "532197019239055360",
-    "name": "EN World",
+    "name": "EN World / EN Publishing TTRPGs",
     "description": "Official Discord server for EN World, EN Publishing, Level Up: Advanced 5th Edition, and What's OLD is NEW (WOIN).",
     "icon": "e0af77277ef9f6eced1b1fba75942830",
     "splash": "6f5e8eada7f2e1e6ff0f9b87704f1d9b",
     "discovery_splash": "6f5e8eada7f2e1e6ff0f9b87704f1d9b",
     "banner": null,
-    "approximate_presence_count": 754,
-    "approximate_member_count": 2158,
-    "premium_subscription_count": 2,
+    "approximate_presence_count": 830,
+    "approximate_member_count": 2466,
+    "premium_subscription_count": 3,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "en-world-en-publishing-532197019239055360",
     "keywords": [
-        "level-up",
-        "dnd",
-        "woin",
         "a5e",
-        "enworld",
-        "enpublishing",
-        "ttrpg",
         "advanced-5th-edition",
-        "dnd5e"
+        "dnd",
+        "dnd5e",
+        "enpublishing",
+        "enworld",
+        "level-up",
+        "ttrpg",
+        "woin"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -33,35 +34,36 @@
     "verified": false,
     "raw": {
         "id": "532197019239055360",
-        "name": "EN World",
+        "name": "EN World / EN Publishing TTRPGs",
         "description": "Official Discord server for EN World, EN Publishing, Level Up: Advanced 5th Edition, and What's OLD is NEW (WOIN).",
         "icon": "e0af77277ef9f6eced1b1fba75942830",
         "splash": "6f5e8eada7f2e1e6ff0f9b87704f1d9b",
         "banner": null,
-        "approximate_presence_count": 754,
-        "approximate_member_count": 2158,
-        "premium_subscription_count": 2,
+        "approximate_presence_count": 830,
+        "approximate_member_count": 2466,
+        "premium_subscription_count": 3,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "6f5e8eada7f2e1e6ff0f9b87704f1d9b",
         "primary_category_id": 1,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "en-world-en-publishing-532197019239055360",
+        "is_published": true,
         "keywords": [
-            "level-up",
-            "dnd",
-            "woin",
             "a5e",
-            "enworld",
-            "enpublishing",
-            "ttrpg",
             "advanced-5th-edition",
-            "dnd5e"
+            "dnd",
+            "dnd5e",
+            "enpublishing",
+            "enworld",
+            "level-up",
+            "ttrpg",
+            "woin"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -181,7 +183,7 @@
         "objectID": "532197019239055360",
         "_highlightResult": {
             "name": {
-                "value": "EN World",
+                "value": "EN World / EN Publishing TTRPGs",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -190,39 +192,14 @@
                 "matchLevel": "none",
                 "matchedWords": []
             },
+            "vanity_url_code": {
+                "value": "en-world-en-publishing-532197019239055360",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
             "keywords": [
                 {
-                    "value": "level-up",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "dnd",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "woin",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "a5e",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "enworld",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "enpublishing",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "ttrpg",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -232,7 +209,37 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "dnd",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "dnd5e",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "enpublishing",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "enworld",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "level-up",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "ttrpg",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "woin",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

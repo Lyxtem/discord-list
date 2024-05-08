@@ -6,11 +6,11 @@
     "splash": null,
     "discovery_splash": "c35ab82e4c54ef309f0f0e1eb4e49e93",
     "banner": "dce13010887aab284de9575112c1f11a",
-    "approximate_presence_count": 3595,
-    "approximate_member_count": 14481,
-    "premium_subscription_count": 16,
+    "approximate_presence_count": 3651,
+    "approximate_member_count": 15240,
+    "premium_subscription_count": 17,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "timaeuss",
     "keywords": [
         "timaeuss",
         "youtube",
@@ -24,6 +24,7 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -36,14 +37,14 @@
         "icon": "6d1db2adf818d0ab51ec49a19d1520f5",
         "splash": null,
         "banner": "dce13010887aab284de9575112c1f11a",
-        "approximate_presence_count": 3595,
-        "approximate_member_count": 14481,
-        "premium_subscription_count": 16,
+        "approximate_presence_count": 3651,
+        "approximate_member_count": 15240,
+        "premium_subscription_count": 17,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "c35ab82e4c54ef309f0f0e1eb4e49e93",
         "primary_category_id": 1,
-        "vanity_url_code": null,
+        "vanity_url_code": "timaeuss",
         "is_published": false,
         "keywords": [
             "timaeuss",
@@ -58,6 +59,7 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -183,6 +185,11 @@
             },
             "description": {
                 "value": "Youtube.com/@TimaeuSS",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "timaeuss",
                 "matchLevel": "none",
                 "matchedWords": []
             },

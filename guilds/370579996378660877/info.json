@@ -1,25 +1,24 @@
 {
     "id": "370579996378660877",
     "name": "Hockey Chat",
-    "description": "",
-    "icon": "a_f77e9d3c11d118a91ff9527395884691",
-    "splash": "bc192e2e16a9fba190d5d7402b288bd3",
+    "description": "We are the largest hockey community on Discord, we have daily and seasonal events for you to participate in!",
+    "icon": "a_1fb6e8f0a2e9caef34b703db80f51f3b",
+    "splash": "2e388e8dce5193f63d2c13995b36cb80",
     "discovery_splash": "17e9f5ea430cd426b16c47e685dbc9a6",
-    "banner": "8da118dbd4a872993ee1ef8fce9c3118",
-    "approximate_presence_count": 6628,
-    "approximate_member_count": 36290,
-    "premium_subscription_count": 39,
+    "banner": "bd6da58f97c23d4323834bedbde2bf58",
+    "approximate_presence_count": 6460,
+    "approximate_member_count": 36415,
+    "premium_subscription_count": 50,
     "preferred_locale": "en-US",
     "vanity_url_code": "hockey",
     "keywords": [
-        "Hockey",
-        "NHL",
         "AHL",
-        "Sports",
-        "Ice Hockey",
         "Entertainment",
-        "Betting",
-        "Events"
+        "Events",
+        "Hockey",
+        "Ice Hockey",
+        "NHL",
+        "Sports"
     ],
     "features": [
         "COMMUNITY",
@@ -34,28 +33,27 @@
     "raw": {
         "id": "370579996378660877",
         "name": "Hockey Chat",
-        "description": "",
-        "icon": "a_f77e9d3c11d118a91ff9527395884691",
-        "splash": "bc192e2e16a9fba190d5d7402b288bd3",
-        "banner": "8da118dbd4a872993ee1ef8fce9c3118",
-        "approximate_presence_count": 6628,
-        "approximate_member_count": 36290,
-        "premium_subscription_count": 39,
+        "description": "We are the largest hockey community on Discord, we have daily and seasonal events for you to participate in!",
+        "icon": "a_1fb6e8f0a2e9caef34b703db80f51f3b",
+        "splash": "2e388e8dce5193f63d2c13995b36cb80",
+        "banner": "bd6da58f97c23d4323834bedbde2bf58",
+        "approximate_presence_count": 6460,
+        "approximate_member_count": 36415,
+        "premium_subscription_count": 50,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "17e9f5ea430cd426b16c47e685dbc9a6",
         "primary_category_id": 7,
         "vanity_url_code": "hockey",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
-            "Hockey",
-            "NHL",
             "AHL",
-            "Sports",
-            "Ice Hockey",
             "Entertainment",
-            "Betting",
-            "Events"
+            "Events",
+            "Hockey",
+            "Ice Hockey",
+            "NHL",
+            "Sports"
         ],
         "features": [
             "COMMUNITY",
@@ -66,6 +64,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
             {
                 "id": 14,
                 "is_primary": true,
@@ -139,16 +147,6 @@
                     "zh-CN": "娱乐",
                     "zh-TW": "娛樂"
                 }
-            },
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
-                }
             }
         ],
         "primary_category": {
@@ -169,7 +167,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "",
+                "value": "We are the largest hockey community on Discord, we have daily and seasonal events for you to participate in!",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -180,27 +178,7 @@
             },
             "keywords": [
                 {
-                    "value": "Hockey",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "NHL",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "AHL",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "Sports",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "Ice Hockey",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -210,17 +188,51 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "Betting",
+                    "value": "Events",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "Events",
+                    "value": "Hockey",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Ice Hockey",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "NHL",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Sports",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -524,25 +536,6 @@
                         },
                         "zh-TW": {
                             "value": "娛樂",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

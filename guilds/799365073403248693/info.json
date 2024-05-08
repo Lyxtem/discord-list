@@ -1,26 +1,26 @@
 {
     "id": "799365073403248693",
     "name": "Aide Scolaire",
-    "description": "Serveur d'Aide Scolaire officiel ! Venez vous faire aider, par nos nombreux bénévoles, si vous êtes encore scolarisé !",
-    "icon": "51fd9930e97645d9c2ecd27062ca6026",
-    "splash": null,
+    "description": "Aide Scolaire est un serveur d'aide et de soutien scolaire, créé dans le but de vous accompagner dans votre parcours édu",
+    "icon": "cc885599fa7d50536481c6e76687b5ea",
+    "splash": "b7c34de80212a5299468aee2849dead2",
     "discovery_splash": "b7c34de80212a5299468aee2849dead2",
-    "banner": "29b48a95c6763f0f3dcce32fedf25416",
-    "approximate_presence_count": 265,
-    "approximate_member_count": 1590,
-    "premium_subscription_count": 5,
+    "banner": "3f494fa139501ded4f580820e97c2e76",
+    "approximate_presence_count": 123,
+    "approximate_member_count": 1388,
+    "premium_subscription_count": 1,
     "preferred_locale": "fr",
-    "vanity_url_code": null,
+    "vanity_url_code": "aide-scolaire-799365073403248693",
     "keywords": [
-        "école",
-        "devoirs",
-        "étude",
         "aide-scolaire",
         "collège",
+        "devoirs",
         "lycée",
-        "éducation",
-        "scolaire",
         "maths",
+        "scolaire",
+        "école",
+        "éducation",
+        "étude",
         "étudiants"
     ],
     "features": [
@@ -36,29 +36,29 @@
     "raw": {
         "id": "799365073403248693",
         "name": "Aide Scolaire",
-        "description": "Serveur d'Aide Scolaire officiel ! Venez vous faire aider, par nos nombreux bénévoles, si vous êtes encore scolarisé !",
-        "icon": "51fd9930e97645d9c2ecd27062ca6026",
-        "splash": null,
-        "banner": "29b48a95c6763f0f3dcce32fedf25416",
-        "approximate_presence_count": 265,
-        "approximate_member_count": 1590,
-        "premium_subscription_count": 5,
+        "description": "Aide Scolaire est un serveur d'aide et de soutien scolaire, créé dans le but de vous accompagner dans votre parcours édu",
+        "icon": "cc885599fa7d50536481c6e76687b5ea",
+        "splash": "b7c34de80212a5299468aee2849dead2",
+        "banner": "3f494fa139501ded4f580820e97c2e76",
+        "approximate_presence_count": 123,
+        "approximate_member_count": 1388,
+        "premium_subscription_count": 1,
         "preferred_locale": "fr",
         "auto_removed": false,
         "discovery_splash": "b7c34de80212a5299468aee2849dead2",
         "primary_category_id": 6,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "aide-scolaire-799365073403248693",
+        "is_published": true,
         "keywords": [
-            "école",
-            "devoirs",
-            "étude",
             "aide-scolaire",
             "collège",
+            "devoirs",
             "lycée",
-            "éducation",
-            "scolaire",
             "maths",
+            "scolaire",
+            "école",
+            "éducation",
+            "étude",
             "étudiants"
         ],
         "features": [
@@ -301,26 +301,16 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Serveur d'Aide Scolaire officiel ! Venez vous faire aider, par nos nombreux bénévoles, si vous êtes encore scolarisé !",
+                "value": "Aide Scolaire est un serveur d'aide et de soutien scolaire, créé dans le but de vous accompagner dans votre parcours édu",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "aide-scolaire-799365073403248693",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
-                {
-                    "value": "école",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "devoirs",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "étude",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
                 {
                     "value": "aide-scolaire",
                     "matchLevel": "none",
@@ -332,12 +322,17 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "devoirs",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "lycée",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "éducation",
+                    "value": "maths",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -347,7 +342,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "maths",
+                    "value": "école",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "éducation",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "étude",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
