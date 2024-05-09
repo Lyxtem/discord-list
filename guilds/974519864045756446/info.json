@@ -6,8 +6,8 @@
     "splash": "438d16ed408c9fdcb4b53e60cef3077d",
     "discovery_splash": "dcbab0dfca5f6c2628566bdcba1f1bd5",
     "banner": "a_d0283a6aa0f15fa86d42ff3e5d061ab8",
-    "approximate_presence_count": 21468,
-    "approximate_member_count": 103392,
+    "approximate_presence_count": 22067,
+    "approximate_member_count": 103455,
     "premium_subscription_count": 36,
     "preferred_locale": "en-US",
     "vanity_url_code": "openai",
@@ -16,11 +16,12 @@
         "artificial intelligence",
         "chatgpt",
         "dall-e",
-        "dalle",
         "gpt",
         "gpt-3",
+        "gpt-4",
         "open ai",
-        "openai"
+        "openai",
+        "sora"
     ],
     "features": [
         "COMMUNITY",
@@ -39,8 +40,8 @@
         "icon": "d7ec4ed5884437bae0333aa345a97160",
         "splash": "438d16ed408c9fdcb4b53e60cef3077d",
         "banner": "a_d0283a6aa0f15fa86d42ff3e5d061ab8",
-        "approximate_presence_count": 21468,
-        "approximate_member_count": 103392,
+        "approximate_presence_count": 22067,
+        "approximate_member_count": 103455,
         "premium_subscription_count": 36,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -53,11 +54,12 @@
             "artificial intelligence",
             "chatgpt",
             "dall-e",
-            "dalle",
             "gpt",
             "gpt-3",
+            "gpt-4",
             "open ai",
-            "openai"
+            "openai",
+            "sora"
         ],
         "features": [
             "COMMUNITY",
@@ -293,11 +295,6 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "dalle",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "gpt",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -308,12 +305,22 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "gpt-4",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "open ai",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "openai",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "sora",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

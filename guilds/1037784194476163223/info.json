@@ -6,9 +6,9 @@
     "splash": "11ceaa4914832f16cc20334124eb4bb4",
     "discovery_splash": "fc95a99dcc678546a1110be1e200e17b",
     "banner": "1c316dcf1c5e8a6cdd3018bc0fa1ce57",
-    "approximate_presence_count": 10117,
-    "approximate_member_count": 83890,
-    "premium_subscription_count": 102,
+    "approximate_presence_count": 10700,
+    "approximate_member_count": 84096,
+    "premium_subscription_count": 103,
     "preferred_locale": "en-US",
     "vanity_url_code": "wsbverse",
     "keywords": [
@@ -16,6 +16,7 @@
         "gamestop",
         "investing",
         "memestock",
+        "options",
         "stocks",
         "trading",
         "wallstreetbets",
@@ -38,9 +39,9 @@
         "icon": "a_010cc9a9cb110d8796075e0e4ea3cf2a",
         "splash": "11ceaa4914832f16cc20334124eb4bb4",
         "banner": "1c316dcf1c5e8a6cdd3018bc0fa1ce57",
-        "approximate_presence_count": 10117,
-        "approximate_member_count": 83890,
-        "premium_subscription_count": 102,
+        "approximate_presence_count": 10700,
+        "approximate_member_count": 84096,
+        "premium_subscription_count": 103,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "fc95a99dcc678546a1110be1e200e17b",
@@ -52,6 +53,7 @@
             "gamestop",
             "investing",
             "memestock",
+            "options",
             "stocks",
             "trading",
             "wallstreetbets",
@@ -66,6 +68,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
+                }
+            },
             {
                 "id": 12,
                 "is_primary": true,
@@ -180,6 +192,11 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "options",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "stocks",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -201,6 +218,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {

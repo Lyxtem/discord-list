@@ -1,23 +1,23 @@
 {
     "id": "602948547138289674",
-    "name": "Comunidad SupremOS",
+    "name": "SupremOS",
     "description": "Comunidad de SupremOS creada por JamessJ para hablar acerca de informática/SupremOS",
-    "icon": "cec015f5142f80904511137209b90961",
+    "icon": "a796e85718749ef5a4bf7b38a0b4588c",
     "splash": "0f104fc06ed4e45f801c4832a242a6e9",
     "discovery_splash": "6456bc69fccfdb1c8006de78ebec829a",
     "banner": "1f4d45546daa687e28a3e4b2193868f6",
-    "approximate_presence_count": 942,
-    "approximate_member_count": 17452,
+    "approximate_presence_count": 741,
+    "approximate_member_count": 17375,
     "premium_subscription_count": 0,
     "preferred_locale": "es-ES",
     "vanity_url_code": "supremos-602948547138289674",
     "keywords": [
-        "codificación",
         "código-abierto",
         "github",
         "hardware",
         "jamessj",
         "programación",
+        "sistema operativo",
         "supremos",
         "tecnología",
         "windows",
@@ -28,20 +28,19 @@
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "PREVIEW_ENABLED",
-        "WELCOME_SCREEN_ENABLED"
+        "PREVIEW_ENABLED"
     ],
     "partnered": false,
     "verified": false,
     "raw": {
         "id": "602948547138289674",
-        "name": "Comunidad SupremOS",
+        "name": "SupremOS",
         "description": "Comunidad de SupremOS creada por JamessJ para hablar acerca de informática/SupremOS",
-        "icon": "cec015f5142f80904511137209b90961",
+        "icon": "a796e85718749ef5a4bf7b38a0b4588c",
         "splash": "0f104fc06ed4e45f801c4832a242a6e9",
         "banner": "1f4d45546daa687e28a3e4b2193868f6",
-        "approximate_presence_count": 942,
-        "approximate_member_count": 17452,
+        "approximate_presence_count": 741,
+        "approximate_member_count": 17375,
         "premium_subscription_count": 0,
         "preferred_locale": "es-ES",
         "auto_removed": false,
@@ -50,12 +49,12 @@
         "vanity_url_code": "supremos-602948547138289674",
         "is_published": true,
         "keywords": [
-            "codificación",
             "código-abierto",
             "github",
             "hardware",
             "jamessj",
             "programación",
+            "sistema operativo",
             "supremos",
             "tecnología",
             "windows",
@@ -66,45 +65,44 @@
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "PREVIEW_ENABLED",
-            "WELCOME_SCREEN_ENABLED"
+            "PREVIEW_ENABLED"
         ],
         "categories": [
             {
-                "id": 3,
+                "id": 5,
                 "is_primary": true,
-                "name": "Entertainment",
+                "name": "Science & Tech",
                 "name_localizations": {
-                    "bg": "Забавление",
-                    "cs": "Zábava",
-                    "da": "Underholdning",
-                    "de": "Unterhaltung",
-                    "el": "Ψυχαγωγία",
-                    "fi": "Viihde",
-                    "fr": "Divertissements",
-                    "hi": "एंटरटेनमेंट",
-                    "hr": "Zabava",
-                    "hu": "Szórakozás",
-                    "it": "Intrattenimento",
-                    "ja": "エンターテインメント",
-                    "ko": "엔터테인먼트",
-                    "lt": "Pramogos",
-                    "nl": "Entertainment",
-                    "no": "Underholdning",
-                    "pl": "Rozrywka",
-                    "ro": "Divertisment",
-                    "ru": "Развлечения",
-                    "th": "ความบันเทิง",
-                    "tr": "Eğlence",
-                    "uk": "Розваги",
-                    "vi": "Giải Trí",
-                    "en-GB": "Entertainment",
-                    "en-US": "Entertainment",
-                    "es-ES": "Entretenimiento",
-                    "pt-BR": "Entretenimento",
-                    "sv-SE": "Underhållning",
-                    "zh-CN": "娱乐",
-                    "zh-TW": "娛樂"
+                    "bg": "Наука и технологии",
+                    "cs": "Věda a technika",
+                    "da": "Videnskab & teknologi",
+                    "de": "Wissenschaft & Technik",
+                    "el": "Επιστήμη & Τεχνολογία",
+                    "fi": "Tiede ja tekniikka",
+                    "fr": "Science et technologie",
+                    "hi": "साइंस और टेक",
+                    "hr": "Znanost i tehnologija",
+                    "hu": "Tudomány és technológia",
+                    "it": "Scienza e tecnologia",
+                    "ja": "サイエンス&テクノロジー",
+                    "ko": "과학, 기술",
+                    "lt": "Mokslas ir technologijos",
+                    "nl": "Wetenschap en tech",
+                    "no": "Vitenskap og teknologi",
+                    "pl": "Nauka i technika",
+                    "ro": "Știință și tehnologie",
+                    "ru": "Наука и техника",
+                    "th": "วิทยาศาสตร์และเทคโนโลยี",
+                    "tr": "Bilim ve Teknoloji",
+                    "uk": "Наука й технології",
+                    "vi": "Khoa Học & Công Nghệ",
+                    "en-GB": "Science & tech",
+                    "en-US": "Science & Tech",
+                    "es-ES": "Ciencia y tecnología",
+                    "pt-BR": "Ciência e Tecnologia",
+                    "sv-SE": "Vetenskap och teknologi",
+                    "zh-CN": "科学&技术",
+                    "zh-TW": "科學與技術"
                 }
             },
             {
@@ -182,77 +180,40 @@
                 }
             },
             {
-                "id": 35,
-                "is_primary": false,
-                "name": "Content Creator",
-                "name_localizations": {
-                    "bg": "Създател на съдържание",
-                    "cs": "Tvůrce obsahu",
-                    "da": "Indholdsskaber",
-                    "de": "Content Creator",
-                    "el": "Δημιουργός Περιεχομένου",
-                    "fi": "Sisällöntuottaja",
-                    "fr": "Créateur de contenu",
-                    "hi": "कंटेंट क्रिएटर",
-                    "hr": "Stvaratelj sadržaja",
-                    "hu": "Tartalomkészítő",
-                    "it": "Creazione contenuti",
-                    "ja": "コンテンツクリエイター",
-                    "ko": "콘텐츠 크리에이터",
-                    "lt": "Turinio kūrėjai",
-                    "nl": "Contentontwikkelaar",
-                    "no": "Innholdsskaper",
-                    "pl": "Twórca zawartości",
-                    "ro": "Creator de conținut",
-                    "ru": "Создатель контента",
-                    "th": "ผู้สร้างเนื้อหา",
-                    "tr": "İçerik Üreticisi",
-                    "uk": "Створення контенту",
-                    "vi": "Nhà Sáng Tạo Nội Dung",
-                    "en-GB": "Content creator",
-                    "en-US": "Content Creator",
-                    "es-ES": "Creador de contenido",
-                    "pt-BR": "Criação de Conteúdo",
-                    "sv-SE": "Innehållsskapare",
-                    "zh-CN": "内容创作者",
-                    "zh-TW": "內容創作者"
-                }
-            },
-            {
-                "id": 5,
+                "id": 3,
                 "is_primary": true,
-                "name": "Science & Tech",
+                "name": "Entertainment",
                 "name_localizations": {
-                    "bg": "Наука и технологии",
-                    "cs": "Věda a technika",
-                    "da": "Videnskab & teknologi",
-                    "de": "Wissenschaft & Technik",
-                    "el": "Επιστήμη & Τεχνολογία",
-                    "fi": "Tiede ja tekniikka",
-                    "fr": "Science et technologie",
-                    "hi": "साइंस और टेक",
-                    "hr": "Znanost i tehnologija",
-                    "hu": "Tudomány és technológia",
-                    "it": "Scienza e tecnologia",
-                    "ja": "サイエンス&テクノロジー",
-                    "ko": "과학, 기술",
-                    "lt": "Mokslas ir technologijos",
-                    "nl": "Wetenschap en tech",
-                    "no": "Vitenskap og teknologi",
-                    "pl": "Nauka i technika",
-                    "ro": "Știință și tehnologie",
-                    "ru": "Наука и техника",
-                    "th": "วิทยาศาสตร์และเทคโนโลยี",
-                    "tr": "Bilim ve Teknoloji",
-                    "uk": "Наука й технології",
-                    "vi": "Khoa Học & Công Nghệ",
-                    "en-GB": "Science & tech",
-                    "en-US": "Science & Tech",
-                    "es-ES": "Ciencia y tecnología",
-                    "pt-BR": "Ciência e Tecnologia",
-                    "sv-SE": "Vetenskap och teknologi",
-                    "zh-CN": "科学&技术",
-                    "zh-TW": "科學與技術"
+                    "bg": "Забавление",
+                    "cs": "Zábava",
+                    "da": "Underholdning",
+                    "de": "Unterhaltung",
+                    "el": "Ψυχαγωγία",
+                    "fi": "Viihde",
+                    "fr": "Divertissements",
+                    "hi": "एंटरटेनमेंट",
+                    "hr": "Zabava",
+                    "hu": "Szórakozás",
+                    "it": "Intrattenimento",
+                    "ja": "エンターテインメント",
+                    "ko": "엔터테인먼트",
+                    "lt": "Pramogos",
+                    "nl": "Entertainment",
+                    "no": "Underholdning",
+                    "pl": "Rozrywka",
+                    "ro": "Divertisment",
+                    "ru": "Развлечения",
+                    "th": "ความบันเทิง",
+                    "tr": "Eğlence",
+                    "uk": "Розваги",
+                    "vi": "Giải Trí",
+                    "en-GB": "Entertainment",
+                    "en-US": "Entertainment",
+                    "es-ES": "Entretenimiento",
+                    "pt-BR": "Entretenimento",
+                    "sv-SE": "Underhållning",
+                    "zh-CN": "娱乐",
+                    "zh-TW": "娛樂"
                 }
             }
         ],
@@ -296,7 +257,7 @@
         "objectID": "602948547138289674",
         "_highlightResult": {
             "name": {
-                "value": "Comunidad SupremOS",
+                "value": "SupremOS",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -311,11 +272,6 @@
                 "matchedWords": []
             },
             "keywords": [
-                {
-                    "value": "codificación",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
                 {
                     "value": "código-abierto",
                     "matchLevel": "none",
@@ -338,6 +294,11 @@
                 },
                 {
                     "value": "programación",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "sistema operativo",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -366,152 +327,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Забавление",
+                            "value": "Наука и технологии",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Zábava",
+                            "value": "Věda a technika",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Underholdning",
+                            "value": "Videnskab & teknologi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Unterhaltung",
+                            "value": "Wissenschaft & Technik",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Ψυχαγωγία",
+                            "value": "Επιστήμη & Τεχνολογία",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Viihde",
+                            "value": "Tiede ja tekniikka",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Divertissements",
+                            "value": "Science et technologie",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "एंटरटेनमेंट",
+                            "value": "साइंस और टेक",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Zabava",
+                            "value": "Znanost i tehnologija",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Szórakozás",
+                            "value": "Tudomány és technológia",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Intrattenimento",
+                            "value": "Scienza e tecnologia",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "エンターテインメント",
+                            "value": "サイエンス&テクノロジー",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "엔터테인먼트",
+                            "value": "과학, 기술",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Pramogos",
+                            "value": "Mokslas ir technologijos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Entertainment",
+                            "value": "Wetenschap en tech",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Underholdning",
+                            "value": "Vitenskap og teknologi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Rozrywka",
+                            "value": "Nauka i technika",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Divertisment",
+                            "value": "Știință și tehnologie",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Развлечения",
+                            "value": "Наука и техника",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "ความบันเทิง",
+                            "value": "วิทยาศาสตร์และเทคโนโลยี",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Eğlence",
+                            "value": "Bilim ve Teknoloji",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Розваги",
+                            "value": "Наука й технології",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Giải Trí",
+                            "value": "Khoa Học & Công Nghệ",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Entertainment",
+                            "value": "Science & tech",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Entertainment",
+                            "value": "Science & Tech",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Entretenimiento",
+                            "value": "Ciencia y tecnología",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Entretenimento",
+                            "value": "Ciência e Tecnologia",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Underhållning",
+                            "value": "Vetenskap och teknologi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "娱乐",
+                            "value": "科学&技术",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "娛樂",
+                            "value": "科學與技術",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -828,306 +789,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Създател на съдържание",
+                            "value": "Забавление",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Tvůrce obsahu",
+                            "value": "Zábava",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Indholdsskaber",
+                            "value": "Underholdning",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Content Creator",
+                            "value": "Unterhaltung",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Δημιουργός Περιεχομένου",
+                            "value": "Ψυχαγωγία",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Sisällöntuottaja",
+                            "value": "Viihde",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Créateur de contenu",
+                            "value": "Divertissements",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "कंटेंट क्रिएटर",
+                            "value": "एंटरटेनमेंट",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Stvaratelj sadržaja",
+                            "value": "Zabava",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Tartalomkészítő",
+                            "value": "Szórakozás",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Creazione contenuti",
+                            "value": "Intrattenimento",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "コンテンツクリエイター",
+                            "value": "エンターテインメント",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "콘텐츠 크리에이터",
+                            "value": "엔터테인먼트",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Turinio kūrėjai",
+                            "value": "Pramogos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Contentontwikkelaar",
+                            "value": "Entertainment",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Innholdsskaper",
+                            "value": "Underholdning",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Twórca zawartości",
+                            "value": "Rozrywka",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Creator de conținut",
+                            "value": "Divertisment",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Создатель контента",
+                            "value": "Развлечения",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "ผู้สร้างเนื้อหา",
+                            "value": "ความบันเทิง",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "İçerik Üreticisi",
+                            "value": "Eğlence",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Створення контенту",
+                            "value": "Розваги",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Nhà Sáng Tạo Nội Dung",
+                            "value": "Giải Trí",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Content creator",
+                            "value": "Entertainment",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Content Creator",
+                            "value": "Entertainment",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Creador de contenido",
+                            "value": "Entretenimiento",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Criação de Conteúdo",
+                            "value": "Entretenimento",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Innehållsskapare",
+                            "value": "Underhållning",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "内容创作者",
+                            "value": "娱乐",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "內容創作者",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Наука и технологии",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Věda a technika",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Videnskab & teknologi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Wissenschaft & Technik",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Επιστήμη & Τεχνολογία",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Tiede ja tekniikka",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Science et technologie",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "साइंस और टेक",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Znanost i tehnologija",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Tudomány és technológia",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Scienza e tecnologia",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "サイエンス&テクノロジー",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "과학, 기술",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Mokslas ir technologijos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Wetenschap en tech",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Vitenskap og teknologi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Nauka i technika",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Știință și tehnologie",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Наука и техника",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "วิทยาศาสตร์และเทคโนโลยี",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Bilim ve Teknoloji",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Наука й технології",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Khoa Học & Công Nghệ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Science & tech",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Science & Tech",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Ciencia y tecnología",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Ciência e Tecnologia",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Vetenskap och teknologi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "科学&技术",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "科學與技術",
+                            "value": "娛樂",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

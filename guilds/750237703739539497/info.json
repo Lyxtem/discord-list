@@ -6,8 +6,8 @@
     "splash": "ad6a7fabfc1c42aa986fdb21e846afd2",
     "discovery_splash": "ad6a7fabfc1c42aa986fdb21e846afd2",
     "banner": "7b9e00f5909459c54e1a0e6870b683df",
-    "approximate_presence_count": 85904,
-    "approximate_member_count": 522443,
+    "approximate_presence_count": 101764,
+    "approximate_member_count": 522427,
     "premium_subscription_count": 85,
     "preferred_locale": "en-US",
     "vanity_url_code": "narakabladepoint",
@@ -16,7 +16,9 @@
         "COMMUNITY",
         "FIGHTING",
         "GAMING",
-        "NARAKA"
+        "NARAKA",
+        "PVE",
+        "PVP"
     ],
     "features": [
         "COMMUNITY",
@@ -35,8 +37,8 @@
         "icon": "12990d804b45cbd40616203e98d3526c",
         "splash": "ad6a7fabfc1c42aa986fdb21e846afd2",
         "banner": "7b9e00f5909459c54e1a0e6870b683df",
-        "approximate_presence_count": 85904,
-        "approximate_member_count": 522443,
+        "approximate_presence_count": 101764,
+        "approximate_member_count": 522427,
         "premium_subscription_count": 85,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -49,7 +51,9 @@
             "COMMUNITY",
             "FIGHTING",
             "GAMING",
-            "NARAKA"
+            "NARAKA",
+            "PVE",
+            "PVP"
         ],
         "features": [
             "COMMUNITY",
@@ -323,6 +327,16 @@
                 },
                 {
                     "value": "NARAKA",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "PVE",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "PVP",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

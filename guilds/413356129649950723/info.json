@@ -6,41 +6,19 @@
     "splash": "a80076d2ea2bd303b83e357adcbd5d2e",
     "discovery_splash": null,
     "banner": "6ddea5c27b3a50840c54027aa0e392d1",
-    "approximate_presence_count": 8913,
-    "approximate_member_count": 38531,
-    "premium_subscription_count": 21,
+    "approximate_presence_count": 8070,
+    "approximate_member_count": 37075,
+    "premium_subscription_count": 17,
     "preferred_locale": "en-US",
     "vanity_url_code": "welyn",
     "keywords": null,
     "features": [
-        "ANIMATED_BANNER",
-        "ANIMATED_ICON",
-        "AUTO_MODERATION",
-        "BANNER",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_LARGE_GATED",
-        "CREATOR_ACCEPTED_NEW_TERMS",
-        "CREATOR_MONETIZABLE_PROVISIONAL",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "GUILD_ONBOARDING",
-        "GUILD_ONBOARDING_EVER_ENABLED",
-        "GUILD_SERVER_GUIDE",
-        "INVITE_SPLASH",
-        "MEMBER_PROFILES",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "NEWS",
         "PARTNERED",
         "PREVIEW_ENABLED",
-        "PRIVATE_THREADS",
-        "ROLE_ICONS",
-        "SEVEN_DAY_THREAD_ARCHIVE",
-        "SOUNDBOARD",
-        "THREADS_ENABLED",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
-        "VIP_REGIONS",
         "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": true,
@@ -52,9 +30,9 @@
         "icon": "d09dd3f40b319e89020eb1e90cf65df8",
         "splash": "a80076d2ea2bd303b83e357adcbd5d2e",
         "banner": "6ddea5c27b3a50840c54027aa0e392d1",
-        "approximate_presence_count": 8913,
-        "approximate_member_count": 38531,
-        "premium_subscription_count": 21,
+        "approximate_presence_count": 8070,
+        "approximate_member_count": 37075,
+        "premium_subscription_count": 17,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": null,
@@ -63,35 +41,45 @@
         "is_published": false,
         "keywords": null,
         "features": [
-            "ANIMATED_BANNER",
-            "ANIMATED_ICON",
-            "AUTO_MODERATION",
-            "BANNER",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_LARGE_GATED",
-            "CREATOR_ACCEPTED_NEW_TERMS",
-            "CREATOR_MONETIZABLE_PROVISIONAL",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "GUILD_ONBOARDING",
-            "GUILD_ONBOARDING_EVER_ENABLED",
-            "GUILD_SERVER_GUIDE",
-            "INVITE_SPLASH",
-            "MEMBER_PROFILES",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "NEWS",
             "PARTNERED",
             "PREVIEW_ENABLED",
-            "PRIVATE_THREADS",
-            "ROLE_ICONS",
-            "SEVEN_DAY_THREAD_ARCHIVE",
-            "SOUNDBOARD",
-            "THREADS_ENABLED",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
-            "VIP_REGIONS",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "413356129649950723",
+        "_highlightResult": {
+            "name": {
+                "value": "Welyn",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "welyn",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }
