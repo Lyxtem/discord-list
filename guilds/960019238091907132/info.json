@@ -2,13 +2,13 @@
     "id": "960019238091907132",
     "name": "Voxcord",
     "description": "Welcome to Voxcord! A Community Server based on both Helluva Boss and of course, Hazbin Hotel!~",
-    "icon": "122ee7aeced3f95550503427e75559e2",
+    "icon": "c970ec95c2e1ce89a1743ed1acb7d2ad",
     "splash": "61b2a008aab0c61ff5fe2fe7f5277957",
     "discovery_splash": "b674d99f19b9c29c41fdbae965c9f399",
     "banner": "4a744b5aab2299e72c2357f2446918fd",
-    "approximate_presence_count": 2767,
-    "approximate_member_count": 8701,
-    "premium_subscription_count": 83,
+    "approximate_presence_count": 2549,
+    "approximate_member_count": 9182,
+    "premium_subscription_count": 55,
     "preferred_locale": "en-US",
     "vanity_url_code": "hazbinhotel",
     "keywords": [
@@ -36,12 +36,12 @@
         "id": "960019238091907132",
         "name": "Voxcord",
         "description": "Welcome to Voxcord! A Community Server based on both Helluva Boss and of course, Hazbin Hotel!~",
-        "icon": "122ee7aeced3f95550503427e75559e2",
+        "icon": "c970ec95c2e1ce89a1743ed1acb7d2ad",
         "splash": "61b2a008aab0c61ff5fe2fe7f5277957",
         "banner": "4a744b5aab2299e72c2357f2446918fd",
-        "approximate_presence_count": 2767,
-        "approximate_member_count": 8701,
-        "premium_subscription_count": 83,
+        "approximate_presence_count": 2549,
+        "approximate_member_count": 9182,
+        "premium_subscription_count": 55,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "b674d99f19b9c29c41fdbae965c9f399",
@@ -143,43 +143,6 @@
                 }
             },
             {
-                "id": 19,
-                "is_primary": false,
-                "name": "Art",
-                "name_localizations": {
-                    "bg": "Изкуство",
-                    "cs": "Umění",
-                    "da": "Kunst",
-                    "de": "Kunst",
-                    "el": "Τέχνη",
-                    "fi": "Taide",
-                    "fr": "Art",
-                    "hi": "आर्ट",
-                    "hr": "Umjetnost",
-                    "hu": "Művészet",
-                    "it": "Arte",
-                    "ja": "アート",
-                    "ko": "예술",
-                    "lt": "Menas",
-                    "nl": "Kunst",
-                    "no": "Kunst",
-                    "pl": "Sztuka",
-                    "ro": "Artă",
-                    "ru": "Творчество",
-                    "th": "ศิลปะ",
-                    "tr": "Sanat",
-                    "uk": "Мистецтво",
-                    "vi": "Nghệ Thuật",
-                    "en-GB": "Art",
-                    "en-US": "Art",
-                    "es-ES": "Arte",
-                    "pt-BR": "Arte",
-                    "sv-SE": "Konst",
-                    "zh-CN": "艺术",
-                    "zh-TW": "藝術"
-                }
-            },
-            {
                 "id": 35,
                 "is_primary": false,
                 "name": "Content Creator",
@@ -251,6 +214,43 @@
                     "sv-SE": "Serietidningar och tecknade serier",
                     "zh-CN": "漫画&卡通",
                     "zh-TW": "漫畫與卡通"
+                }
+            },
+            {
+                "id": 19,
+                "is_primary": false,
+                "name": "Art",
+                "name_localizations": {
+                    "bg": "Изкуство",
+                    "cs": "Umění",
+                    "da": "Kunst",
+                    "de": "Kunst",
+                    "el": "Τέχνη",
+                    "fi": "Taide",
+                    "fr": "Art",
+                    "hi": "आर्ट",
+                    "hr": "Umjetnost",
+                    "hu": "Művészet",
+                    "it": "Arte",
+                    "ja": "アート",
+                    "ko": "예술",
+                    "lt": "Menas",
+                    "nl": "Kunst",
+                    "no": "Kunst",
+                    "pl": "Sztuka",
+                    "ro": "Artă",
+                    "ru": "Творчество",
+                    "th": "ศิลปะ",
+                    "tr": "Sanat",
+                    "uk": "Мистецтво",
+                    "vi": "Nghệ Thuật",
+                    "en-GB": "Art",
+                    "en-US": "Art",
+                    "es-ES": "Arte",
+                    "pt-BR": "Arte",
+                    "sv-SE": "Konst",
+                    "zh-CN": "艺术",
+                    "zh-TW": "藝術"
                 }
             },
             {
@@ -709,160 +709,6 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Изкуство",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Umění",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Kunst",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Kunst",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Τέχνη",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Taide",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Art",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "आर्ट",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Umjetnost",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Művészet",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Arte",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "アート",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "예술",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Menas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Kunst",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Kunst",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Sztuka",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Artă",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Творчество",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "ศิลปะ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Sanat",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Мистецтво",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Nghệ Thuật",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Art",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Art",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Arte",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Arte",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Konst",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "艺术",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "藝術",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
                             "value": "Създател на съдържание",
                             "matchLevel": "none",
                             "matchedWords": []
@@ -1163,6 +1009,160 @@
                         },
                         "zh-TW": {
                             "value": "漫畫與卡通",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Изкуство",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Umění",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Kunst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Kunst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Τέχνη",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Taide",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Art",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "आर्ट",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Umjetnost",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Művészet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Arte",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "アート",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "예술",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Menas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Kunst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Kunst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Sztuka",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Artă",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Творчество",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ศิลปะ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Sanat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Мистецтво",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Nghệ Thuật",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Art",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Art",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Arte",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Arte",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Konst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "艺术",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "藝術",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

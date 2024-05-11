@@ -1,13 +1,13 @@
 {
     "id": "1058455832796348538",
     "name": "ZematicRP [Åbenthus Allowlist]",
-    "description": "Danmarks sjoveste RP-server",
-    "icon": "d4f7c915aa5ba29059e6bdab2b565236",
-    "splash": "b66497c00df76e28f137e5737eaf6167",
-    "discovery_splash": "721e0c586dceba0362fe3ebeafc5681e",
-    "banner": "8507d24b114ecca06a3062371def7c4f",
-    "approximate_presence_count": 503,
-    "approximate_member_count": 5448,
+    "description": "Dansk FiveM server med ContentRP.",
+    "icon": "06e8eaccbd5c3560d0fc72c1c3450b1a",
+    "splash": "0b3f4d12947da520c1ef12028d16dbc2",
+    "discovery_splash": "0b3f4d12947da520c1ef12028d16dbc2",
+    "banner": "e21f1f0e681c64323e8aa6d8f2ff896d",
+    "approximate_presence_count": 1317,
+    "approximate_member_count": 5443,
     "premium_subscription_count": 25,
     "preferred_locale": "da",
     "vanity_url_code": "zematic",
@@ -16,12 +16,12 @@
         "dansk",
         "dansk-rp",
         "dk",
+        "esx",
         "fivem",
         "gtav",
         "hygge",
         "roleplay",
-        "rp",
-        "vrp"
+        "rp"
     ],
     "features": [
         "COMMUNITY",
@@ -35,16 +35,16 @@
     "raw": {
         "id": "1058455832796348538",
         "name": "ZematicRP [Åbenthus Allowlist]",
-        "description": "Danmarks sjoveste RP-server",
-        "icon": "d4f7c915aa5ba29059e6bdab2b565236",
-        "splash": "b66497c00df76e28f137e5737eaf6167",
-        "banner": "8507d24b114ecca06a3062371def7c4f",
-        "approximate_presence_count": 503,
-        "approximate_member_count": 5448,
+        "description": "Dansk FiveM server med ContentRP.",
+        "icon": "06e8eaccbd5c3560d0fc72c1c3450b1a",
+        "splash": "0b3f4d12947da520c1ef12028d16dbc2",
+        "banner": "e21f1f0e681c64323e8aa6d8f2ff896d",
+        "approximate_presence_count": 1317,
+        "approximate_member_count": 5443,
         "premium_subscription_count": 25,
         "preferred_locale": "da",
         "auto_removed": false,
-        "discovery_splash": "721e0c586dceba0362fe3ebeafc5681e",
+        "discovery_splash": "0b3f4d12947da520c1ef12028d16dbc2",
         "primary_category_id": 1,
         "vanity_url_code": "zematic",
         "is_published": true,
@@ -53,12 +53,12 @@
             "dansk",
             "dansk-rp",
             "dk",
+            "esx",
             "fivem",
             "gtav",
             "hygge",
             "roleplay",
-            "rp",
-            "vrp"
+            "rp"
         ],
         "features": [
             "COMMUNITY",
@@ -299,7 +299,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Danmarks sjoveste RP-server",
+                "value": "Dansk FiveM server med ContentRP.",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -330,6 +330,11 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "esx",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "fivem",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -351,11 +356,6 @@
                 },
                 {
                     "value": "rp",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "vrp",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

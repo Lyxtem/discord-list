@@ -6,11 +6,11 @@
     "splash": "01e7a9c8173e026e4556d9bb538d8849",
     "discovery_splash": "815da419d0eeaa3aebfcefeb8b69501e",
     "banner": "34269ae61e7db9313b815131566faaa1",
-    "approximate_presence_count": 236,
-    "approximate_member_count": 7400,
-    "premium_subscription_count": 7,
+    "approximate_presence_count": 183,
+    "approximate_member_count": 7604,
+    "premium_subscription_count": 3,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "pubgmal",
     "keywords": [
         "esports",
         "pubgmobile"
@@ -20,10 +20,11 @@
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "PREVIEW_ENABLED"
+        "PREVIEW_ENABLED",
+        "VERIFIED"
     ],
     "partnered": false,
-    "verified": false,
+    "verified": true,
     "raw": {
         "id": "731303802203799593",
         "name": "PUBG MOBILE ALBANIA",
@@ -31,14 +32,14 @@
         "icon": "a_3f5b6c5428f5b22bf6fa1bcf50c5ad48",
         "splash": "01e7a9c8173e026e4556d9bb538d8849",
         "banner": "34269ae61e7db9313b815131566faaa1",
-        "approximate_presence_count": 236,
-        "approximate_member_count": 7400,
-        "premium_subscription_count": 7,
+        "approximate_presence_count": 183,
+        "approximate_member_count": 7604,
+        "premium_subscription_count": 3,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "815da419d0eeaa3aebfcefeb8b69501e",
         "primary_category_id": 1,
-        "vanity_url_code": null,
+        "vanity_url_code": "pubgmal",
         "is_published": false,
         "keywords": [
             "esports",
@@ -49,7 +50,8 @@
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "PREVIEW_ENABLED"
+            "PREVIEW_ENABLED",
+            "VERIFIED"
         ],
         "categories": [
             {
@@ -136,6 +138,11 @@
             },
             "description": {
                 "value": "Welcome to the official Discord server of PUBG Mobile Albania, powered by Tencent Games!",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "pubgmal",
                 "matchLevel": "none",
                 "matchedWords": []
             },
