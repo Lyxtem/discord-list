@@ -6,8 +6,8 @@
     "splash": "281b95c9cd4d0114f5fa12e0595b771d",
     "discovery_splash": "2833dbe2cd55657ba0fd09fce5a7a703",
     "banner": "a_11a3597bc0e858e083856644132df911",
-    "approximate_presence_count": 1206,
-    "approximate_member_count": 67605,
+    "approximate_presence_count": 1058,
+    "approximate_member_count": 67581,
     "premium_subscription_count": 29,
     "preferred_locale": "en-US",
     "vanity_url_code": "autograph",
@@ -41,8 +41,8 @@
         "icon": "a_d28d52c9a9085b66471d42ed6c12def2",
         "splash": "281b95c9cd4d0114f5fa12e0595b771d",
         "banner": "a_11a3597bc0e858e083856644132df911",
-        "approximate_presence_count": 1206,
-        "approximate_member_count": 67605,
+        "approximate_presence_count": 1058,
+        "approximate_member_count": 67581,
         "premium_subscription_count": 29,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -73,50 +73,40 @@
         ],
         "categories": [
             {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
+                "id": 27,
+                "is_primary": false,
+                "name": "Cryptocurrency",
                 "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
-                }
-            },
-            {
-                "id": 2,
-                "is_primary": true,
-                "name": "Music",
-                "name_localizations": {
-                    "bg": "Музика",
-                    "cs": "Hudba",
-                    "da": "Musik",
-                    "de": "Musik",
-                    "el": "Μουσική",
-                    "fi": "Musiikki",
-                    "fr": "Musique",
-                    "hi": "म्यूज़िक",
-                    "hr": "Glazba",
-                    "hu": "Zene",
-                    "it": "Musica",
-                    "ja": "音楽",
-                    "ko": "음악",
-                    "lt": "Muzika",
-                    "nl": "Muziek",
-                    "no": "Musikk",
-                    "pl": "Muzyka",
-                    "ro": "Muzică",
-                    "ru": "Музыка",
-                    "th": "เพลง",
-                    "tr": "Müzik",
-                    "uk": "Музика",
-                    "vi": "Âm Nhạc",
-                    "en-GB": "Music",
-                    "en-US": "Music",
-                    "es-ES": "Música",
-                    "pt-BR": "Música",
-                    "sv-SE": "Musik",
-                    "zh-CN": "音乐",
-                    "zh-TW": "音樂"
+                    "bg": "Криптовалута",
+                    "cs": "Kryptoměny",
+                    "da": "Kryptovaluta",
+                    "de": "Kryptowährung",
+                    "el": "Κρυπτονόμισμα",
+                    "fi": "Kryptovaluutta",
+                    "fr": "Cryptomonnaie",
+                    "hi": "क्रिप्टोकरेंसी",
+                    "hr": "Kriptovalute",
+                    "hu": "Kriptovaluta",
+                    "it": "Criptovalute",
+                    "ja": "暗号通貨",
+                    "ko": "암호화폐",
+                    "lt": "Kriptovaliuta",
+                    "nl": "Cryptocurrency",
+                    "no": "Kryptovaluta",
+                    "pl": "Kryptowaluty",
+                    "ro": "Criptomonede",
+                    "ru": "Криптовалюта",
+                    "th": "สกุลเงินดิจิทัล",
+                    "tr": "Kripto Para Birimleri",
+                    "uk": "Криптовалюти",
+                    "vi": "Tiền Ảo",
+                    "en-GB": "Cryptocurrency",
+                    "en-US": "Cryptocurrency",
+                    "es-ES": "Criptomonedas",
+                    "pt-BR": "Criptomoeda",
+                    "sv-SE": "Kryptovaluta",
+                    "zh-CN": "数字货币",
+                    "zh-TW": "加密貨幣"
                 }
             },
             {
@@ -194,40 +184,50 @@
                 }
             },
             {
-                "id": 27,
-                "is_primary": false,
-                "name": "Cryptocurrency",
+                "id": 2,
+                "is_primary": true,
+                "name": "Music",
                 "name_localizations": {
-                    "bg": "Криптовалута",
-                    "cs": "Kryptoměny",
-                    "da": "Kryptovaluta",
-                    "de": "Kryptowährung",
-                    "el": "Κρυπτονόμισμα",
-                    "fi": "Kryptovaluutta",
-                    "fr": "Cryptomonnaie",
-                    "hi": "क्रिप्टोकरेंसी",
-                    "hr": "Kriptovalute",
-                    "hu": "Kriptovaluta",
-                    "it": "Criptovalute",
-                    "ja": "暗号通貨",
-                    "ko": "암호화폐",
-                    "lt": "Kriptovaliuta",
-                    "nl": "Cryptocurrency",
-                    "no": "Kryptovaluta",
-                    "pl": "Kryptowaluty",
-                    "ro": "Criptomonede",
-                    "ru": "Криптовалюта",
-                    "th": "สกุลเงินดิจิทัล",
-                    "tr": "Kripto Para Birimleri",
-                    "uk": "Криптовалюти",
-                    "vi": "Tiền Ảo",
-                    "en-GB": "Cryptocurrency",
-                    "en-US": "Cryptocurrency",
-                    "es-ES": "Criptomonedas",
-                    "pt-BR": "Criptomoeda",
-                    "sv-SE": "Kryptovaluta",
-                    "zh-CN": "数字货币",
-                    "zh-TW": "加密貨幣"
+                    "bg": "Музика",
+                    "cs": "Hudba",
+                    "da": "Musik",
+                    "de": "Musik",
+                    "el": "Μουσική",
+                    "fi": "Musiikki",
+                    "fr": "Musique",
+                    "hi": "म्यूज़िक",
+                    "hr": "Glazba",
+                    "hu": "Zene",
+                    "it": "Musica",
+                    "ja": "音楽",
+                    "ko": "음악",
+                    "lt": "Muzika",
+                    "nl": "Muziek",
+                    "no": "Musikk",
+                    "pl": "Muzyka",
+                    "ro": "Muzică",
+                    "ru": "Музыка",
+                    "th": "เพลง",
+                    "tr": "Müzik",
+                    "uk": "Музика",
+                    "vi": "Âm Nhạc",
+                    "en-GB": "Music",
+                    "en-US": "Music",
+                    "es-ES": "Música",
+                    "pt-BR": "Música",
+                    "sv-SE": "Musik",
+                    "zh-CN": "音乐",
+                    "zh-TW": "音樂"
+                }
+            },
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
                 }
             },
             {
@@ -377,172 +377,153 @@
             "categories": [
                 {
                     "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
                         "bg": {
-                            "value": "Музика",
+                            "value": "Криптовалута",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Hudba",
+                            "value": "Kryptoměny",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Musik",
+                            "value": "Kryptovaluta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Musik",
+                            "value": "Kryptowährung",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Μουσική",
+                            "value": "Κρυπτονόμισμα",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Musiikki",
+                            "value": "Kryptovaluutta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Musique",
+                            "value": "Cryptomonnaie",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "म्यूज़िक",
+                            "value": "क्रिप्टोकरेंसी",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Glazba",
+                            "value": "Kriptovalute",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Zene",
+                            "value": "Kriptovaluta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Musica",
+                            "value": "Criptovalute",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "音楽",
+                            "value": "暗号通貨",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "음악",
+                            "value": "암호화폐",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Muzika",
+                            "value": "Kriptovaliuta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Muziek",
+                            "value": "Cryptocurrency",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Musikk",
+                            "value": "Kryptovaluta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Muzyka",
+                            "value": "Kryptowaluty",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Muzică",
+                            "value": "Criptomonede",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Музыка",
+                            "value": "Криптовалюта",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "เพลง",
+                            "value": "สกุลเงินดิจิทัล",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Müzik",
+                            "value": "Kripto Para Birimleri",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Музика",
+                            "value": "Криптовалюти",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Âm Nhạc",
+                            "value": "Tiền Ảo",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Music",
+                            "value": "Cryptocurrency",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Music",
+                            "value": "Cryptocurrency",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Música",
+                            "value": "Criptomonedas",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Música",
+                            "value": "Criptomoeda",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Musik",
+                            "value": "Kryptovaluta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "音乐",
+                            "value": "数字货币",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "音樂",
+                            "value": "加密貨幣",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -859,152 +840,171 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Криптовалута",
+                            "value": "Музика",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Kryptoměny",
+                            "value": "Hudba",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Kryptovaluta",
+                            "value": "Musik",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Kryptowährung",
+                            "value": "Musik",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Κρυπτονόμισμα",
+                            "value": "Μουσική",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Kryptovaluutta",
+                            "value": "Musiikki",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Cryptomonnaie",
+                            "value": "Musique",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "क्रिप्टोकरेंसी",
+                            "value": "म्यूज़िक",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Kriptovalute",
+                            "value": "Glazba",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Kriptovaluta",
+                            "value": "Zene",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Criptovalute",
+                            "value": "Musica",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "暗号通貨",
+                            "value": "音楽",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "암호화폐",
+                            "value": "음악",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Kriptovaliuta",
+                            "value": "Muzika",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Cryptocurrency",
+                            "value": "Muziek",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Kryptovaluta",
+                            "value": "Musikk",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Kryptowaluty",
+                            "value": "Muzyka",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Criptomonede",
+                            "value": "Muzică",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Криптовалюта",
+                            "value": "Музыка",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "สกุลเงินดิจิทัล",
+                            "value": "เพลง",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Kripto Para Birimleri",
+                            "value": "Müzik",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Криптовалюти",
+                            "value": "Музика",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Tiền Ảo",
+                            "value": "Âm Nhạc",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Cryptocurrency",
+                            "value": "Music",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Cryptocurrency",
+                            "value": "Music",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Criptomonedas",
+                            "value": "Música",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Criptomoeda",
+                            "value": "Música",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Kryptovaluta",
+                            "value": "Musik",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "数字货币",
+                            "value": "音乐",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "加密貨幣",
+                            "value": "音樂",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
