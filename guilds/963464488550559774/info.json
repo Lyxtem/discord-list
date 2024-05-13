@@ -1,14 +1,14 @@
 {
     "id": "963464488550559774",
-    "name": "DC Central",
+    "name": "DC Central [Revamping]",
     "description": "DC Central! Make friends who like similar interests, talk about DC Comics, Movies, and Shows!",
-    "icon": "f29e63414bad5e9cb52fb79178c67f4c",
-    "splash": "93c9c43cd2f2a92c7aafbe98eb0e34b7",
+    "icon": "6a8fdf53fd940a5c7b68d3a85832616c",
+    "splash": "175db5ecda6f905600962eb3afe7ecbc",
     "discovery_splash": "b7eb2c0c286c1c2e37e3cd9a567fee74",
-    "banner": "8a46462e31790ed71364b0941e3fbda6",
-    "approximate_presence_count": 620,
-    "approximate_member_count": 12683,
-    "premium_subscription_count": 56,
+    "banner": "a_95c0f45b8a6ff6c0ee58849b10b35b1e",
+    "approximate_presence_count": 722,
+    "approximate_member_count": 12729,
+    "premium_subscription_count": 26,
     "preferred_locale": "en-US",
     "vanity_url_code": "harleyquinn",
     "keywords": [
@@ -35,14 +35,14 @@
     "verified": false,
     "raw": {
         "id": "963464488550559774",
-        "name": "DC Central",
+        "name": "DC Central [Revamping]",
         "description": "DC Central! Make friends who like similar interests, talk about DC Comics, Movies, and Shows!",
-        "icon": "f29e63414bad5e9cb52fb79178c67f4c",
-        "splash": "93c9c43cd2f2a92c7aafbe98eb0e34b7",
-        "banner": "8a46462e31790ed71364b0941e3fbda6",
-        "approximate_presence_count": 620,
-        "approximate_member_count": 12683,
-        "premium_subscription_count": 56,
+        "icon": "6a8fdf53fd940a5c7b68d3a85832616c",
+        "splash": "175db5ecda6f905600962eb3afe7ecbc",
+        "banner": "a_95c0f45b8a6ff6c0ee58849b10b35b1e",
+        "approximate_presence_count": 722,
+        "approximate_member_count": 12729,
+        "premium_subscription_count": 26,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "b7eb2c0c286c1c2e37e3cd9a567fee74",
@@ -70,6 +70,80 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 20,
+                "is_primary": false,
+                "name": "Writing",
+                "name_localizations": {
+                    "bg": "Литература",
+                    "cs": "Psaní",
+                    "da": "Skrivning",
+                    "de": "Schreiben",
+                    "el": "Συγγραφή",
+                    "fi": "Kirjoittaminen",
+                    "fr": "Écriture",
+                    "hi": "राइटिंग",
+                    "hr": "Pisanje",
+                    "hu": "Írás",
+                    "it": "Scrittura",
+                    "ja": "執筆活動",
+                    "ko": "글쓰기",
+                    "lt": "Rašymas",
+                    "nl": "Schrijven",
+                    "no": "Skrivearbeid",
+                    "pl": "Pisarstwo",
+                    "ro": "Scriere",
+                    "ru": "Литература",
+                    "th": "การเขียน",
+                    "tr": "Yazarlık",
+                    "uk": "Письменництво",
+                    "vi": "Văn Học",
+                    "en-GB": "Writing",
+                    "en-US": "Writing",
+                    "es-ES": "Escritura",
+                    "pt-BR": "Escrita",
+                    "sv-SE": "Litteratur",
+                    "zh-CN": "写作",
+                    "zh-TW": "寫作"
+                }
+            },
+            {
+                "id": 44,
+                "is_primary": false,
+                "name": "Comics & Cartoons",
+                "name_localizations": {
+                    "bg": "Комикси и рисувани герои",
+                    "cs": "Komiksy",
+                    "da": "Tegneserier og tegnefilm",
+                    "de": "Comics & Cartoons",
+                    "el": "Κόμικς & Καρτούν",
+                    "fi": "Sarjakuvat ja piirretyt",
+                    "fr": "BD et dessins animés",
+                    "hi": "कॉमिक्स और कार्टून",
+                    "hr": "Strip i karikature",
+                    "hu": "Képregények és rajzfilmek",
+                    "it": "Cartoni e fumetti",
+                    "ja": "漫画&カートゥーン",
+                    "ko": "만화",
+                    "lt": "Komiksai ir karikatūros",
+                    "nl": "Strips en cartoons",
+                    "no": "Tegneserier og tegnefilmer",
+                    "pl": "Komiksy i kreskówki",
+                    "ro": "Benzi desenate și desene animate",
+                    "ru": "Комиксы и мультфильмы",
+                    "th": "คอมมิกและการ์ตูน",
+                    "tr": "Çizgi Roman ve Filmler",
+                    "uk": "Комікси та мультфільми",
+                    "vi": "Truyện Tranh và Hoạt Hình",
+                    "en-GB": "Comics & Cartoons",
+                    "en-US": "Comics & Cartoons",
+                    "es-ES": "Cómics y dibujos animados",
+                    "pt-BR": "Quadrinhos e Desenhos Animados",
+                    "sv-SE": "Serietidningar och tecknade serier",
+                    "zh-CN": "漫画&卡通",
+                    "zh-TW": "漫畫與卡通"
+                }
+            },
             {
                 "id": 18,
                 "is_primary": false,
@@ -145,43 +219,6 @@
                 }
             },
             {
-                "id": 20,
-                "is_primary": false,
-                "name": "Writing",
-                "name_localizations": {
-                    "bg": "Литература",
-                    "cs": "Psaní",
-                    "da": "Skrivning",
-                    "de": "Schreiben",
-                    "el": "Συγγραφή",
-                    "fi": "Kirjoittaminen",
-                    "fr": "Écriture",
-                    "hi": "राइटिंग",
-                    "hr": "Pisanje",
-                    "hu": "Írás",
-                    "it": "Scrittura",
-                    "ja": "執筆活動",
-                    "ko": "글쓰기",
-                    "lt": "Rašymas",
-                    "nl": "Schrijven",
-                    "no": "Skrivearbeid",
-                    "pl": "Pisarstwo",
-                    "ro": "Scriere",
-                    "ru": "Литература",
-                    "th": "การเขียน",
-                    "tr": "Yazarlık",
-                    "uk": "Письменництво",
-                    "vi": "Văn Học",
-                    "en-GB": "Writing",
-                    "en-US": "Writing",
-                    "es-ES": "Escritura",
-                    "pt-BR": "Escrita",
-                    "sv-SE": "Litteratur",
-                    "zh-CN": "写作",
-                    "zh-TW": "寫作"
-                }
-            },
-            {
                 "id": 14,
                 "is_primary": true,
                 "name": "General Chatting",
@@ -216,43 +253,6 @@
                     "sv-SE": "Chatt i allmänhet",
                     "zh-CN": "综合聊天",
                     "zh-TW": "一般聊天"
-                }
-            },
-            {
-                "id": 44,
-                "is_primary": false,
-                "name": "Comics & Cartoons",
-                "name_localizations": {
-                    "bg": "Комикси и рисувани герои",
-                    "cs": "Komiksy",
-                    "da": "Tegneserier og tegnefilm",
-                    "de": "Comics & Cartoons",
-                    "el": "Κόμικς & Καρτούν",
-                    "fi": "Sarjakuvat ja piirretyt",
-                    "fr": "BD et dessins animés",
-                    "hi": "कॉमिक्स और कार्टून",
-                    "hr": "Strip i karikature",
-                    "hu": "Képregények és rajzfilmek",
-                    "it": "Cartoni e fumetti",
-                    "ja": "漫画&カートゥーン",
-                    "ko": "만화",
-                    "lt": "Komiksai ir karikatūros",
-                    "nl": "Strips en cartoons",
-                    "no": "Tegneserier og tegnefilmer",
-                    "pl": "Komiksy i kreskówki",
-                    "ro": "Benzi desenate și desene animate",
-                    "ru": "Комиксы и мультфильмы",
-                    "th": "คอมมิกและการ์ตูน",
-                    "tr": "Çizgi Roman ve Filmler",
-                    "uk": "Комікси та мультфільми",
-                    "vi": "Truyện Tranh và Hoạt Hình",
-                    "en-GB": "Comics & Cartoons",
-                    "en-US": "Comics & Cartoons",
-                    "es-ES": "Cómics y dibujos animados",
-                    "pt-BR": "Quadrinhos e Desenhos Animados",
-                    "sv-SE": "Serietidningar och tecknade serier",
-                    "zh-CN": "漫画&卡通",
-                    "zh-TW": "漫畫與卡通"
                 }
             }
         ],
@@ -296,7 +296,7 @@
         "objectID": "963464488550559774",
         "_highlightResult": {
             "name": {
-                "value": "DC Central",
+                "value": "DC Central [Revamping]",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -363,6 +363,314 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Литература",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Psaní",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Skrivning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Schreiben",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Συγγραφή",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Kirjoittaminen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Écriture",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "राइटिंग",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Pisanje",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Írás",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Scrittura",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "執筆活動",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "글쓰기",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Rašymas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Schrijven",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Skrivearbeid",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Pisarstwo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Scriere",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Литература",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การเขียน",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Yazarlık",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Письменництво",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Văn Học",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Writing",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Writing",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Escritura",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Escrita",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Litteratur",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "写作",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "寫作",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Комикси и рисувани герои",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Komiksy",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Tegneserier og tegnefilm",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Comics & Cartoons",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Κόμικς & Καρτούν",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Sarjakuvat ja piirretyt",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "BD et dessins animés",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "कॉमिक्स और कार्टून",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Strip i karikature",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Képregények és rajzfilmek",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Cartoni e fumetti",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "漫画&カートゥーン",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "만화",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Komiksai ir karikatūros",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Strips en cartoons",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Tegneserier og tegnefilmer",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Komiksy i kreskówki",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Benzi desenate și desene animate",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Комиксы и мультфильмы",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "คอมมิกและการ์ตูน",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Çizgi Roman ve Filmler",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Комікси та мультфільми",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Truyện Tranh và Hoạt Hình",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Comics & Cartoons",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Comics & Cartoons",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Cómics y dibujos animados",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Quadrinhos e Desenhos Animados",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Serietidningar och tecknade serier",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "漫画&卡通",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "漫畫與卡通",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -674,160 +982,6 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Литература",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Psaní",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Skrivning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Schreiben",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Συγγραφή",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Kirjoittaminen",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Écriture",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "राइटिंग",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Pisanje",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Írás",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Scrittura",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "執筆活動",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "글쓰기",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Rašymas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Schrijven",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Skrivearbeid",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Pisarstwo",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Scriere",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Литература",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "การเขียน",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Yazarlık",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Письменництво",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Văn Học",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Writing",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Writing",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Escritura",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Escrita",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Litteratur",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "写作",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "寫作",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
                             "value": "Общуване",
                             "matchLevel": "none",
                             "matchedWords": []
@@ -974,160 +1128,6 @@
                         },
                         "zh-TW": {
                             "value": "一般聊天",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Комикси и рисувани герои",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Komiksy",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Tegneserier og tegnefilm",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Comics & Cartoons",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Κόμικς & Καρτούν",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Sarjakuvat ja piirretyt",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "BD et dessins animés",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "कॉमिक्स और कार्टून",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Strip i karikature",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Képregények és rajzfilmek",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Cartoni e fumetti",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "漫画&カートゥーン",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "만화",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Komiksai ir karikatūros",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Strips en cartoons",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Tegneserier og tegnefilmer",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Komiksy i kreskówki",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Benzi desenate și desene animate",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Комиксы и мультфильмы",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "คอมมิกและการ์ตูน",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Çizgi Roman ve Filmler",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Комікси та мультфільми",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Truyện Tranh và Hoạt Hình",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Comics & Cartoons",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Comics & Cartoons",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Cómics y dibujos animados",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Quadrinhos e Desenhos Animados",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Serietidningar och tecknade serier",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "漫画&卡通",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "漫畫與卡通",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

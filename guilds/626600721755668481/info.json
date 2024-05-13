@@ -6,17 +6,17 @@
     "splash": "654e62aab8aaef90ef1a2527990131c7",
     "discovery_splash": null,
     "banner": null,
-    "approximate_presence_count": 260,
-    "approximate_member_count": 1458,
+    "approximate_presence_count": 274,
+    "approximate_member_count": 1716,
     "premium_subscription_count": 0,
     "preferred_locale": "pt-BR",
     "vanity_url_code": null,
     "keywords": [
-        "lojasquare",
-        "vendas",
-        "entregas",
         "automaticas",
-        "site"
+        "entregas",
+        "lojasquare",
+        "site",
+        "vendas"
     ],
     "features": [
         "COMMUNITY",
@@ -34,8 +34,8 @@
         "icon": "45056bb20b0746cd6fbdbf2827709f02",
         "splash": "654e62aab8aaef90ef1a2527990131c7",
         "banner": null,
-        "approximate_presence_count": 260,
-        "approximate_member_count": 1458,
+        "approximate_presence_count": 274,
+        "approximate_member_count": 1716,
         "premium_subscription_count": 0,
         "preferred_locale": "pt-BR",
         "auto_removed": false,
@@ -44,11 +44,11 @@
         "vanity_url_code": null,
         "is_published": false,
         "keywords": [
-            "lojasquare",
-            "vendas",
-            "entregas",
             "automaticas",
-            "site"
+            "entregas",
+            "lojasquare",
+            "site",
+            "vendas"
         ],
         "features": [
             "COMMUNITY",
@@ -221,12 +221,7 @@
             },
             "keywords": [
                 {
-                    "value": "lojasquare",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "vendas",
+                    "value": "automaticas",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -236,12 +231,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "automaticas",
+                    "value": "lojasquare",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "site",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "vendas",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

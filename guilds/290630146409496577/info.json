@@ -6,24 +6,30 @@
     "splash": "eb6513ef1bb174c6c8ecac60e08077ad",
     "discovery_splash": "cf41d286a6d0df429c3faeb58d294d05",
     "banner": null,
-    "approximate_presence_count": 308,
-    "approximate_member_count": 1410,
-    "premium_subscription_count": 3,
+    "approximate_presence_count": 312,
+    "approximate_member_count": 1607,
+    "premium_subscription_count": 1,
     "preferred_locale": "en-US",
     "vanity_url_code": "arkforce-290630146409496577",
     "keywords": [
+        "ASA",
+        "Ark Survival Ascended",
+        "Survival Ascended",
         "ark",
         "arksurvivalevolved",
-        "bestarkservers",
-        "evolved",
+        "building game",
+        "crafting game",
+        "palworld",
         "survival",
-        "toparkservers"
+        "survival game"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "PREVIEW_ENABLED"
+        "MEMBER_VERIFICATION_GATE_ENABLED",
+        "PREVIEW_ENABLED",
+        "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": false,
     "verified": false,
@@ -34,9 +40,9 @@
         "icon": "edbf17c2627dd243ba20a5d782679ec7",
         "splash": "eb6513ef1bb174c6c8ecac60e08077ad",
         "banner": null,
-        "approximate_presence_count": 308,
-        "approximate_member_count": 1410,
-        "premium_subscription_count": 3,
+        "approximate_presence_count": 312,
+        "approximate_member_count": 1607,
+        "premium_subscription_count": 1,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "cf41d286a6d0df429c3faeb58d294d05",
@@ -44,18 +50,24 @@
         "vanity_url_code": "arkforce-290630146409496577",
         "is_published": true,
         "keywords": [
+            "ASA",
+            "Ark Survival Ascended",
+            "Survival Ascended",
             "ark",
             "arksurvivalevolved",
-            "bestarkservers",
-            "evolved",
+            "building game",
+            "crafting game",
+            "palworld",
             "survival",
-            "toparkservers"
+            "survival game"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "PREVIEW_ENABLED"
+            "MEMBER_VERIFICATION_GATE_ENABLED",
+            "PREVIEW_ENABLED",
+            "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
             {
@@ -189,6 +201,21 @@
             },
             "keywords": [
                 {
+                    "value": "ASA",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Ark Survival Ascended",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Survival Ascended",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "ark",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -199,12 +226,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "bestarkservers",
+                    "value": "building game",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "evolved",
+                    "value": "crafting game",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "palworld",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -214,7 +246,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "toparkservers",
+                    "value": "survival game",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
