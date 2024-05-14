@@ -6,23 +6,24 @@
     "splash": "550cbfe61ce9d48824116f5373c7a7d1",
     "discovery_splash": "24d9f97c623890b069f81882e506c7e1",
     "banner": "19a88711d3c1ef27af41e8a662491883",
-    "approximate_presence_count": 2786,
-    "approximate_member_count": 120732,
+    "approximate_presence_count": 3077,
+    "approximate_member_count": 120720,
     "premium_subscription_count": 39,
     "preferred_locale": "pt-BR",
     "vanity_url_code": "loudbak",
     "keywords": [
-        "loud bak",
-        "bak",
         "b4k",
+        "bak",
         "free fire",
-        "freefire"
+        "freefire",
+        "loud bak"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "PREVIEW_ENABLED"
+        "PREVIEW_ENABLED",
+        "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": false,
     "verified": false,
@@ -33,8 +34,8 @@
         "icon": "a_d9b407f1a3ba0071d16d5adf5b5d9ce3",
         "splash": "550cbfe61ce9d48824116f5373c7a7d1",
         "banner": "19a88711d3c1ef27af41e8a662491883",
-        "approximate_presence_count": 2786,
-        "approximate_member_count": 120732,
+        "approximate_presence_count": 3077,
+        "approximate_member_count": 120720,
         "premium_subscription_count": 39,
         "preferred_locale": "pt-BR",
         "auto_removed": false,
@@ -43,17 +44,18 @@
         "vanity_url_code": "loudbak",
         "is_published": false,
         "keywords": [
-            "loud bak",
-            "bak",
             "b4k",
+            "bak",
             "free fire",
-            "freefire"
+            "freefire",
+            "loud bak"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "PREVIEW_ENABLED"
+            "PREVIEW_ENABLED",
+            "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
             {
@@ -187,17 +189,12 @@
             },
             "keywords": [
                 {
-                    "value": "loud bak",
+                    "value": "b4k",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "bak",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "b4k",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -208,6 +205,11 @@
                 },
                 {
                     "value": "freefire",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "loud bak",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

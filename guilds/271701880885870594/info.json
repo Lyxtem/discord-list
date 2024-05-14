@@ -6,19 +6,19 @@
     "splash": "55e5abf78511bd056e26667cbbd52f53",
     "discovery_splash": "1d39157c7db5f1d5fe92bd3842b7188c",
     "banner": null,
-    "approximate_presence_count": 1014,
-    "approximate_member_count": 3058,
+    "approximate_presence_count": 966,
+    "approximate_member_count": 3355,
     "premium_subscription_count": 2,
     "preferred_locale": "en-US",
     "vanity_url_code": "sc2mapster-271701880885870594",
     "keywords": [
-        "Starcraft",
-        "StarCraft 2",
-        "SC2",
-        "Modding",
         "Mapmaking",
+        "Modding",
+        "SC2",
+        "SC2 Modding",
         "SC2Mapster",
-        "SC2 Modding"
+        "StarCraft 2",
+        "Starcraft"
     ],
     "features": [
         "COMMUNITY",
@@ -36,8 +36,8 @@
         "icon": "f86d5b6c451a27922c83905a9322e827",
         "splash": "55e5abf78511bd056e26667cbbd52f53",
         "banner": null,
-        "approximate_presence_count": 1014,
-        "approximate_member_count": 3058,
+        "approximate_presence_count": 966,
+        "approximate_member_count": 3355,
         "premium_subscription_count": 2,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -46,13 +46,13 @@
         "vanity_url_code": "sc2mapster-271701880885870594",
         "is_published": true,
         "keywords": [
-            "Starcraft",
-            "StarCraft 2",
-            "SC2",
-            "Modding",
             "Mapmaking",
+            "Modding",
+            "SC2",
+            "SC2 Modding",
             "SC2Mapster",
-            "SC2 Modding"
+            "StarCraft 2",
+            "Starcraft"
         ],
         "features": [
             "COMMUNITY",
@@ -250,17 +250,7 @@
             },
             "keywords": [
                 {
-                    "value": "Starcraft",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "StarCraft 2",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "SC2",
+                    "value": "Mapmaking",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -270,7 +260,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "Mapmaking",
+                    "value": "SC2",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "SC2 Modding",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -280,7 +275,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "SC2 Modding",
+                    "value": "StarCraft 2",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Starcraft",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
