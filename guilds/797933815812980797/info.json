@@ -6,14 +6,16 @@
     "splash": null,
     "discovery_splash": "88222d589893c9ee4a509109f9ec5fb2",
     "banner": null,
-    "approximate_presence_count": 2350,
-    "approximate_member_count": 9081,
+    "approximate_presence_count": 2158,
+    "approximate_member_count": 9084,
     "premium_subscription_count": 1,
     "preferred_locale": "en-US",
     "vanity_url_code": "octoeverywhere-797933815812980797",
     "keywords": [
         "3dprinting",
         "ai",
+        "bambu",
+        "bambu lab",
         "klipper",
         "mainsail",
         "maker",
@@ -37,8 +39,8 @@
         "icon": "59cded7c03ed277fc3399f8f4f156685",
         "splash": null,
         "banner": null,
-        "approximate_presence_count": 2350,
-        "approximate_member_count": 9081,
+        "approximate_presence_count": 2158,
+        "approximate_member_count": 9084,
         "premium_subscription_count": 1,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -49,6 +51,8 @@
         "keywords": [
             "3dprinting",
             "ai",
+            "bambu",
+            "bambu lab",
             "klipper",
             "mainsail",
             "maker",
@@ -312,6 +316,16 @@
                 },
                 {
                     "value": "ai",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "bambu",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "bambu lab",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
