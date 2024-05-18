@@ -6,8 +6,8 @@
     "splash": "3863c20066361ee83321952f71684fa2",
     "discovery_splash": "3863c20066361ee83321952f71684fa2",
     "banner": null,
-    "approximate_presence_count": 756,
-    "approximate_member_count": 7992,
+    "approximate_presence_count": 752,
+    "approximate_member_count": 8479,
     "premium_subscription_count": 1,
     "preferred_locale": "en-US",
     "vanity_url_code": "pine-sports-838873629294460959",
@@ -16,11 +16,11 @@
         "fantasy-football",
         "fantasy-sports",
         "football",
-        "hockey",
         "mlb",
         "nba",
         "nfl",
         "nhl",
+        "prizepicks",
         "sports-betting"
     ],
     "features": [
@@ -40,8 +40,8 @@
         "icon": "389ba9122f30a768e1b0919df9f68fc9",
         "splash": "3863c20066361ee83321952f71684fa2",
         "banner": null,
-        "approximate_presence_count": 756,
-        "approximate_member_count": 7992,
+        "approximate_presence_count": 752,
+        "approximate_member_count": 8479,
         "premium_subscription_count": 1,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -54,11 +54,11 @@
             "fantasy-football",
             "fantasy-sports",
             "football",
-            "hockey",
             "mlb",
             "nba",
             "nfl",
             "nhl",
+            "prizepicks",
             "sports-betting"
         ],
         "features": [
@@ -130,11 +130,6 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "hockey",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "mlb",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -151,6 +146,11 @@
                 },
                 {
                     "value": "nhl",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "prizepicks",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
