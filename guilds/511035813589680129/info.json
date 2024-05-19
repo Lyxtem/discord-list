@@ -1,13 +1,13 @@
 {
     "id": "511035813589680129",
     "name": "Power BI",
-    "description": "This server is dedicated to forming community around those that use and enjoy Power BI.",
+    "description": "Power BI, DAX, Power Query, and SQL",
     "icon": "dbf855428e8420875ecda6f88ff2076b",
     "splash": null,
     "discovery_splash": "807352bca8be7314a0fcb1877dabb879",
     "banner": null,
-    "approximate_presence_count": 930,
-    "approximate_member_count": 7112,
+    "approximate_presence_count": 828,
+    "approximate_member_count": 7239,
     "premium_subscription_count": 1,
     "preferred_locale": "en-US",
     "vanity_url_code": "power-bi-511035813589680129",
@@ -35,12 +35,12 @@
     "raw": {
         "id": "511035813589680129",
         "name": "Power BI",
-        "description": "This server is dedicated to forming community around those that use and enjoy Power BI.",
+        "description": "Power BI, DAX, Power Query, and SQL",
         "icon": "dbf855428e8420875ecda6f88ff2076b",
         "splash": null,
         "banner": null,
-        "approximate_presence_count": 930,
-        "approximate_member_count": 7112,
+        "approximate_presence_count": 828,
+        "approximate_member_count": 7239,
         "premium_subscription_count": 1,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -106,43 +106,6 @@
                 }
             },
             {
-                "id": 12,
-                "is_primary": true,
-                "name": "Finance",
-                "name_localizations": {
-                    "bg": "Финанси",
-                    "cs": "Finance",
-                    "da": "Finans",
-                    "de": "Finanzen",
-                    "el": "Οικονομία",
-                    "fi": "Talous",
-                    "fr": "Finance",
-                    "hi": "फ़ाइनेंस",
-                    "hr": "Financije",
-                    "hu": "Pénzügyek",
-                    "it": "Finanza",
-                    "ja": "ファイナンス",
-                    "ko": "금융",
-                    "lt": "Finansai",
-                    "nl": "Financiën",
-                    "no": "Økonomi",
-                    "pl": "Finanse",
-                    "ro": "Finanțe",
-                    "ru": "Финансы",
-                    "th": "การเงิน",
-                    "tr": "Finans",
-                    "uk": "Фінанси",
-                    "vi": "Tài Chính",
-                    "en-GB": "Finance",
-                    "en-US": "Finance",
-                    "es-ES": "Finanzas",
-                    "pt-BR": "Finanças",
-                    "sv-SE": "Ekonomi",
-                    "zh-CN": "理财",
-                    "zh-TW": "財經"
-                }
-            },
-            {
                 "id": 22,
                 "is_primary": false,
                 "name": "Programming",
@@ -177,6 +140,43 @@
                     "sv-SE": "Programmering",
                     "zh-CN": "编程",
                     "zh-TW": "程式設計"
+                }
+            },
+            {
+                "id": 12,
+                "is_primary": true,
+                "name": "Finance",
+                "name_localizations": {
+                    "bg": "Финанси",
+                    "cs": "Finance",
+                    "da": "Finans",
+                    "de": "Finanzen",
+                    "el": "Οικονομία",
+                    "fi": "Talous",
+                    "fr": "Finance",
+                    "hi": "फ़ाइनेंस",
+                    "hr": "Financije",
+                    "hu": "Pénzügyek",
+                    "it": "Finanza",
+                    "ja": "ファイナンス",
+                    "ko": "금융",
+                    "lt": "Finansai",
+                    "nl": "Financiën",
+                    "no": "Økonomi",
+                    "pl": "Finanse",
+                    "ro": "Finanțe",
+                    "ru": "Финансы",
+                    "th": "การเงิน",
+                    "tr": "Finans",
+                    "uk": "Фінанси",
+                    "vi": "Tài Chính",
+                    "en-GB": "Finance",
+                    "en-US": "Finance",
+                    "es-ES": "Finanzas",
+                    "pt-BR": "Finanças",
+                    "sv-SE": "Ekonomi",
+                    "zh-CN": "理财",
+                    "zh-TW": "財經"
                 }
             },
             {
@@ -262,7 +262,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "This server is dedicated to forming community around those that use and enjoy Power BI.",
+                "value": "Power BI, DAX, Power Query, and SQL",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -476,160 +476,6 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Финанси",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Finance",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Finans",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Finanzen",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Οικονομία",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Talous",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Finance",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "फ़ाइनेंस",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Financije",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Pénzügyek",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Finanza",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "ファイナンス",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "금융",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Finansai",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Financiën",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Økonomi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Finanse",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Finanțe",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Финансы",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "การเงิน",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Finans",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Фінанси",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Tài Chính",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Finance",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Finance",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Finanzas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Finanças",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Ekonomi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "理财",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "財經",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
                             "value": "Програмиране",
                             "matchLevel": "none",
                             "matchedWords": []
@@ -776,6 +622,160 @@
                         },
                         "zh-TW": {
                             "value": "程式設計",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Финанси",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Finance",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Finans",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Finanzen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Οικονομία",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Talous",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Finance",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "फ़ाइनेंस",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Financije",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Pénzügyek",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Finanza",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "ファイナンス",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "금융",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Finansai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Financiën",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Økonomi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Finanse",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Finanțe",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Финансы",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การเงิน",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Finans",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Фінанси",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Tài Chính",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Finance",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Finance",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Finanzas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Finanças",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Ekonomi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "理财",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "財經",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

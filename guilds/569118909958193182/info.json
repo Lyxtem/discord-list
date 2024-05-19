@@ -6,9 +6,9 @@
     "splash": "ceded0d8ad79391d328d567e41076388",
     "discovery_splash": "7efa1dd189df0d253dffa3e809ae6faf",
     "banner": "d94f5c3e0e23153c84e9bed535fb1408",
-    "approximate_presence_count": 3120,
-    "approximate_member_count": 23411,
-    "premium_subscription_count": 40,
+    "approximate_presence_count": 3365,
+    "approximate_member_count": 23427,
+    "premium_subscription_count": 41,
     "preferred_locale": "en-US",
     "vanity_url_code": "epl",
     "keywords": [
@@ -41,9 +41,9 @@
         "icon": "a_6c41d67fe32af1c01637d3ac9a58b1f9",
         "splash": "ceded0d8ad79391d328d567e41076388",
         "banner": "d94f5c3e0e23153c84e9bed535fb1408",
-        "approximate_presence_count": 3120,
-        "approximate_member_count": 23411,
-        "premium_subscription_count": 40,
+        "approximate_presence_count": 3365,
+        "approximate_member_count": 23427,
+        "premium_subscription_count": 41,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "7efa1dd189df0d253dffa3e809ae6faf",
@@ -73,13 +73,40 @@
         ],
         "categories": [
             {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
+                "id": 42,
+                "is_primary": false,
+                "name": "Subreddit",
                 "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
+                    "bg": "Тема в reddit",
+                    "cs": "Subreddit",
+                    "da": "Subreddit",
+                    "de": "Subreddit",
+                    "el": "Subreddit",
+                    "fi": "Alareddit",
+                    "fr": "Subreddit",
+                    "hi": "सब-रेडिट",
+                    "hr": "Subreddit",
+                    "hu": "Subreddit",
+                    "it": "Subreddit",
+                    "ja": "Subreddit",
+                    "ko": "서브레딧",
+                    "lt": "Subreddit",
+                    "nl": "Subreddit",
+                    "no": "Subreddit",
+                    "pl": "Subreddit",
+                    "ro": "Subreddit",
+                    "ru": "Сабреддит",
+                    "th": "Subreddit",
+                    "tr": "Subreddit",
+                    "uk": "Сабреддіт",
+                    "vi": "Subreddit",
+                    "en-GB": "Subreddit",
+                    "en-US": "Subreddit",
+                    "es-ES": "Subreddit",
+                    "pt-BR": "Subreddit",
+                    "sv-SE": "Subreddit",
+                    "zh-CN": "Reddit讨论区",
+                    "zh-TW": "討論區"
                 }
             },
             {
@@ -120,40 +147,13 @@
                 }
             },
             {
-                "id": 42,
-                "is_primary": false,
-                "name": "Subreddit",
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
                 "name_localizations": {
-                    "bg": "Тема в reddit",
-                    "cs": "Subreddit",
-                    "da": "Subreddit",
-                    "de": "Subreddit",
-                    "el": "Subreddit",
-                    "fi": "Alareddit",
-                    "fr": "Subreddit",
-                    "hi": "सब-रेडिट",
-                    "hr": "Subreddit",
-                    "hu": "Subreddit",
-                    "it": "Subreddit",
-                    "ja": "Subreddit",
-                    "ko": "서브레딧",
-                    "lt": "Subreddit",
-                    "nl": "Subreddit",
-                    "no": "Subreddit",
-                    "pl": "Subreddit",
-                    "ro": "Subreddit",
-                    "ru": "Сабреддит",
-                    "th": "Subreddit",
-                    "tr": "Subreddit",
-                    "uk": "Сабреддіт",
-                    "vi": "Subreddit",
-                    "en-GB": "Subreddit",
-                    "en-US": "Subreddit",
-                    "es-ES": "Subreddit",
-                    "pt-BR": "Subreddit",
-                    "sv-SE": "Subreddit",
-                    "zh-CN": "Reddit讨论区",
-                    "zh-TW": "討論區"
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
                 }
             },
             {
@@ -276,18 +276,153 @@
             "categories": [
                 {
                     "name_localizations": {
+                        "bg": {
+                            "value": "Тема в reddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
                         "de": {
-                            "value": "Sport",
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Alareddit",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Sports",
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "सब-रेडिट",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "서브레딧",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Subreddit",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Спорт",
+                            "value": "Сабреддит",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Сабреддіт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "Reddit讨论区",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "討論區",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -449,153 +584,18 @@
                 },
                 {
                     "name_localizations": {
-                        "bg": {
-                            "value": "Тема в reddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
                         "de": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Alareddit",
+                            "value": "Sport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "सब-रेडिट",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "서브레딧",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Subreddit",
+                            "value": "Sports",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Сабреддит",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Сабреддіт",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "Reddit讨论区",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "討論區",
+                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
