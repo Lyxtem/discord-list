@@ -2,20 +2,20 @@
     "id": "913076710294036490",
     "name": "Arlecchino Mains | The Knave",
     "description": "Arlecchino mains, a server focused on the fourth of the 11 Harbringers from Genshin impact.",
-    "icon": "0c62655b0c671632391783599aa8129a",
+    "icon": "60e389de00e9374852c998ced6824595",
     "splash": "d56be739f7a5f5710d4a4585961e8f08",
     "discovery_splash": "d56be739f7a5f5710d4a4585961e8f08",
-    "banner": "b4a3cd6e82072ca30661aa107f17cb6d",
-    "approximate_presence_count": 3538,
-    "approximate_member_count": 9301,
-    "premium_subscription_count": 36,
+    "banner": "b76bb8459bbd74db78c9892d0d99c2ab",
+    "approximate_presence_count": 6907,
+    "approximate_member_count": 19994,
+    "premium_subscription_count": 107,
     "preferred_locale": "en-US",
     "vanity_url_code": "arlecchino",
     "keywords": [
-        "genshin",
-        "arlecchinomains",
         "arlecchino",
         "arlecchinomain",
+        "arlecchinomains",
+        "genshin",
         "harbringers"
     ],
     "features": [
@@ -32,12 +32,12 @@
         "id": "913076710294036490",
         "name": "Arlecchino Mains | The Knave",
         "description": "Arlecchino mains, a server focused on the fourth of the 11 Harbringers from Genshin impact.",
-        "icon": "0c62655b0c671632391783599aa8129a",
+        "icon": "60e389de00e9374852c998ced6824595",
         "splash": "d56be739f7a5f5710d4a4585961e8f08",
-        "banner": "b4a3cd6e82072ca30661aa107f17cb6d",
-        "approximate_presence_count": 3538,
-        "approximate_member_count": 9301,
-        "premium_subscription_count": 36,
+        "banner": "b76bb8459bbd74db78c9892d0d99c2ab",
+        "approximate_presence_count": 6907,
+        "approximate_member_count": 19994,
+        "premium_subscription_count": 107,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "d56be739f7a5f5710d4a4585961e8f08",
@@ -45,10 +45,10 @@
         "vanity_url_code": "arlecchino",
         "is_published": true,
         "keywords": [
-            "genshin",
-            "arlecchinomains",
             "arlecchino",
             "arlecchinomain",
+            "arlecchinomains",
+            "genshin",
             "harbringers"
         ],
         "features": [
@@ -265,7 +265,12 @@
             },
             "keywords": [
                 {
-                    "value": "genshin",
+                    "value": "arlecchino",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "arlecchinomain",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -275,12 +280,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "arlecchino",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "arlecchinomain",
+                    "value": "genshin",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
