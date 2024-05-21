@@ -4,24 +4,24 @@
     "description": "The goal of this server is to provide a safe place for developers to learn, build, and teach!",
     "icon": "2a1044c4b066a7ffb00db809b17365d0",
     "splash": null,
-    "discovery_splash": null,
+    "discovery_splash": "17d09b0b0f9a323b96ac5638e7d60ea1",
     "banner": "c236d7fa0a93bedd98ecc57997748e02",
-    "approximate_presence_count": 315,
-    "approximate_member_count": 5750,
+    "approximate_presence_count": 341,
+    "approximate_member_count": 5707,
     "premium_subscription_count": 7,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
     "keywords": [
-        "programming",
-        "webdevelopment",
         "coding",
+        "development",
         "javascript",
         "learntocode",
+        "programming",
         "react",
-        "vue",
         "svelte",
+        "vue",
         "webdesign",
-        "development"
+        "webdevelopment"
     ],
     "features": [
         "COMMUNITY",
@@ -40,26 +40,26 @@
         "icon": "2a1044c4b066a7ffb00db809b17365d0",
         "splash": null,
         "banner": "c236d7fa0a93bedd98ecc57997748e02",
-        "approximate_presence_count": 315,
-        "approximate_member_count": 5750,
+        "approximate_presence_count": 341,
+        "approximate_member_count": 5707,
         "premium_subscription_count": 7,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "17d09b0b0f9a323b96ac5638e7d60ea1",
         "primary_category_id": 5,
         "vanity_url_code": null,
         "is_published": false,
         "keywords": [
-            "programming",
-            "webdevelopment",
             "coding",
+            "development",
             "javascript",
             "learntocode",
+            "programming",
             "react",
-            "vue",
             "svelte",
+            "vue",
             "webdesign",
-            "development"
+            "webdevelopment"
         ],
         "features": [
             "COMMUNITY",
@@ -270,17 +270,12 @@
             },
             "keywords": [
                 {
-                    "value": "programming",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "webdevelopment",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "coding",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "development",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -295,12 +290,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "react",
+                    "value": "programming",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "vue",
+                    "value": "react",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -310,12 +305,17 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "vue",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "webdesign",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "development",
+                    "value": "webdevelopment",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

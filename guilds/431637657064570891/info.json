@@ -6,22 +6,22 @@
     "splash": "b98d0831157863d08970be615b420299",
     "discovery_splash": "6cfc86323d0292fcd50cb426f334fdba",
     "banner": "ce93a9c118ae2f0d1cf0bdb1c261724b",
-    "approximate_presence_count": 2138,
-    "approximate_member_count": 6859,
-    "premium_subscription_count": 18,
+    "approximate_presence_count": 2034,
+    "approximate_member_count": 6927,
+    "premium_subscription_count": 20,
     "preferred_locale": "en-US",
     "vanity_url_code": "gruntlifegaming",
     "keywords": [
-        "GruntLife Gaming",
+        "Adult Gaming Group",
+        "Escape From Tarkov",
         "Gaming Community",
         "Gaming Group",
-        "Tarkov",
-        "Apex",
-        "Adult Gaming Group",
-        "Military",
-        "Gaming",
+        "Gray Zone Warfare",
+        "GruntLife Gaming",
         "LFG",
-        "Mil-Sim"
+        "Mil-Sim",
+        "Military",
+        "Tarkov"
     ],
     "features": [
         "COMMUNITY",
@@ -40,9 +40,9 @@
         "icon": "a_a74dde0f27cdf370190a692ba79884ff",
         "splash": "b98d0831157863d08970be615b420299",
         "banner": "ce93a9c118ae2f0d1cf0bdb1c261724b",
-        "approximate_presence_count": 2138,
-        "approximate_member_count": 6859,
-        "premium_subscription_count": 18,
+        "approximate_presence_count": 2034,
+        "approximate_member_count": 6927,
+        "premium_subscription_count": 20,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "6cfc86323d0292fcd50cb426f334fdba",
@@ -50,16 +50,16 @@
         "vanity_url_code": "gruntlifegaming",
         "is_published": true,
         "keywords": [
-            "GruntLife Gaming",
+            "Adult Gaming Group",
+            "Escape From Tarkov",
             "Gaming Community",
             "Gaming Group",
-            "Tarkov",
-            "Apex",
-            "Adult Gaming Group",
-            "Military",
-            "Gaming",
+            "Gray Zone Warfare",
+            "GruntLife Gaming",
             "LFG",
-            "Mil-Sim"
+            "Mil-Sim",
+            "Military",
+            "Tarkov"
         ],
         "features": [
             "COMMUNITY",
@@ -312,7 +312,12 @@
             },
             "keywords": [
                 {
-                    "value": "GruntLife Gaming",
+                    "value": "Adult Gaming Group",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Escape From Tarkov",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -327,27 +332,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "Tarkov",
+                    "value": "Gray Zone Warfare",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "Apex",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "Adult Gaming Group",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "Military",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "Gaming",
+                    "value": "GruntLife Gaming",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -358,6 +348,16 @@
                 },
                 {
                     "value": "Mil-Sim",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Military",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Tarkov",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
