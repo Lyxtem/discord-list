@@ -2,24 +2,26 @@
     "id": "566608518468075540",
     "name": "Josepo90",
     "description": "Servidor de Discord de josepo90. Creador y jugador de carreras en GTA V.",
-    "icon": "76e9564f8cf01fd9e078910782ad6403",
+    "icon": "a_478e7487bb2444fddfeb1a5c8214d621",
     "splash": null,
     "discovery_splash": null,
     "banner": null,
-    "approximate_presence_count": 314,
-    "approximate_member_count": 2433,
-    "premium_subscription_count": 0,
+    "approximate_presence_count": 1192,
+    "approximate_member_count": 4977,
+    "premium_subscription_count": 1,
     "preferred_locale": "es-ES",
     "vanity_url_code": null,
     "keywords": [
-        "fivem"
+        "fivem",
+        "gta"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "PREVIEW_ENABLED"
+        "PREVIEW_ENABLED",
+        "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": false,
     "verified": false,
@@ -27,12 +29,12 @@
         "id": "566608518468075540",
         "name": "Josepo90",
         "description": "Servidor de Discord de josepo90. Creador y jugador de carreras en GTA V.",
-        "icon": "76e9564f8cf01fd9e078910782ad6403",
+        "icon": "a_478e7487bb2444fddfeb1a5c8214d621",
         "splash": null,
         "banner": null,
-        "approximate_presence_count": 314,
-        "approximate_member_count": 2433,
-        "premium_subscription_count": 0,
+        "approximate_presence_count": 1192,
+        "approximate_member_count": 4977,
+        "premium_subscription_count": 1,
         "preferred_locale": "es-ES",
         "auto_removed": false,
         "discovery_splash": null,
@@ -40,14 +42,16 @@
         "vanity_url_code": null,
         "is_published": false,
         "keywords": [
-            "fivem"
+            "fivem",
+            "gta"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "PREVIEW_ENABLED"
+            "PREVIEW_ENABLED",
+            "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
             {
@@ -140,6 +144,11 @@
             "keywords": [
                 {
                     "value": "fivem",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "gta",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

@@ -6,9 +6,9 @@
     "splash": "83b64a9728f058e2af18e2ec801f1dd3",
     "discovery_splash": "2acdf4ea692f6a116ad51accbdbc20dd",
     "banner": "a_a17d4693019088d5b2e5063c0ff0ee44",
-    "approximate_presence_count": 10876,
-    "approximate_member_count": 76459,
-    "premium_subscription_count": 23,
+    "approximate_presence_count": 11267,
+    "approximate_member_count": 76575,
+    "premium_subscription_count": 22,
     "preferred_locale": "es-ES",
     "vanity_url_code": "programacion",
     "keywords": [
@@ -39,9 +39,9 @@
         "icon": "a_1d78b4f02d3a68c3f429389e060bda0f",
         "splash": "83b64a9728f058e2af18e2ec801f1dd3",
         "banner": "a_a17d4693019088d5b2e5063c0ff0ee44",
-        "approximate_presence_count": 10876,
-        "approximate_member_count": 76459,
-        "premium_subscription_count": 23,
+        "approximate_presence_count": 11267,
+        "approximate_member_count": 76575,
+        "premium_subscription_count": 22,
         "preferred_locale": "es-ES",
         "auto_removed": false,
         "discovery_splash": "2acdf4ea692f6a116ad51accbdbc20dd",
@@ -69,40 +69,77 @@
         ],
         "categories": [
             {
-                "id": 49,
+                "id": 6,
                 "is_primary": true,
-                "name": "Bots",
+                "name": "Education",
                 "name_localizations": {
-                    "bg": "Ботове",
-                    "cs": "Boti",
-                    "da": "Bots",
-                    "de": "Bots",
-                    "el": "Bots",
-                    "fi": "Botit",
-                    "fr": "Bots",
-                    "hi": "बॉट्स",
-                    "hr": "Botovi",
-                    "hu": "Botok",
-                    "it": "Bot",
-                    "ja": "Bot",
-                    "ko": "봇",
-                    "lt": "Botai",
-                    "nl": "Bots",
-                    "no": "Boter",
-                    "pl": "Boty",
-                    "ro": "Boți",
-                    "ru": "Боты",
-                    "th": "Bot",
-                    "tr": "Botlar",
-                    "uk": "Боти",
-                    "vi": "Bot",
-                    "en-GB": "Bots",
-                    "en-US": "Bots",
-                    "es-ES": "Bots",
-                    "pt-BR": "Bots",
-                    "sv-SE": "Bottar",
-                    "zh-CN": "机器人",
-                    "zh-TW": "機器人"
+                    "bg": "Образование",
+                    "cs": "Vzdělávání",
+                    "da": "Uddannelse",
+                    "de": "Bildung",
+                    "el": "Εκπαίδευση",
+                    "fi": "Koulutus",
+                    "fr": "Éducation",
+                    "hi": "एजुकेशन",
+                    "hr": "Obrazovanje",
+                    "hu": "Oktatás",
+                    "it": "Istruzione",
+                    "ja": "教育",
+                    "ko": "교육",
+                    "lt": "Švietimas",
+                    "nl": "Onderwijs",
+                    "no": "Utdanning",
+                    "pl": "Edukacja",
+                    "ro": "Educație",
+                    "ru": "Образование",
+                    "th": "การศึกษา",
+                    "tr": "Eğitim",
+                    "uk": "Освіта",
+                    "vi": "Giáo Dục",
+                    "en-GB": "Education",
+                    "en-US": "Education",
+                    "es-ES": "Educación",
+                    "pt-BR": "Educação",
+                    "sv-SE": "Utbildning",
+                    "zh-CN": "教育",
+                    "zh-TW": "教育"
+                }
+            },
+            {
+                "id": 22,
+                "is_primary": false,
+                "name": "Programming",
+                "name_localizations": {
+                    "bg": "Програмиране",
+                    "cs": "Programování",
+                    "da": "Programmering",
+                    "de": "Programmieren",
+                    "el": "Προγραμματισμός",
+                    "fi": "Ohjelmointi",
+                    "fr": "Programmation",
+                    "hi": "प्रोग्रामिंग",
+                    "hr": "Programiranje",
+                    "hu": "Programozás",
+                    "it": "Programmazione",
+                    "ja": "プログラミング",
+                    "ko": "프로그래밍",
+                    "lt": "Programavimas",
+                    "nl": "Programmeren",
+                    "no": "Programmering",
+                    "pl": "Programowanie",
+                    "ro": "Programare",
+                    "ru": "Программирование",
+                    "th": "การเขียนโปรแกรม",
+                    "tr": "Kodlama",
+                    "uk": "Програмування",
+                    "vi": "Lập Trình",
+                    "en-GB": "Programming",
+                    "en-US": "Programming",
+                    "es-ES": "Programación",
+                    "pt-BR": "Programação",
+                    "sv-SE": "Programmering",
+                    "zh-CN": "编程",
+                    "zh-TW": "程式設計"
                 }
             },
             {
@@ -180,77 +217,40 @@
                 }
             },
             {
-                "id": 6,
+                "id": 49,
                 "is_primary": true,
-                "name": "Education",
+                "name": "Bots",
                 "name_localizations": {
-                    "bg": "Образование",
-                    "cs": "Vzdělávání",
-                    "da": "Uddannelse",
-                    "de": "Bildung",
-                    "el": "Εκπαίδευση",
-                    "fi": "Koulutus",
-                    "fr": "Éducation",
-                    "hi": "एजुकेशन",
-                    "hr": "Obrazovanje",
-                    "hu": "Oktatás",
-                    "it": "Istruzione",
-                    "ja": "教育",
-                    "ko": "교육",
-                    "lt": "Švietimas",
-                    "nl": "Onderwijs",
-                    "no": "Utdanning",
-                    "pl": "Edukacja",
-                    "ro": "Educație",
-                    "ru": "Образование",
-                    "th": "การศึกษา",
-                    "tr": "Eğitim",
-                    "uk": "Освіта",
-                    "vi": "Giáo Dục",
-                    "en-GB": "Education",
-                    "en-US": "Education",
-                    "es-ES": "Educación",
-                    "pt-BR": "Educação",
-                    "sv-SE": "Utbildning",
-                    "zh-CN": "教育",
-                    "zh-TW": "教育"
-                }
-            },
-            {
-                "id": 22,
-                "is_primary": false,
-                "name": "Programming",
-                "name_localizations": {
-                    "bg": "Програмиране",
-                    "cs": "Programování",
-                    "da": "Programmering",
-                    "de": "Programmieren",
-                    "el": "Προγραμματισμός",
-                    "fi": "Ohjelmointi",
-                    "fr": "Programmation",
-                    "hi": "प्रोग्रामिंग",
-                    "hr": "Programiranje",
-                    "hu": "Programozás",
-                    "it": "Programmazione",
-                    "ja": "プログラミング",
-                    "ko": "프로그래밍",
-                    "lt": "Programavimas",
-                    "nl": "Programmeren",
-                    "no": "Programmering",
-                    "pl": "Programowanie",
-                    "ro": "Programare",
-                    "ru": "Программирование",
-                    "th": "การเขียนโปรแกรม",
-                    "tr": "Kodlama",
-                    "uk": "Програмування",
-                    "vi": "Lập Trình",
-                    "en-GB": "Programming",
-                    "en-US": "Programming",
-                    "es-ES": "Programación",
-                    "pt-BR": "Programação",
-                    "sv-SE": "Programmering",
-                    "zh-CN": "编程",
-                    "zh-TW": "程式設計"
+                    "bg": "Ботове",
+                    "cs": "Boti",
+                    "da": "Bots",
+                    "de": "Bots",
+                    "el": "Bots",
+                    "fi": "Botit",
+                    "fr": "Bots",
+                    "hi": "बॉट्स",
+                    "hr": "Botovi",
+                    "hu": "Botok",
+                    "it": "Bot",
+                    "ja": "Bot",
+                    "ko": "봇",
+                    "lt": "Botai",
+                    "nl": "Bots",
+                    "no": "Boter",
+                    "pl": "Boty",
+                    "ro": "Boți",
+                    "ru": "Боты",
+                    "th": "Bot",
+                    "tr": "Botlar",
+                    "uk": "Боти",
+                    "vi": "Bot",
+                    "en-GB": "Bots",
+                    "en-US": "Bots",
+                    "es-ES": "Bots",
+                    "pt-BR": "Bots",
+                    "sv-SE": "Bottar",
+                    "zh-CN": "机器人",
+                    "zh-TW": "機器人"
                 }
             }
         ],
@@ -364,152 +364,306 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Ботове",
+                            "value": "Образование",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Boti",
+                            "value": "Vzdělávání",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Bots",
+                            "value": "Uddannelse",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Bots",
+                            "value": "Bildung",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Bots",
+                            "value": "Εκπαίδευση",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Botit",
+                            "value": "Koulutus",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Bots",
+                            "value": "Éducation",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "बॉट्स",
+                            "value": "एजुकेशन",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Botovi",
+                            "value": "Obrazovanje",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Botok",
+                            "value": "Oktatás",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Bot",
+                            "value": "Istruzione",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "Bot",
+                            "value": "教育",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "봇",
+                            "value": "교육",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Botai",
+                            "value": "Švietimas",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Bots",
+                            "value": "Onderwijs",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Boter",
+                            "value": "Utdanning",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Boty",
+                            "value": "Edukacja",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Boți",
+                            "value": "Educație",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Боты",
+                            "value": "Образование",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "Bot",
+                            "value": "การศึกษา",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Botlar",
+                            "value": "Eğitim",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Боти",
+                            "value": "Освіта",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Bot",
+                            "value": "Giáo Dục",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Bots",
+                            "value": "Education",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Bots",
+                            "value": "Education",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Bots",
+                            "value": "Educación",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Bots",
+                            "value": "Educação",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Bottar",
+                            "value": "Utbildning",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "机器人",
+                            "value": "教育",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "機器人",
+                            "value": "教育",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Програмиране",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Programování",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Programmering",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Programmieren",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Προγραμματισμός",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Ohjelmointi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Programmation",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "प्रोग्रामिंग",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Programiranje",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Programozás",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Programmazione",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "プログラミング",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "프로그래밍",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Programavimas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Programmeren",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Programmering",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Programowanie",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Programare",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Программирование",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การเขียนโปรแกรม",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Kodlama",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Програмування",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Lập Trình",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Programming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Programming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Programación",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Programação",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Programmering",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "编程",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "程式設計",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -826,306 +980,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Образование",
+                            "value": "Ботове",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Vzdělávání",
+                            "value": "Boti",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Uddannelse",
+                            "value": "Bots",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Bildung",
+                            "value": "Bots",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Εκπαίδευση",
+                            "value": "Bots",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Koulutus",
+                            "value": "Botit",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Éducation",
+                            "value": "Bots",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "एजुकेशन",
+                            "value": "बॉट्स",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Obrazovanje",
+                            "value": "Botovi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Oktatás",
+                            "value": "Botok",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Istruzione",
+                            "value": "Bot",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "教育",
+                            "value": "Bot",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "교육",
+                            "value": "봇",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Švietimas",
+                            "value": "Botai",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Onderwijs",
+                            "value": "Bots",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Utdanning",
+                            "value": "Boter",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Edukacja",
+                            "value": "Boty",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Educație",
+                            "value": "Boți",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Образование",
+                            "value": "Боты",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "การศึกษา",
+                            "value": "Bot",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Eğitim",
+                            "value": "Botlar",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Освіта",
+                            "value": "Боти",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Giáo Dục",
+                            "value": "Bot",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Education",
+                            "value": "Bots",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Education",
+                            "value": "Bots",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Educación",
+                            "value": "Bots",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Educação",
+                            "value": "Bots",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Utbildning",
+                            "value": "Bottar",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "教育",
+                            "value": "机器人",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "教育",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Програмиране",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Programování",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Programmering",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Programmieren",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Προγραμματισμός",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Ohjelmointi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Programmation",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "प्रोग्रामिंग",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Programiranje",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Programozás",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Programmazione",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "プログラミング",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "프로그래밍",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Programavimas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Programmeren",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Programmering",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Programowanie",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Programare",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Программирование",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "การเขียนโปรแกรม",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Kodlama",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Програмування",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Lập Trình",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Programming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Programming",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Programación",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Programação",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Programmering",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "编程",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "程式設計",
+                            "value": "機器人",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
