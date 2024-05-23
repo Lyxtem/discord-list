@@ -2,22 +2,22 @@
     "id": "615329870582644758",
     "name": "82nd Airborne Division [82AD]",
     "description": "[82AD] Hell Let Loose Gaming Community.",
-    "icon": "a_eb4c9557fba32c5814e2a958c063072d",
+    "icon": "a_987fb66fc1dd13990c20febf129d6c00",
     "splash": "b3fac8631351c43985914267eb239b61",
     "discovery_splash": "96d76e8354cc62e0a49743fca2d8a226",
-    "banner": "a_eb0473093448492ce2a5cd908dde6632",
-    "approximate_presence_count": 1144,
-    "approximate_member_count": 5661,
-    "premium_subscription_count": 42,
+    "banner": "28e1bb673de743d7e1f73636ae26eac9",
+    "approximate_presence_count": 1296,
+    "approximate_member_count": 5182,
+    "premium_subscription_count": 44,
     "preferred_locale": "en-US",
     "vanity_url_code": "82nd",
     "keywords": [
         "82ad",
         "82nd",
-        "hell-let-loose",
-        "hellletloose",
+        "airborne",
         "fps",
-        "airborne"
+        "hell-let-loose",
+        "hellletloose"
     ],
     "features": [
         "COMMUNITY",
@@ -32,25 +32,25 @@
         "id": "615329870582644758",
         "name": "82nd Airborne Division [82AD]",
         "description": "[82AD] Hell Let Loose Gaming Community.",
-        "icon": "a_eb4c9557fba32c5814e2a958c063072d",
+        "icon": "a_987fb66fc1dd13990c20febf129d6c00",
         "splash": "b3fac8631351c43985914267eb239b61",
-        "banner": "a_eb0473093448492ce2a5cd908dde6632",
-        "approximate_presence_count": 1144,
-        "approximate_member_count": 5661,
-        "premium_subscription_count": 42,
+        "banner": "28e1bb673de743d7e1f73636ae26eac9",
+        "approximate_presence_count": 1296,
+        "approximate_member_count": 5182,
+        "premium_subscription_count": 44,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "96d76e8354cc62e0a49743fca2d8a226",
         "primary_category_id": 1,
         "vanity_url_code": "82nd",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
             "82ad",
             "82nd",
-            "hell-let-loose",
-            "hellletloose",
+            "airborne",
             "fps",
-            "airborne"
+            "hell-let-loose",
+            "hellletloose"
         ],
         "features": [
             "COMMUNITY",
@@ -60,6 +60,43 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 15,
+                "is_primary": false,
+                "name": "Esports",
+                "name_localizations": {
+                    "bg": "Електронни спортове",
+                    "cs": "Esport",
+                    "da": "Esport",
+                    "de": "E-Sports",
+                    "el": "Esports",
+                    "fi": "Esports",
+                    "fr": "eSport",
+                    "hi": "ईस्पोर्ट्स",
+                    "hr": "E-sport",
+                    "hu": "E-sport",
+                    "it": "Esport",
+                    "ja": "eスポーツ",
+                    "ko": "이스포츠",
+                    "lt": "E. sportas",
+                    "nl": "E-sport",
+                    "no": "E-sport",
+                    "pl": "E-sport",
+                    "ro": "eSports",
+                    "ru": "Киберспорт",
+                    "th": "อีสปอร์ต",
+                    "tr": "E-spor",
+                    "uk": "Електронний спорт",
+                    "vi": "Thể Thao Điện Tử",
+                    "en-GB": "Esports",
+                    "en-US": "Esports",
+                    "es-ES": "E-sports",
+                    "pt-BR": "E-sports",
+                    "sv-SE": "E-sport",
+                    "zh-CN": "电子竞技",
+                    "zh-TW": "電競"
+                }
+            },
             {
                 "id": 1,
                 "is_primary": true,
@@ -164,12 +201,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "hell-let-loose",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "hellletloose",
+                    "value": "airborne",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -179,12 +211,171 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "airborne",
+                    "value": "hell-let-loose",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "hellletloose",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Електронни спортове",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Esport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Esport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "E-Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Esports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Esports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "eSport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "ईस्पोर्ट्स",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "E-sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "E-sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Esport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "eスポーツ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "이스포츠",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "E. sportas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "E-sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "E-sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "E-sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "eSports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Киберспорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "อีสปอร์ต",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "E-spor",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Електронний спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Thể Thao Điện Tử",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Esports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Esports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "E-sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "E-sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "E-sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "电子竞技",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "電競",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {

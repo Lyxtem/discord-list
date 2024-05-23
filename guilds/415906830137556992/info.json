@@ -6,16 +6,19 @@
     "splash": null,
     "discovery_splash": null,
     "banner": null,
-    "approximate_presence_count": 2244,
-    "approximate_member_count": 4731,
-    "premium_subscription_count": 2,
+    "approximate_presence_count": 2189,
+    "approximate_member_count": 5032,
+    "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
     "keywords": [
-        "ttrpg",
-        "dnd",
         "4e",
-        "tabletop"
+        "d&d",
+        "dnd",
+        "rpg",
+        "tabletop",
+        "tactics",
+        "ttrpg"
     ],
     "features": [
         "COMMUNITY",
@@ -33,9 +36,9 @@
         "icon": "7579f909ab2bcadcba457a50570763cc",
         "splash": null,
         "banner": null,
-        "approximate_presence_count": 2244,
-        "approximate_member_count": 4731,
-        "premium_subscription_count": 2,
+        "approximate_presence_count": 2189,
+        "approximate_member_count": 5032,
+        "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": null,
@@ -43,10 +46,13 @@
         "vanity_url_code": null,
         "is_published": false,
         "keywords": [
-            "ttrpg",
-            "dnd",
             "4e",
-            "tabletop"
+            "d&d",
+            "dnd",
+            "rpg",
+            "tabletop",
+            "tactics",
+            "ttrpg"
         ],
         "features": [
             "COMMUNITY",
@@ -182,7 +188,12 @@
             },
             "keywords": [
                 {
-                    "value": "ttrpg",
+                    "value": "4e",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "d&d",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -192,12 +203,22 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "4e",
+                    "value": "rpg",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "tabletop",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "tactics",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "ttrpg",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

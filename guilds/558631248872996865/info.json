@@ -6,13 +6,17 @@
     "splash": "fcbf7af29663d49f70c8d2a247666757",
     "discovery_splash": "ce59acdeae81131eece5a65eb72109ac",
     "banner": "2e1b126551e70bbcf144ddd86f2fcbd4",
-    "approximate_presence_count": 1668,
-    "approximate_member_count": 7863,
-    "premium_subscription_count": 28,
+    "approximate_presence_count": 1387,
+    "approximate_member_count": 7880,
+    "premium_subscription_count": 29,
     "preferred_locale": "en-US",
     "vanity_url_code": "goodomens",
     "keywords": [
-        "Good Omens"
+        "GO",
+        "Gomens",
+        "Good Omens",
+        "Neil Gaiman",
+        "Terry Pratchett"
     ],
     "features": [
         "COMMUNITY",
@@ -30,9 +34,9 @@
         "icon": "7cb9698869290f525ce38acfa4f8dfc6",
         "splash": "fcbf7af29663d49f70c8d2a247666757",
         "banner": "2e1b126551e70bbcf144ddd86f2fcbd4",
-        "approximate_presence_count": 1668,
-        "approximate_member_count": 7863,
-        "premium_subscription_count": 28,
+        "approximate_presence_count": 1387,
+        "approximate_member_count": 7880,
+        "premium_subscription_count": 29,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "ce59acdeae81131eece5a65eb72109ac",
@@ -40,7 +44,11 @@
         "vanity_url_code": "goodomens",
         "is_published": true,
         "keywords": [
-            "Good Omens"
+            "GO",
+            "Gomens",
+            "Good Omens",
+            "Neil Gaiman",
+            "Terry Pratchett"
         ],
         "features": [
             "COMMUNITY",
@@ -218,7 +226,27 @@
             },
             "keywords": [
                 {
+                    "value": "GO",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Gomens",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "Good Omens",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Neil Gaiman",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Terry Pratchett",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

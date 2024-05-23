@@ -6,20 +6,20 @@
     "splash": "25e37adaa5e176286c54f1b6b9c68836",
     "discovery_splash": "25e37adaa5e176286c54f1b6b9c68836",
     "banner": "8fdaba44e623b4ef918c450007b6929a",
-    "approximate_presence_count": 1365,
-    "approximate_member_count": 5332,
+    "approximate_presence_count": 1789,
+    "approximate_member_count": 5586,
     "premium_subscription_count": 15,
     "preferred_locale": "es-ES",
     "vanity_url_code": "ffxivesp",
     "keywords": [
-        "final fantasy xiv",
         "FFXIV",
         "FFXIVESP",
+        "ayuda",
+        "comunidad",
         "ff14",
         "final fantasy 14",
-        "guías",
-        "ayuda",
-        "comunidad"
+        "final fantasy xiv",
+        "guías"
     ],
     "features": [
         "COMMUNITY",
@@ -38,8 +38,8 @@
         "icon": "0afd8212e2e2331d75618121507c7d23",
         "splash": "25e37adaa5e176286c54f1b6b9c68836",
         "banner": "8fdaba44e623b4ef918c450007b6929a",
-        "approximate_presence_count": 1365,
-        "approximate_member_count": 5332,
+        "approximate_presence_count": 1789,
+        "approximate_member_count": 5586,
         "premium_subscription_count": 15,
         "preferred_locale": "es-ES",
         "auto_removed": false,
@@ -48,14 +48,14 @@
         "vanity_url_code": "ffxivesp",
         "is_published": true,
         "keywords": [
-            "final fantasy xiv",
             "FFXIV",
             "FFXIVESP",
+            "ayuda",
+            "comunidad",
             "ff14",
             "final fantasy 14",
-            "guías",
-            "ayuda",
-            "comunidad"
+            "final fantasy xiv",
+            "guías"
         ],
         "features": [
             "COMMUNITY",
@@ -197,17 +197,22 @@
             },
             "keywords": [
                 {
-                    "value": "final fantasy xiv",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "FFXIV",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "FFXIVESP",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "ayuda",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "comunidad",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -222,17 +227,12 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "final fantasy xiv",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "guías",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "ayuda",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "comunidad",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
