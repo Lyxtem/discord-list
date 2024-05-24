@@ -5,12 +5,12 @@
     "icon": "3a5284f5ea6fd7b4c6056eaff436d2a9",
     "splash": "d9a90ea40344588a21b87a3f41e9fc01",
     "discovery_splash": "26ee84e7aa6b120a777cce66f769a28f",
-    "banner": "a053673c4877e019af808a5c4b6693c0",
-    "approximate_presence_count": 393,
-    "approximate_member_count": 3377,
-    "premium_subscription_count": 14,
+    "banner": "4817cdbd3216d3620362ff1eead6cf0e",
+    "approximate_presence_count": 565,
+    "approximate_member_count": 3500,
+    "premium_subscription_count": 3,
     "preferred_locale": "zh-TW",
-    "vanity_url_code": "skyblock-taiwan",
+    "vanity_url_code": "skyblock-taiwan-590021862608863243",
     "keywords": [
         "Hypixel",
         "空島生存",
@@ -34,15 +34,15 @@
         "description": "這裡是專門討論 Hypixel Skyblock 的繁體中文（台港澳）群組，群內的成員主要是遊玩 Hypixel Skyblock 的玩家，他們在這裡分享遊戲心得、交流遊戲技巧、提供遊戲指導，並且互相幫助解決遊戲中遇到的問題。",
         "icon": "3a5284f5ea6fd7b4c6056eaff436d2a9",
         "splash": "d9a90ea40344588a21b87a3f41e9fc01",
-        "banner": "a053673c4877e019af808a5c4b6693c0",
-        "approximate_presence_count": 393,
-        "approximate_member_count": 3377,
-        "premium_subscription_count": 14,
+        "banner": "4817cdbd3216d3620362ff1eead6cf0e",
+        "approximate_presence_count": 565,
+        "approximate_member_count": 3500,
+        "premium_subscription_count": 3,
         "preferred_locale": "zh-TW",
         "auto_removed": false,
         "discovery_splash": "26ee84e7aa6b120a777cce66f769a28f",
         "primary_category_id": 1,
-        "vanity_url_code": "skyblock-taiwan",
+        "vanity_url_code": "skyblock-taiwan-590021862608863243",
         "is_published": true,
         "keywords": [
             "Hypixel",
@@ -60,6 +60,43 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 30,
+                "is_primary": false,
+                "name": "LFG",
+                "name_localizations": {
+                    "bg": "LFG",
+                    "cs": "LFG",
+                    "da": "LFG",
+                    "de": "Gruppensuche",
+                    "el": "LFG",
+                    "fi": "Ryhmähaku",
+                    "fr": "LFG",
+                    "hi": "LFG",
+                    "hr": "LFG",
+                    "hu": "LFG",
+                    "it": "LFG",
+                    "ja": "グループ検索",
+                    "ko": "그룹 찾기",
+                    "lt": "Grupės paieškos",
+                    "nl": "LFG",
+                    "no": "LFG",
+                    "pl": "Szukanie grupy",
+                    "ro": "LFG",
+                    "ru": "Поиск группы",
+                    "th": "LFG",
+                    "tr": "Grup Arama",
+                    "uk": "Пошук гільдії",
+                    "vi": "LFG",
+                    "en-GB": "LFG",
+                    "en-US": "LFG",
+                    "es-ES": "LFG",
+                    "pt-BR": "PG",
+                    "sv-SE": "Letar efter grupp (LFG)",
+                    "zh-CN": "找同好（LFG）",
+                    "zh-TW": "LFG"
+                }
+            },
             {
                 "id": 40,
                 "is_primary": false,
@@ -172,43 +209,6 @@
                 }
             },
             {
-                "id": 30,
-                "is_primary": false,
-                "name": "LFG",
-                "name_localizations": {
-                    "bg": "LFG",
-                    "cs": "LFG",
-                    "da": "LFG",
-                    "de": "Gruppensuche",
-                    "el": "LFG",
-                    "fi": "Ryhmähaku",
-                    "fr": "LFG",
-                    "hi": "LFG",
-                    "hr": "LFG",
-                    "hu": "LFG",
-                    "it": "LFG",
-                    "ja": "グループ検索",
-                    "ko": "그룹 찾기",
-                    "lt": "Grupės paieškos",
-                    "nl": "LFG",
-                    "no": "LFG",
-                    "pl": "Szukanie grupy",
-                    "ro": "LFG",
-                    "ru": "Поиск группы",
-                    "th": "LFG",
-                    "tr": "Grup Arama",
-                    "uk": "Пошук гільдії",
-                    "vi": "LFG",
-                    "en-GB": "LFG",
-                    "en-US": "LFG",
-                    "es-ES": "LFG",
-                    "pt-BR": "PG",
-                    "sv-SE": "Letar efter grupp (LFG)",
-                    "zh-CN": "找同好（LFG）",
-                    "zh-TW": "LFG"
-                }
-            },
-            {
                 "id": 1,
                 "is_primary": true,
                 "name": "Gaming",
@@ -296,7 +296,7 @@
                 "matchedWords": []
             },
             "vanity_url_code": {
-                "value": "skyblock-taiwan",
+                "value": "skyblock-taiwan-590021862608863243",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -328,6 +328,160 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Gruppensuche",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Ryhmähaku",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "グループ検索",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "그룹 찾기",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Grupės paieškos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Szukanie grupy",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Поиск группы",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Grup Arama",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Пошук гільдії",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "PG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Letar efter grupp (LFG)",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "找同好（LFG）",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -785,160 +939,6 @@
                         },
                         "zh-TW": {
                             "value": "一般聊天",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Gruppensuche",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Ryhmähaku",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "グループ検索",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "그룹 찾기",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Grupės paieškos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Szukanie grupy",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Поиск группы",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Grup Arama",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Пошук гільдії",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "LFG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "PG",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Letar efter grupp (LFG)",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "找同好（LFG）",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

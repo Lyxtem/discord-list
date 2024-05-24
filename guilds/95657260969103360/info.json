@@ -6,8 +6,8 @@
     "splash": "9508770e87f028280a9cd655ebc4a3a5",
     "discovery_splash": "c66861b593755ba7272043d6a5c055eb",
     "banner": "a_4fdbabfef8bf3aa386f18dfc0c79cb83",
-    "approximate_presence_count": 1224,
-    "approximate_member_count": 3407,
+    "approximate_presence_count": 1257,
+    "approximate_member_count": 3440,
     "premium_subscription_count": 12,
     "preferred_locale": "en-US",
     "vanity_url_code": "gensokyo",
@@ -32,8 +32,8 @@
         "icon": "a_2bbd3d731d2f73bc496aca61e2785f79",
         "splash": "9508770e87f028280a9cd655ebc4a3a5",
         "banner": "a_4fdbabfef8bf3aa386f18dfc0c79cb83",
-        "approximate_presence_count": 1224,
-        "approximate_member_count": 3407,
+        "approximate_presence_count": 1257,
+        "approximate_member_count": 3440,
         "premium_subscription_count": 12,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -54,6 +54,16 @@
             "PREVIEW_ENABLED"
         ],
         "categories": [
+            {
+                "id": 23,
+                "is_primary": false,
+                "name": "Podcasts",
+                "name_localizations": {
+                    "de": "Podcasts",
+                    "fr": "Podcasts",
+                    "ru": "Подкасты"
+                }
+            },
             {
                 "id": 1,
                 "is_primary": true,
@@ -89,16 +99,6 @@
                     "sv-SE": "Gaming",
                     "zh-CN": "游戏",
                     "zh-TW": "遊戲"
-                }
-            },
-            {
-                "id": 23,
-                "is_primary": false,
-                "name": "Podcasts",
-                "name_localizations": {
-                    "de": "Podcasts",
-                    "fr": "Podcasts",
-                    "ru": "Подкасты"
                 }
             },
             {
@@ -211,6 +211,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Подкасты",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -360,25 +379,6 @@
                         },
                         "zh-TW": {
                             "value": "遊戲",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Подкасты",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
