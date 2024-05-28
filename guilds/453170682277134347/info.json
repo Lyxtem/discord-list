@@ -6,34 +6,18 @@
     "splash": "00921e3bd397b0c104e3ba43c5b9f391",
     "discovery_splash": "f84cf52733e22639bd79674e6ed5c82c",
     "banner": "af750dd1431eb0a69a295c6e58f1859a",
-    "approximate_presence_count": 7862,
-    "approximate_member_count": 39241,
-    "premium_subscription_count": 9,
+    "approximate_presence_count": 9184,
+    "approximate_member_count": 34899,
+    "premium_subscription_count": 6,
     "preferred_locale": "en-US",
     "vanity_url_code": "ww3thegame",
     "keywords": [],
     "features": [
-        "ANIMATED_ICON",
-        "AUTO_MODERATION",
-        "BANNER",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_LARGE_UNGATED",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
         "FEATURABLE",
-        "GUILD_WEB_PAGE_VANITY_URL",
-        "INVITE_SPLASH",
-        "MEMBER_PROFILES",
-        "NEWS",
         "PREVIEW_ENABLED",
-        "PRIVATE_THREADS",
-        "ROLE_ICONS",
-        "SEVEN_DAY_THREAD_ARCHIVE",
-        "SOUNDBOARD",
-        "THREADS_ENABLED",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
         "VERIFIED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -46,9 +30,9 @@
         "icon": "a_ad425b4e15bf2cde9d0c6fb4102fa38a",
         "splash": "00921e3bd397b0c104e3ba43c5b9f391",
         "banner": "af750dd1431eb0a69a295c6e58f1859a",
-        "approximate_presence_count": 7862,
-        "approximate_member_count": 39241,
-        "premium_subscription_count": 9,
+        "approximate_presence_count": 9184,
+        "approximate_member_count": 34899,
+        "premium_subscription_count": 6,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "f84cf52733e22639bd79674e6ed5c82c",
@@ -57,29 +41,45 @@
         "is_published": false,
         "keywords": [],
         "features": [
-            "ANIMATED_ICON",
-            "AUTO_MODERATION",
-            "BANNER",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_LARGE_UNGATED",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
             "FEATURABLE",
-            "GUILD_WEB_PAGE_VANITY_URL",
-            "INVITE_SPLASH",
-            "MEMBER_PROFILES",
-            "NEWS",
             "PREVIEW_ENABLED",
-            "PRIVATE_THREADS",
-            "ROLE_ICONS",
-            "SEVEN_DAY_THREAD_ARCHIVE",
-            "SOUNDBOARD",
-            "THREADS_ENABLED",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
             "VERIFIED",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "453170682277134347",
+        "_highlightResult": {
+            "name": {
+                "value": "World War 3",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "World War 3 is a multiplayer military FPS set in a modern, global conflict.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "ww3thegame",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }
