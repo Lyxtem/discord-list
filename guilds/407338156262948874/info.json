@@ -1,14 +1,14 @@
 {
     "id": "407338156262948874",
-    "name": "Battle for the Hill | Benevolent Games",
-    "description": "Battle For The Hill is an online, multiplayer politics and election simulation game.",
+    "name": "Battle for the Hill | Community Server",
+    "description": "Battle For The Hill is a Discord server related to the online website: www.battleforthehill.com",
     "icon": "a_42a4eb3300e78186a1b0338924c6e20a",
-    "splash": "f1846d02e6ffc4df50d2f6dc33c02182",
+    "splash": "7bd741a240ef4f37da5a59328250d503",
     "discovery_splash": "f1846d02e6ffc4df50d2f6dc33c02182",
-    "banner": "ee35fc8068e7d6b27d635b156c473401",
-    "approximate_presence_count": 254,
-    "approximate_member_count": 1347,
-    "premium_subscription_count": 16,
+    "banner": "c7c19c344c82a2342bdf8e879b775b24",
+    "approximate_presence_count": 267,
+    "approximate_member_count": 1920,
+    "premium_subscription_count": 14,
     "preferred_locale": "en-US",
     "vanity_url_code": "bfth",
     "keywords": [
@@ -27,7 +27,6 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -35,14 +34,14 @@
     "verified": false,
     "raw": {
         "id": "407338156262948874",
-        "name": "Battle for the Hill | Benevolent Games",
-        "description": "Battle For The Hill is an online, multiplayer politics and election simulation game.",
+        "name": "Battle for the Hill | Community Server",
+        "description": "Battle For The Hill is a Discord server related to the online website: www.battleforthehill.com",
         "icon": "a_42a4eb3300e78186a1b0338924c6e20a",
-        "splash": "f1846d02e6ffc4df50d2f6dc33c02182",
-        "banner": "ee35fc8068e7d6b27d635b156c473401",
-        "approximate_presence_count": 254,
-        "approximate_member_count": 1347,
-        "premium_subscription_count": 16,
+        "splash": "7bd741a240ef4f37da5a59328250d503",
+        "banner": "c7c19c344c82a2342bdf8e879b775b24",
+        "approximate_presence_count": 267,
+        "approximate_member_count": 1920,
+        "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "f1846d02e6ffc4df50d2f6dc33c02182",
@@ -65,46 +64,82 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
             {
-                "id": 45,
+                "id": 39,
                 "is_primary": false,
-                "name": "Mobile",
+                "name": "Fandom",
                 "name_localizations": {
-                    "bg": "Мобилни",
-                    "cs": "Mobily",
-                    "da": "Mobil",
-                    "de": "Mobilgeräte",
-                    "el": "Κινητά",
-                    "fi": "Mobiililaitteet",
-                    "fr": "Portable",
-                    "hi": "मोबाइल",
-                    "hr": "Mobilno",
-                    "hu": "Mobil",
-                    "it": "Cellulare",
-                    "ja": "モバイル",
-                    "ko": "모바일",
-                    "lt": "Mobilieji prietaisai",
-                    "nl": "Mobiel",
-                    "no": "Mobil",
-                    "pl": "Mobilne",
-                    "ro": "Mobil",
-                    "ru": "Мобильные устройства",
-                    "th": "มือถือ",
-                    "tr": "Mobil",
-                    "uk": "Мобільні ігри",
-                    "vi": "Mobile",
-                    "en-GB": "Mobile",
-                    "en-US": "Mobile",
-                    "es-ES": "Móvil",
-                    "pt-BR": "Dispositivo Móvel",
-                    "sv-SE": "Mobil",
-                    "zh-CN": "移动端",
-                    "zh-TW": "行動裝置"
+                    "bg": "Фендъм",
+                    "cs": "Pro fanoušky",
+                    "da": "Fangruppe",
+                    "de": "Fandom",
+                    "el": "Fandom",
+                    "fi": "Fanikunta",
+                    "fr": "Fandom",
+                    "hi": "फ़ैनडम",
+                    "hr": "Fandom",
+                    "hu": "Rajongói",
+                    "it": "Fandom",
+                    "ja": "ファンダム",
+                    "ko": "팬덤",
+                    "lt": "Fanai",
+                    "nl": "Fandom",
+                    "no": "Fandom",
+                    "pl": "Fandom",
+                    "ro": "Fandom",
+                    "ru": "Фандомы",
+                    "th": "กลุ่มแฟนคลับ",
+                    "tr": "Hayran Kitlesi",
+                    "uk": "Фандом",
+                    "vi": "Cộng Đồng Người Hâm Mộ",
+                    "en-GB": "Fandom",
+                    "en-US": "Fandom",
+                    "es-ES": "Fandom",
+                    "pt-BR": "Fandom",
+                    "sv-SE": "Fandom",
+                    "zh-CN": "同好圈",
+                    "zh-TW": "粉絲社群"
+                }
+            },
+            {
+                "id": 3,
+                "is_primary": true,
+                "name": "Entertainment",
+                "name_localizations": {
+                    "bg": "Забавление",
+                    "cs": "Zábava",
+                    "da": "Underholdning",
+                    "de": "Unterhaltung",
+                    "el": "Ψυχαγωγία",
+                    "fi": "Viihde",
+                    "fr": "Divertissements",
+                    "hi": "एंटरटेनमेंट",
+                    "hr": "Zabava",
+                    "hu": "Szórakozás",
+                    "it": "Intrattenimento",
+                    "ja": "エンターテインメント",
+                    "ko": "엔터테인먼트",
+                    "lt": "Pramogos",
+                    "nl": "Entertainment",
+                    "no": "Underholdning",
+                    "pl": "Rozrywka",
+                    "ro": "Divertisment",
+                    "ru": "Развлечения",
+                    "th": "ความบันเทิง",
+                    "tr": "Eğlence",
+                    "uk": "Розваги",
+                    "vi": "Giải Trí",
+                    "en-GB": "Entertainment",
+                    "en-US": "Entertainment",
+                    "es-ES": "Entretenimiento",
+                    "pt-BR": "Entretenimento",
+                    "sv-SE": "Underhållning",
+                    "zh-CN": "娱乐",
+                    "zh-TW": "娛樂"
                 }
             },
             {
@@ -217,43 +252,6 @@
                     "zh-CN": "游戏开发人员",
                     "zh-TW": "遊戲開發者"
                 }
-            },
-            {
-                "id": 26,
-                "is_primary": false,
-                "name": "News & Current Events",
-                "name_localizations": {
-                    "bg": "Новини и актуални събития",
-                    "cs": "Zprávy a aktuální dění",
-                    "da": "Nyheder & nuværende begivenheder",
-                    "de": "Nachrichten & Zeitgeschehen",
-                    "el": "Νέα & Επικαιρότητα",
-                    "fi": "Uutiset ja ajankohtaistapahtumat",
-                    "fr": "Actualité",
-                    "hi": "न्यूज़ और करेंट इवेंट्स",
-                    "hr": "Vijesti i aktualnosti",
-                    "hu": "Hírek és aktuális események",
-                    "it": "Notizie ed eventi attuali",
-                    "ja": "ニュース&時事",
-                    "ko": "뉴스, 시사",
-                    "lt": "Naujienos ir dabartiniai įvykiai",
-                    "nl": "Nieuws en actualiteiten",
-                    "no": "Nyheter og aktuelt",
-                    "pl": "Aktualności i bieżące wydarzenia",
-                    "ro": "Actualități",
-                    "ru": "Новости и текущие события",
-                    "th": "ข่าวสารและเหตุการณ์ปัจจุบัน",
-                    "tr": "Haberler ve Güncel Olaylar",
-                    "uk": "Новини й поточні події",
-                    "vi": "Tin Tức & Sự Kiện Đang Diễn Ra",
-                    "en-GB": "News & Current Events",
-                    "en-US": "News & Current Events",
-                    "es-ES": "Noticias y actualidad",
-                    "pt-BR": "Notícias e Atualidades",
-                    "sv-SE": "Nyheter och aktuella händelser",
-                    "zh-CN": "新闻&时事",
-                    "zh-TW": "新消息與目前活動"
-                }
             }
         ],
         "primary_category": {
@@ -296,12 +294,12 @@
         "objectID": "407338156262948874",
         "_highlightResult": {
             "name": {
-                "value": "Battle for the Hill | Benevolent Games",
+                "value": "Battle for the Hill | Community Server",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "description": {
-                "value": "Battle For The Hill is an online, multiplayer politics and election simulation game.",
+                "value": "Battle For The Hill is a Discord server related to the online website: www.battleforthehill.com",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -366,152 +364,306 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Мобилни",
+                            "value": "Фендъм",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Mobily",
+                            "value": "Pro fanoušky",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Mobil",
+                            "value": "Fangruppe",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Mobilgeräte",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Κινητά",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Mobiililaitteet",
+                            "value": "Fanikunta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Portable",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "मोबाइल",
+                            "value": "फ़ैनडम",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Mobilno",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Mobil",
+                            "value": "Rajongói",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Cellulare",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "モバイル",
+                            "value": "ファンダム",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "모바일",
+                            "value": "팬덤",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Mobilieji prietaisai",
+                            "value": "Fanai",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Mobiel",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Mobil",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Mobilne",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Mobil",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Мобильные устройства",
+                            "value": "Фандомы",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "มือถือ",
+                            "value": "กลุ่มแฟนคลับ",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Mobil",
+                            "value": "Hayran Kitlesi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Мобільні ігри",
+                            "value": "Фандом",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Mobile",
+                            "value": "Cộng Đồng Người Hâm Mộ",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Mobile",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Mobile",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Móvil",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Dispositivo Móvel",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Mobil",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "移动端",
+                            "value": "同好圈",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "行動裝置",
+                            "value": "粉絲社群",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Забавление",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Zábava",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Underholdning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Unterhaltung",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Ψυχαγωγία",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Viihde",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Divertissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "एंटरटेनमेंट",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Zabava",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Szórakozás",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Intrattenimento",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "エンターテインメント",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "엔터테인먼트",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Pramogos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Entertainment",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Underholdning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Rozrywka",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Divertisment",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Развлечения",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ความบันเทิง",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Eğlence",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Розваги",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Giải Trí",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Entertainment",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Entertainment",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Entretenimiento",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Entretenimento",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Underhållning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "娱乐",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "娛樂",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -974,160 +1126,6 @@
                         },
                         "zh-TW": {
                             "value": "遊戲開發者",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Новини и актуални събития",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Zprávy a aktuální dění",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Nyheder & nuværende begivenheder",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Nachrichten & Zeitgeschehen",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Νέα & Επικαιρότητα",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Uutiset ja ajankohtaistapahtumat",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Actualité",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "न्यूज़ और करेंट इवेंट्स",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Vijesti i aktualnosti",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Hírek és aktuális események",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Notizie ed eventi attuali",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "ニュース&時事",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "뉴스, 시사",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Naujienos ir dabartiniai įvykiai",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Nieuws en actualiteiten",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Nyheter og aktuelt",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Aktualności i bieżące wydarzenia",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Actualități",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Новости и текущие события",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "ข่าวสารและเหตุการณ์ปัจจุบัน",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Haberler ve Güncel Olaylar",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Новини й поточні події",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Tin Tức & Sự Kiện Đang Diễn Ra",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "News & Current Events",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "News & Current Events",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Noticias y actualidad",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Notícias e Atualidades",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Nyheter och aktuella händelser",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "新闻&时事",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "新消息與目前活動",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
