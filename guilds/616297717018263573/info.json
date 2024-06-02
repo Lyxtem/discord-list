@@ -6,21 +6,22 @@
     "splash": "dc9c1f5341b9238af915686edd32a483",
     "discovery_splash": "9cb4a8a05c33069cad2dc81db14e3c70",
     "banner": "63c367d58031115b250b7aa34cd3e086",
-    "approximate_presence_count": 801,
-    "approximate_member_count": 6298,
-    "premium_subscription_count": 28,
+    "approximate_presence_count": 730,
+    "approximate_member_count": 6297,
+    "premium_subscription_count": 27,
     "preferred_locale": "en-US",
     "vanity_url_code": "popholmes",
     "keywords": [
+        "TCG",
+        "actionfigures",
         "collectibles",
         "collectors",
         "funko",
-        "funkopop",
-        "monitors",
+        "hasbro",
+        "lego",
+        "pokemon",
         "popholmes",
-        "restocks",
-        "toys",
-        "tracking"
+        "toys"
     ],
     "features": [
         "COMMUNITY",
@@ -40,9 +41,9 @@
         "icon": "812214ce9a410a21175e896037d5fd16",
         "splash": "dc9c1f5341b9238af915686edd32a483",
         "banner": "63c367d58031115b250b7aa34cd3e086",
-        "approximate_presence_count": 801,
-        "approximate_member_count": 6298,
-        "premium_subscription_count": 28,
+        "approximate_presence_count": 730,
+        "approximate_member_count": 6297,
+        "premium_subscription_count": 27,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "9cb4a8a05c33069cad2dc81db14e3c70",
@@ -50,15 +51,16 @@
         "vanity_url_code": "popholmes",
         "is_published": true,
         "keywords": [
+            "TCG",
+            "actionfigures",
             "collectibles",
             "collectors",
             "funko",
-            "funkopop",
-            "monitors",
+            "hasbro",
+            "lego",
+            "pokemon",
             "popholmes",
-            "restocks",
-            "toys",
-            "tracking"
+            "toys"
         ],
         "features": [
             "COMMUNITY",
@@ -349,6 +351,16 @@
             },
             "keywords": [
                 {
+                    "value": "TCG",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "actionfigures",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "collectibles",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -364,12 +376,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "funkopop",
+                    "value": "hasbro",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "monitors",
+                    "value": "lego",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "pokemon",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -379,17 +396,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "restocks",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "toys",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "tracking",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

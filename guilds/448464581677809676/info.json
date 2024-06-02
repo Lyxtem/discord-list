@@ -6,21 +6,21 @@
     "splash": "0cd12c4adb5c2534047300ac25ed99bd",
     "discovery_splash": "7f0e017a8ebf7d3ab07408a7cd1d886f",
     "banner": "8611b67eea00aefd202c3129939e3b2d",
-    "approximate_presence_count": 1841,
-    "approximate_member_count": 15937,
+    "approximate_presence_count": 2072,
+    "approximate_member_count": 16914,
     "premium_subscription_count": 12,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
     "keywords": [
-        "electronics",
-        "repairs",
-        "laptops",
         "computers",
+        "electronics",
         "electronicsrepairschool",
+        "ers",
+        "laptops",
         "learning",
-        "schematics",
         "motherboards",
-        "ers"
+        "repairs",
+        "schematics"
     ],
     "features": [
         "COMMUNITY",
@@ -39,8 +39,8 @@
         "icon": "2bdbe7310fe6f4a1ac37c5d4b541ff82",
         "splash": "0cd12c4adb5c2534047300ac25ed99bd",
         "banner": "8611b67eea00aefd202c3129939e3b2d",
-        "approximate_presence_count": 1841,
-        "approximate_member_count": 15937,
+        "approximate_presence_count": 2072,
+        "approximate_member_count": 16914,
         "premium_subscription_count": 12,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -49,15 +49,15 @@
         "vanity_url_code": null,
         "is_published": false,
         "keywords": [
-            "electronics",
-            "repairs",
-            "laptops",
             "computers",
+            "electronics",
             "electronicsrepairschool",
+            "ers",
+            "laptops",
             "learning",
-            "schematics",
             "motherboards",
-            "ers"
+            "repairs",
+            "schematics"
         ],
         "features": [
             "COMMUNITY",
@@ -231,22 +231,12 @@
             },
             "keywords": [
                 {
-                    "value": "electronics",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "repairs",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "laptops",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "computers",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "electronics",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -256,12 +246,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "learning",
+                    "value": "ers",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "schematics",
+                    "value": "laptops",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "learning",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -271,7 +266,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "ers",
+                    "value": "repairs",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "schematics",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
