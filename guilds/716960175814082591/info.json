@@ -1,30 +1,31 @@
 {
     "id": "716960175814082591",
     "name": "日韓鯖 - 한일서버",
-    "description": "日本人と韓国人が交流するサーバーです。韓国に興味のある方はどうぞ！韓国語が分からなくても大丈夫です！",
+    "description": "韓国人と日本人が気楽に雑談するサーバーです！",
     "icon": "a_192cc9b5cfb7c862535bc3851e634b6e",
-    "splash": "be43b925b4472e3ed7c3b63a9af51508",
-    "discovery_splash": "be43b925b4472e3ed7c3b63a9af51508",
-    "banner": "b391c27179ef9e244de48b510122dbe2",
+    "splash": "b0341c1006c610db6e340b4fd8c26562",
+    "discovery_splash": "b0341c1006c610db6e340b4fd8c26562",
+    "banner": "a5adb0daa98bbb93167db7477b6460eb",
     "approximate_presence_count": 132,
-    "approximate_member_count": 1494,
-    "premium_subscription_count": 14,
+    "approximate_member_count": 1972,
+    "premium_subscription_count": 6,
     "preferred_locale": "ja",
-    "vanity_url_code": null,
+    "vanity_url_code": "ri-han-qing-hanilseobeo-716960175814082591",
     "keywords": [
+        "kpop",
         "韓国",
         "韓国人",
-        "kpop",
-        "일본",
-        "일본인",
         "韓国語",
+        "일본",
         "일본어",
+        "일본인",
         "커뮤니티"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -33,33 +34,34 @@
     "raw": {
         "id": "716960175814082591",
         "name": "日韓鯖 - 한일서버",
-        "description": "日本人と韓国人が交流するサーバーです。韓国に興味のある方はどうぞ！韓国語が分からなくても大丈夫です！",
+        "description": "韓国人と日本人が気楽に雑談するサーバーです！",
         "icon": "a_192cc9b5cfb7c862535bc3851e634b6e",
-        "splash": "be43b925b4472e3ed7c3b63a9af51508",
-        "banner": "b391c27179ef9e244de48b510122dbe2",
+        "splash": "b0341c1006c610db6e340b4fd8c26562",
+        "banner": "a5adb0daa98bbb93167db7477b6460eb",
         "approximate_presence_count": 132,
-        "approximate_member_count": 1494,
-        "premium_subscription_count": 14,
+        "approximate_member_count": 1972,
+        "premium_subscription_count": 6,
         "preferred_locale": "ja",
         "auto_removed": false,
-        "discovery_splash": "be43b925b4472e3ed7c3b63a9af51508",
+        "discovery_splash": "b0341c1006c610db6e340b4fd8c26562",
         "primary_category_id": 9,
-        "vanity_url_code": null,
+        "vanity_url_code": "ri-han-qing-hanilseobeo-716960175814082591",
         "is_published": false,
         "keywords": [
+            "kpop",
             "韓国",
             "韓国人",
-            "kpop",
-            "일본",
-            "일본인",
             "韓国語",
+            "일본",
             "일본어",
+            "일본인",
             "커뮤니티"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -295,11 +297,21 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "日本人と韓国人が交流するサーバーです。韓国に興味のある方はどうぞ！韓国語が分からなくても大丈夫です！",
+                "value": "韓国人と日本人が気楽に雑談するサーバーです！",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "ri-han-qing-hanilseobeo-716960175814082591",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
+                {
+                    "value": "kpop",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
                 {
                     "value": "韓国",
                     "matchLevel": "none",
@@ -311,7 +323,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "kpop",
+                    "value": "韓国語",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -321,17 +333,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "일본인",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "韓国語",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "일본어",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "일본인",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
