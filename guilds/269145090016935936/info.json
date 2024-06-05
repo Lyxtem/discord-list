@@ -6,16 +6,16 @@
     "splash": "0b583ff342b0cab315ead1b79bb11dfa",
     "discovery_splash": "0b583ff342b0cab315ead1b79bb11dfa",
     "banner": "6f2505e02b18e90da05f456da718a1b3",
-    "approximate_presence_count": 6305,
-    "approximate_member_count": 63646,
+    "approximate_presence_count": 5605,
+    "approximate_member_count": 63659,
     "premium_subscription_count": 33,
     "preferred_locale": "en-US",
     "vanity_url_code": "movies",
     "keywords": [
-        "movies",
-        "Movies and Filmmaking",
-        "Filmmakers",
         "Film",
+        "Filmmakers",
+        "Movies and Filmmaking",
+        "movies",
         "television"
     ],
     "features": [
@@ -35,8 +35,8 @@
         "icon": "a_50b486a799dd2f52514a8b2425a980dc",
         "splash": "0b583ff342b0cab315ead1b79bb11dfa",
         "banner": "6f2505e02b18e90da05f456da718a1b3",
-        "approximate_presence_count": 6305,
-        "approximate_member_count": 63646,
+        "approximate_presence_count": 5605,
+        "approximate_member_count": 63659,
         "premium_subscription_count": 33,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -45,10 +45,10 @@
         "vanity_url_code": "movies",
         "is_published": true,
         "keywords": [
-            "movies",
-            "Movies and Filmmaking",
-            "Filmmakers",
             "Film",
+            "Filmmakers",
+            "Movies and Filmmaking",
+            "movies",
             "television"
         ],
         "features": [
@@ -302,12 +302,7 @@
             },
             "keywords": [
                 {
-                    "value": "movies",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "Movies and Filmmaking",
+                    "value": "Film",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -317,7 +312,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "Film",
+                    "value": "Movies and Filmmaking",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "movies",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
