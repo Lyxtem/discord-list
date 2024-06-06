@@ -1,23 +1,23 @@
 {
     "id": "632150470000902164",
     "name": "Scala",
-    "description": "Official Discord server for the Scala programming language, from user support to contributing discussions.",
+    "description": "Official chat server for the Scala programming language, from user support to contributing discussions.",
     "icon": "dc1826234dd46f7bed7320858361a5cc",
     "splash": null,
-    "discovery_splash": null,
+    "discovery_splash": "7652ab295e7766d9b34477bf187d9fd4",
     "banner": null,
-    "approximate_presence_count": 1079,
-    "approximate_member_count": 8639,
+    "approximate_presence_count": 820,
+    "approximate_member_count": 8658,
     "premium_subscription_count": 2,
     "preferred_locale": "en-US",
     "vanity_url_code": "scala",
     "keywords": [
-        "scala",
-        "programming",
         "dotty",
-        "oop",
         "fp",
-        "opensource"
+        "oop",
+        "opensource",
+        "programming",
+        "scala"
     ],
     "features": [
         "COMMUNITY",
@@ -32,26 +32,26 @@
     "raw": {
         "id": "632150470000902164",
         "name": "Scala",
-        "description": "Official Discord server for the Scala programming language, from user support to contributing discussions.",
+        "description": "Official chat server for the Scala programming language, from user support to contributing discussions.",
         "icon": "dc1826234dd46f7bed7320858361a5cc",
         "splash": null,
         "banner": null,
-        "approximate_presence_count": 1079,
-        "approximate_member_count": 8639,
+        "approximate_presence_count": 820,
+        "approximate_member_count": 8658,
         "premium_subscription_count": 2,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "7652ab295e7766d9b34477bf187d9fd4",
         "primary_category_id": 5,
         "vanity_url_code": "scala",
         "is_published": false,
         "keywords": [
-            "scala",
-            "programming",
             "dotty",
-            "oop",
             "fp",
-            "opensource"
+            "oop",
+            "opensource",
+            "programming",
+            "scala"
         ],
         "features": [
             "COMMUNITY",
@@ -182,7 +182,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Official Discord server for the Scala programming language, from user support to contributing discussions.",
+                "value": "Official chat server for the Scala programming language, from user support to contributing discussions.",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -193,22 +193,7 @@
             },
             "keywords": [
                 {
-                    "value": "scala",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "programming",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "dotty",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "oop",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -218,7 +203,22 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "oop",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "opensource",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "programming",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "scala",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

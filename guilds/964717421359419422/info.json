@@ -6,19 +6,19 @@
     "splash": "593c98bf65383002ea4a612afce188a0",
     "discovery_splash": "d57b5e1d4b50864025cbd0ef036a96b1",
     "banner": "53e83c96b6607de9fdeab9a0fededacd",
-    "approximate_presence_count": 577,
-    "approximate_member_count": 5668,
+    "approximate_presence_count": 227,
+    "approximate_member_count": 5219,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "destiny-girl-official-964717421359419422",
     "keywords": [
-        "twitch",
-        "youtube",
-        "gacha",
-        "rpg",
-        "waifu",
         "destiny-girl",
-        "live2d"
+        "gacha",
+        "live2d",
+        "rpg",
+        "twitch",
+        "waifu",
+        "youtube"
     ],
     "features": [
         "COMMUNITY",
@@ -37,8 +37,8 @@
         "icon": "7aa2a50887ab0b1bc34f7d4c72ef7796",
         "splash": "593c98bf65383002ea4a612afce188a0",
         "banner": "53e83c96b6607de9fdeab9a0fededacd",
-        "approximate_presence_count": 577,
-        "approximate_member_count": 5668,
+        "approximate_presence_count": 227,
+        "approximate_member_count": 5219,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -47,13 +47,13 @@
         "vanity_url_code": "destiny-girl-official-964717421359419422",
         "is_published": true,
         "keywords": [
-            "twitch",
-            "youtube",
-            "gacha",
-            "rpg",
-            "waifu",
             "destiny-girl",
-            "live2d"
+            "gacha",
+            "live2d",
+            "rpg",
+            "twitch",
+            "waifu",
+            "youtube"
         ],
         "features": [
             "COMMUNITY",
@@ -158,12 +158,7 @@
             },
             "keywords": [
                 {
-                    "value": "twitch",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "youtube",
+                    "value": "destiny-girl",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -173,7 +168,17 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "live2d",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "rpg",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "twitch",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -183,12 +188,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "destiny-girl",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "live2d",
+                    "value": "youtube",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
