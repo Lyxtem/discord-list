@@ -2,26 +2,26 @@
     "id": "587371319088381983",
     "name": "Team Vove",
     "description": "Up coming organization in gaming, entertainment, and apparel. Team Vove brings a family atmosphere, content, and more!",
-    "icon": "a_ab9490d68cd6285bfa4602bab3bdd4df",
+    "icon": "bd059b4ffb94785d38129fbf465ee522",
     "splash": "18c43f2dc23d8005addd87cf6faafbe3",
     "discovery_splash": "c540f215cead2fccbe02d689904d97ac",
     "banner": "6725fc49337f68db58f31bceae25ff47",
-    "approximate_presence_count": 212,
-    "approximate_member_count": 2393,
-    "premium_subscription_count": 1,
+    "approximate_presence_count": 227,
+    "approximate_member_count": 2123,
+    "premium_subscription_count": 2,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "team-vove-587371319088381983",
     "keywords": [
-        "youtube",
         "esports",
-        "teamvove",
-        "valorant",
-        "twitch",
-        "streamer",
-        "gamer",
         "fortnite",
+        "gamer",
+        "gaming",
         "minecraft",
-        "gaming"
+        "streamer",
+        "teamvove",
+        "twitch",
+        "valorant",
+        "youtube"
     ],
     "features": [
         "COMMUNITY",
@@ -37,29 +37,29 @@
         "id": "587371319088381983",
         "name": "Team Vove",
         "description": "Up coming organization in gaming, entertainment, and apparel. Team Vove brings a family atmosphere, content, and more!",
-        "icon": "a_ab9490d68cd6285bfa4602bab3bdd4df",
+        "icon": "bd059b4ffb94785d38129fbf465ee522",
         "splash": "18c43f2dc23d8005addd87cf6faafbe3",
         "banner": "6725fc49337f68db58f31bceae25ff47",
-        "approximate_presence_count": 212,
-        "approximate_member_count": 2393,
-        "premium_subscription_count": 1,
+        "approximate_presence_count": 227,
+        "approximate_member_count": 2123,
+        "premium_subscription_count": 2,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "c540f215cead2fccbe02d689904d97ac",
         "primary_category_id": 1,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "team-vove-587371319088381983",
+        "is_published": true,
         "keywords": [
-            "youtube",
             "esports",
-            "teamvove",
-            "valorant",
-            "twitch",
-            "streamer",
-            "gamer",
             "fortnite",
+            "gamer",
+            "gaming",
             "minecraft",
-            "gaming"
+            "streamer",
+            "teamvove",
+            "twitch",
+            "valorant",
+            "youtube"
         ],
         "features": [
             "COMMUNITY",
@@ -105,6 +105,16 @@
                     "sv-SE": "E-sport",
                     "zh-CN": "电子竞技",
                     "zh-TW": "電競"
+                }
+            },
+            {
+                "id": 23,
+                "is_primary": false,
+                "name": "Podcasts",
+                "name_localizations": {
+                    "de": "Podcasts",
+                    "fr": "Podcasts",
+                    "ru": "Подкасты"
                 }
             },
             {
@@ -179,16 +189,6 @@
                     "sv-SE": "Gaming",
                     "zh-CN": "游戏",
                     "zh-TW": "遊戲"
-                }
-            },
-            {
-                "id": 23,
-                "is_primary": false,
-                "name": "Podcasts",
-                "name_localizations": {
-                    "de": "Podcasts",
-                    "fr": "Podcasts",
-                    "ru": "Подкасты"
                 }
             },
             {
@@ -278,39 +278,14 @@
                 "matchLevel": "none",
                 "matchedWords": []
             },
+            "vanity_url_code": {
+                "value": "team-vove-587371319088381983",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
             "keywords": [
                 {
-                    "value": "youtube",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "esports",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "teamvove",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "valorant",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "twitch",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "streamer",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "gamer",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -320,12 +295,42 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "minecraft",
+                    "value": "gamer",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "gaming",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "minecraft",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "streamer",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "teamvove",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "twitch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "valorant",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "youtube",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
@@ -480,6 +485,25 @@
                         },
                         "zh-TW": {
                             "value": "電競",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Подкасты",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -788,25 +812,6 @@
                         },
                         "zh-TW": {
                             "value": "遊戲",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Подкасты",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

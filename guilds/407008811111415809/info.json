@@ -1,14 +1,14 @@
 {
     "id": "407008811111415809",
-    "name": "Halo HeadQuarters",
+    "name": "Halo HQ",
     "description": "Halo HQ is where you can find any of your halo needs whether its in the server or through our various partners!!",
-    "icon": "e96b84c922f7217000af4d0f55d7d8c9",
-    "splash": "022a2e80bb6f300a58cf6085fa6f3aaa",
+    "icon": "46ab67fdb9a7e2a2fcb320d377a20867",
+    "splash": "15a04c10e6417a6b64584b0b1c02c338",
     "discovery_splash": "ef65144229531bf43a289a285df8465d",
-    "banner": "89b58b465b645cfe971501877ac976aa",
-    "approximate_presence_count": 386,
-    "approximate_member_count": 1077,
-    "premium_subscription_count": 17,
+    "banner": "ea440ea3ffd2eee88f4be9d0c085bc89",
+    "approximate_presence_count": 762,
+    "approximate_member_count": 2453,
+    "premium_subscription_count": 27,
     "preferred_locale": "en-US",
     "vanity_url_code": "halohq",
     "keywords": [
@@ -35,14 +35,14 @@
     "verified": false,
     "raw": {
         "id": "407008811111415809",
-        "name": "Halo HeadQuarters",
+        "name": "Halo HQ",
         "description": "Halo HQ is where you can find any of your halo needs whether its in the server or through our various partners!!",
-        "icon": "e96b84c922f7217000af4d0f55d7d8c9",
-        "splash": "022a2e80bb6f300a58cf6085fa6f3aaa",
-        "banner": "89b58b465b645cfe971501877ac976aa",
-        "approximate_presence_count": 386,
-        "approximate_member_count": 1077,
-        "premium_subscription_count": 17,
+        "icon": "46ab67fdb9a7e2a2fcb320d377a20867",
+        "splash": "15a04c10e6417a6b64584b0b1c02c338",
+        "banner": "ea440ea3ffd2eee88f4be9d0c085bc89",
+        "approximate_presence_count": 762,
+        "approximate_member_count": 2453,
+        "premium_subscription_count": 27,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "ef65144229531bf43a289a285df8465d",
@@ -108,43 +108,6 @@
                 }
             },
             {
-                "id": 33,
-                "is_primary": false,
-                "name": "Events",
-                "name_localizations": {
-                    "bg": "Събития",
-                    "cs": "Události",
-                    "da": "Begivenheder",
-                    "de": "Events",
-                    "el": "Εκδηλώσεις",
-                    "fi": "Tapahtumat",
-                    "fr": "Événements",
-                    "hi": "इवेंट्स",
-                    "hr": "Događanja",
-                    "hu": "Rendezvények",
-                    "it": "Eventi",
-                    "ja": "イベント",
-                    "ko": "행사",
-                    "lt": "Renginiai",
-                    "nl": "Evenementen",
-                    "no": "Eventer",
-                    "pl": "Wydarzenia",
-                    "ro": "Evenimente",
-                    "ru": "Мероприятия",
-                    "th": "กิจกรรม",
-                    "tr": "Etkinlikler",
-                    "uk": "Події",
-                    "vi": "Sự Kiện",
-                    "en-GB": "Events",
-                    "en-US": "Events",
-                    "es-ES": "Eventos",
-                    "pt-BR": "Eventos",
-                    "sv-SE": "Event",
-                    "zh-CN": "组织活动",
-                    "zh-TW": "活動"
-                }
-            },
-            {
                 "id": 30,
                 "is_primary": false,
                 "name": "LFG",
@@ -179,6 +142,43 @@
                     "sv-SE": "Letar efter grupp (LFG)",
                     "zh-CN": "找同好（LFG）",
                     "zh-TW": "LFG"
+                }
+            },
+            {
+                "id": 33,
+                "is_primary": false,
+                "name": "Events",
+                "name_localizations": {
+                    "bg": "Събития",
+                    "cs": "Události",
+                    "da": "Begivenheder",
+                    "de": "Events",
+                    "el": "Εκδηλώσεις",
+                    "fi": "Tapahtumat",
+                    "fr": "Événements",
+                    "hi": "इवेंट्स",
+                    "hr": "Događanja",
+                    "hu": "Rendezvények",
+                    "it": "Eventi",
+                    "ja": "イベント",
+                    "ko": "행사",
+                    "lt": "Renginiai",
+                    "nl": "Evenementen",
+                    "no": "Eventer",
+                    "pl": "Wydarzenia",
+                    "ro": "Evenimente",
+                    "ru": "Мероприятия",
+                    "th": "กิจกรรม",
+                    "tr": "Etkinlikler",
+                    "uk": "Події",
+                    "vi": "Sự Kiện",
+                    "en-GB": "Events",
+                    "en-US": "Events",
+                    "es-ES": "Eventos",
+                    "pt-BR": "Eventos",
+                    "sv-SE": "Event",
+                    "zh-CN": "组织活动",
+                    "zh-TW": "活動"
                 }
             },
             {
@@ -333,7 +333,7 @@
         "objectID": "407008811111415809",
         "_highlightResult": {
             "name": {
-                "value": "Halo HeadQuarters",
+                "value": "Halo HQ",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -557,160 +557,6 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Събития",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Události",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Begivenheder",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Events",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Εκδηλώσεις",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Tapahtumat",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Événements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "इवेंट्स",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Događanja",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Rendezvények",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Eventi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "イベント",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "행사",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Renginiai",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Evenementen",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Eventer",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Wydarzenia",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Evenimente",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Мероприятия",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "กิจกรรม",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Etkinlikler",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Події",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Sự Kiện",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Events",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Events",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Eventos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Eventos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Event",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "组织活动",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "活動",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
                             "value": "LFG",
                             "matchLevel": "none",
                             "matchedWords": []
@@ -857,6 +703,160 @@
                         },
                         "zh-TW": {
                             "value": "LFG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Събития",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Události",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Begivenheder",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Events",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Εκδηλώσεις",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Tapahtumat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Événements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "इवेंट्स",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Događanja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Rendezvények",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Eventi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "イベント",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "행사",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Renginiai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Evenementen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Eventer",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Wydarzenia",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Evenimente",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Мероприятия",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "กิจกรรม",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Etkinlikler",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Події",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Sự Kiện",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Events",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Events",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Eventos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Eventos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Event",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "组织活动",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "活動",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
