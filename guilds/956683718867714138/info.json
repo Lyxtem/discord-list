@@ -1,23 +1,27 @@
 {
     "id": "956683718867714138",
-    "name": "NekoCraft (ant. AwitaMC)",
-    "description": "¡Bienvenido al servidor de Discord oficial de AwitaMC Network!",
+    "name": "NekoCraft",
+    "description": "",
     "icon": "22c7f49b3825edb16244972e97a9cd24",
-    "splash": "f129bd299a0c103864e57d9d07eb75c6",
+    "splash": null,
     "discovery_splash": null,
-    "banner": "d360829f4edab060feac0f31f3a5ca06",
-    "approximate_presence_count": 122,
-    "approximate_member_count": 1088,
+    "banner": "60e18c8a7f0c12b1cd433f326f76fb2b",
+    "approximate_presence_count": 115,
+    "approximate_member_count": 1182,
     "premium_subscription_count": 3,
     "preferred_locale": "es-ES",
     "vanity_url_code": null,
     "keywords": [
-        "minecraft",
-        "awita",
-        "survival",
-        "español",
+        "bedwars",
         "españa",
-        "latam"
+        "español",
+        "hispano",
+        "latam",
+        "latinoamerica",
+        "minecraft",
+        "pvp",
+        "skywars",
+        "survival"
     ],
     "features": [
         "COMMUNITY",
@@ -31,13 +35,13 @@
     "verified": false,
     "raw": {
         "id": "956683718867714138",
-        "name": "NekoCraft (ant. AwitaMC)",
-        "description": "¡Bienvenido al servidor de Discord oficial de AwitaMC Network!",
+        "name": "NekoCraft",
+        "description": "",
         "icon": "22c7f49b3825edb16244972e97a9cd24",
-        "splash": "f129bd299a0c103864e57d9d07eb75c6",
-        "banner": "d360829f4edab060feac0f31f3a5ca06",
-        "approximate_presence_count": 122,
-        "approximate_member_count": 1088,
+        "splash": null,
+        "banner": "60e18c8a7f0c12b1cd433f326f76fb2b",
+        "approximate_presence_count": 115,
+        "approximate_member_count": 1182,
         "premium_subscription_count": 3,
         "preferred_locale": "es-ES",
         "auto_removed": false,
@@ -46,12 +50,16 @@
         "vanity_url_code": null,
         "is_published": false,
         "keywords": [
-            "minecraft",
-            "awita",
-            "survival",
-            "español",
+            "bedwars",
             "españa",
-            "latam"
+            "español",
+            "hispano",
+            "latam",
+            "latinoamerica",
+            "minecraft",
+            "pvp",
+            "skywars",
+            "survival"
         ],
         "features": [
             "COMMUNITY",
@@ -62,43 +70,6 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 35,
-                "is_primary": false,
-                "name": "Content Creator",
-                "name_localizations": {
-                    "bg": "Създател на съдържание",
-                    "cs": "Tvůrce obsahu",
-                    "da": "Indholdsskaber",
-                    "de": "Content Creator",
-                    "el": "Δημιουργός Περιεχομένου",
-                    "fi": "Sisällöntuottaja",
-                    "fr": "Créateur de contenu",
-                    "hi": "कंटेंट क्रिएटर",
-                    "hr": "Stvaratelj sadržaja",
-                    "hu": "Tartalomkészítő",
-                    "it": "Creazione contenuti",
-                    "ja": "コンテンツクリエイター",
-                    "ko": "콘텐츠 크리에이터",
-                    "lt": "Turinio kūrėjai",
-                    "nl": "Contentontwikkelaar",
-                    "no": "Innholdsskaper",
-                    "pl": "Twórca zawartości",
-                    "ro": "Creator de conținut",
-                    "ru": "Создатель контента",
-                    "th": "ผู้สร้างเนื้อหา",
-                    "tr": "İçerik Üreticisi",
-                    "uk": "Створення контенту",
-                    "vi": "Nhà Sáng Tạo Nội Dung",
-                    "en-GB": "Content creator",
-                    "en-US": "Content Creator",
-                    "es-ES": "Creador de contenido",
-                    "pt-BR": "Criação de Conteúdo",
-                    "sv-SE": "Innehållsskapare",
-                    "zh-CN": "内容创作者",
-                    "zh-TW": "內容創作者"
-                }
-            },
             {
                 "id": 31,
                 "is_primary": false,
@@ -251,33 +222,18 @@
         "objectID": "956683718867714138",
         "_highlightResult": {
             "name": {
-                "value": "NekoCraft (ant. AwitaMC)",
+                "value": "NekoCraft",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "description": {
-                "value": "¡Bienvenido al servidor de Discord oficial de AwitaMC Network!",
+                "value": "",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
                 {
-                    "value": "minecraft",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "awita",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "survival",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "español",
+                    "value": "bedwars",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -287,166 +243,47 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "español",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "hispano",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "latam",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "latinoamerica",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "minecraft",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "pvp",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "skywars",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "survival",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Създател на съдържание",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Tvůrce obsahu",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Indholdsskaber",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Content Creator",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Δημιουργός Περιεχομένου",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Sisällöntuottaja",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Créateur de contenu",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "कंटेंट क्रिएटर",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Stvaratelj sadržaja",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Tartalomkészítő",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Creazione contenuti",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "コンテンツクリエイター",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "콘텐츠 크리에이터",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Turinio kūrėjai",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Contentontwikkelaar",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Innholdsskaper",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Twórca zawartości",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Creator de conținut",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Создатель контента",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "ผู้สร้างเนื้อหา",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "İçerik Üreticisi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Створення контенту",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Nhà Sáng Tạo Nội Dung",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Content creator",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Content Creator",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Creador de contenido",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Criação de Conteúdo",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Innehållsskapare",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "内容创作者",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "內容創作者",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
