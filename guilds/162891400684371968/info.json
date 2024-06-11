@@ -4,21 +4,21 @@
     "description": "The biggest community hub on everything about the DOOM universe!",
     "icon": "a9c3b8954e7ca1d1b450d7b557a7cbd5",
     "splash": "092b458c392b4a679f2b4e17a27f63cb",
-    "discovery_splash": "e265625f76c6d162514f14fed7f3ff48",
+    "discovery_splash": "1e8acf1e217a8a6549d6e94a090d0a09",
     "banner": "3eff4c097f15cd055775df899cd15697",
-    "approximate_presence_count": 27850,
-    "approximate_member_count": 108440,
-    "premium_subscription_count": 31,
+    "approximate_presence_count": 27145,
+    "approximate_member_count": 108650,
+    "premium_subscription_count": 32,
     "preferred_locale": "en-US",
     "vanity_url_code": "doom",
     "keywords": [
-        "doom",
-        "hell",
-        "demon",
-        "shooter",
-        "fps",
         "bethesda",
-        "id software"
+        "demon",
+        "doom",
+        "fps",
+        "hell",
+        "id software",
+        "shooter"
     ],
     "features": [
         "COMMUNITY",
@@ -39,23 +39,23 @@
         "icon": "a9c3b8954e7ca1d1b450d7b557a7cbd5",
         "splash": "092b458c392b4a679f2b4e17a27f63cb",
         "banner": "3eff4c097f15cd055775df899cd15697",
-        "approximate_presence_count": 27850,
-        "approximate_member_count": 108440,
-        "premium_subscription_count": 31,
+        "approximate_presence_count": 27145,
+        "approximate_member_count": 108650,
+        "premium_subscription_count": 32,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "e265625f76c6d162514f14fed7f3ff48",
+        "discovery_splash": "1e8acf1e217a8a6549d6e94a090d0a09",
         "primary_category_id": 1,
         "vanity_url_code": "doom",
         "is_published": true,
         "keywords": [
-            "doom",
-            "hell",
-            "demon",
-            "shooter",
-            "fps",
             "bethesda",
-            "id software"
+            "demon",
+            "doom",
+            "fps",
+            "hell",
+            "id software",
+            "shooter"
         ],
         "features": [
             "COMMUNITY",
@@ -310,12 +310,7 @@
             },
             "keywords": [
                 {
-                    "value": "doom",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "hell",
+                    "value": "bethesda",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -325,7 +320,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "shooter",
+                    "value": "doom",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -335,12 +330,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "bethesda",
+                    "value": "hell",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "id software",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "shooter",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

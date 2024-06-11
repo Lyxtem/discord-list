@@ -2,22 +2,22 @@
     "id": "171693322736238592",
     "name": "GER-SQUAD.Community",
     "description": "Die German Squad Community ist ein allumfassender Gaming Hub. Hier trifft man die deutschsprachige Community",
-    "icon": "a_955f832ca34fd8e12b3301a3aa2f5604",
-    "splash": "bb9622da35df08dcbc7d700338c2078c",
-    "discovery_splash": "7c25eb5d332e9e548e98f931b0e75e13",
-    "banner": "144a4f312c8448377f081ffce9051a39",
-    "approximate_presence_count": 565,
-    "approximate_member_count": 5079,
-    "premium_subscription_count": 14,
+    "icon": "ed98061707a625588cf4e57669e1929b",
+    "splash": "275ae56dfe5e55270fa8f803b2e522ea",
+    "discovery_splash": "a7efceefe8a676726ea145241e9ae351",
+    "banner": "fb9b341e3fe794e5a58d859cb09c7a4a",
+    "approximate_presence_count": 1338,
+    "approximate_member_count": 4662,
+    "premium_subscription_count": 13,
     "preferred_locale": "de",
-    "vanity_url_code": "ger-sq",
+    "vanity_url_code": "ger-squad-community-171693322736238592",
     "keywords": [
+        "CS2",
+        "LoL",
         "aktion",
         "community",
         "gameserver",
         "gaming",
-        "ger-squad",
-        "joinsquad",
         "shooter",
         "squad",
         "strategy",
@@ -27,6 +27,7 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED"
     ],
     "partnered": false,
@@ -35,25 +36,25 @@
         "id": "171693322736238592",
         "name": "GER-SQUAD.Community",
         "description": "Die German Squad Community ist ein allumfassender Gaming Hub. Hier trifft man die deutschsprachige Community",
-        "icon": "a_955f832ca34fd8e12b3301a3aa2f5604",
-        "splash": "bb9622da35df08dcbc7d700338c2078c",
-        "banner": "144a4f312c8448377f081ffce9051a39",
-        "approximate_presence_count": 565,
-        "approximate_member_count": 5079,
-        "premium_subscription_count": 14,
+        "icon": "ed98061707a625588cf4e57669e1929b",
+        "splash": "275ae56dfe5e55270fa8f803b2e522ea",
+        "banner": "fb9b341e3fe794e5a58d859cb09c7a4a",
+        "approximate_presence_count": 1338,
+        "approximate_member_count": 4662,
+        "premium_subscription_count": 13,
         "preferred_locale": "de",
         "auto_removed": false,
-        "discovery_splash": "7c25eb5d332e9e548e98f931b0e75e13",
+        "discovery_splash": "a7efceefe8a676726ea145241e9ae351",
         "primary_category_id": 1,
-        "vanity_url_code": "ger-sq",
+        "vanity_url_code": "ger-squad-community-171693322736238592",
         "is_published": true,
         "keywords": [
+            "CS2",
+            "LoL",
             "aktion",
             "community",
             "gameserver",
             "gaming",
-            "ger-squad",
-            "joinsquad",
             "shooter",
             "squad",
             "strategy",
@@ -63,6 +64,7 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED"
         ],
         "categories": [
@@ -302,11 +304,21 @@
                 "matchedWords": []
             },
             "vanity_url_code": {
-                "value": "ger-sq",
+                "value": "ger-squad-community-171693322736238592",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
+                {
+                    "value": "CS2",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "LoL",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
                 {
                     "value": "aktion",
                     "matchLevel": "none",
@@ -324,16 +336,6 @@
                 },
                 {
                     "value": "gaming",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "ger-squad",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "joinsquad",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
