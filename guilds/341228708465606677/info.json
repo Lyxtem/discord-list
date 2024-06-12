@@ -1,24 +1,27 @@
 {
     "id": "341228708465606677",
     "name": "RebornGates",
-    "description": "Adalah discord tempat berkumpulnya Komunitas Lost Saga dari Indonesia !",
+    "description": "Tempat berkumpulnya Komunitas Lost Saga Indonesia!",
     "icon": "a_bd763bc6d548636961ad4fb6c61ce580",
     "splash": "31887bbf426e13ec474a7020c317c49c",
     "discovery_splash": "15fb356680d305b6ca797602de14a9ac",
     "banner": "a4b6b5a42b66955b7f878a5443a59c33",
-    "approximate_presence_count": 283,
-    "approximate_member_count": 6150,
+    "approximate_presence_count": 206,
+    "approximate_member_count": 6094,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
     "keywords": [
+        "lost saga",
         "lostsaga",
+        "lostsagaindonesia",
         "lostsagaorigin"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -27,12 +30,12 @@
     "raw": {
         "id": "341228708465606677",
         "name": "RebornGates",
-        "description": "Adalah discord tempat berkumpulnya Komunitas Lost Saga dari Indonesia !",
+        "description": "Tempat berkumpulnya Komunitas Lost Saga Indonesia!",
         "icon": "a_bd763bc6d548636961ad4fb6c61ce580",
         "splash": "31887bbf426e13ec474a7020c317c49c",
         "banner": "a4b6b5a42b66955b7f878a5443a59c33",
-        "approximate_presence_count": 283,
-        "approximate_member_count": 6150,
+        "approximate_presence_count": 206,
+        "approximate_member_count": 6094,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -41,13 +44,16 @@
         "vanity_url_code": null,
         "is_published": false,
         "keywords": [
+            "lost saga",
             "lostsaga",
+            "lostsagaindonesia",
             "lostsagaorigin"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -135,13 +141,23 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Adalah discord tempat berkumpulnya Komunitas Lost Saga dari Indonesia !",
+                "value": "Tempat berkumpulnya Komunitas Lost Saga Indonesia!",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
                 {
+                    "value": "lost saga",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "lostsaga",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "lostsagaindonesia",
                     "matchLevel": "none",
                     "matchedWords": []
                 },

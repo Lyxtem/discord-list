@@ -1,14 +1,14 @@
 {
     "id": "254530689225981953",
     "name": "All The Mods - Modded Minecraft",
-    "description": "",
+    "description": "This server is about Minecraft and Mods. You can also get support for our Modpacks and find a server to play on.",
     "icon": "d600b1cc0a07a7d9dbdd9c8e54f7a525",
     "splash": "98368dc429943545960e597f6303ea6f",
     "discovery_splash": "d83d27c253b555fdcb6aa5fa82f9db14",
     "banner": "7db88243bc40e37f4c7f6af458dd0bba",
-    "approximate_presence_count": 32075,
-    "approximate_member_count": 77160,
-    "premium_subscription_count": 88,
+    "approximate_presence_count": 29700,
+    "approximate_member_count": 77608,
+    "premium_subscription_count": 92,
     "preferred_locale": "en-US",
     "vanity_url_code": "allthemods",
     "keywords": [
@@ -36,19 +36,19 @@
     "raw": {
         "id": "254530689225981953",
         "name": "All The Mods - Modded Minecraft",
-        "description": "",
+        "description": "This server is about Minecraft and Mods. You can also get support for our Modpacks and find a server to play on.",
         "icon": "d600b1cc0a07a7d9dbdd9c8e54f7a525",
         "splash": "98368dc429943545960e597f6303ea6f",
         "banner": "7db88243bc40e37f4c7f6af458dd0bba",
-        "approximate_presence_count": 32075,
-        "approximate_member_count": 77160,
-        "premium_subscription_count": 88,
+        "approximate_presence_count": 29700,
+        "approximate_member_count": 77608,
+        "premium_subscription_count": 92,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "d83d27c253b555fdcb6aa5fa82f9db14",
         "primary_category_id": 1,
         "vanity_url_code": "allthemods",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
             "ATM",
             "All the Mods",
@@ -145,6 +145,43 @@
                 }
             },
             {
+                "id": 25,
+                "is_primary": false,
+                "name": "Memes",
+                "name_localizations": {
+                    "bg": "Мемове",
+                    "cs": "Memy",
+                    "da": "Memes",
+                    "de": "Memes",
+                    "el": "Memes",
+                    "fi": "Meemit",
+                    "fr": "Memes",
+                    "hi": "मीम्स",
+                    "hr": "Memeovi",
+                    "hu": "Mémek",
+                    "it": "Meme",
+                    "ja": "ミーム",
+                    "ko": "짤",
+                    "lt": "Memai",
+                    "nl": "Memes",
+                    "no": "Memer",
+                    "pl": "Memy",
+                    "ro": "Meme",
+                    "ru": "Мемы",
+                    "th": "มีม",
+                    "tr": "Meme'ler",
+                    "uk": "Меми",
+                    "vi": "Meme",
+                    "en-GB": "Memes",
+                    "en-US": "Memes",
+                    "es-ES": "Memes",
+                    "pt-BR": "Memes",
+                    "sv-SE": "Memes",
+                    "zh-CN": "表情包",
+                    "zh-TW": "迷因"
+                }
+            },
+            {
                 "id": 1,
                 "is_primary": true,
                 "name": "Gaming",
@@ -227,7 +264,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "",
+                "value": "This server is about Minecraft and Mods. You can also get support for our Modpacks and find a server to play on.",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -592,6 +629,160 @@
                         },
                         "zh-TW": {
                             "value": "娛樂",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Мемове",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Memy",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Meemit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "मीम्स",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Memeovi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Mémek",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Meme",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "ミーム",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "짤",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Memai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Memer",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Memy",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Meme",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Мемы",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "มีม",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Meme'ler",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Меми",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Meme",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "表情包",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "迷因",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

@@ -1,14 +1,14 @@
 {
     "id": "553218343646003204",
-    "name": "Game Dev London",
+    "name": "Game Dev Local",
     "description": "Make Connections, Build Games ! Based in London, for developers everywhere",
-    "icon": "a_beb88de74c2ef29f213b23cb6b2f3e63",
-    "splash": "db1cbe4a65721a55a3484e81ed0bf8ed",
+    "icon": "fc3f1d38def5602900636d2e2905482c",
+    "splash": "435535f89b98d7488a4120e641fb40b4",
     "discovery_splash": "c2697a5ad01b3e1c550819a1df1160e9",
     "banner": null,
-    "approximate_presence_count": 916,
-    "approximate_member_count": 3333,
-    "premium_subscription_count": 0,
+    "approximate_presence_count": 794,
+    "approximate_member_count": 3918,
+    "premium_subscription_count": 5,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
     "keywords": [
@@ -32,14 +32,14 @@
     "verified": false,
     "raw": {
         "id": "553218343646003204",
-        "name": "Game Dev London",
+        "name": "Game Dev Local",
         "description": "Make Connections, Build Games ! Based in London, for developers everywhere",
-        "icon": "a_beb88de74c2ef29f213b23cb6b2f3e63",
-        "splash": "db1cbe4a65721a55a3484e81ed0bf8ed",
+        "icon": "fc3f1d38def5602900636d2e2905482c",
+        "splash": "435535f89b98d7488a4120e641fb40b4",
         "banner": null,
-        "approximate_presence_count": 916,
-        "approximate_member_count": 3333,
-        "premium_subscription_count": 0,
+        "approximate_presence_count": 794,
+        "approximate_member_count": 3918,
+        "premium_subscription_count": 5,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "c2697a5ad01b3e1c550819a1df1160e9",
@@ -64,6 +64,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 23,
+                "is_primary": false,
+                "name": "Podcasts",
+                "name_localizations": {
+                    "de": "Podcasts",
+                    "fr": "Podcasts",
+                    "ru": "Подкасты"
+                }
+            },
             {
                 "id": 33,
                 "is_primary": false,
@@ -99,16 +109,6 @@
                     "sv-SE": "Event",
                     "zh-CN": "组织活动",
                     "zh-TW": "活動"
-                }
-            },
-            {
-                "id": 23,
-                "is_primary": false,
-                "name": "Podcasts",
-                "name_localizations": {
-                    "de": "Podcasts",
-                    "fr": "Podcasts",
-                    "ru": "Подкасты"
                 }
             },
             {
@@ -226,7 +226,7 @@
         "objectID": "553218343646003204",
         "_highlightResult": {
             "name": {
-                "value": "Game Dev London",
+                "value": "Game Dev Local",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -273,6 +273,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Подкасты",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -422,25 +441,6 @@
                         },
                         "zh-TW": {
                             "value": "活動",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Подкасты",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
