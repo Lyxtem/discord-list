@@ -3,12 +3,12 @@
     "name": "GOLD SQUAD 🏆👑",
     "description": "Full-spectrum community helping you transform every aspect of your life.",
     "icon": "a_97d898b1660e39d6c55a3bca87b439c6",
-    "splash": "eebb456a77e01a731183b30948a6689b",
+    "splash": "ef2c942c56775372d1f7fe87c853ebc7",
     "discovery_splash": "9835b434454b598db0570b2b852cc4ea",
-    "banner": "ccc1dc237773db058f3e6d68b97b9d57",
-    "approximate_presence_count": 1849,
-    "approximate_member_count": 32214,
-    "premium_subscription_count": 53,
+    "banner": "6b1d933c8de6efcfe2e7919235cf6a0a",
+    "approximate_presence_count": 1817,
+    "approximate_member_count": 32482,
+    "premium_subscription_count": 40,
     "preferred_locale": "en-US",
     "vanity_url_code": "gold-squad",
     "keywords": [
@@ -39,11 +39,11 @@
         "name": "GOLD SQUAD 🏆👑",
         "description": "Full-spectrum community helping you transform every aspect of your life.",
         "icon": "a_97d898b1660e39d6c55a3bca87b439c6",
-        "splash": "eebb456a77e01a731183b30948a6689b",
-        "banner": "ccc1dc237773db058f3e6d68b97b9d57",
-        "approximate_presence_count": 1849,
-        "approximate_member_count": 32214,
-        "premium_subscription_count": 53,
+        "splash": "ef2c942c56775372d1f7fe87c853ebc7",
+        "banner": "6b1d933c8de6efcfe2e7919235cf6a0a",
+        "approximate_presence_count": 1817,
+        "approximate_member_count": 32482,
+        "premium_subscription_count": 40,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "9835b434454b598db0570b2b852cc4ea",
@@ -72,6 +72,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
+                }
+            },
             {
                 "id": 3,
                 "is_primary": true,
@@ -181,16 +191,6 @@
                     "sv-SE": "Innehållsskapare",
                     "zh-CN": "内容创作者",
                     "zh-TW": "內容創作者"
-                }
-            },
-            {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
-                "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
                 }
             },
             {
@@ -338,6 +338,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -795,25 +814,6 @@
                         },
                         "zh-TW": {
                             "value": "內容創作者",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

@@ -6,20 +6,20 @@
     "splash": "36d6b8a902b17724d8c346db575a9b9d",
     "discovery_splash": "cb12731ded2f99e509fa81e4a04750c6",
     "banner": "747b6c460c8268404bb182b656035f9f",
-    "approximate_presence_count": 3393,
-    "approximate_member_count": 15175,
+    "approximate_presence_count": 3247,
+    "approximate_member_count": 15296,
     "premium_subscription_count": 2,
     "preferred_locale": "en-US",
     "vanity_url_code": "ko-fi",
     "keywords": [
+        "artist",
+        "community",
+        "creator",
         "ko-fi",
         "kofi",
-        "streamer",
-        "artist",
-        "creator",
-        "community",
         "kofi-community",
-        "social"
+        "social",
+        "streamer"
     ],
     "features": [
         "COMMUNITY",
@@ -38,24 +38,24 @@
         "icon": "707343c7b6fe9261a98033eeb663ab47",
         "splash": "36d6b8a902b17724d8c346db575a9b9d",
         "banner": "747b6c460c8268404bb182b656035f9f",
-        "approximate_presence_count": 3393,
-        "approximate_member_count": 15175,
+        "approximate_presence_count": 3247,
+        "approximate_member_count": 15296,
         "premium_subscription_count": 2,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "cb12731ded2f99e509fa81e4a04750c6",
         "primary_category_id": 13,
         "vanity_url_code": "ko-fi",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
+            "artist",
+            "community",
+            "creator",
             "ko-fi",
             "kofi",
-            "streamer",
-            "artist",
-            "creator",
-            "community",
             "kofi-community",
-            "social"
+            "social",
+            "streamer"
         ],
         "features": [
             "COMMUNITY",
@@ -291,6 +291,21 @@
             },
             "keywords": [
                 {
+                    "value": "artist",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "community",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "creator",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "ko-fi",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -301,32 +316,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "streamer",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "artist",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "creator",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "community",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "kofi-community",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "social",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "streamer",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
