@@ -3,25 +3,25 @@
     "name": "Asgard: Cronus Zen Scripts",
     "description": "New Age Cronus Zen scripts for Apex Legends, Call of Duty, Fortnite & PUBG: Battlegrounds.",
     "icon": "01f1e09d732ef627416c58e6dfbe4ed9",
-    "splash": "af687133f97ec5f33464044ee2a41bd9",
-    "discovery_splash": "e7114cd861c17b02eb2d79a23ec12733",
-    "banner": "a_e7114cd861c17b02eb2d79a23ec12733",
-    "approximate_presence_count": 1423,
-    "approximate_member_count": 8697,
-    "premium_subscription_count": 15,
+    "splash": "fffcb0e1e7d6c07861f7f9bbb3d99751",
+    "discovery_splash": "fffcb0e1e7d6c07861f7f9bbb3d99751",
+    "banner": "a_e4e4ef1fd835dd72184a15c55801c4fe",
+    "approximate_presence_count": 1405,
+    "approximate_member_count": 10513,
+    "premium_subscription_count": 16,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "asgardscripts",
     "keywords": [
-        "apex",
+        "apex legends",
         "call of duty",
-        "cronus",
+        "cronus zen",
         "fortnite",
         "gaming",
-        "mw2",
+        "modern warfare",
+        "mw3",
         "pubg",
         "scripts",
-        "warzone",
-        "zen"
+        "warzone"
     ],
     "features": [
         "COMMUNITY",
@@ -37,28 +37,28 @@
         "name": "Asgard: Cronus Zen Scripts",
         "description": "New Age Cronus Zen scripts for Apex Legends, Call of Duty, Fortnite & PUBG: Battlegrounds.",
         "icon": "01f1e09d732ef627416c58e6dfbe4ed9",
-        "splash": "af687133f97ec5f33464044ee2a41bd9",
-        "banner": "a_e7114cd861c17b02eb2d79a23ec12733",
-        "approximate_presence_count": 1423,
-        "approximate_member_count": 8697,
-        "premium_subscription_count": 15,
+        "splash": "fffcb0e1e7d6c07861f7f9bbb3d99751",
+        "banner": "a_e4e4ef1fd835dd72184a15c55801c4fe",
+        "approximate_presence_count": 1405,
+        "approximate_member_count": 10513,
+        "premium_subscription_count": 16,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "e7114cd861c17b02eb2d79a23ec12733",
+        "discovery_splash": "fffcb0e1e7d6c07861f7f9bbb3d99751",
         "primary_category_id": 1,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "asgardscripts",
+        "is_published": true,
         "keywords": [
-            "apex",
+            "apex legends",
             "call of duty",
-            "cronus",
+            "cronus zen",
             "fortnite",
             "gaming",
-            "mw2",
+            "modern warfare",
+            "mw3",
             "pubg",
             "scripts",
-            "warzone",
-            "zen"
+            "warzone"
         ],
         "features": [
             "COMMUNITY",
@@ -340,9 +340,14 @@
                 "matchLevel": "none",
                 "matchedWords": []
             },
+            "vanity_url_code": {
+                "value": "asgardscripts",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
             "keywords": [
                 {
-                    "value": "apex",
+                    "value": "apex legends",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -352,7 +357,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "cronus",
+                    "value": "cronus zen",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -367,7 +372,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "mw2",
+                    "value": "modern warfare",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "mw3",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -383,11 +393,6 @@
                 },
                 {
                     "value": "warzone",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "zen",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

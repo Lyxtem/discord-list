@@ -6,22 +6,17 @@
     "splash": "2b6c28f36001c9c4f38f8f2d7342a866",
     "discovery_splash": "2b6c28f36001c9c4f38f8f2d7342a866",
     "banner": null,
-    "approximate_presence_count": 58,
-    "approximate_member_count": 477,
+    "approximate_presence_count": 82,
+    "approximate_member_count": 457,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "triskell",
     "keywords": null,
     "features": [
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
         "DISCOVERABLE",
         "FEATURABLE",
-        "INVITE_SPLASH",
-        "NEWS",
         "PREVIEW_ENABLED",
-        "THREADS_ENABLED",
-        "VANITY_URL",
         "VERIFIED"
     ],
     "partnered": false,
@@ -33,8 +28,8 @@
         "icon": "549508247d42875ff4da74f04fb6f7e6",
         "splash": "2b6c28f36001c9c4f38f8f2d7342a866",
         "banner": null,
-        "approximate_presence_count": 58,
-        "approximate_member_count": 477,
+        "approximate_presence_count": 82,
+        "approximate_member_count": 457,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -44,16 +39,43 @@
         "is_published": false,
         "keywords": null,
         "features": [
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
             "DISCOVERABLE",
             "FEATURABLE",
-            "INVITE_SPLASH",
-            "NEWS",
             "PREVIEW_ENABLED",
-            "THREADS_ENABLED",
-            "VANITY_URL",
             "VERIFIED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "330723444238974986",
+        "_highlightResult": {
+            "name": {
+                "value": "Triskell Interactive",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "Meet Triskell Interactive developers and discuss their games with them!",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "triskell",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }
