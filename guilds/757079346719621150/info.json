@@ -6,9 +6,9 @@
     "splash": "4e97c184c9c52dccfd0d6de547ac446e",
     "discovery_splash": "a8ced7639058164005f7d927b946e23c",
     "banner": "857393467c627c862ba5dd259b872930",
-    "approximate_presence_count": 290,
-    "approximate_member_count": 1453,
-    "premium_subscription_count": 18,
+    "approximate_presence_count": 305,
+    "approximate_member_count": 1497,
+    "premium_subscription_count": 19,
     "preferred_locale": "en-US",
     "vanity_url_code": "banabyte",
     "keywords": [
@@ -16,6 +16,8 @@
         "Furry",
         "Lounge",
         "Movies",
+        "Music",
+        "Radio",
         "VRChat"
     ],
     "features": [
@@ -35,9 +37,9 @@
         "icon": "a_66e8d6774a037e5541db5031401945ab",
         "splash": "4e97c184c9c52dccfd0d6de547ac446e",
         "banner": "857393467c627c862ba5dd259b872930",
-        "approximate_presence_count": 290,
-        "approximate_member_count": 1453,
-        "premium_subscription_count": 18,
+        "approximate_presence_count": 305,
+        "approximate_member_count": 1497,
+        "premium_subscription_count": 19,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "a8ced7639058164005f7d927b946e23c",
@@ -49,6 +51,8 @@
             "Furry",
             "Lounge",
             "Movies",
+            "Music",
+            "Radio",
             "VRChat"
         ],
         "features": [
@@ -318,6 +322,16 @@
                 },
                 {
                     "value": "Movies",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Music",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Radio",
                     "matchLevel": "none",
                     "matchedWords": []
                 },

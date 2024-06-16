@@ -6,8 +6,8 @@
     "splash": "04dc1d8c197e58cfdd8363b0b7972ca0",
     "discovery_splash": "d1f96183dc0ebeb717fc4dc605faae7b",
     "banner": "a_0a692a1ab19afc0568e9bc68340a90cc",
-    "approximate_presence_count": 151,
-    "approximate_member_count": 2124,
+    "approximate_presence_count": 140,
+    "approximate_member_count": 2128,
     "premium_subscription_count": 5,
     "preferred_locale": "en-US",
     "vanity_url_code": "playerprofiler",
@@ -37,8 +37,8 @@
         "icon": "a_6314b1100de7f72dc4b574ca110222e0",
         "splash": "04dc1d8c197e58cfdd8363b0b7972ca0",
         "banner": "a_0a692a1ab19afc0568e9bc68340a90cc",
-        "approximate_presence_count": 151,
-        "approximate_member_count": 2124,
+        "approximate_presence_count": 140,
+        "approximate_member_count": 2128,
         "premium_subscription_count": 5,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -64,16 +64,6 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
-                }
-            },
             {
                 "id": 39,
                 "is_primary": false,
@@ -112,6 +102,26 @@
                 }
             },
             {
+                "id": 23,
+                "is_primary": false,
+                "name": "Podcasts",
+                "name_localizations": {
+                    "de": "Podcasts",
+                    "fr": "Podcasts",
+                    "ru": "Подкасты"
+                }
+            },
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
+            {
                 "id": 3,
                 "is_primary": true,
                 "name": "Entertainment",
@@ -146,16 +156,6 @@
                     "sv-SE": "Underhållning",
                     "zh-CN": "娱乐",
                     "zh-TW": "娛樂"
-                }
-            },
-            {
-                "id": 23,
-                "is_primary": false,
-                "name": "Podcasts",
-                "name_localizations": {
-                    "de": "Podcasts",
-                    "fr": "Podcasts",
-                    "ru": "Подкасты"
                 }
             }
         ],
@@ -219,25 +219,6 @@
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -394,6 +375,44 @@
                 },
                 {
                     "name_localizations": {
+                        "de": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Подкасты",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
                         "bg": {
                             "value": "Забавление",
                             "matchLevel": "none",
@@ -541,25 +560,6 @@
                         },
                         "zh-TW": {
                             "value": "娛樂",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Подкасты",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

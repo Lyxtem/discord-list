@@ -1,17 +1,18 @@
 {
     "id": "500074231544152074",
     "name": "⭐ Call of Duty: Warzone & MW3 | Deutschland",
-    "description": "Hier auf Call of Duty: Germany findest du Mitspieler! Warzone, Warzone 2, mw2, mw, wz2, ranked, mw3, dmz, wz, zombie,mw3",
+    "description": "Hier auf Call of Duty: Germany findest du Mitspieler! Warzone, Warzone 2, mw2, mw, wz2, ranked, mw3, bo6, wz, zombie,mw3",
     "icon": "a_bac57dd22588295ec14e119cc77086e8",
     "splash": "6f2d33734dafd5bc44e11d01823d7193",
     "discovery_splash": "437e00896373a11a53388468b5c9da78",
     "banner": "8634733de2fb7b584b8680e702c04900",
-    "approximate_presence_count": 8176,
-    "approximate_member_count": 48632,
-    "premium_subscription_count": 93,
+    "approximate_presence_count": 7166,
+    "approximate_member_count": 47800,
+    "premium_subscription_count": 92,
     "preferred_locale": "de",
     "vanity_url_code": "mw2de",
     "keywords": [
+        "bo6",
         "call of duty",
         "cod",
         "deutsch",
@@ -20,8 +21,7 @@
         "mw3",
         "warzone",
         "warzone 2",
-        "wz",
-        "xdefiant"
+        "wz"
     ],
     "features": [
         "COMMUNITY",
@@ -36,13 +36,13 @@
     "raw": {
         "id": "500074231544152074",
         "name": "⭐ Call of Duty: Warzone & MW3 | Deutschland",
-        "description": "Hier auf Call of Duty: Germany findest du Mitspieler! Warzone, Warzone 2, mw2, mw, wz2, ranked, mw3, dmz, wz, zombie,mw3",
+        "description": "Hier auf Call of Duty: Germany findest du Mitspieler! Warzone, Warzone 2, mw2, mw, wz2, ranked, mw3, bo6, wz, zombie,mw3",
         "icon": "a_bac57dd22588295ec14e119cc77086e8",
         "splash": "6f2d33734dafd5bc44e11d01823d7193",
         "banner": "8634733de2fb7b584b8680e702c04900",
-        "approximate_presence_count": 8176,
-        "approximate_member_count": 48632,
-        "premium_subscription_count": 93,
+        "approximate_presence_count": 7166,
+        "approximate_member_count": 47800,
+        "premium_subscription_count": 92,
         "preferred_locale": "de",
         "auto_removed": false,
         "discovery_splash": "437e00896373a11a53388468b5c9da78",
@@ -50,6 +50,7 @@
         "vanity_url_code": "mw2de",
         "is_published": true,
         "keywords": [
+            "bo6",
             "call of duty",
             "cod",
             "deutsch",
@@ -58,8 +59,7 @@
             "mw3",
             "warzone",
             "warzone 2",
-            "wz",
-            "xdefiant"
+            "wz"
         ],
         "features": [
             "COMMUNITY",
@@ -301,7 +301,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Hier auf Call of Duty: Germany findest du Mitspieler! Warzone, Warzone 2, mw2, mw, wz2, ranked, mw3, dmz, wz, zombie,mw3",
+                "value": "Hier auf Call of Duty: Germany findest du Mitspieler! Warzone, Warzone 2, mw2, mw, wz2, ranked, mw3, bo6, wz, zombie,mw3",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -311,6 +311,11 @@
                 "matchedWords": []
             },
             "keywords": [
+                {
+                    "value": "bo6",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
                 {
                     "value": "call of duty",
                     "matchLevel": "none",
@@ -353,11 +358,6 @@
                 },
                 {
                     "value": "wz",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "xdefiant",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

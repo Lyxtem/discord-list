@@ -1,32 +1,33 @@
 {
     "id": "277492495141699584",
     "name": "CMP Gaming",
-    "description": "",
+    "description": "We organize and play Forgotten Hope 2 Campaigns as well as other games our community enjoys!",
     "icon": "7e46de7b966a00ce7e93732cabbbef79",
-    "splash": "9c03c76e331829b8af919b4266ff5a0f",
-    "discovery_splash": "b03db987255f98334b8ce3a2614d84e5",
+    "splash": "12a600fdb9fbbe0e5f1846c7e1e492a4",
+    "discovery_splash": "12a600fdb9fbbe0e5f1846c7e1e492a4",
     "banner": null,
-    "approximate_presence_count": 185,
-    "approximate_member_count": 1288,
-    "premium_subscription_count": 2,
+    "approximate_presence_count": 215,
+    "approximate_member_count": 1645,
+    "premium_subscription_count": 3,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "cmp-gaming-277492495141699584",
     "keywords": [
-        "multiplayer",
-        "campaign",
         "battlefield",
-        "international",
-        "tournament",
+        "campaign",
         "forgottenhope",
-        "modding",
-        "ww2",
         "history",
-        "nvidia"
+        "international",
+        "modding",
+        "multiplayer",
+        "nvidia",
+        "tournament",
+        "ww2"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -35,76 +36,40 @@
     "raw": {
         "id": "277492495141699584",
         "name": "CMP Gaming",
-        "description": "",
+        "description": "We organize and play Forgotten Hope 2 Campaigns as well as other games our community enjoys!",
         "icon": "7e46de7b966a00ce7e93732cabbbef79",
-        "splash": "9c03c76e331829b8af919b4266ff5a0f",
+        "splash": "12a600fdb9fbbe0e5f1846c7e1e492a4",
         "banner": null,
-        "approximate_presence_count": 185,
-        "approximate_member_count": 1288,
-        "premium_subscription_count": 2,
+        "approximate_presence_count": 215,
+        "approximate_member_count": 1645,
+        "premium_subscription_count": 3,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "b03db987255f98334b8ce3a2614d84e5",
+        "discovery_splash": "12a600fdb9fbbe0e5f1846c7e1e492a4",
         "primary_category_id": 1,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "cmp-gaming-277492495141699584",
+        "is_published": true,
         "keywords": [
-            "multiplayer",
-            "campaign",
             "battlefield",
-            "international",
-            "tournament",
+            "campaign",
             "forgottenhope",
-            "modding",
-            "ww2",
             "history",
-            "nvidia"
+            "international",
+            "modding",
+            "multiplayer",
+            "nvidia",
+            "tournament",
+            "ww2"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 34,
-                "is_primary": false,
-                "name": "Roleplay",
-                "name_localizations": {
-                    "bg": "Ролева игра",
-                    "cs": "Roleplay",
-                    "da": "Rollespil",
-                    "de": "Rollenspiele",
-                    "el": "Παιχνίδια ρόλων",
-                    "fi": "Roolipeli",
-                    "fr": "Jeux de rôles",
-                    "hi": "रोलप्ले",
-                    "hr": "Roleplay",
-                    "hu": "Szerepjáték",
-                    "it": "Giochi di ruolo",
-                    "ja": "なりきり",
-                    "ko": "역할 놀이",
-                    "lt": "Vaidmenų žaidimai",
-                    "nl": "Rollenspel",
-                    "no": "Rollespill",
-                    "pl": "Role playing",
-                    "ro": "Jocuri de rol",
-                    "ru": "Ролевая игра",
-                    "th": "การเล่นบทบาทสมมติ",
-                    "tr": "Rol Yapma",
-                    "uk": "Рольові ігри",
-                    "vi": "Nhập Vai",
-                    "en-GB": "Roleplay",
-                    "en-US": "Roleplay",
-                    "es-ES": "Juego de roles",
-                    "pt-BR": "Interpretação de personagens",
-                    "sv-SE": "Rollspel",
-                    "zh-CN": "跑团",
-                    "zh-TW": "角色扮演"
-                }
-            },
             {
                 "id": 33,
                 "is_primary": false,
@@ -143,40 +108,77 @@
                 }
             },
             {
-                "id": 48,
+                "id": 34,
                 "is_primary": false,
-                "name": "Game Developer",
+                "name": "Roleplay",
                 "name_localizations": {
-                    "bg": "Разработчик на игри",
-                    "cs": "Vývojář her",
-                    "da": "Spiludvikler",
-                    "de": "Spieleentwicklung",
-                    "el": "Προγραμματιστής παιχνιδιών",
-                    "fi": "Pelinkehittäjät",
-                    "fr": "Développeur de jeux vidéo",
-                    "hi": "गेम डेवलपर",
-                    "hr": "Razvoj igara",
-                    "hu": "Játékfejlesztő",
-                    "it": "Sviluppatore di videogiochi",
-                    "ja": "ゲームデベロッパー",
-                    "ko": "게임 개발",
-                    "lt": "Žaidimų kūrėjai",
-                    "nl": "Gameontwikkelaar",
-                    "no": "Spillutvikler",
-                    "pl": "Deweloper gry",
-                    "ro": "Dezvoltarea jocurilor",
-                    "ru": "Разработка игр",
-                    "th": "ผู้พัฒนาเกม",
-                    "tr": "Oyun Geliştiricisi",
-                    "uk": "Розробка ігор",
-                    "vi": "Nhà Phát Triển Game",
-                    "en-GB": "Game Developer",
-                    "en-US": "Game Developer",
-                    "es-ES": "Desarrollo de juegos",
-                    "pt-BR": "Desenvolvedor de Jogos",
-                    "sv-SE": "Spelutvecklare",
-                    "zh-CN": "游戏开发人员",
-                    "zh-TW": "遊戲開發者"
+                    "bg": "Ролева игра",
+                    "cs": "Roleplay",
+                    "da": "Rollespil",
+                    "de": "Rollenspiele",
+                    "el": "Παιχνίδια ρόλων",
+                    "fi": "Roolipeli",
+                    "fr": "Jeux de rôles",
+                    "hi": "रोलप्ले",
+                    "hr": "Roleplay",
+                    "hu": "Szerepjáték",
+                    "it": "Giochi di ruolo",
+                    "ja": "なりきり",
+                    "ko": "역할 놀이",
+                    "lt": "Vaidmenų žaidimai",
+                    "nl": "Rollenspel",
+                    "no": "Rollespill",
+                    "pl": "Role playing",
+                    "ro": "Jocuri de rol",
+                    "ru": "Ролевая игра",
+                    "th": "การเล่นบทบาทสมมติ",
+                    "tr": "Rol Yapma",
+                    "uk": "Рольові ігри",
+                    "vi": "Nhập Vai",
+                    "en-GB": "Roleplay",
+                    "en-US": "Roleplay",
+                    "es-ES": "Juego de roles",
+                    "pt-BR": "Interpretação de personagens",
+                    "sv-SE": "Rollspel",
+                    "zh-CN": "跑团",
+                    "zh-TW": "角色扮演"
+                }
+            },
+            {
+                "id": 38,
+                "is_primary": false,
+                "name": "Collaboration",
+                "name_localizations": {
+                    "bg": "Сътрудничество",
+                    "cs": "Spolupráce",
+                    "da": "Samarbejde",
+                    "de": "Kollaboration",
+                    "el": "Συνεργασία",
+                    "fi": "Yhteistyö",
+                    "fr": "Collaboration",
+                    "hi": "सहयोग",
+                    "hr": "Suradnja",
+                    "hu": "Együttműködés",
+                    "it": "Collaborazione",
+                    "ja": "コラボレーション",
+                    "ko": "협동",
+                    "lt": "Bendradarbiavimas",
+                    "nl": "Samenwerken",
+                    "no": "Samarbeid",
+                    "pl": "Współpraca",
+                    "ro": "Colaborare",
+                    "ru": "Совместная работа",
+                    "th": "การร่วมมือ",
+                    "tr": "İşbirliği",
+                    "uk": "Співробітництво",
+                    "vi": "Hợp Tác",
+                    "en-GB": "Collaboration",
+                    "en-US": "Collaboration",
+                    "es-ES": "Colaboración",
+                    "pt-BR": "Colaboração",
+                    "sv-SE": "Samarbete",
+                    "zh-CN": "合作",
+                    "zh-TW": "合作"
                 }
             },
             {
@@ -214,6 +216,43 @@
                     "sv-SE": "Gaming",
                     "zh-CN": "游戏",
                     "zh-TW": "遊戲"
+                }
+            },
+            {
+                "id": 48,
+                "is_primary": false,
+                "name": "Game Developer",
+                "name_localizations": {
+                    "bg": "Разработчик на игри",
+                    "cs": "Vývojář her",
+                    "da": "Spiludvikler",
+                    "de": "Spieleentwicklung",
+                    "el": "Προγραμματιστής παιχνιδιών",
+                    "fi": "Pelinkehittäjät",
+                    "fr": "Développeur de jeux vidéo",
+                    "hi": "गेम डेवलपर",
+                    "hr": "Razvoj igara",
+                    "hu": "Játékfejlesztő",
+                    "it": "Sviluppatore di videogiochi",
+                    "ja": "ゲームデベロッパー",
+                    "ko": "게임 개발",
+                    "lt": "Žaidimų kūrėjai",
+                    "nl": "Gameontwikkelaar",
+                    "no": "Spillutvikler",
+                    "pl": "Deweloper gry",
+                    "ro": "Dezvoltarea jocurilor",
+                    "ru": "Разработка игр",
+                    "th": "ผู้พัฒนาเกม",
+                    "tr": "Oyun Geliştiricisi",
+                    "uk": "Розробка ігор",
+                    "vi": "Nhà Phát Triển Game",
+                    "en-GB": "Game Developer",
+                    "en-US": "Game Developer",
+                    "es-ES": "Desarrollo de juegos",
+                    "pt-BR": "Desenvolvedor de Jogos",
+                    "sv-SE": "Spelutvecklare",
+                    "zh-CN": "游戏开发人员",
+                    "zh-TW": "遊戲開發者"
                 }
             }
         ],
@@ -262,13 +301,18 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "",
+                "value": "We organize and play Forgotten Hope 2 Campaigns as well as other games our community enjoys!",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "cmp-gaming-277492495141699584",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
                 {
-                    "value": "multiplayer",
+                    "value": "battlefield",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -278,32 +322,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "battlefield",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "international",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "tournament",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "forgottenhope",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "modding",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "ww2",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -313,166 +332,37 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "international",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "modding",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "multiplayer",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "nvidia",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "tournament",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "ww2",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Ролева игра",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Roleplay",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Rollespil",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Rollenspiele",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Παιχνίδια ρόλων",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Roolipeli",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Jeux de rôles",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "रोलप्ले",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Roleplay",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Szerepjáték",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Giochi di ruolo",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "なりきり",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "역할 놀이",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Vaidmenų žaidimai",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Rollenspel",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Rollespill",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Role playing",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Jocuri de rol",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Ролевая игра",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "การเล่นบทบาทสมมติ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Rol Yapma",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Рольові ігри",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Nhập Vai",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Roleplay",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Roleplay",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Juego de roles",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Interpretação de personagens",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Rollspel",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "跑团",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "角色扮演",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -630,152 +520,306 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Разработчик на игри",
+                            "value": "Ролева игра",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Vývojář her",
+                            "value": "Roleplay",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Spiludvikler",
+                            "value": "Rollespil",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Spieleentwicklung",
+                            "value": "Rollenspiele",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Προγραμματιστής παιχνιδιών",
+                            "value": "Παιχνίδια ρόλων",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Pelinkehittäjät",
+                            "value": "Roolipeli",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Développeur de jeux vidéo",
+                            "value": "Jeux de rôles",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "गेम डेवलपर",
+                            "value": "रोलप्ले",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Razvoj igara",
+                            "value": "Roleplay",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Játékfejlesztő",
+                            "value": "Szerepjáték",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Sviluppatore di videogiochi",
+                            "value": "Giochi di ruolo",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "ゲームデベロッパー",
+                            "value": "なりきり",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "게임 개발",
+                            "value": "역할 놀이",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Žaidimų kūrėjai",
+                            "value": "Vaidmenų žaidimai",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Gameontwikkelaar",
+                            "value": "Rollenspel",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Spillutvikler",
+                            "value": "Rollespill",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Deweloper gry",
+                            "value": "Role playing",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Dezvoltarea jocurilor",
+                            "value": "Jocuri de rol",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Разработка игр",
+                            "value": "Ролевая игра",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "ผู้พัฒนาเกม",
+                            "value": "การเล่นบทบาทสมมติ",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Oyun Geliştiricisi",
+                            "value": "Rol Yapma",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Розробка ігор",
+                            "value": "Рольові ігри",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Nhà Phát Triển Game",
+                            "value": "Nhập Vai",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Game Developer",
+                            "value": "Roleplay",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Game Developer",
+                            "value": "Roleplay",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Desarrollo de juegos",
+                            "value": "Juego de roles",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Desenvolvedor de Jogos",
+                            "value": "Interpretação de personagens",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Spelutvecklare",
+                            "value": "Rollspel",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "游戏开发人员",
+                            "value": "跑团",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "遊戲開發者",
+                            "value": "角色扮演",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Сътрудничество",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Spolupráce",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Samarbejde",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Kollaboration",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Συνεργασία",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Yhteistyö",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Collaboration",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "सहयोग",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Suradnja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Együttműködés",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Collaborazione",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "コラボレーション",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "협동",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Bendradarbiavimas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Samenwerken",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Samarbeid",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Współpraca",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Colaborare",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Совместная работа",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การร่วมมือ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "İşbirliği",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Співробітництво",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Hợp Tác",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Collaboration",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Collaboration",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Colaboración",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Colaboração",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Samarbete",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "合作",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "合作",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -930,6 +974,160 @@
                         },
                         "zh-TW": {
                             "value": "遊戲",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Разработчик на игри",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Vývojář her",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Spiludvikler",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Spieleentwicklung",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Προγραμματιστής παιχνιδιών",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Pelinkehittäjät",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Développeur de jeux vidéo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "गेम डेवलपर",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Razvoj igara",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Játékfejlesztő",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Sviluppatore di videogiochi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "ゲームデベロッパー",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "게임 개발",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Žaidimų kūrėjai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Gameontwikkelaar",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Spillutvikler",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Deweloper gry",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Dezvoltarea jocurilor",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Разработка игр",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ผู้พัฒนาเกม",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Oyun Geliştiricisi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Розробка ігор",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Nhà Phát Triển Game",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Game Developer",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Game Developer",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Desarrollo de juegos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Desenvolvedor de Jogos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Spelutvecklare",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "游戏开发人员",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "遊戲開發者",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

@@ -1,16 +1,16 @@
 {
     "id": "277129168393601024",
     "name": "Formula Trout League",
-    "description": "Assetto Corsa's most competitive open wheel racing league.",
+    "description": "Assetto Corsa's Most Competitive Open Wheel Racing League.",
     "icon": "a_5917961d890d7fbe67dbfcb3ff03ed8a",
     "splash": "5b979b941bdc51eee21646a7fcd7f361",
     "discovery_splash": "fbceccf47c2787b13d829417ce1833ec",
     "banner": "22e4cc2d553c46799e5bbe6b8bb41c99",
-    "approximate_presence_count": 204,
-    "approximate_member_count": 1054,
-    "premium_subscription_count": 4,
+    "approximate_presence_count": 226,
+    "approximate_member_count": 1159,
+    "premium_subscription_count": 5,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "formula-trout-league-277129168393601024",
     "keywords": [
         "formula1",
         "racing",
@@ -27,26 +27,27 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "PREVIEW_ENABLED"
+        "PREVIEW_ENABLED",
+        "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": false,
     "verified": false,
     "raw": {
         "id": "277129168393601024",
         "name": "Formula Trout League",
-        "description": "Assetto Corsa's most competitive open wheel racing league.",
+        "description": "Assetto Corsa's Most Competitive Open Wheel Racing League.",
         "icon": "a_5917961d890d7fbe67dbfcb3ff03ed8a",
         "splash": "5b979b941bdc51eee21646a7fcd7f361",
         "banner": "22e4cc2d553c46799e5bbe6b8bb41c99",
-        "approximate_presence_count": 204,
-        "approximate_member_count": 1054,
-        "premium_subscription_count": 4,
+        "approximate_presence_count": 226,
+        "approximate_member_count": 1159,
+        "premium_subscription_count": 5,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "fbceccf47c2787b13d829417ce1833ec",
-        "primary_category_id": 7,
-        "vanity_url_code": null,
-        "is_published": false,
+        "primary_category_id": 1,
+        "vanity_url_code": "formula-trout-league-277129168393601024",
+        "is_published": true,
         "keywords": [
             "formula1",
             "racing",
@@ -63,7 +64,8 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "PREVIEW_ENABLED"
+            "PREVIEW_ENABLED",
+            "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
             {
@@ -104,13 +106,13 @@
                 }
             },
             {
-                "id": 28,
-                "is_primary": false,
-                "name": "Investing",
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
                 "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
                 }
             },
             {
@@ -223,26 +225,43 @@
                     "zh-CN": "游戏",
                     "zh-TW": "遊戲"
                 }
-            },
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
-                }
             }
         ],
         "primary_category": {
-            "id": 7,
+            "id": 1,
             "is_primary": true,
-            "name": "Sports",
+            "name": "Gaming",
             "name_localizations": {
-                "de": "Sport",
-                "fr": "Sports",
-                "ru": "Спорт"
+                "bg": "Гейминг",
+                "cs": "Hraní",
+                "da": "Spil",
+                "de": "Gaming",
+                "el": "Gaming",
+                "fi": "Pelaaminen",
+                "fr": "Gaming",
+                "hi": "गेमिंग",
+                "hr": "Gaming",
+                "hu": "Játék",
+                "it": "Gaming",
+                "ja": "ゲーム",
+                "ko": "게임",
+                "lt": "Žaidimai",
+                "nl": "Gaming",
+                "no": "Gaming",
+                "pl": "Gry",
+                "ro": "Gaming",
+                "ru": "Игры",
+                "th": "การเล่นเกม",
+                "tr": "Oyun",
+                "uk": "Ігри",
+                "vi": "Gaming",
+                "en-GB": "Gaming",
+                "en-US": "Gaming",
+                "es-ES": "Juegos",
+                "pt-BR": "Jogos",
+                "sv-SE": "Gaming",
+                "zh-CN": "游戏",
+                "zh-TW": "遊戲"
             }
         },
         "objectID": "277129168393601024",
@@ -253,7 +272,12 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Assetto Corsa's most competitive open wheel racing league.",
+                "value": "Assetto Corsa's Most Competitive Open Wheel Racing League.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "formula-trout-league-277129168393601024",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -467,17 +491,17 @@
                 {
                     "name_localizations": {
                         "de": {
-                            "value": "Geldanlage",
+                            "value": "Sport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Investissements",
+                            "value": "Sports",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Инвестиции",
+                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -944,41 +968,157 @@
                             "matchedWords": []
                         }
                     }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
                 }
             ],
             "primary_category": {
                 "name_localizations": {
+                    "bg": {
+                        "value": "Гейминг",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "cs": {
+                        "value": "Hraní",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "da": {
+                        "value": "Spil",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
                     "de": {
-                        "value": "Sport",
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "el": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "fi": {
+                        "value": "Pelaaminen",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "fr": {
-                        "value": "Sports",
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hi": {
+                        "value": "गेमिंग",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hr": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hu": {
+                        "value": "Játék",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "it": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ja": {
+                        "value": "ゲーム",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ko": {
+                        "value": "게임",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "lt": {
+                        "value": "Žaidimai",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "nl": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "no": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "pl": {
+                        "value": "Gry",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ro": {
+                        "value": "Gaming",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ru": {
-                        "value": "Спорт",
+                        "value": "Игры",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "th": {
+                        "value": "การเล่นเกม",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "tr": {
+                        "value": "Oyun",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "uk": {
+                        "value": "Ігри",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "vi": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "en-GB": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "en-US": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "es-ES": {
+                        "value": "Juegos",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "pt-BR": {
+                        "value": "Jogos",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "sv-SE": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "zh-CN": {
+                        "value": "游戏",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "zh-TW": {
+                        "value": "遊戲",
                         "matchLevel": "none",
                         "matchedWords": []
                     }
