@@ -3,12 +3,12 @@
     "name": "DOTA 2: Party 2 Play",
     "description": "Поиск (пати | клан вары) по ролям и рангам. Бесплатные (тренировки | буст). Актуальные (сборки| реплеи) PRO игроков.",
     "icon": "a_e48d74b044d5b1dd9ed1a7a1838d399f",
-    "splash": "a63ede59143b9f52451db0dfc443cf59",
+    "splash": null,
     "discovery_splash": "a63ede59143b9f52451db0dfc443cf59",
-    "banner": "a_95f97907b257b8e1da54e0f12b583dec",
-    "approximate_presence_count": 532,
-    "approximate_member_count": 2075,
-    "premium_subscription_count": 8,
+    "banner": "fbd3fe777ad33b43cab291398b2ee7a8",
+    "approximate_presence_count": 529,
+    "approximate_member_count": 3168,
+    "premium_subscription_count": 10,
     "preferred_locale": "ru",
     "vanity_url_code": "dota-2-party-2-play-956643632641867897",
     "keywords": [
@@ -38,11 +38,11 @@
         "name": "DOTA 2: Party 2 Play",
         "description": "Поиск (пати | клан вары) по ролям и рангам. Бесплатные (тренировки | буст). Актуальные (сборки| реплеи) PRO игроков.",
         "icon": "a_e48d74b044d5b1dd9ed1a7a1838d399f",
-        "splash": "a63ede59143b9f52451db0dfc443cf59",
-        "banner": "a_95f97907b257b8e1da54e0f12b583dec",
-        "approximate_presence_count": 532,
-        "approximate_member_count": 2075,
-        "premium_subscription_count": 8,
+        "splash": null,
+        "banner": "fbd3fe777ad33b43cab291398b2ee7a8",
+        "approximate_presence_count": 529,
+        "approximate_member_count": 3168,
+        "premium_subscription_count": 10,
         "preferred_locale": "ru",
         "auto_removed": false,
         "discovery_splash": "a63ede59143b9f52451db0dfc443cf59",
@@ -70,43 +70,6 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 29,
-                "is_primary": false,
-                "name": "Studying & Teaching",
-                "name_localizations": {
-                    "bg": "Учене и преподаване",
-                    "cs": "Studium a výuka",
-                    "da": "Studier & undervisning",
-                    "de": "Lernen & Lehren",
-                    "el": "Μάθηση & Διδασκαλία",
-                    "fi": "Opiskelu ja opetus",
-                    "fr": "Études et enseignement",
-                    "hi": "पढ़ना और पढ़ाना",
-                    "hr": "Učenje i podučavanje",
-                    "hu": "Tanulás és tanítás",
-                    "it": "Studiare e insegnare",
-                    "ja": "学習&教育",
-                    "ko": "공부, 교육",
-                    "lt": "Studijos ir mokymas",
-                    "nl": "Studeren en lesgeven",
-                    "no": "Studier og undervisning",
-                    "pl": "Studia i nauczanie",
-                    "ro": "Învățământ și studii",
-                    "ru": "Обучение",
-                    "th": "การศึกษาและการสอน",
-                    "tr": "Eğitim ve Öğretim",
-                    "uk": "Навчання й викладання",
-                    "vi": "Học và Dạy",
-                    "en-GB": "Studying & Teaching",
-                    "en-US": "Studying & Teaching",
-                    "es-ES": "Estudios y enseñanza",
-                    "pt-BR": "Didática e Aprendizado",
-                    "sv-SE": "Studier och undervisning",
-                    "zh-CN": "研究&教学",
-                    "zh-TW": "研究與教學"
-                }
-            },
             {
                 "id": 15,
                 "is_primary": false,
@@ -179,6 +142,43 @@
                     "sv-SE": "Chatt i allmänhet",
                     "zh-CN": "综合聊天",
                     "zh-TW": "一般聊天"
+                }
+            },
+            {
+                "id": 29,
+                "is_primary": false,
+                "name": "Studying & Teaching",
+                "name_localizations": {
+                    "bg": "Учене и преподаване",
+                    "cs": "Studium a výuka",
+                    "da": "Studier & undervisning",
+                    "de": "Lernen & Lehren",
+                    "el": "Μάθηση & Διδασκαλία",
+                    "fi": "Opiskelu ja opetus",
+                    "fr": "Études et enseignement",
+                    "hi": "पढ़ना और पढ़ाना",
+                    "hr": "Učenje i podučavanje",
+                    "hu": "Tanulás és tanítás",
+                    "it": "Studiare e insegnare",
+                    "ja": "学習&教育",
+                    "ko": "공부, 교육",
+                    "lt": "Studijos ir mokymas",
+                    "nl": "Studeren en lesgeven",
+                    "no": "Studier og undervisning",
+                    "pl": "Studia i nauczanie",
+                    "ro": "Învățământ și studii",
+                    "ru": "Обучение",
+                    "th": "การศึกษาและการสอน",
+                    "tr": "Eğitim ve Öğretim",
+                    "uk": "Навчання й викладання",
+                    "vi": "Học và Dạy",
+                    "en-GB": "Studying & Teaching",
+                    "en-US": "Studying & Teaching",
+                    "es-ES": "Estudios y enseñanza",
+                    "pt-BR": "Didática e Aprendizado",
+                    "sv-SE": "Studier och undervisning",
+                    "zh-CN": "研究&教学",
+                    "zh-TW": "研究與教學"
                 }
             },
             {
@@ -326,160 +326,6 @@
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Учене и преподаване",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Studium a výuka",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Studier & undervisning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Lernen & Lehren",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Μάθηση & Διδασκαλία",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Opiskelu ja opetus",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Études et enseignement",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "पढ़ना और पढ़ाना",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Učenje i podučavanje",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Tanulás és tanítás",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Studiare e insegnare",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "学習&教育",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "공부, 교육",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Studijos ir mokymas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Studeren en lesgeven",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Studier og undervisning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Studia i nauczanie",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Învățământ și studii",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Обучение",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "การศึกษาและการสอน",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Eğitim ve Öğretim",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Навчання й викладання",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Học và Dạy",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Studying & Teaching",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Studying & Teaching",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Estudios y enseñanza",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Didática e Aprendizado",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Studier och undervisning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "研究&教学",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "研究與教學",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -783,6 +629,160 @@
                         },
                         "zh-TW": {
                             "value": "一般聊天",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Учене и преподаване",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Studium a výuka",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Studier & undervisning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Lernen & Lehren",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Μάθηση & Διδασκαλία",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Opiskelu ja opetus",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Études et enseignement",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "पढ़ना और पढ़ाना",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Učenje i podučavanje",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Tanulás és tanítás",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Studiare e insegnare",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "学習&教育",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "공부, 교육",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Studijos ir mokymas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Studeren en lesgeven",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Studier og undervisning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Studia i nauczanie",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Învățământ și studii",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Обучение",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การศึกษาและการสอน",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Eğitim ve Öğretim",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Навчання й викладання",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Học và Dạy",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Studying & Teaching",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Studying & Teaching",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Estudios y enseñanza",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Didática e Aprendizado",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Studier och undervisning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "研究&教学",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "研究與教學",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

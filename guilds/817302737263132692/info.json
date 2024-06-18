@@ -6,20 +6,20 @@
     "splash": "fc131763a00c5634c519459c7bbc62bb",
     "discovery_splash": "62b6a5395f01684aa6c75df5edb82888",
     "banner": "cf795cf67ec9943957a9e93f8a08375f",
-    "approximate_presence_count": 963,
-    "approximate_member_count": 6106,
+    "approximate_presence_count": 1072,
+    "approximate_member_count": 6557,
     "premium_subscription_count": 14,
     "preferred_locale": "en-US",
     "vanity_url_code": "retrosix",
     "keywords": [
-        "retro",
-        "gaming",
-        "gameboy",
-        "repair",
         "diy",
-        "sega",
+        "gameboy",
+        "gaming",
+        "mods",
         "nintendo",
-        "mods"
+        "repair",
+        "retro",
+        "sega"
     ],
     "features": [
         "COMMUNITY",
@@ -37,24 +37,24 @@
         "icon": "882d8684b6c443c57f5e9a06c88fd994",
         "splash": "fc131763a00c5634c519459c7bbc62bb",
         "banner": "cf795cf67ec9943957a9e93f8a08375f",
-        "approximate_presence_count": 963,
-        "approximate_member_count": 6106,
+        "approximate_presence_count": 1072,
+        "approximate_member_count": 6557,
         "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "62b6a5395f01684aa6c75df5edb82888",
         "primary_category_id": 1,
         "vanity_url_code": "retrosix",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
-            "retro",
-            "gaming",
-            "gameboy",
-            "repair",
             "diy",
-            "sega",
+            "gameboy",
+            "gaming",
+            "mods",
             "nintendo",
-            "mods"
+            "repair",
+            "retro",
+            "sega"
         ],
         "features": [
             "COMMUNITY",
@@ -232,12 +232,7 @@
             },
             "keywords": [
                 {
-                    "value": "retro",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "gaming",
+                    "value": "diy",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -247,17 +242,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "repair",
+                    "value": "gaming",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "diy",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "sega",
+                    "value": "mods",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -267,7 +257,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "mods",
+                    "value": "repair",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "retro",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "sega",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

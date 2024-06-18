@@ -6,24 +6,17 @@
     "splash": "863b732b084bddb8c9f5c7104185971b",
     "discovery_splash": "e6e198fa4b690c6cbeb2b6b3828742d1",
     "banner": null,
-    "approximate_presence_count": 842,
-    "approximate_member_count": 2424,
+    "approximate_presence_count": 874,
+    "approximate_member_count": 2653,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "tasharen",
     "keywords": null,
     "features": [
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
         "DISCOVERABLE",
         "FEATURABLE",
-        "INVITE_SPLASH",
-        "NEWS",
-        "NEW_THREAD_PERMISSIONS",
         "PREVIEW_ENABLED",
-        "SOUNDBOARD",
-        "THREADS_ENABLED",
-        "VANITY_URL",
         "VERIFIED"
     ],
     "partnered": false,
@@ -35,8 +28,8 @@
         "icon": "a20033b920383d8561c76c060b2882d2",
         "splash": "863b732b084bddb8c9f5c7104185971b",
         "banner": null,
-        "approximate_presence_count": 842,
-        "approximate_member_count": 2424,
+        "approximate_presence_count": 874,
+        "approximate_member_count": 2653,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -46,18 +39,43 @@
         "is_published": false,
         "keywords": null,
         "features": [
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
             "DISCOVERABLE",
             "FEATURABLE",
-            "INVITE_SPLASH",
-            "NEWS",
-            "NEW_THREAD_PERMISSIONS",
             "PREVIEW_ENABLED",
-            "SOUNDBOARD",
-            "THREADS_ENABLED",
-            "VANITY_URL",
             "VERIFIED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "292866097453989903",
+        "_highlightResult": {
+            "name": {
+                "value": "Tasharen Community",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "Official Tasharen Entertainment community Discord server.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "tasharen",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }
