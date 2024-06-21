@@ -1,24 +1,25 @@
 {
     "id": "210023264058081280",
     "name": "RevivaLTV Gaming Community",
-    "description": "",
+    "description": "This server is all about enjoying your time with all esports enthusiasts from all over the world.",
     "icon": "e285bbf1b582c576cb69e757a63864b6",
     "splash": "0f8d6c322281cd93ac41631cd751cad0",
     "discovery_splash": "3ebd8092adac8f9141760d768dae3127",
     "banner": "0f8d6c322281cd93ac41631cd751cad0",
-    "approximate_presence_count": 1184,
-    "approximate_member_count": 20534,
-    "premium_subscription_count": 3,
+    "approximate_presence_count": 1000,
+    "approximate_member_count": 20605,
+    "premium_subscription_count": 20,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "revivaltvid",
     "keywords": [
-        "RevivaLTV",
-        "RVL"
+        "RVL",
+        "RevivaLTV"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -27,27 +28,28 @@
     "raw": {
         "id": "210023264058081280",
         "name": "RevivaLTV Gaming Community",
-        "description": "",
+        "description": "This server is all about enjoying your time with all esports enthusiasts from all over the world.",
         "icon": "e285bbf1b582c576cb69e757a63864b6",
         "splash": "0f8d6c322281cd93ac41631cd751cad0",
         "banner": "0f8d6c322281cd93ac41631cd751cad0",
-        "approximate_presence_count": 1184,
-        "approximate_member_count": 20534,
-        "premium_subscription_count": 3,
+        "approximate_presence_count": 1000,
+        "approximate_member_count": 20605,
+        "premium_subscription_count": 20,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "3ebd8092adac8f9141760d768dae3127",
         "primary_category_id": 1,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "revivaltvid",
+        "is_published": true,
         "keywords": [
-            "RevivaLTV",
-            "RVL"
+            "RVL",
+            "RevivaLTV"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -172,18 +174,23 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "",
+                "value": "This server is all about enjoying your time with all esports enthusiasts from all over the world.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "revivaltvid",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
                 {
-                    "value": "RevivaLTV",
+                    "value": "RVL",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "RVL",
+                    "value": "RevivaLTV",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
