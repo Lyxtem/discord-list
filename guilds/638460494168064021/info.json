@@ -1,22 +1,22 @@
 {
     "id": "638460494168064021",
     "name": "Balancer",
-    "description": "",
+    "description": "Welcome to the Balancer community!",
     "icon": "a_68c9e9ff867b158f50aadb9c5ff79355",
     "splash": null,
-    "discovery_splash": null,
+    "discovery_splash": "88375c2ff5b1f6431c013ea26e2dee75",
     "banner": "a_469290afe582c4bfe7d702beedaa01be",
-    "approximate_presence_count": 1774,
-    "approximate_member_count": 41611,
-    "premium_subscription_count": 15,
+    "approximate_presence_count": 1698,
+    "approximate_member_count": 15692,
+    "premium_subscription_count": 14,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "balancer-638460494168064021",
     "keywords": [
-        "balancer",
-        "ethereum",
-        "bal",
         "amm",
-        "defi"
+        "bal",
+        "balancer",
+        "defi",
+        "ethereum"
     ],
     "features": [
         "COMMUNITY",
@@ -31,25 +31,25 @@
     "raw": {
         "id": "638460494168064021",
         "name": "Balancer",
-        "description": "",
+        "description": "Welcome to the Balancer community!",
         "icon": "a_68c9e9ff867b158f50aadb9c5ff79355",
         "splash": null,
         "banner": "a_469290afe582c4bfe7d702beedaa01be",
-        "approximate_presence_count": 1774,
-        "approximate_member_count": 41611,
-        "premium_subscription_count": 15,
+        "approximate_presence_count": 1698,
+        "approximate_member_count": 15692,
+        "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "88375c2ff5b1f6431c013ea26e2dee75",
         "primary_category_id": 12,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "balancer-638460494168064021",
+        "is_published": true,
         "keywords": [
-            "balancer",
-            "ethereum",
-            "bal",
             "amm",
-            "defi"
+            "bal",
+            "balancer",
+            "defi",
+            "ethereum"
         ],
         "features": [
             "COMMUNITY",
@@ -217,18 +217,18 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "",
+                "value": "Welcome to the Balancer community!",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "balancer-638460494168064021",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
                 {
-                    "value": "balancer",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "ethereum",
+                    "value": "amm",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -238,12 +238,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "amm",
+                    "value": "balancer",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "defi",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "ethereum",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
