@@ -2,12 +2,12 @@
     "id": "829092910070235146",
     "name": "Augere",
     "description": "Hos Augere får du ta del av våra erfarna traders och deras handel i realtid. Vi delar med oss av handlingsbara analyser.",
-    "icon": "16d587a1d43b09fcbebd8820d9d7c601",
-    "splash": "4abb4d8557b71974051b75ac2b60655b",
-    "discovery_splash": "4abb4d8557b71974051b75ac2b60655b",
-    "banner": "1214a765aa2d9fd2a629cfcbcfea8788",
-    "approximate_presence_count": 201,
-    "approximate_member_count": 2689,
+    "icon": "be017aaf326cdc0bfb6e6f213f62891b",
+    "splash": "8dd24c901f00d0a1e1a13ea97e82b38d",
+    "discovery_splash": "8dd24c901f00d0a1e1a13ea97e82b38d",
+    "banner": "090b215a28d9f4047cda85529abd66b1",
+    "approximate_presence_count": 224,
+    "approximate_member_count": 2980,
     "premium_subscription_count": 14,
     "preferred_locale": "sv-SE",
     "vanity_url_code": "augere",
@@ -17,6 +17,7 @@
         "börsen",
         "daytrading",
         "handel",
+        "index",
         "investering",
         "swingtrading",
         "traders",
@@ -36,15 +37,15 @@
         "id": "829092910070235146",
         "name": "Augere",
         "description": "Hos Augere får du ta del av våra erfarna traders och deras handel i realtid. Vi delar med oss av handlingsbara analyser.",
-        "icon": "16d587a1d43b09fcbebd8820d9d7c601",
-        "splash": "4abb4d8557b71974051b75ac2b60655b",
-        "banner": "1214a765aa2d9fd2a629cfcbcfea8788",
-        "approximate_presence_count": 201,
-        "approximate_member_count": 2689,
+        "icon": "be017aaf326cdc0bfb6e6f213f62891b",
+        "splash": "8dd24c901f00d0a1e1a13ea97e82b38d",
+        "banner": "090b215a28d9f4047cda85529abd66b1",
+        "approximate_presence_count": 224,
+        "approximate_member_count": 2980,
         "premium_subscription_count": 14,
         "preferred_locale": "sv-SE",
         "auto_removed": false,
-        "discovery_splash": "4abb4d8557b71974051b75ac2b60655b",
+        "discovery_splash": "8dd24c901f00d0a1e1a13ea97e82b38d",
         "primary_category_id": 12,
         "vanity_url_code": "augere",
         "is_published": true,
@@ -54,6 +55,7 @@
             "börsen",
             "daytrading",
             "handel",
+            "index",
             "investering",
             "swingtrading",
             "traders",
@@ -68,6 +70,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 28,
+                "is_primary": false,
+                "name": "Investing",
+                "name_localizations": {
+                    "de": "Geldanlage",
+                    "fr": "Investissements",
+                    "ru": "Инвестиции"
+                }
+            },
             {
                 "id": 6,
                 "is_primary": true,
@@ -103,80 +115,6 @@
                     "sv-SE": "Utbildning",
                     "zh-CN": "教育",
                     "zh-TW": "教育"
-                }
-            },
-            {
-                "id": 40,
-                "is_primary": false,
-                "name": "Wiki & Guide",
-                "name_localizations": {
-                    "bg": "Уики и ръководство",
-                    "cs": "Wiki a návody",
-                    "da": "Wiki & guide",
-                    "de": "Wiki & Anleitungen",
-                    "el": "Wiki & Οδηγοί",
-                    "fi": "Wikit ja ohjeet",
-                    "fr": "Wiki et guide",
-                    "hi": "विकिपीडिया और गाइड",
-                    "hr": "Wiki i vodiči",
-                    "hu": "Wikik és útmutatók",
-                    "it": "Wiki e guide",
-                    "ja": "ウィキペディア&ガイド",
-                    "ko": "위키, 가이드",
-                    "lt": "Vikis ir instrukcijos",
-                    "nl": "Wiki en gids",
-                    "no": "Wiki og veiledning",
-                    "pl": "Wiki i przewodniki",
-                    "ro": "Wiki și ghid",
-                    "ru": "Вики и руководство",
-                    "th": "วิกิและคู่มือ",
-                    "tr": "Wiki ve Rehber",
-                    "uk": "Вікі та посібники",
-                    "vi": "Wiki & Hướng Dẫn",
-                    "en-GB": "Wiki & Guide",
-                    "en-US": "Wiki & Guide",
-                    "es-ES": "Wikipedia y guías",
-                    "pt-BR": "Wiki e Guias",
-                    "sv-SE": "Wiki och guide",
-                    "zh-CN": "维基&指南",
-                    "zh-TW": "維基百科與指南"
-                }
-            },
-            {
-                "id": 27,
-                "is_primary": false,
-                "name": "Cryptocurrency",
-                "name_localizations": {
-                    "bg": "Криптовалута",
-                    "cs": "Kryptoměny",
-                    "da": "Kryptovaluta",
-                    "de": "Kryptowährung",
-                    "el": "Κρυπτονόμισμα",
-                    "fi": "Kryptovaluutta",
-                    "fr": "Cryptomonnaie",
-                    "hi": "क्रिप्टोकरेंसी",
-                    "hr": "Kriptovalute",
-                    "hu": "Kriptovaluta",
-                    "it": "Criptovalute",
-                    "ja": "暗号通貨",
-                    "ko": "암호화폐",
-                    "lt": "Kriptovaliuta",
-                    "nl": "Cryptocurrency",
-                    "no": "Kryptovaluta",
-                    "pl": "Kryptowaluty",
-                    "ro": "Criptomonede",
-                    "ru": "Криптовалюта",
-                    "th": "สกุลเงินดิจิทัล",
-                    "tr": "Kripto Para Birimleri",
-                    "uk": "Криптовалюти",
-                    "vi": "Tiền Ảo",
-                    "en-GB": "Cryptocurrency",
-                    "en-US": "Cryptocurrency",
-                    "es-ES": "Criptomonedas",
-                    "pt-BR": "Criptomoeda",
-                    "sv-SE": "Kryptovaluta",
-                    "zh-CN": "数字货币",
-                    "zh-TW": "加密貨幣"
                 }
             },
             {
@@ -217,13 +155,77 @@
                 }
             },
             {
-                "id": 28,
+                "id": 27,
                 "is_primary": false,
-                "name": "Investing",
+                "name": "Cryptocurrency",
                 "name_localizations": {
-                    "de": "Geldanlage",
-                    "fr": "Investissements",
-                    "ru": "Инвестиции"
+                    "bg": "Криптовалута",
+                    "cs": "Kryptoměny",
+                    "da": "Kryptovaluta",
+                    "de": "Kryptowährung",
+                    "el": "Κρυπτονόμισμα",
+                    "fi": "Kryptovaluutta",
+                    "fr": "Cryptomonnaie",
+                    "hi": "क्रिप्टोकरेंसी",
+                    "hr": "Kriptovalute",
+                    "hu": "Kriptovaluta",
+                    "it": "Criptovalute",
+                    "ja": "暗号通貨",
+                    "ko": "암호화폐",
+                    "lt": "Kriptovaliuta",
+                    "nl": "Cryptocurrency",
+                    "no": "Kryptovaluta",
+                    "pl": "Kryptowaluty",
+                    "ro": "Criptomonede",
+                    "ru": "Криптовалюта",
+                    "th": "สกุลเงินดิจิทัล",
+                    "tr": "Kripto Para Birimleri",
+                    "uk": "Криптовалюти",
+                    "vi": "Tiền Ảo",
+                    "en-GB": "Cryptocurrency",
+                    "en-US": "Cryptocurrency",
+                    "es-ES": "Criptomonedas",
+                    "pt-BR": "Criptomoeda",
+                    "sv-SE": "Kryptovaluta",
+                    "zh-CN": "数字货币",
+                    "zh-TW": "加密貨幣"
+                }
+            },
+            {
+                "id": 40,
+                "is_primary": false,
+                "name": "Wiki & Guide",
+                "name_localizations": {
+                    "bg": "Уики и ръководство",
+                    "cs": "Wiki a návody",
+                    "da": "Wiki & guide",
+                    "de": "Wiki & Anleitungen",
+                    "el": "Wiki & Οδηγοί",
+                    "fi": "Wikit ja ohjeet",
+                    "fr": "Wiki et guide",
+                    "hi": "विकिपीडिया और गाइड",
+                    "hr": "Wiki i vodiči",
+                    "hu": "Wikik és útmutatók",
+                    "it": "Wiki e guide",
+                    "ja": "ウィキペディア&ガイド",
+                    "ko": "위키, 가이드",
+                    "lt": "Vikis ir instrukcijos",
+                    "nl": "Wiki en gids",
+                    "no": "Wiki og veiledning",
+                    "pl": "Wiki i przewodniki",
+                    "ro": "Wiki și ghid",
+                    "ru": "Вики и руководство",
+                    "th": "วิกิและคู่มือ",
+                    "tr": "Wiki ve Rehber",
+                    "uk": "Вікі та посібники",
+                    "vi": "Wiki & Hướng Dẫn",
+                    "en-GB": "Wiki & Guide",
+                    "en-US": "Wiki & Guide",
+                    "es-ES": "Wikipedia y guías",
+                    "pt-BR": "Wiki e Guias",
+                    "sv-SE": "Wiki och guide",
+                    "zh-CN": "维基&指南",
+                    "zh-TW": "維基百科與指南"
                 }
             }
         ],
@@ -308,6 +310,11 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "index",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "investering",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -329,6 +336,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Geldanlage",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Investissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Инвестиции",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -486,152 +512,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Уики и ръководство",
+                            "value": "Финанси",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Wiki a návody",
+                            "value": "Finance",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Wiki & guide",
+                            "value": "Finans",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Wiki & Anleitungen",
+                            "value": "Finanzen",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Wiki & Οδηγοί",
+                            "value": "Οικονομία",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Wikit ja ohjeet",
+                            "value": "Talous",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Wiki et guide",
+                            "value": "Finance",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "विकिपीडिया और गाइड",
+                            "value": "फ़ाइनेंस",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Wiki i vodiči",
+                            "value": "Financije",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Wikik és útmutatók",
+                            "value": "Pénzügyek",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Wiki e guide",
+                            "value": "Finanza",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "ウィキペディア&ガイド",
+                            "value": "ファイナンス",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "위키, 가이드",
+                            "value": "금융",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Vikis ir instrukcijos",
+                            "value": "Finansai",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Wiki en gids",
+                            "value": "Financiën",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Wiki og veiledning",
+                            "value": "Økonomi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Wiki i przewodniki",
+                            "value": "Finanse",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Wiki și ghid",
+                            "value": "Finanțe",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Вики и руководство",
+                            "value": "Финансы",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "วิกิและคู่มือ",
+                            "value": "การเงิน",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Wiki ve Rehber",
+                            "value": "Finans",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Вікі та посібники",
+                            "value": "Фінанси",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Wiki & Hướng Dẫn",
+                            "value": "Tài Chính",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Wiki & Guide",
+                            "value": "Finance",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Wiki & Guide",
+                            "value": "Finance",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Wikipedia y guías",
+                            "value": "Finanzas",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Wiki e Guias",
+                            "value": "Finanças",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Wiki och guide",
+                            "value": "Ekonomi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "维基&指南",
+                            "value": "理财",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "維基百科與指南",
+                            "value": "財經",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -794,171 +820,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Финанси",
+                            "value": "Уики и ръководство",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Finance",
+                            "value": "Wiki a návody",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Finans",
+                            "value": "Wiki & guide",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Finanzen",
+                            "value": "Wiki & Anleitungen",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Οικονομία",
+                            "value": "Wiki & Οδηγοί",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Talous",
+                            "value": "Wikit ja ohjeet",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Finance",
+                            "value": "Wiki et guide",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "फ़ाइनेंस",
+                            "value": "विकिपीडिया और गाइड",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Financije",
+                            "value": "Wiki i vodiči",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Pénzügyek",
+                            "value": "Wikik és útmutatók",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Finanza",
+                            "value": "Wiki e guide",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "ファイナンス",
+                            "value": "ウィキペディア&ガイド",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "금융",
+                            "value": "위키, 가이드",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Finansai",
+                            "value": "Vikis ir instrukcijos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Financiën",
+                            "value": "Wiki en gids",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Økonomi",
+                            "value": "Wiki og veiledning",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Finanse",
+                            "value": "Wiki i przewodniki",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Finanțe",
+                            "value": "Wiki și ghid",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Финансы",
+                            "value": "Вики и руководство",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "การเงิน",
+                            "value": "วิกิและคู่มือ",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Finans",
+                            "value": "Wiki ve Rehber",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Фінанси",
+                            "value": "Вікі та посібники",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Tài Chính",
+                            "value": "Wiki & Hướng Dẫn",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Finance",
+                            "value": "Wiki & Guide",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Finance",
+                            "value": "Wiki & Guide",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Finanzas",
+                            "value": "Wikipedia y guías",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Finanças",
+                            "value": "Wiki e Guias",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Ekonomi",
+                            "value": "Wiki och guide",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "理财",
+                            "value": "维基&指南",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "財經",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Geldanlage",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Investissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Инвестиции",
+                            "value": "維基百科與指南",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
