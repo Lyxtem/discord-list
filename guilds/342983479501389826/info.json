@@ -1,22 +1,22 @@
 {
     "id": "342983479501389826",
     "name": "OldSchool.gg",
-    "description": "Old School Bot is a discord bot based on OSRS (Old School RuneScape), which lets you simulate playing RuneScape!",
+    "description": "Oldschool.gg is a community with fanmade runescape-based games and tools, including the Old School Bot discord bot.",
     "icon": "99c10999dc733528115dea1e061f3209",
     "splash": "99c10999dc733528115dea1e061f3209",
     "discovery_splash": "99c10999dc733528115dea1e061f3209",
     "banner": "e9d56d5f7f5ece53a5639552f3e5058d",
-    "approximate_presence_count": 3953,
-    "approximate_member_count": 12472,
-    "premium_subscription_count": 40,
+    "approximate_presence_count": 4159,
+    "approximate_member_count": 12212,
+    "premium_subscription_count": 42,
     "preferred_locale": "en-US",
     "vanity_url_code": "ob",
     "keywords": [
-        "osrs",
-        "runescape",
         "bot",
+        "oldschool",
         "osbot",
-        "oldschool"
+        "osrs",
+        "runescape"
     ],
     "features": [
         "COMMUNITY",
@@ -31,25 +31,25 @@
     "raw": {
         "id": "342983479501389826",
         "name": "OldSchool.gg",
-        "description": "Old School Bot is a discord bot based on OSRS (Old School RuneScape), which lets you simulate playing RuneScape!",
+        "description": "Oldschool.gg is a community with fanmade runescape-based games and tools, including the Old School Bot discord bot.",
         "icon": "99c10999dc733528115dea1e061f3209",
         "splash": "99c10999dc733528115dea1e061f3209",
         "banner": "e9d56d5f7f5ece53a5639552f3e5058d",
-        "approximate_presence_count": 3953,
-        "approximate_member_count": 12472,
-        "premium_subscription_count": 40,
+        "approximate_presence_count": 4159,
+        "approximate_member_count": 12212,
+        "premium_subscription_count": 42,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "99c10999dc733528115dea1e061f3209",
         "primary_category_id": 1,
         "vanity_url_code": "ob",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
-            "osrs",
-            "runescape",
             "bot",
+            "oldschool",
             "osbot",
-            "oldschool"
+            "osrs",
+            "runescape"
         ],
         "features": [
             "COMMUNITY",
@@ -180,7 +180,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Old School Bot is a discord bot based on OSRS (Old School RuneScape), which lets you simulate playing RuneScape!",
+                "value": "Oldschool.gg is a community with fanmade runescape-based games and tools, including the Old School Bot discord bot.",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -191,17 +191,12 @@
             },
             "keywords": [
                 {
-                    "value": "osrs",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "runescape",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "bot",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "oldschool",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -211,7 +206,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "oldschool",
+                    "value": "osrs",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "runescape",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
