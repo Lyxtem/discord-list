@@ -6,9 +6,9 @@
     "splash": "ef8448d667aed96b2199567f5c79074d",
     "discovery_splash": "2d8346d369422534d703a40a1ba705d5",
     "banner": "a_082428c16f30f6de70a1dd88a3e68b4f",
-    "approximate_presence_count": 11402,
-    "approximate_member_count": 139023,
-    "premium_subscription_count": 585,
+    "approximate_presence_count": 10721,
+    "approximate_member_count": 139129,
+    "premium_subscription_count": 583,
     "preferred_locale": "tr",
     "vanity_url_code": "shannara",
     "keywords": [
@@ -17,7 +17,8 @@
         "Oyun",
         "Sohbet",
         "gaming",
-        "music"
+        "music",
+        "public"
     ],
     "features": [
         "COMMUNITY",
@@ -36,9 +37,9 @@
         "icon": "a_55194b0e89e3e06050c19a191919564d",
         "splash": "ef8448d667aed96b2199567f5c79074d",
         "banner": "a_082428c16f30f6de70a1dd88a3e68b4f",
-        "approximate_presence_count": 11402,
-        "approximate_member_count": 139023,
-        "premium_subscription_count": 585,
+        "approximate_presence_count": 10721,
+        "approximate_member_count": 139129,
+        "premium_subscription_count": 583,
         "preferred_locale": "tr",
         "auto_removed": false,
         "discovery_splash": "2d8346d369422534d703a40a1ba705d5",
@@ -51,7 +52,8 @@
             "Oyun",
             "Sohbet",
             "gaming",
-            "music"
+            "music",
+            "public"
         ],
         "features": [
             "COMMUNITY",
@@ -330,6 +332,11 @@
                 },
                 {
                     "value": "music",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "public",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
