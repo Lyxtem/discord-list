@@ -2,18 +2,19 @@
     "id": "677278481330995220",
     "name": "Polytope Discord",
     "description": "",
-    "icon": "c0c3c3f4962217eaffed527f54e3412d",
+    "icon": "a_4528c57bc5195bdef9f1e4283fe5bb29",
     "splash": "7018f2fab5444afd2c92f7510cd9a65e",
     "discovery_splash": "7018f2fab5444afd2c92f7510cd9a65e",
     "banner": "e08a1cad834ace2c2ac3878db999e8fb",
-    "approximate_presence_count": 578,
-    "approximate_member_count": 2101,
-    "premium_subscription_count": 5,
+    "approximate_presence_count": 546,
+    "approximate_member_count": 2247,
+    "premium_subscription_count": 4,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
     "keywords": [
-        "mathematics",
         "geometry",
+        "mathematics",
+        "polyhedron",
         "study"
     ],
     "features": [
@@ -29,12 +30,12 @@
         "id": "677278481330995220",
         "name": "Polytope Discord",
         "description": "",
-        "icon": "c0c3c3f4962217eaffed527f54e3412d",
+        "icon": "a_4528c57bc5195bdef9f1e4283fe5bb29",
         "splash": "7018f2fab5444afd2c92f7510cd9a65e",
         "banner": "e08a1cad834ace2c2ac3878db999e8fb",
-        "approximate_presence_count": 578,
-        "approximate_member_count": 2101,
-        "premium_subscription_count": 5,
+        "approximate_presence_count": 546,
+        "approximate_member_count": 2247,
+        "premium_subscription_count": 4,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "7018f2fab5444afd2c92f7510cd9a65e",
@@ -42,8 +43,9 @@
         "vanity_url_code": null,
         "is_published": false,
         "keywords": [
-            "mathematics",
             "geometry",
+            "mathematics",
+            "polyhedron",
             "study"
         ],
         "features": [
@@ -180,12 +182,17 @@
             },
             "keywords": [
                 {
+                    "value": "geometry",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "mathematics",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "geometry",
+                    "value": "polyhedron",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
