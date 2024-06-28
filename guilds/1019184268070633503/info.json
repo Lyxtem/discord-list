@@ -5,16 +5,17 @@
     "icon": "d0f11270306dfaae8fb7addddf96544c",
     "splash": "04d0ef8297ff2581c11083e304aa0690",
     "discovery_splash": "e9f1583bb568ca1cd337a1f3d49f953b",
-    "banner": "e6df65feab381f211c722bcfc4b278c4",
-    "approximate_presence_count": 2013,
-    "approximate_member_count": 10050,
-    "premium_subscription_count": 14,
+    "banner": "bb125752bfcab2d152d5af26f7bd1b52",
+    "approximate_presence_count": 3164,
+    "approximate_member_count": 14569,
+    "premium_subscription_count": 16,
     "preferred_locale": "fr",
     "vanity_url_code": "shortcut",
     "keywords": [
         "ca",
         "crédit agricole",
         "esport",
+        "events",
         "gaming",
         "shortcut",
         "vitality"
@@ -34,10 +35,10 @@
         "description": "Shortcut, c'est le Discord officiel du Crédit Agricole qui vous offre un raccourci vers le gaming et l'esport 🎮",
         "icon": "d0f11270306dfaae8fb7addddf96544c",
         "splash": "04d0ef8297ff2581c11083e304aa0690",
-        "banner": "e6df65feab381f211c722bcfc4b278c4",
-        "approximate_presence_count": 2013,
-        "approximate_member_count": 10050,
-        "premium_subscription_count": 14,
+        "banner": "bb125752bfcab2d152d5af26f7bd1b52",
+        "approximate_presence_count": 3164,
+        "approximate_member_count": 14569,
+        "premium_subscription_count": 16,
         "preferred_locale": "fr",
         "auto_removed": false,
         "discovery_splash": "e9f1583bb568ca1cd337a1f3d49f953b",
@@ -48,6 +49,7 @@
             "ca",
             "crédit agricole",
             "esport",
+            "events",
             "gaming",
             "shortcut",
             "vitality"
@@ -276,6 +278,11 @@
                 },
                 {
                     "value": "esport",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "events",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
