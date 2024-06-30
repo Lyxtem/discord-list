@@ -6,25 +6,26 @@
     "splash": "8e9898b5595ca61d7757e7aa0a0d3bf5",
     "discovery_splash": "bf66dd94216742c6c3188c4d5ce036d4",
     "banner": null,
-    "approximate_presence_count": 1330,
-    "approximate_member_count": 21614,
+    "approximate_presence_count": 1398,
+    "approximate_member_count": 20991,
     "premium_subscription_count": 2,
     "preferred_locale": "en-US",
     "vanity_url_code": "gamings-legend-612254257969889283",
     "keywords": [
-        "roblox",
-        "youtube",
-        "twitch",
-        "minecraft",
+        "esports",
         "fortnite",
-        "esports"
+        "minecraft",
+        "roblox",
+        "twitch",
+        "youtube"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "PREVIEW_ENABLED"
+        "PREVIEW_ENABLED",
+        "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": false,
     "verified": false,
@@ -35,8 +36,8 @@
         "icon": "ba8d1a428e2cc80a055d14483806b7af",
         "splash": "8e9898b5595ca61d7757e7aa0a0d3bf5",
         "banner": null,
-        "approximate_presence_count": 1330,
-        "approximate_member_count": 21614,
+        "approximate_presence_count": 1398,
+        "approximate_member_count": 20991,
         "premium_subscription_count": 2,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -45,19 +46,20 @@
         "vanity_url_code": "gamings-legend-612254257969889283",
         "is_published": true,
         "keywords": [
-            "roblox",
-            "youtube",
-            "twitch",
-            "minecraft",
+            "esports",
             "fortnite",
-            "esports"
+            "minecraft",
+            "roblox",
+            "twitch",
+            "youtube"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "PREVIEW_ENABLED"
+            "PREVIEW_ENABLED",
+            "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
             {
@@ -228,22 +230,7 @@
             },
             "keywords": [
                 {
-                    "value": "roblox",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "youtube",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "twitch",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "minecraft",
+                    "value": "esports",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -253,7 +240,22 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "esports",
+                    "value": "minecraft",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "roblox",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "twitch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "youtube",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

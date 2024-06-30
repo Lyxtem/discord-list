@@ -4,20 +4,20 @@
     "description": "1.16.5-1.19.4 Arası ağırlıklı olarak PvP oyun moduna hizmet vermekteyiz!",
     "icon": "35d1871927507e075b2fa9175f36a8a7",
     "splash": null,
-    "discovery_splash": null,
+    "discovery_splash": "af110d1c26cee6d5d6d3a42228dbf0ee",
     "banner": "b76e28642049ba12841d5d0bbfafb2b0",
-    "approximate_presence_count": 1207,
-    "approximate_member_count": 6636,
-    "premium_subscription_count": 12,
+    "approximate_presence_count": 924,
+    "approximate_member_count": 6786,
+    "premium_subscription_count": 14,
     "preferred_locale": "tr",
-    "vanity_url_code": null,
+    "vanity_url_code": "poenasaga",
     "keywords": [
+        "Earth",
         "Minecraft",
-        "Towny",
-        "STowny",
-        "PoenaSaga",
         "PVP",
-        "Earth"
+        "PoenaSaga",
+        "STowny",
+        "Towny"
     ],
     "features": [
         "COMMUNITY",
@@ -36,22 +36,22 @@
         "icon": "35d1871927507e075b2fa9175f36a8a7",
         "splash": null,
         "banner": "b76e28642049ba12841d5d0bbfafb2b0",
-        "approximate_presence_count": 1207,
-        "approximate_member_count": 6636,
-        "premium_subscription_count": 12,
+        "approximate_presence_count": 924,
+        "approximate_member_count": 6786,
+        "premium_subscription_count": 14,
         "preferred_locale": "tr",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "af110d1c26cee6d5d6d3a42228dbf0ee",
         "primary_category_id": 1,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "poenasaga",
+        "is_published": true,
         "keywords": [
+            "Earth",
             "Minecraft",
-            "Towny",
-            "STowny",
-            "PoenaSaga",
             "PVP",
-            "Earth"
+            "PoenaSaga",
+            "STowny",
+            "Towny"
         ],
         "features": [
             "COMMUNITY",
@@ -223,24 +223,19 @@
                 "matchLevel": "none",
                 "matchedWords": []
             },
+            "vanity_url_code": {
+                "value": "poenasaga",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
             "keywords": [
                 {
+                    "value": "Earth",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "Minecraft",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "Towny",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "STowny",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "PoenaSaga",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -250,7 +245,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "Earth",
+                    "value": "PoenaSaga",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "STowny",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Towny",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

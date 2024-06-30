@@ -2,23 +2,23 @@
     "id": "919887568470937611",
     "name": "MundiLand",
     "description": "Discord Oficial De Mundiland, Servidor De Minecraft Con Un Comunidad Sana, Si Te Animas Eres Bievenido🤗",
-    "icon": "5e5d7aa8a8b60eefbbb8e62fded4b136",
-    "splash": "7eac7df7af02dbaa0b153cf33e024d65",
+    "icon": "3c97b1d3f1a22be800f71545b7f1e043",
+    "splash": "70023c0e78f87f5d6b34c2a6e7b8506e",
     "discovery_splash": "d1093c9d5a532a47c628b812c8100de4",
-    "banner": "e7baaf56ae28bda463d40f2856d4152a",
-    "approximate_presence_count": 502,
-    "approximate_member_count": 7202,
-    "premium_subscription_count": 0,
+    "banner": "a2f4999571a7e31d0a1f97519ab423fc",
+    "approximate_presence_count": 347,
+    "approximate_member_count": 7137,
+    "premium_subscription_count": 2,
     "preferred_locale": "es-ES",
-    "vanity_url_code": null,
+    "vanity_url_code": "mundiland-919887568470937611",
     "keywords": [
-        "minecraft",
         "bedrock",
-        "java",
-        "memes",
         "comunidad",
         "español",
+        "java",
         "latam",
+        "memes",
+        "minecraft",
         "twitch",
         "youtube"
     ],
@@ -27,7 +27,8 @@
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "PREVIEW_ENABLED"
+        "PREVIEW_ENABLED",
+        "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": false,
     "verified": false,
@@ -35,26 +36,26 @@
         "id": "919887568470937611",
         "name": "MundiLand",
         "description": "Discord Oficial De Mundiland, Servidor De Minecraft Con Un Comunidad Sana, Si Te Animas Eres Bievenido🤗",
-        "icon": "5e5d7aa8a8b60eefbbb8e62fded4b136",
-        "splash": "7eac7df7af02dbaa0b153cf33e024d65",
-        "banner": "e7baaf56ae28bda463d40f2856d4152a",
-        "approximate_presence_count": 502,
-        "approximate_member_count": 7202,
-        "premium_subscription_count": 0,
+        "icon": "3c97b1d3f1a22be800f71545b7f1e043",
+        "splash": "70023c0e78f87f5d6b34c2a6e7b8506e",
+        "banner": "a2f4999571a7e31d0a1f97519ab423fc",
+        "approximate_presence_count": 347,
+        "approximate_member_count": 7137,
+        "premium_subscription_count": 2,
         "preferred_locale": "es-ES",
         "auto_removed": false,
         "discovery_splash": "d1093c9d5a532a47c628b812c8100de4",
         "primary_category_id": 1,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "mundiland-919887568470937611",
+        "is_published": true,
         "keywords": [
-            "minecraft",
             "bedrock",
-            "java",
-            "memes",
             "comunidad",
             "español",
+            "java",
             "latam",
+            "memes",
+            "minecraft",
             "twitch",
             "youtube"
         ],
@@ -63,7 +64,8 @@
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "PREVIEW_ENABLED"
+            "PREVIEW_ENABLED",
+            "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
             {
@@ -101,6 +103,43 @@
                     "sv-SE": "Memes",
                     "zh-CN": "表情包",
                     "zh-TW": "迷因"
+                }
+            },
+            {
+                "id": 33,
+                "is_primary": false,
+                "name": "Events",
+                "name_localizations": {
+                    "bg": "Събития",
+                    "cs": "Události",
+                    "da": "Begivenheder",
+                    "de": "Events",
+                    "el": "Εκδηλώσεις",
+                    "fi": "Tapahtumat",
+                    "fr": "Événements",
+                    "hi": "इवेंट्स",
+                    "hr": "Događanja",
+                    "hu": "Rendezvények",
+                    "it": "Eventi",
+                    "ja": "イベント",
+                    "ko": "행사",
+                    "lt": "Renginiai",
+                    "nl": "Evenementen",
+                    "no": "Eventer",
+                    "pl": "Wydarzenia",
+                    "ro": "Evenimente",
+                    "ru": "Мероприятия",
+                    "th": "กิจกรรม",
+                    "tr": "Etkinlikler",
+                    "uk": "Події",
+                    "vi": "Sự Kiện",
+                    "en-GB": "Events",
+                    "en-US": "Events",
+                    "es-ES": "Eventos",
+                    "pt-BR": "Eventos",
+                    "sv-SE": "Event",
+                    "zh-CN": "组织活动",
+                    "zh-TW": "活動"
                 }
             },
             {
@@ -227,24 +266,14 @@
                 "matchLevel": "none",
                 "matchedWords": []
             },
+            "vanity_url_code": {
+                "value": "mundiland-919887568470937611",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
             "keywords": [
                 {
-                    "value": "minecraft",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "bedrock",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "java",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "memes",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -259,7 +288,22 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "java",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "latam",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "memes",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "minecraft",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -424,6 +468,160 @@
                         },
                         "zh-TW": {
                             "value": "迷因",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Събития",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Události",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Begivenheder",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Events",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Εκδηλώσεις",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Tapahtumat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Événements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "इवेंट्स",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Događanja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Rendezvények",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Eventi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "イベント",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "행사",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Renginiai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Evenementen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Eventer",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Wydarzenia",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Evenimente",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Мероприятия",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "กิจกรรม",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Etkinlikler",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Події",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Sự Kiện",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Events",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Events",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Eventos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Eventos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Event",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "组织活动",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "活動",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
