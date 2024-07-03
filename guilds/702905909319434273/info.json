@@ -4,23 +4,23 @@
     "description": "Comunidad de seguidores de Reborn_Live. ¿Ya tienes puesto el traje? ¿No? ¿Y qué estás esperando? Te esperamos.",
     "icon": "a_cac774f0845925de572d67705bb306ca",
     "splash": "a574548803d8312f787a095f1ed01cc5",
-    "discovery_splash": "a574548803d8312f787a095f1ed01cc5",
+    "discovery_splash": "21455d157b03eb269cf2f5d609f8fb64",
     "banner": "72759acccc426bd2b871a70f4f80e743",
-    "approximate_presence_count": 3800,
-    "approximate_member_count": 50010,
-    "premium_subscription_count": 29,
+    "approximate_presence_count": 3687,
+    "approximate_member_count": 48568,
+    "premium_subscription_count": 30,
     "preferred_locale": "es-ES",
     "vanity_url_code": "rebornlive",
     "keywords": [
+        "directos",
         "reborn",
-        "traje",
-        "twitch streamer",
         "reborn_live",
-        "twitch",
         "streamer",
-        "trajeados",
         "streaming",
-        "directos"
+        "traje",
+        "trajeados",
+        "twitch",
+        "twitch streamer"
     ],
     "features": [
         "COMMUNITY",
@@ -39,25 +39,25 @@
         "icon": "a_cac774f0845925de572d67705bb306ca",
         "splash": "a574548803d8312f787a095f1ed01cc5",
         "banner": "72759acccc426bd2b871a70f4f80e743",
-        "approximate_presence_count": 3800,
-        "approximate_member_count": 50010,
-        "premium_subscription_count": 29,
+        "approximate_presence_count": 3687,
+        "approximate_member_count": 48568,
+        "premium_subscription_count": 30,
         "preferred_locale": "es-ES",
         "auto_removed": false,
-        "discovery_splash": "a574548803d8312f787a095f1ed01cc5",
+        "discovery_splash": "21455d157b03eb269cf2f5d609f8fb64",
         "primary_category_id": 3,
         "vanity_url_code": "rebornlive",
         "is_published": false,
         "keywords": [
+            "directos",
             "reborn",
-            "traje",
-            "twitch streamer",
             "reborn_live",
-            "twitch",
             "streamer",
-            "trajeados",
             "streaming",
-            "directos"
+            "traje",
+            "trajeados",
+            "twitch",
+            "twitch streamer"
         ],
         "features": [
             "COMMUNITY",
@@ -236,17 +236,12 @@
             },
             "keywords": [
                 {
+                    "value": "directos",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "reborn",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "traje",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "twitch streamer",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -256,17 +251,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "twitch",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "streamer",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "trajeados",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -276,7 +261,22 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "directos",
+                    "value": "traje",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "trajeados",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "twitch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "twitch streamer",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

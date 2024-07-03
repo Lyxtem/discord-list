@@ -1,27 +1,27 @@
 {
     "id": "512782783509430283",
     "name": "Arkenforge",
-    "description": "The Arkenforge community is a safe and inclusive space for Tabletop RPG enthusiasts",
+    "description": "The Arkenforge community is a safe and inclusive space where people take their in-person TTRPG's to the next level!",
     "icon": "339599d377688ea97d77abbb0aa06a42",
     "splash": "fb45073ff93b5c9b00ee22c873b8f418",
-    "discovery_splash": null,
+    "discovery_splash": "88036a421ff161faa1537a937e341a5d",
     "banner": "88036a421ff161faa1537a937e341a5d",
-    "approximate_presence_count": 979,
-    "approximate_member_count": 3264,
+    "approximate_presence_count": 999,
+    "approximate_member_count": 3417,
     "premium_subscription_count": 15,
     "preferred_locale": "en-US",
     "vanity_url_code": "arkenforge",
     "keywords": [
-        "dnd",
-        "tabletop-rpg",
-        "tabletop",
-        "pathfinder",
         "arkenforge",
-        "vtt",
-        "foundry",
-        "roll20",
+        "dnd",
         "fantasy-grounds",
-        "maps"
+        "foundry",
+        "maps",
+        "pathfinder",
+        "roll20",
+        "tabletop",
+        "tabletop-rpg",
+        "vtt"
     ],
     "features": [
         "COMMUNITY",
@@ -36,30 +36,30 @@
     "raw": {
         "id": "512782783509430283",
         "name": "Arkenforge",
-        "description": "The Arkenforge community is a safe and inclusive space for Tabletop RPG enthusiasts",
+        "description": "The Arkenforge community is a safe and inclusive space where people take their in-person TTRPG's to the next level!",
         "icon": "339599d377688ea97d77abbb0aa06a42",
         "splash": "fb45073ff93b5c9b00ee22c873b8f418",
         "banner": "88036a421ff161faa1537a937e341a5d",
-        "approximate_presence_count": 979,
-        "approximate_member_count": 3264,
+        "approximate_presence_count": 999,
+        "approximate_member_count": 3417,
         "premium_subscription_count": 15,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "88036a421ff161faa1537a937e341a5d",
         "primary_category_id": 1,
         "vanity_url_code": "arkenforge",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
-            "dnd",
-            "tabletop-rpg",
-            "tabletop",
-            "pathfinder",
             "arkenforge",
-            "vtt",
-            "foundry",
-            "roll20",
+            "dnd",
             "fantasy-grounds",
-            "maps"
+            "foundry",
+            "maps",
+            "pathfinder",
+            "roll20",
+            "tabletop",
+            "tabletop-rpg",
+            "vtt"
         ],
         "features": [
             "COMMUNITY",
@@ -70,43 +70,6 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 31,
-                "is_primary": false,
-                "name": "Customer Support",
-                "name_localizations": {
-                    "bg": "Обслужване на клиенти",
-                    "cs": "Uživatelská podpora",
-                    "da": "Kundesupport",
-                    "de": "Kundensupport",
-                    "el": "Εξυπηρέτηση πελατών",
-                    "fi": "Asiakastuki",
-                    "fr": "Assistance clientèle",
-                    "hi": "कस्टमर सपोर्ट",
-                    "hr": "Podrška korisnicima",
-                    "hu": "Ügyfélszolgálat",
-                    "it": "Assistenza clienti",
-                    "ja": "カスタマーサポート",
-                    "ko": "고객 지원",
-                    "lt": "Klientų palaikymas",
-                    "nl": "Klantenondersteuning",
-                    "no": "Kundestøtte",
-                    "pl": "Pomoc techniczna",
-                    "ro": "Asistență clienți",
-                    "ru": "Служба поддержки",
-                    "th": "ฝ่ายสนับสนุนลูกค้า",
-                    "tr": "Müşteri Desteği",
-                    "uk": "Підтримка користувачів",
-                    "vi": "Chăm Sóc Khách Hàng",
-                    "en-GB": "Customer Support",
-                    "en-US": "Customer Support",
-                    "es-ES": "Atención al cliente",
-                    "pt-BR": "Suporte ao cliente",
-                    "sv-SE": "Kundsupport",
-                    "zh-CN": "客户支持",
-                    "zh-TW": "客戶支援"
-                }
-            },
             {
                 "id": 20,
                 "is_primary": false,
@@ -145,40 +108,40 @@
                 }
             },
             {
-                "id": 24,
+                "id": 31,
                 "is_primary": false,
-                "name": "Tabletop Games",
+                "name": "Customer Support",
                 "name_localizations": {
-                    "bg": "Настолни игри",
-                    "cs": "Stolní hry",
-                    "da": "Brætspil",
-                    "de": "Tabletop-Spiele",
-                    "el": "Επιτραπέζια παιχνίδια",
-                    "fi": "Lautapelit",
-                    "fr": "Jeux de société",
-                    "hi": "टेबलटॉप गेम्स",
-                    "hr": "Stolne igre",
-                    "hu": "Társasjátékok",
-                    "it": "Giochi da tavolo",
-                    "ja": "テーブルゲーム",
-                    "ko": "테이블탑 게임",
-                    "lt": "Stalo žaidimai",
-                    "nl": "Bordspellen",
-                    "no": "Brettspill",
-                    "pl": "Gry planszowe",
-                    "ro": "Jocuri pe tablă",
-                    "ru": "Настольные игры",
-                    "th": "เกมกระดาน",
-                    "tr": "Kutu Oyunları",
-                    "uk": "Настільні ігри",
-                    "vi": "Game Chơi Trên Bàn",
-                    "en-GB": "Tabletop Games",
-                    "en-US": "Tabletop Games",
-                    "es-ES": "Juegos de mesa",
-                    "pt-BR": "Jogos de tabuleiro",
-                    "sv-SE": "Bordsspel",
-                    "zh-CN": "桌游",
-                    "zh-TW": "桌遊"
+                    "bg": "Обслужване на клиенти",
+                    "cs": "Uživatelská podpora",
+                    "da": "Kundesupport",
+                    "de": "Kundensupport",
+                    "el": "Εξυπηρέτηση πελατών",
+                    "fi": "Asiakastuki",
+                    "fr": "Assistance clientèle",
+                    "hi": "कस्टमर सपोर्ट",
+                    "hr": "Podrška korisnicima",
+                    "hu": "Ügyfélszolgálat",
+                    "it": "Assistenza clienti",
+                    "ja": "カスタマーサポート",
+                    "ko": "고객 지원",
+                    "lt": "Klientų palaikymas",
+                    "nl": "Klantenondersteuning",
+                    "no": "Kundestøtte",
+                    "pl": "Pomoc techniczna",
+                    "ro": "Asistență clienți",
+                    "ru": "Служба поддержки",
+                    "th": "ฝ่ายสนับสนุนลูกค้า",
+                    "tr": "Müşteri Desteği",
+                    "uk": "Підтримка користувачів",
+                    "vi": "Chăm Sóc Khách Hàng",
+                    "en-GB": "Customer Support",
+                    "en-US": "Customer Support",
+                    "es-ES": "Atención al cliente",
+                    "pt-BR": "Suporte ao cliente",
+                    "sv-SE": "Kundsupport",
+                    "zh-CN": "客户支持",
+                    "zh-TW": "客戶支援"
                 }
             },
             {
@@ -216,6 +179,43 @@
                     "sv-SE": "Rollspel",
                     "zh-CN": "跑团",
                     "zh-TW": "角色扮演"
+                }
+            },
+            {
+                "id": 24,
+                "is_primary": false,
+                "name": "Tabletop Games",
+                "name_localizations": {
+                    "bg": "Настолни игри",
+                    "cs": "Stolní hry",
+                    "da": "Brætspil",
+                    "de": "Tabletop-Spiele",
+                    "el": "Επιτραπέζια παιχνίδια",
+                    "fi": "Lautapelit",
+                    "fr": "Jeux de société",
+                    "hi": "टेबलटॉप गेम्स",
+                    "hr": "Stolne igre",
+                    "hu": "Társasjátékok",
+                    "it": "Giochi da tavolo",
+                    "ja": "テーブルゲーム",
+                    "ko": "테이블탑 게임",
+                    "lt": "Stalo žaidimai",
+                    "nl": "Bordspellen",
+                    "no": "Brettspill",
+                    "pl": "Gry planszowe",
+                    "ro": "Jocuri pe tablă",
+                    "ru": "Настольные игры",
+                    "th": "เกมกระดาน",
+                    "tr": "Kutu Oyunları",
+                    "uk": "Настільні ігри",
+                    "vi": "Game Chơi Trên Bàn",
+                    "en-GB": "Tabletop Games",
+                    "en-US": "Tabletop Games",
+                    "es-ES": "Juegos de mesa",
+                    "pt-BR": "Jogos de tabuleiro",
+                    "sv-SE": "Bordsspel",
+                    "zh-CN": "桌游",
+                    "zh-TW": "桌遊"
                 }
             },
             {
@@ -301,7 +301,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "The Arkenforge community is a safe and inclusive space for Tabletop RPG enthusiasts",
+                "value": "The Arkenforge community is a safe and inclusive space where people take their in-person TTRPG's to the next level!",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -312,42 +312,12 @@
             },
             "keywords": [
                 {
-                    "value": "dnd",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "tabletop-rpg",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "tabletop",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "pathfinder",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "arkenforge",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "vtt",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "foundry",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "roll20",
+                    "value": "dnd",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -357,166 +327,42 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "foundry",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "maps",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "pathfinder",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "roll20",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "tabletop",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "tabletop-rpg",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "vtt",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Обслужване на клиенти",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Uživatelská podpora",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Kundesupport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Kundensupport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Εξυπηρέτηση πελατών",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Asiakastuki",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Assistance clientèle",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "कस्टमर सपोर्ट",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Podrška korisnicima",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Ügyfélszolgálat",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Assistenza clienti",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "カスタマーサポート",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "고객 지원",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Klientų palaikymas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Klantenondersteuning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Kundestøtte",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Pomoc techniczna",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Asistență clienți",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Служба поддержки",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "ฝ่ายสนับสนุนลูกค้า",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Müşteri Desteği",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Підтримка користувачів",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Chăm Sóc Khách Hàng",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Customer Support",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Customer Support",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Atención al cliente",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Suporte ao cliente",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Kundsupport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "客户支持",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "客戶支援",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -674,152 +520,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Настолни игри",
+                            "value": "Обслужване на клиенти",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Stolní hry",
+                            "value": "Uživatelská podpora",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Brætspil",
+                            "value": "Kundesupport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Tabletop-Spiele",
+                            "value": "Kundensupport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Επιτραπέζια παιχνίδια",
+                            "value": "Εξυπηρέτηση πελατών",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Lautapelit",
+                            "value": "Asiakastuki",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Jeux de société",
+                            "value": "Assistance clientèle",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "टेबलटॉप गेम्स",
+                            "value": "कस्टमर सपोर्ट",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Stolne igre",
+                            "value": "Podrška korisnicima",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Társasjátékok",
+                            "value": "Ügyfélszolgálat",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Giochi da tavolo",
+                            "value": "Assistenza clienti",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "テーブルゲーム",
+                            "value": "カスタマーサポート",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "테이블탑 게임",
+                            "value": "고객 지원",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Stalo žaidimai",
+                            "value": "Klientų palaikymas",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Bordspellen",
+                            "value": "Klantenondersteuning",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Brettspill",
+                            "value": "Kundestøtte",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Gry planszowe",
+                            "value": "Pomoc techniczna",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Jocuri pe tablă",
+                            "value": "Asistență clienți",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Настольные игры",
+                            "value": "Служба поддержки",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "เกมกระดาน",
+                            "value": "ฝ่ายสนับสนุนลูกค้า",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Kutu Oyunları",
+                            "value": "Müşteri Desteği",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Настільні ігри",
+                            "value": "Підтримка користувачів",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Game Chơi Trên Bàn",
+                            "value": "Chăm Sóc Khách Hàng",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Tabletop Games",
+                            "value": "Customer Support",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Tabletop Games",
+                            "value": "Customer Support",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Juegos de mesa",
+                            "value": "Atención al cliente",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Jogos de tabuleiro",
+                            "value": "Suporte ao cliente",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Bordsspel",
+                            "value": "Kundsupport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "桌游",
+                            "value": "客户支持",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "桌遊",
+                            "value": "客戶支援",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -974,6 +820,160 @@
                         },
                         "zh-TW": {
                             "value": "角色扮演",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Настолни игри",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Stolní hry",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Brætspil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Tabletop-Spiele",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Επιτραπέζια παιχνίδια",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Lautapelit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Jeux de société",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "टेबलटॉप गेम्स",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Stolne igre",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Társasjátékok",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Giochi da tavolo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "テーブルゲーム",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "테이블탑 게임",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Stalo žaidimai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Bordspellen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Brettspill",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Gry planszowe",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Jocuri pe tablă",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Настольные игры",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "เกมกระดาน",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Kutu Oyunları",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Настільні ігри",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Game Chơi Trên Bàn",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Tabletop Games",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Tabletop Games",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Juegos de mesa",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Jogos de tabuleiro",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Bordsspel",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "桌游",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "桌遊",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

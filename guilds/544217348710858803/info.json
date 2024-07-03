@@ -1,32 +1,33 @@
 {
     "id": "544217348710858803",
     "name": "Grand Mountain Adventure",
-    "description": "",
+    "description": "Hang out with the players and devs of GMA. Join community competitions. Get help when stuck. And post nice ski pics!",
     "icon": "07e5e4f44c2636c4a3b0cf144b3cd9bc",
     "splash": "f9965b373002a23dc894ebe4bb4c2222",
     "discovery_splash": "dfb5ea95759613b13adfae9ac8877e99",
     "banner": "31135515d7f0d035ec2469653a3e10cd",
-    "approximate_presence_count": 287,
-    "approximate_member_count": 7692,
-    "premium_subscription_count": 4,
+    "approximate_presence_count": 259,
+    "approximate_member_count": 7392,
+    "premium_subscription_count": 7,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "grand-mountain-adventure-544217348710858803",
     "keywords": [
-        "ski",
-        "snowboard",
-        "mobile",
-        "switch",
+        "android",
         "e-sport",
-        "steam",
-        "openworld",
         "gaming",
         "ios",
-        "android"
+        "mobile",
+        "openworld",
+        "ski",
+        "snowboard",
+        "steam",
+        "switch"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -35,35 +36,36 @@
     "raw": {
         "id": "544217348710858803",
         "name": "Grand Mountain Adventure",
-        "description": "",
+        "description": "Hang out with the players and devs of GMA. Join community competitions. Get help when stuck. And post nice ski pics!",
         "icon": "07e5e4f44c2636c4a3b0cf144b3cd9bc",
         "splash": "f9965b373002a23dc894ebe4bb4c2222",
         "banner": "31135515d7f0d035ec2469653a3e10cd",
-        "approximate_presence_count": 287,
-        "approximate_member_count": 7692,
-        "premium_subscription_count": 4,
+        "approximate_presence_count": 259,
+        "approximate_member_count": 7392,
+        "premium_subscription_count": 7,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "dfb5ea95759613b13adfae9ac8877e99",
         "primary_category_id": 1,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "grand-mountain-adventure-544217348710858803",
+        "is_published": true,
         "keywords": [
-            "ski",
-            "snowboard",
-            "mobile",
-            "switch",
+            "android",
             "e-sport",
-            "steam",
-            "openworld",
             "gaming",
             "ios",
-            "android"
+            "mobile",
+            "openworld",
+            "ski",
+            "snowboard",
+            "steam",
+            "switch"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -299,43 +301,23 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "",
+                "value": "Hang out with the players and devs of GMA. Join community competitions. Get help when stuck. And post nice ski pics!",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "grand-mountain-adventure-544217348710858803",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
                 {
-                    "value": "ski",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "snowboard",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "mobile",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "switch",
+                    "value": "android",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "e-sport",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "steam",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "openworld",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -350,7 +332,32 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "android",
+                    "value": "mobile",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "openworld",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "ski",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "snowboard",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "steam",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "switch",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
