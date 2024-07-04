@@ -6,13 +6,14 @@
     "splash": "a923b1aecd37d047ea51196375d72f06",
     "discovery_splash": "d41027f3d67e23c8ddb490178ba00155",
     "banner": "ad2dc8a973239b4587c4b38027e7f0b7",
-    "approximate_presence_count": 668,
-    "approximate_member_count": 11262,
-    "premium_subscription_count": 5,
+    "approximate_presence_count": 682,
+    "approximate_member_count": 11697,
+    "premium_subscription_count": 4,
     "preferred_locale": "es-ES",
     "vanity_url_code": "quackity-info-1001216092494110751",
     "keywords": [
         "LGBTQSMP",
+        "Quackity",
         "QuackityInfo",
         "community",
         "comunidad",
@@ -20,8 +21,7 @@
         "qsmp",
         "quackity",
         "streamer",
-        "twitch",
-        "youtube"
+        "twitch"
     ],
     "features": [
         "COMMUNITY",
@@ -39,9 +39,9 @@
         "icon": "fb67e1b56c2ab6473610531dc8495c1a",
         "splash": "a923b1aecd37d047ea51196375d72f06",
         "banner": "ad2dc8a973239b4587c4b38027e7f0b7",
-        "approximate_presence_count": 668,
-        "approximate_member_count": 11262,
-        "premium_subscription_count": 5,
+        "approximate_presence_count": 682,
+        "approximate_member_count": 11697,
+        "premium_subscription_count": 4,
         "preferred_locale": "es-ES",
         "auto_removed": false,
         "discovery_splash": "d41027f3d67e23c8ddb490178ba00155",
@@ -50,6 +50,7 @@
         "is_published": true,
         "keywords": [
             "LGBTQSMP",
+            "Quackity",
             "QuackityInfo",
             "community",
             "comunidad",
@@ -57,8 +58,7 @@
             "qsmp",
             "quackity",
             "streamer",
-            "twitch",
-            "youtube"
+            "twitch"
         ],
         "features": [
             "COMMUNITY",
@@ -315,6 +315,11 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "Quackity",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "QuackityInfo",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -351,11 +356,6 @@
                 },
                 {
                     "value": "twitch",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "youtube",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

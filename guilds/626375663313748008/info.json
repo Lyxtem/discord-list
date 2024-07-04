@@ -1,20 +1,20 @@
 {
     "id": "626375663313748008",
     "name": "Firebase Me",
-    "description": "Firebase Me is an Open Community dedicated to Google Firebase and its infrastructure.",
+    "description": "Join Firebase Me for expert Firebase support, tutorials, and a collaborative developer community led by a GDE.",
     "icon": "a_dd46c564c597ef16a4bb7a8555cb385a",
     "splash": "e1cbbdd5a2cb0e3c12ef8873ec3ceca2",
     "discovery_splash": "e1cbbdd5a2cb0e3c12ef8873ec3ceca2",
     "banner": null,
-    "approximate_presence_count": 850,
-    "approximate_member_count": 6086,
+    "approximate_presence_count": 911,
+    "approximate_member_count": 6112,
     "premium_subscription_count": 3,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
     "keywords": [
-        "google",
         "firebase",
-        "gcp"
+        "gcp",
+        "google"
     ],
     "features": [
         "COMMUNITY",
@@ -29,12 +29,12 @@
     "raw": {
         "id": "626375663313748008",
         "name": "Firebase Me",
-        "description": "Firebase Me is an Open Community dedicated to Google Firebase and its infrastructure.",
+        "description": "Join Firebase Me for expert Firebase support, tutorials, and a collaborative developer community led by a GDE.",
         "icon": "a_dd46c564c597ef16a4bb7a8555cb385a",
         "splash": "e1cbbdd5a2cb0e3c12ef8873ec3ceca2",
         "banner": null,
-        "approximate_presence_count": 850,
-        "approximate_member_count": 6086,
+        "approximate_presence_count": 911,
+        "approximate_member_count": 6112,
         "premium_subscription_count": 3,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -43,9 +43,9 @@
         "vanity_url_code": null,
         "is_published": false,
         "keywords": [
-            "google",
             "firebase",
-            "gcp"
+            "gcp",
+            "google"
         ],
         "features": [
             "COMMUNITY",
@@ -287,16 +287,11 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Firebase Me is an Open Community dedicated to Google Firebase and its infrastructure.",
+                "value": "Join Firebase Me for expert Firebase support, tutorials, and a collaborative developer community led by a GDE.",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
-                {
-                    "value": "google",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
                 {
                     "value": "firebase",
                     "matchLevel": "none",
@@ -304,6 +299,11 @@
                 },
                 {
                     "value": "gcp",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "google",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
