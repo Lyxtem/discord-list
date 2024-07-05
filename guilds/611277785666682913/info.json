@@ -4,24 +4,24 @@
     "description": "Dead by Devs is an active Discord server comprised of like-minded individuals that have a love for DBD and other games!",
     "icon": "a_d1b7d05930daa0dd0d292121860ca30a",
     "splash": "daf52dca48952fb0fb143485acc1879c",
-    "discovery_splash": "635dda9402f8eb18305974adb19dfead",
+    "discovery_splash": "daf52dca48952fb0fb143485acc1879c",
     "banner": "a_ec808f0d5b5a27db4da67ad094237790",
-    "approximate_presence_count": 2260,
-    "approximate_member_count": 9374,
-    "premium_subscription_count": 41,
+    "approximate_presence_count": 2497,
+    "approximate_member_count": 9499,
+    "premium_subscription_count": 43,
     "preferred_locale": "en-US",
     "vanity_url_code": "deadbydevs",
     "keywords": [
+        "community",
         "dbd",
         "dead-by-daylight",
-        "community",
         "deadbydaylight",
-        "lfg",
-        "survivor",
-        "killer",
         "emojis",
+        "gaming",
         "gaming-community",
-        "gaming"
+        "killer",
+        "lfg",
+        "survivor"
     ],
     "features": [
         "COMMUNITY",
@@ -38,26 +38,26 @@
         "icon": "a_d1b7d05930daa0dd0d292121860ca30a",
         "splash": "daf52dca48952fb0fb143485acc1879c",
         "banner": "a_ec808f0d5b5a27db4da67ad094237790",
-        "approximate_presence_count": 2260,
-        "approximate_member_count": 9374,
-        "premium_subscription_count": 41,
+        "approximate_presence_count": 2497,
+        "approximate_member_count": 9499,
+        "premium_subscription_count": 43,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "635dda9402f8eb18305974adb19dfead",
+        "discovery_splash": "daf52dca48952fb0fb143485acc1879c",
         "primary_category_id": 1,
         "vanity_url_code": "deadbydevs",
         "is_published": true,
         "keywords": [
+            "community",
             "dbd",
             "dead-by-daylight",
-            "community",
             "deadbydaylight",
-            "lfg",
-            "survivor",
-            "killer",
             "emojis",
+            "gaming",
             "gaming-community",
-            "gaming"
+            "killer",
+            "lfg",
+            "survivor"
         ],
         "features": [
             "COMMUNITY",
@@ -308,6 +308,11 @@
             },
             "keywords": [
                 {
+                    "value": "community",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "dbd",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -318,12 +323,27 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "community",
+                    "value": "deadbydaylight",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "deadbydaylight",
+                    "value": "emojis",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "gaming",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "gaming-community",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "killer",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -334,26 +354,6 @@
                 },
                 {
                     "value": "survivor",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "killer",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "emojis",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "gaming-community",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "gaming",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

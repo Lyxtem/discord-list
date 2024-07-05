@@ -1,28 +1,29 @@
 {
     "id": "752965395492896810",
-    "name": "F**kface",
-    "description": "",
-    "icon": "a_7816cd8ffd7b2dcf5686ea7ac57ea279",
-    "splash": "e743755743ef6ecc85642c7636c29265",
-    "discovery_splash": "0d2a8a1c98e2f5fd7b9bdf70b5f90f1d",
-    "banner": "7dc10c5a84b3efcd6310f64f314bda48",
-    "approximate_presence_count": 1387,
-    "approximate_member_count": 6199,
-    "premium_subscription_count": 15,
+    "name": "The Regulation Pod",
+    "description": "The official Discord server for the Regulation Podcast!",
+    "icon": "a_f837ad61443927cea638d477f9f5b0f7",
+    "splash": "353f18ffc528de6bcbc34f6fb1074a9f",
+    "discovery_splash": "c04fde96cf0e15aa9a3fe9e73c6e1ad5",
+    "banner": "6bf4ddb395ac8244129d6c104cd5318b",
+    "approximate_presence_count": 3487,
+    "approximate_member_count": 13960,
+    "premium_subscription_count": 62,
     "preferred_locale": "en-US",
-    "vanity_url_code": "fkface",
+    "vanity_url_code": "theregulationpod",
     "keywords": [
-        "roosterteeth",
-        "zimmer",
+        "comedy",
+        "community",
         "panton",
         "podcast",
-        "comedy",
-        "community"
+        "roosterteeth",
+        "zimmer"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -30,32 +31,33 @@
     "verified": false,
     "raw": {
         "id": "752965395492896810",
-        "name": "F**kface",
-        "description": "",
-        "icon": "a_7816cd8ffd7b2dcf5686ea7ac57ea279",
-        "splash": "e743755743ef6ecc85642c7636c29265",
-        "banner": "7dc10c5a84b3efcd6310f64f314bda48",
-        "approximate_presence_count": 1387,
-        "approximate_member_count": 6199,
-        "premium_subscription_count": 15,
+        "name": "The Regulation Pod",
+        "description": "The official Discord server for the Regulation Podcast!",
+        "icon": "a_f837ad61443927cea638d477f9f5b0f7",
+        "splash": "353f18ffc528de6bcbc34f6fb1074a9f",
+        "banner": "6bf4ddb395ac8244129d6c104cd5318b",
+        "approximate_presence_count": 3487,
+        "approximate_member_count": 13960,
+        "premium_subscription_count": 62,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "0d2a8a1c98e2f5fd7b9bdf70b5f90f1d",
+        "discovery_splash": "c04fde96cf0e15aa9a3fe9e73c6e1ad5",
         "primary_category_id": 3,
-        "vanity_url_code": "fkface",
-        "is_published": false,
+        "vanity_url_code": "theregulationpod",
+        "is_published": true,
         "keywords": [
-            "roosterteeth",
-            "zimmer",
+            "comedy",
+            "community",
             "panton",
             "podcast",
-            "comedy",
-            "community"
+            "roosterteeth",
+            "zimmer"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -68,6 +70,43 @@
                     "de": "Podcasts",
                     "fr": "Podcasts",
                     "ru": "Подкасты"
+                }
+            },
+            {
+                "id": 35,
+                "is_primary": false,
+                "name": "Content Creator",
+                "name_localizations": {
+                    "bg": "Създател на съдържание",
+                    "cs": "Tvůrce obsahu",
+                    "da": "Indholdsskaber",
+                    "de": "Content Creator",
+                    "el": "Δημιουργός Περιεχομένου",
+                    "fi": "Sisällöntuottaja",
+                    "fr": "Créateur de contenu",
+                    "hi": "कंटेंट क्रिएटर",
+                    "hr": "Stvaratelj sadržaja",
+                    "hu": "Tartalomkészítő",
+                    "it": "Creazione contenuti",
+                    "ja": "コンテンツクリエイター",
+                    "ko": "콘텐츠 크리에이터",
+                    "lt": "Turinio kūrėjai",
+                    "nl": "Contentontwikkelaar",
+                    "no": "Innholdsskaper",
+                    "pl": "Twórca zawartości",
+                    "ro": "Creator de conținut",
+                    "ru": "Создатель контента",
+                    "th": "ผู้สร้างเนื้อหา",
+                    "tr": "İçerik Üreticisi",
+                    "uk": "Створення контенту",
+                    "vi": "Nhà Sáng Tạo Nội Dung",
+                    "en-GB": "Content creator",
+                    "en-US": "Content Creator",
+                    "es-ES": "Creador de contenido",
+                    "pt-BR": "Criação de Conteúdo",
+                    "sv-SE": "Innehållsskapare",
+                    "zh-CN": "内容创作者",
+                    "zh-TW": "內容創作者"
                 }
             },
             {
@@ -148,28 +187,28 @@
         "objectID": "752965395492896810",
         "_highlightResult": {
             "name": {
-                "value": "F**kface",
+                "value": "The Regulation Pod",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "description": {
-                "value": "",
+                "value": "The official Discord server for the Regulation Podcast!",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "vanity_url_code": {
-                "value": "fkface",
+                "value": "theregulationpod",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
                 {
-                    "value": "roosterteeth",
+                    "value": "comedy",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "zimmer",
+                    "value": "community",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -184,12 +223,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "comedy",
+                    "value": "roosterteeth",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "community",
+                    "value": "zimmer",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
@@ -209,6 +248,160 @@
                         },
                         "ru": {
                             "value": "Подкасты",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Създател на съдържание",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Tvůrce obsahu",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Indholdsskaber",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Content Creator",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Δημιουργός Περιεχομένου",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Sisällöntuottaja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Créateur de contenu",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "कंटेंट क्रिएटर",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Stvaratelj sadržaja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Tartalomkészítő",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Creazione contenuti",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "コンテンツクリエイター",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "콘텐츠 크리에이터",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Turinio kūrėjai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Contentontwikkelaar",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Innholdsskaper",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Twórca zawartości",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Creator de conținut",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Создатель контента",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ผู้สร้างเนื้อหา",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "İçerik Üreticisi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Створення контенту",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Nhà Sáng Tạo Nội Dung",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Content creator",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Content Creator",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Creador de contenido",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Criação de Conteúdo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Innehållsskapare",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "内容创作者",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "內容創作者",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

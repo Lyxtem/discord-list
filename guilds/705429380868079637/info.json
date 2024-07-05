@@ -1,14 +1,14 @@
 {
     "id": "705429380868079637",
-    "name": "Shur PlagioArmy",
+    "name": "Shur hediondo Army",
     "description": "Servidor de la comunidad del tioShur, mejor conocido como tio con pelo pasto uwu",
-    "icon": "d69555484f3b224f51cb64a66d047c82",
+    "icon": "1014451149467591a97b9b5af3280e2b",
     "splash": "84bbf266e2acb39aff5c283c23715f81",
     "discovery_splash": "d46d6ad6ed66ec59d93f79e7b0f2ac92",
     "banner": "6dec215ba55e24894b9a0f380a20e80d",
-    "approximate_presence_count": 92,
-    "approximate_member_count": 2002,
-    "premium_subscription_count": 1,
+    "approximate_presence_count": 167,
+    "approximate_member_count": 1837,
+    "premium_subscription_count": 2,
     "preferred_locale": "es-ES",
     "vanity_url_code": "fuerza-shur-shurteo-army-705429380868079637",
     "keywords": [
@@ -29,14 +29,14 @@
     "verified": false,
     "raw": {
         "id": "705429380868079637",
-        "name": "Shur PlagioArmy",
+        "name": "Shur hediondo Army",
         "description": "Servidor de la comunidad del tioShur, mejor conocido como tio con pelo pasto uwu",
-        "icon": "d69555484f3b224f51cb64a66d047c82",
+        "icon": "1014451149467591a97b9b5af3280e2b",
         "splash": "84bbf266e2acb39aff5c283c23715f81",
         "banner": "6dec215ba55e24894b9a0f380a20e80d",
-        "approximate_presence_count": 92,
-        "approximate_member_count": 2002,
-        "premium_subscription_count": 1,
+        "approximate_presence_count": 167,
+        "approximate_member_count": 1837,
+        "premium_subscription_count": 2,
         "preferred_locale": "es-ES",
         "auto_removed": false,
         "discovery_splash": "d46d6ad6ed66ec59d93f79e7b0f2ac92",
@@ -58,6 +58,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 23,
+                "is_primary": false,
+                "name": "Podcasts",
+                "name_localizations": {
+                    "de": "Podcasts",
+                    "fr": "Podcasts",
+                    "ru": "Подкасты"
+                }
+            },
             {
                 "id": 3,
                 "is_primary": true,
@@ -93,16 +103,6 @@
                     "sv-SE": "Underhållning",
                     "zh-CN": "娱乐",
                     "zh-TW": "娛樂"
-                }
-            },
-            {
-                "id": 23,
-                "is_primary": false,
-                "name": "Podcasts",
-                "name_localizations": {
-                    "de": "Podcasts",
-                    "fr": "Podcasts",
-                    "ru": "Подкасты"
                 }
             },
             {
@@ -183,7 +183,7 @@
         "objectID": "705429380868079637",
         "_highlightResult": {
             "name": {
-                "value": "Shur PlagioArmy",
+                "value": "Shur hediondo Army",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -220,6 +220,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Подкасты",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -369,25 +388,6 @@
                         },
                         "zh-TW": {
                             "value": "娛樂",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Подкасты",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
