@@ -1,13 +1,13 @@
 {
     "id": "632687773526130691",
     "name": "VuhDo",
-    "description": "A community dedicated to the VuhDo add-on for World of Warcraft.",
-    "icon": "2804f68a0237aa13b177925a98050d5e",
+    "description": "",
+    "icon": "53b8f13acb3e11c9db4200da2fc02f0f",
     "splash": null,
     "discovery_splash": null,
     "banner": null,
-    "approximate_presence_count": 1001,
-    "approximate_member_count": 2430,
+    "approximate_presence_count": 1360,
+    "approximate_member_count": 3456,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
@@ -22,20 +22,22 @@
     ],
     "features": [
         "COMMUNITY",
-        "PREVIEW_ENABLED",
-        "WELCOME_SCREEN_ENABLED"
+        "DISCOVERABLE",
+        "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
+        "PREVIEW_ENABLED"
     ],
     "partnered": false,
     "verified": false,
     "raw": {
         "id": "632687773526130691",
         "name": "VuhDo",
-        "description": "A community dedicated to the VuhDo add-on for World of Warcraft.",
-        "icon": "2804f68a0237aa13b177925a98050d5e",
+        "description": "",
+        "icon": "53b8f13acb3e11c9db4200da2fc02f0f",
         "splash": null,
         "banner": null,
-        "approximate_presence_count": 1001,
-        "approximate_member_count": 2430,
+        "approximate_presence_count": 1360,
+        "approximate_member_count": 3456,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -54,8 +56,10 @@
         ],
         "features": [
             "COMMUNITY",
-            "PREVIEW_ENABLED",
-            "WELCOME_SCREEN_ENABLED"
+            "DISCOVERABLE",
+            "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
+            "PREVIEW_ENABLED"
         ],
         "categories": [
             {
@@ -141,7 +145,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "A community dedicated to the VuhDo add-on for World of Warcraft.",
+                "value": "",
                 "matchLevel": "none",
                 "matchedWords": []
             },
