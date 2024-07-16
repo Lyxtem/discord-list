@@ -5,12 +5,12 @@
     "icon": "d8279ff2850f166306c58a90e330c091",
     "splash": null,
     "discovery_splash": null,
-    "banner": "2ae9886b3746c08993e646083e4eafda",
-    "approximate_presence_count": 188,
-    "approximate_member_count": 4682,
-    "premium_subscription_count": 0,
+    "banner": "6abbbfc59398865bf21798ccc21d2e6a",
+    "approximate_presence_count": 123,
+    "approximate_member_count": 4602,
+    "premium_subscription_count": 15,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "exclusives",
     "keywords": [
         "criticalops",
         "standoff2"
@@ -30,15 +30,15 @@
         "description": "Exclusivity",
         "icon": "d8279ff2850f166306c58a90e330c091",
         "splash": null,
-        "banner": "2ae9886b3746c08993e646083e4eafda",
-        "approximate_presence_count": 188,
-        "approximate_member_count": 4682,
-        "premium_subscription_count": 0,
+        "banner": "6abbbfc59398865bf21798ccc21d2e6a",
+        "approximate_presence_count": 123,
+        "approximate_member_count": 4602,
+        "premium_subscription_count": 15,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": null,
         "primary_category_id": 1,
-        "vanity_url_code": null,
+        "vanity_url_code": "exclusives",
         "is_published": false,
         "keywords": [
             "criticalops",
@@ -210,6 +210,11 @@
             },
             "description": {
                 "value": "Exclusivity",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "exclusives",
                 "matchLevel": "none",
                 "matchedWords": []
             },
