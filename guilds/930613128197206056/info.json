@@ -3,14 +3,14 @@
     "name": "DELUXE SERVER",
     "description": "This server is created for everyone, enjoy!Este servidor es creado para todos , disfruta!",
     "icon": "a_04dd09104bd0f2588dec4bff07d7e2e6",
-    "splash": null,
-    "discovery_splash": null,
+    "splash": "f8aa6aca2092952fac6ec23cd23cd16f",
+    "discovery_splash": "f8aa6aca2092952fac6ec23cd23cd16f",
     "banner": null,
-    "approximate_presence_count": 45,
-    "approximate_member_count": 1082,
-    "premium_subscription_count": 4,
+    "approximate_presence_count": 135,
+    "approximate_member_count": 1990,
+    "premium_subscription_count": 2,
     "preferred_locale": "es-ES",
-    "vanity_url_code": null,
+    "vanity_url_code": "deluxe-server-930613128197206056",
     "keywords": [
         "comunidad",
         "anime",
@@ -22,7 +22,11 @@
     ],
     "features": [
         "COMMUNITY",
-        "PREVIEW_ENABLED"
+        "DISCOVERABLE",
+        "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
+        "PREVIEW_ENABLED",
+        "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": false,
     "verified": false,
@@ -31,17 +35,17 @@
         "name": "DELUXE SERVER",
         "description": "This server is created for everyone, enjoy!Este servidor es creado para todos , disfruta!",
         "icon": "a_04dd09104bd0f2588dec4bff07d7e2e6",
-        "splash": null,
+        "splash": "f8aa6aca2092952fac6ec23cd23cd16f",
         "banner": null,
-        "approximate_presence_count": 45,
-        "approximate_member_count": 1082,
-        "premium_subscription_count": 4,
+        "approximate_presence_count": 135,
+        "approximate_member_count": 1990,
+        "premium_subscription_count": 2,
         "preferred_locale": "es-ES",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "f8aa6aca2092952fac6ec23cd23cd16f",
         "primary_category_id": 14,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "deluxe-server-930613128197206056",
+        "is_published": true,
         "keywords": [
             "comunidad",
             "anime",
@@ -53,7 +57,11 @@
         ],
         "features": [
             "COMMUNITY",
-            "PREVIEW_ENABLED"
+            "DISCOVERABLE",
+            "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
+            "PREVIEW_ENABLED",
+            "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
             {
@@ -251,6 +259,11 @@
             },
             "description": {
                 "value": "This server is created for everyone, enjoy!Este servidor es creado para todos , disfruta!",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "deluxe-server-930613128197206056",
                 "matchLevel": "none",
                 "matchedWords": []
             },
