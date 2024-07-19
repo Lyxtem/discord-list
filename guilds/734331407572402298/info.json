@@ -1,14 +1,14 @@
 {
     "id": "734331407572402298",
-    "name": "MyHolo TV",
+    "name": "Kensou!!",
     "description": "\"MyHolo TV\" マレーシア オフィス「マイホロ」の公式アカウントです Our goal is to connect worldwide community with Japan’s Anime & VTubers Culture",
-    "icon": "e70cfd8e6efc57a68c08c9a4d81cb8ae",
-    "splash": "99c7e4e822cc1bfe4a1711172a90eb2c",
-    "discovery_splash": "024006c96647e000d5c3b815b0dba474",
-    "banner": "2b8c5e86262a453c29298c59726b67fb",
-    "approximate_presence_count": 591,
-    "approximate_member_count": 4402,
-    "premium_subscription_count": 12,
+    "icon": "1a32f22d595fd510fafbc4b44e2f8d95",
+    "splash": "a695bbafbbb6ca43f964092711d98dd2",
+    "discovery_splash": "a695bbafbbb6ca43f964092711d98dd2",
+    "banner": "447c3dc5ed708930f4108f06d4bd2387",
+    "approximate_presence_count": 536,
+    "approximate_member_count": 4363,
+    "premium_subscription_count": 16,
     "preferred_locale": "en-US",
     "vanity_url_code": "myholotv",
     "keywords": [
@@ -33,17 +33,17 @@
     "verified": false,
     "raw": {
         "id": "734331407572402298",
-        "name": "MyHolo TV",
+        "name": "Kensou!!",
         "description": "\"MyHolo TV\" マレーシア オフィス「マイホロ」の公式アカウントです Our goal is to connect worldwide community with Japan’s Anime & VTubers Culture",
-        "icon": "e70cfd8e6efc57a68c08c9a4d81cb8ae",
-        "splash": "99c7e4e822cc1bfe4a1711172a90eb2c",
-        "banner": "2b8c5e86262a453c29298c59726b67fb",
-        "approximate_presence_count": 591,
-        "approximate_member_count": 4402,
-        "premium_subscription_count": 12,
+        "icon": "1a32f22d595fd510fafbc4b44e2f8d95",
+        "splash": "a695bbafbbb6ca43f964092711d98dd2",
+        "banner": "447c3dc5ed708930f4108f06d4bd2387",
+        "approximate_presence_count": 536,
+        "approximate_member_count": 4363,
+        "premium_subscription_count": 16,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "024006c96647e000d5c3b815b0dba474",
+        "discovery_splash": "a695bbafbbb6ca43f964092711d98dd2",
         "primary_category_id": 3,
         "vanity_url_code": "myholotv",
         "is_published": true,
@@ -66,16 +66,6 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
-            {
-                "id": 23,
-                "is_primary": false,
-                "name": "Podcasts",
-                "name_localizations": {
-                    "de": "Podcasts",
-                    "fr": "Podcasts",
-                    "ru": "Подкасты"
-                }
-            },
             {
                 "id": 39,
                 "is_primary": false,
@@ -111,6 +101,16 @@
                     "sv-SE": "Fandom",
                     "zh-CN": "同好圈",
                     "zh-TW": "粉絲社群"
+                }
+            },
+            {
+                "id": 23,
+                "is_primary": false,
+                "name": "Podcasts",
+                "name_localizations": {
+                    "de": "Podcasts",
+                    "fr": "Podcasts",
+                    "ru": "Подкасты"
                 }
             },
             {
@@ -302,7 +302,7 @@
         "objectID": "734331407572402298",
         "_highlightResult": {
             "name": {
-                "value": "MyHolo TV",
+                "value": "Kensou!!",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -359,25 +359,6 @@
                 }
             ],
             "categories": [
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Подкасты",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -527,6 +508,25 @@
                         },
                         "zh-TW": {
                             "value": "粉絲社群",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Подкасты",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
