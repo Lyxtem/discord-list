@@ -4,22 +4,22 @@
     "description": "Creates amazing FiveM resources.",
     "icon": "a10c36ce7fbcf7ca34f674732c8099a1",
     "splash": "11617b1ab62126c4c4846b0cc72f6d4f",
-    "discovery_splash": "f7e333157632a6f7fa2591dc5574f9b9",
+    "discovery_splash": "11617b1ab62126c4c4846b0cc72f6d4f",
     "banner": "ce111b75cb0bcac0b3c934519f344c11",
-    "approximate_presence_count": 1241,
-    "approximate_member_count": 2384,
-    "premium_subscription_count": 22,
+    "approximate_presence_count": 1243,
+    "approximate_member_count": 3000,
+    "premium_subscription_count": 16,
     "preferred_locale": "en-US",
     "vanity_url_code": "uyuyorumstore",
     "keywords": [
-        "fivem",
-        "scripts",
-        "qbcore",
-        "esx",
-        "fivem-scripts",
         "code",
+        "esx",
+        "fivem",
+        "fivem-scripts",
         "ox",
-        "roleplay"
+        "qbcore",
+        "roleplay",
+        "scripts"
     ],
     "features": [
         "COMMUNITY",
@@ -36,24 +36,24 @@
         "icon": "a10c36ce7fbcf7ca34f674732c8099a1",
         "splash": "11617b1ab62126c4c4846b0cc72f6d4f",
         "banner": "ce111b75cb0bcac0b3c934519f344c11",
-        "approximate_presence_count": 1241,
-        "approximate_member_count": 2384,
-        "premium_subscription_count": 22,
+        "approximate_presence_count": 1243,
+        "approximate_member_count": 3000,
+        "premium_subscription_count": 16,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "f7e333157632a6f7fa2591dc5574f9b9",
+        "discovery_splash": "11617b1ab62126c4c4846b0cc72f6d4f",
         "primary_category_id": 13,
         "vanity_url_code": "uyuyorumstore",
         "is_published": true,
         "keywords": [
-            "fivem",
-            "scripts",
-            "qbcore",
-            "esx",
-            "fivem-scripts",
             "code",
+            "esx",
+            "fivem",
+            "fivem-scripts",
             "ox",
-            "roleplay"
+            "qbcore",
+            "roleplay",
+            "scripts"
         ],
         "features": [
             "COMMUNITY",
@@ -250,17 +250,7 @@
             },
             "keywords": [
                 {
-                    "value": "fivem",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "scripts",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "qbcore",
+                    "value": "code",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -270,12 +260,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "fivem-scripts",
+                    "value": "fivem",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "code",
+                    "value": "fivem-scripts",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -285,7 +275,17 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "qbcore",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "roleplay",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "scripts",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

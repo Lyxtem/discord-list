@@ -4,26 +4,27 @@
     "description": "",
     "icon": "a_ea1aae3b3d024539644a70e4cbaa6c32",
     "splash": "a2a77b8fa967ec120fa654e48619e108",
-    "discovery_splash": "a2a77b8fa967ec120fa654e48619e108",
+    "discovery_splash": null,
     "banner": "a2a77b8fa967ec120fa654e48619e108",
-    "approximate_presence_count": 1263,
-    "approximate_member_count": 2859,
-    "premium_subscription_count": 19,
+    "approximate_presence_count": 1608,
+    "approximate_member_count": 2723,
+    "premium_subscription_count": 14,
     "preferred_locale": "en-US",
     "vanity_url_code": "llamatodd",
     "keywords": [
-        "ffxiv",
-        "raiding",
+        "coaching",
         "end-game",
-        "twitch",
-        "ninja",
+        "ffxiv",
         "mmorpg",
-        "coaching"
+        "ninja",
+        "raiding",
+        "twitch"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -36,28 +37,29 @@
         "icon": "a_ea1aae3b3d024539644a70e4cbaa6c32",
         "splash": "a2a77b8fa967ec120fa654e48619e108",
         "banner": "a2a77b8fa967ec120fa654e48619e108",
-        "approximate_presence_count": 1263,
-        "approximate_member_count": 2859,
-        "premium_subscription_count": 19,
+        "approximate_presence_count": 1608,
+        "approximate_member_count": 2723,
+        "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "a2a77b8fa967ec120fa654e48619e108",
+        "discovery_splash": null,
         "primary_category_id": 1,
         "vanity_url_code": "llamatodd",
         "is_published": false,
         "keywords": [
-            "ffxiv",
-            "raiding",
+            "coaching",
             "end-game",
-            "twitch",
-            "ninja",
+            "ffxiv",
             "mmorpg",
-            "coaching"
+            "ninja",
+            "raiding",
+            "twitch"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -267,12 +269,7 @@
             },
             "keywords": [
                 {
-                    "value": "ffxiv",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "raiding",
+                    "value": "coaching",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -282,12 +279,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "twitch",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "ninja",
+                    "value": "ffxiv",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -297,7 +289,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "coaching",
+                    "value": "ninja",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "raiding",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "twitch",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

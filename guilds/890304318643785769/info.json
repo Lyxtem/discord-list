@@ -2,29 +2,32 @@
     "id": "890304318643785769",
     "name": "SweetNess",
     "description": "Ты устал читать об интересных и ламповых серверах? Тогда оставайся с нами, мы сможем тебя удивить!",
-    "icon": "a_22aae978423a0f139022a3ecda2ae79d",
-    "splash": "134662a2feab12ef56fa63077cc562f5",
+    "icon": "a_6f2c57e570ec90669749a5d5a3f27dc0",
+    "splash": "8c203aa9fb612c72be3de35e3334fc7f",
     "discovery_splash": "2fa77fc213dae238b122e648be4c725f",
-    "banner": "9581fd8e5c27778e6407856cde738916",
-    "approximate_presence_count": 8218,
-    "approximate_member_count": 24180,
-    "premium_subscription_count": 45,
+    "banner": "d247eca71d7d9b3a6faae8a07f1546d0",
+    "approximate_presence_count": 5030,
+    "approximate_member_count": 24795,
+    "premium_subscription_count": 36,
     "preferred_locale": "ru",
     "vanity_url_code": "sweethouse",
     "keywords": [
+        "LoL",
+        "dota",
+        "valorant",
         "активный",
         "аниме",
         "дота",
         "ивенты",
         "игры",
         "мафия",
-        "смайлики",
         "сообщество"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -34,32 +37,35 @@
         "id": "890304318643785769",
         "name": "SweetNess",
         "description": "Ты устал читать об интересных и ламповых серверах? Тогда оставайся с нами, мы сможем тебя удивить!",
-        "icon": "a_22aae978423a0f139022a3ecda2ae79d",
-        "splash": "134662a2feab12ef56fa63077cc562f5",
-        "banner": "9581fd8e5c27778e6407856cde738916",
-        "approximate_presence_count": 8218,
-        "approximate_member_count": 24180,
-        "premium_subscription_count": 45,
+        "icon": "a_6f2c57e570ec90669749a5d5a3f27dc0",
+        "splash": "8c203aa9fb612c72be3de35e3334fc7f",
+        "banner": "d247eca71d7d9b3a6faae8a07f1546d0",
+        "approximate_presence_count": 5030,
+        "approximate_member_count": 24795,
+        "premium_subscription_count": 36,
         "preferred_locale": "ru",
         "auto_removed": false,
         "discovery_splash": "2fa77fc213dae238b122e648be4c725f",
         "primary_category_id": 14,
         "vanity_url_code": "sweethouse",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
+            "LoL",
+            "dota",
+            "valorant",
             "активный",
             "аниме",
             "дота",
             "ивенты",
             "игры",
             "мафия",
-            "смайлики",
             "сообщество"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -343,6 +349,21 @@
             },
             "keywords": [
                 {
+                    "value": "LoL",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "dota",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "valorant",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "активный",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -369,11 +390,6 @@
                 },
                 {
                     "value": "мафия",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "смайлики",
                     "matchLevel": "none",
                     "matchedWords": []
                 },

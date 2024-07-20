@@ -6,24 +6,27 @@
     "splash": "d4b185114da424ff31119705bd3aac97",
     "discovery_splash": "d4b185114da424ff31119705bd3aac97",
     "banner": "25a8d3c4a32f79b5413f073fb6947af2",
-    "approximate_presence_count": 699,
-    "approximate_member_count": 10028,
-    "premium_subscription_count": 1,
+    "approximate_presence_count": 775,
+    "approximate_member_count": 9583,
+    "premium_subscription_count": 14,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "quarantine",
     "keywords": [
-        "virus",
-        "covid19",
-        "covid",
         "coronavirusroblox",
+        "covid",
+        "covid19",
+        "military",
+        "milsim",
         "roblox",
-        "virusgame",
-        "tq"
+        "tq",
+        "virus",
+        "virusgame"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -36,28 +39,31 @@
         "icon": "ab6b126fe826ec8ad7fa88d55dd4f05d",
         "splash": "d4b185114da424ff31119705bd3aac97",
         "banner": "25a8d3c4a32f79b5413f073fb6947af2",
-        "approximate_presence_count": 699,
-        "approximate_member_count": 10028,
-        "premium_subscription_count": 1,
+        "approximate_presence_count": 775,
+        "approximate_member_count": 9583,
+        "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "d4b185114da424ff31119705bd3aac97",
         "primary_category_id": 1,
-        "vanity_url_code": null,
+        "vanity_url_code": "quarantine",
         "is_published": false,
         "keywords": [
-            "virus",
-            "covid19",
-            "covid",
             "coronavirusroblox",
+            "covid",
+            "covid19",
+            "military",
+            "milsim",
             "roblox",
-            "virusgame",
-            "tq"
+            "tq",
+            "virus",
+            "virusgame"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -149,14 +155,14 @@
                 "matchLevel": "none",
                 "matchedWords": []
             },
+            "vanity_url_code": {
+                "value": "quarantine",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
             "keywords": [
                 {
-                    "value": "virus",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "covid19",
+                    "value": "coronavirusroblox",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -166,7 +172,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "coronavirusroblox",
+                    "value": "covid19",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "military",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "milsim",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -176,12 +192,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "virusgame",
+                    "value": "tq",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "tq",
+                    "value": "virus",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "virusgame",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
