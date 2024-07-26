@@ -7,21 +7,21 @@
     "discovery_splash": "734b711fbc8d19980daaf6414be0f857",
     "banner": "cb2e653b514102c546a4483dafab7ea3",
     "approximate_presence_count": 108,
-    "approximate_member_count": 2081,
+    "approximate_member_count": 2146,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "evo-pes-addict-s-gaming-clan-851471046334480394",
     "keywords": [
+        "console",
         "efootball",
-        "youtube",
-        "tournaments",
+        "efootball-mobile",
+        "efootball-pes",
         "esports",
         "memes",
         "mobile",
-        "console",
-        "efootball-mobile",
         "pes",
-        "efootball-pes"
+        "tournaments",
+        "youtube"
     ],
     "features": [
         "COMMUNITY",
@@ -41,7 +41,7 @@
         "splash": "12d3725aaba94049b62d75282a2cce56",
         "banner": "cb2e653b514102c546a4483dafab7ea3",
         "approximate_presence_count": 108,
-        "approximate_member_count": 2081,
+        "approximate_member_count": 2146,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -50,16 +50,16 @@
         "vanity_url_code": "evo-pes-addict-s-gaming-clan-851471046334480394",
         "is_published": true,
         "keywords": [
+            "console",
             "efootball",
-            "youtube",
-            "tournaments",
+            "efootball-mobile",
+            "efootball-pes",
             "esports",
             "memes",
             "mobile",
-            "console",
-            "efootball-mobile",
             "pes",
-            "efootball-pes"
+            "tournaments",
+            "youtube"
         ],
         "features": [
             "COMMUNITY",
@@ -285,17 +285,22 @@
             },
             "keywords": [
                 {
+                    "value": "console",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "efootball",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "youtube",
+                    "value": "efootball-mobile",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "tournaments",
+                    "value": "efootball-pes",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -315,22 +320,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "console",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "efootball-mobile",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "pes",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "efootball-pes",
+                    "value": "tournaments",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "youtube",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

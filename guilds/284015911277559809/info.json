@@ -1,25 +1,25 @@
 {
     "id": "284015911277559809",
     "name": "ColdFox",
-    "description": "",
-    "icon": "31e8fda109485b97c1a2d267a568373c",
-    "splash": null,
+    "description": "O objetivo da ColdFox é promover a jogatina em comunidade de forma divertida e as vezes competitiva, todos são bemvindos",
+    "icon": "a_3fdf9f2a01da3d9f33fcb958edfd17da",
+    "splash": "584f150add605e0852a3cf6deaefa758",
     "discovery_splash": null,
-    "banner": null,
-    "approximate_presence_count": 181,
-    "approximate_member_count": 2813,
-    "premium_subscription_count": 0,
+    "banner": "3347b0a15c830d2a0ce84df6de0a4085",
+    "approximate_presence_count": 182,
+    "approximate_member_count": 2816,
+    "premium_subscription_count": 3,
     "preferred_locale": "pt-BR",
     "vanity_url_code": null,
     "keywords": [
-        "dota2",
-        "esports",
         "csgo",
-        "rts",
-        "moba",
-        "jogos",
-        "games",
+        "dota2",
         "e-sports",
+        "esports",
+        "games",
+        "jogos",
+        "moba",
+        "rts",
         "twitch",
         "youtube"
     ],
@@ -35,13 +35,13 @@
     "raw": {
         "id": "284015911277559809",
         "name": "ColdFox",
-        "description": "",
-        "icon": "31e8fda109485b97c1a2d267a568373c",
-        "splash": null,
-        "banner": null,
-        "approximate_presence_count": 181,
-        "approximate_member_count": 2813,
-        "premium_subscription_count": 0,
+        "description": "O objetivo da ColdFox é promover a jogatina em comunidade de forma divertida e as vezes competitiva, todos são bemvindos",
+        "icon": "a_3fdf9f2a01da3d9f33fcb958edfd17da",
+        "splash": "584f150add605e0852a3cf6deaefa758",
+        "banner": "3347b0a15c830d2a0ce84df6de0a4085",
+        "approximate_presence_count": 182,
+        "approximate_member_count": 2816,
+        "premium_subscription_count": 3,
         "preferred_locale": "pt-BR",
         "auto_removed": false,
         "discovery_splash": null,
@@ -49,14 +49,14 @@
         "vanity_url_code": null,
         "is_published": false,
         "keywords": [
-            "dota2",
-            "esports",
             "csgo",
-            "rts",
-            "moba",
-            "jogos",
-            "games",
+            "dota2",
             "e-sports",
+            "esports",
+            "games",
+            "jogos",
+            "moba",
+            "rts",
             "twitch",
             "youtube"
         ],
@@ -336,13 +336,23 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "",
+                "value": "O objetivo da ColdFox é promover a jogatina em comunidade de forma divertida e as vezes competitiva, todos são bemvindos",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
                 {
+                    "value": "csgo",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "dota2",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "e-sports",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -352,17 +362,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "csgo",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "rts",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "moba",
+                    "value": "games",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -372,12 +372,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "games",
+                    "value": "moba",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "e-sports",
+                    "value": "rts",
                     "matchLevel": "none",
                     "matchedWords": []
                 },

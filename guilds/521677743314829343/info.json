@@ -1,25 +1,25 @@
 {
     "id": "521677743314829343",
     "name": "Fantasy Take TV",
-    "description": "Fantasy Take TV server to discuss all things SuperCoach and more!",
+    "description": "Competitive community discussing all things SuperCoach as well as AFL Fantasy, Dreamteam and more!",
     "icon": "38589db25678b3eb179f466e988f6c08",
-    "splash": "03dce687f0b4ef7c5ac9806907e61439",
-    "discovery_splash": null,
-    "banner": "0d61e88c841c029f963ec9bea5c9ed2c",
-    "approximate_presence_count": 135,
-    "approximate_member_count": 2707,
-    "premium_subscription_count": 16,
+    "splash": "2c17884488a0e764eb9177d1aecf4b36",
+    "discovery_splash": "c56b5b3bcca4793f389d9f6b5a00d2e9",
+    "banner": "a_c62875909de4b86db7c4a2c97eea2332",
+    "approximate_presence_count": 176,
+    "approximate_member_count": 3291,
+    "premium_subscription_count": 14,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "fantasy-take-tv-521677743314829343",
     "keywords": [
         "afl",
-        "supercoach",
-        "fantasy",
-        "nfl",
         "bbl",
-        "fpl",
+        "fantasy",
+        "football",
         "footy",
-        "football"
+        "fpl",
+        "nfl",
+        "supercoach"
     ],
     "features": [
         "COMMUNITY",
@@ -34,28 +34,28 @@
     "raw": {
         "id": "521677743314829343",
         "name": "Fantasy Take TV",
-        "description": "Fantasy Take TV server to discuss all things SuperCoach and more!",
+        "description": "Competitive community discussing all things SuperCoach as well as AFL Fantasy, Dreamteam and more!",
         "icon": "38589db25678b3eb179f466e988f6c08",
-        "splash": "03dce687f0b4ef7c5ac9806907e61439",
-        "banner": "0d61e88c841c029f963ec9bea5c9ed2c",
-        "approximate_presence_count": 135,
-        "approximate_member_count": 2707,
-        "premium_subscription_count": 16,
+        "splash": "2c17884488a0e764eb9177d1aecf4b36",
+        "banner": "a_c62875909de4b86db7c4a2c97eea2332",
+        "approximate_presence_count": 176,
+        "approximate_member_count": 3291,
+        "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "c56b5b3bcca4793f389d9f6b5a00d2e9",
         "primary_category_id": 7,
-        "vanity_url_code": null,
+        "vanity_url_code": "fantasy-take-tv-521677743314829343",
         "is_published": false,
         "keywords": [
             "afl",
-            "supercoach",
-            "fantasy",
-            "nfl",
             "bbl",
-            "fpl",
+            "fantasy",
+            "football",
             "footy",
-            "football"
+            "fpl",
+            "nfl",
+            "supercoach"
         ],
         "features": [
             "COMMUNITY",
@@ -66,6 +66,16 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 23,
+                "is_primary": false,
+                "name": "Podcasts",
+                "name_localizations": {
+                    "de": "Podcasts",
+                    "fr": "Podcasts",
+                    "ru": "Подкасты"
+                }
+            },
             {
                 "id": 35,
                 "is_primary": false,
@@ -104,16 +114,6 @@
                 }
             },
             {
-                "id": 23,
-                "is_primary": false,
-                "name": "Podcasts",
-                "name_localizations": {
-                    "de": "Podcasts",
-                    "fr": "Podcasts",
-                    "ru": "Подкасты"
-                }
-            },
-            {
                 "id": 7,
                 "is_primary": true,
                 "name": "Sports",
@@ -142,7 +142,12 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Fantasy Take TV server to discuss all things SuperCoach and more!",
+                "value": "Competitive community discussing all things SuperCoach as well as AFL Fantasy, Dreamteam and more!",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "fantasy-take-tv-521677743314829343",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -153,7 +158,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "supercoach",
+                    "value": "bbl",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -163,17 +168,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "nfl",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "bbl",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "fpl",
+                    "value": "football",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -183,12 +178,41 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "football",
+                    "value": "fpl",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "nfl",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "supercoach",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Podcasts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Подкасты",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -338,25 +362,6 @@
                         },
                         "zh-TW": {
                             "value": "內容創作者",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Podcasts",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Подкасты",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

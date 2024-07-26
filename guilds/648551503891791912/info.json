@@ -1,18 +1,21 @@
 {
     "id": "648551503891791912",
     "name": "Signtunes",
-    "description": "Because revokes simply suck. SignTunes is the #1 Signing Service for iPhone, iPad, Mac, and Apple TV",
+    "description": "Install unlimited apps! Signtunes is the #1 App Store for iPhone, iPad, Mac, and Apple TV",
     "icon": "7d285360331459bfdd22f0460a7efc80",
     "splash": "7a420e07b2eb2dbc3612194c49c469ea",
     "discovery_splash": "7fda9c84e47afc97aeae95fe73d67ea9",
     "banner": null,
-    "approximate_presence_count": 142,
-    "approximate_member_count": 2657,
-    "premium_subscription_count": 1,
+    "approximate_presence_count": 134,
+    "approximate_member_count": 3006,
+    "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "signtunes-648551503891791912",
     "keywords": [
+        "app",
+        "app store",
         "apple",
+        "apps",
         "ios",
         "ipad",
         "iphone",
@@ -24,6 +27,7 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -32,13 +36,13 @@
     "raw": {
         "id": "648551503891791912",
         "name": "Signtunes",
-        "description": "Because revokes simply suck. SignTunes is the #1 Signing Service for iPhone, iPad, Mac, and Apple TV",
+        "description": "Install unlimited apps! Signtunes is the #1 App Store for iPhone, iPad, Mac, and Apple TV",
         "icon": "7d285360331459bfdd22f0460a7efc80",
         "splash": "7a420e07b2eb2dbc3612194c49c469ea",
         "banner": null,
-        "approximate_presence_count": 142,
-        "approximate_member_count": 2657,
-        "premium_subscription_count": 1,
+        "approximate_presence_count": 134,
+        "approximate_member_count": 3006,
+        "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "7fda9c84e47afc97aeae95fe73d67ea9",
@@ -46,7 +50,10 @@
         "vanity_url_code": "signtunes-648551503891791912",
         "is_published": true,
         "keywords": [
+            "app",
+            "app store",
             "apple",
+            "apps",
             "ios",
             "ipad",
             "iphone",
@@ -58,6 +65,7 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -219,7 +227,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Because revokes simply suck. SignTunes is the #1 Signing Service for iPhone, iPad, Mac, and Apple TV",
+                "value": "Install unlimited apps! Signtunes is the #1 App Store for iPhone, iPad, Mac, and Apple TV",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -230,7 +238,22 @@
             },
             "keywords": [
                 {
+                    "value": "app",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "app store",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "apple",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "apps",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
