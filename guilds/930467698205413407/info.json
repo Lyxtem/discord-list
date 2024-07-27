@@ -3,19 +3,19 @@
     "name": "SoulSniper's Soldiers of Fortune",
     "description": "SoulSniper's Official Community Server.  Laid-back gamers primarily focused on tactical shooters like Hell Let Loose.",
     "icon": "a_af6f2783cb0d51e86001a8a3d2d59acf",
-    "splash": "20ba7cd01f4a742cbe5c02367c382973",
+    "splash": "83908b534aebafd09b9e9e88c31e4f8b",
     "discovery_splash": "a9357d49d90039be15bb5296084edeca",
     "banner": "49c9d83c56061c8cc4fa14f70a753ad3",
-    "approximate_presence_count": 2087,
-    "approximate_member_count": 7277,
+    "approximate_presence_count": 2030,
+    "approximate_member_count": 7347,
     "premium_subscription_count": 37,
     "preferred_locale": "en-US",
     "vanity_url_code": "soulsniper",
     "keywords": [
-        "youtube",
-        "soulsniper",
         "hellletloose",
-        "hll"
+        "hll",
+        "soulsniper",
+        "youtube"
     ],
     "features": [
         "COMMUNITY",
@@ -31,10 +31,10 @@
         "name": "SoulSniper's Soldiers of Fortune",
         "description": "SoulSniper's Official Community Server.  Laid-back gamers primarily focused on tactical shooters like Hell Let Loose.",
         "icon": "a_af6f2783cb0d51e86001a8a3d2d59acf",
-        "splash": "20ba7cd01f4a742cbe5c02367c382973",
+        "splash": "83908b534aebafd09b9e9e88c31e4f8b",
         "banner": "49c9d83c56061c8cc4fa14f70a753ad3",
-        "approximate_presence_count": 2087,
-        "approximate_member_count": 7277,
+        "approximate_presence_count": 2030,
+        "approximate_member_count": 7347,
         "premium_subscription_count": 37,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -43,10 +43,10 @@
         "vanity_url_code": "soulsniper",
         "is_published": true,
         "keywords": [
-            "youtube",
-            "soulsniper",
             "hellletloose",
-            "hll"
+            "hll",
+            "soulsniper",
+            "youtube"
         ],
         "features": [
             "COMMUNITY",
@@ -298,7 +298,12 @@
             },
             "keywords": [
                 {
-                    "value": "youtube",
+                    "value": "hellletloose",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "hll",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -308,12 +313,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "hellletloose",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "hll",
+                    "value": "youtube",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

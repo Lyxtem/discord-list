@@ -6,25 +6,26 @@
     "splash": "e4221937dae0f4a4d7e6c6bd6145736f",
     "discovery_splash": "582cb32e18267e91c7d945490f52c4d0",
     "banner": "1f676705172d5fa1120e48ae8eb25bae",
-    "approximate_presence_count": 1497,
-    "approximate_member_count": 12769,
-    "premium_subscription_count": 6,
+    "approximate_presence_count": 1233,
+    "approximate_member_count": 13242,
+    "premium_subscription_count": 5,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "microsoft-interns-new-grads-fte-unofficial-630628577091518494",
     "keywords": [
-        "microsoft",
-        "intern",
-        "grad",
-        "fte",
         "events",
+        "fte",
+        "grad",
         "hangout",
-        "social",
-        "networking"
+        "intern",
+        "microsoft",
+        "networking",
+        "social"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -37,29 +38,30 @@
         "icon": "a_025c8eaf8c5800aa8348eb38402ad399",
         "splash": "e4221937dae0f4a4d7e6c6bd6145736f",
         "banner": "1f676705172d5fa1120e48ae8eb25bae",
-        "approximate_presence_count": 1497,
-        "approximate_member_count": 12769,
-        "premium_subscription_count": 6,
+        "approximate_presence_count": 1233,
+        "approximate_member_count": 13242,
+        "premium_subscription_count": 5,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "582cb32e18267e91c7d945490f52c4d0",
         "primary_category_id": 5,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "microsoft-interns-new-grads-fte-unofficial-630628577091518494",
+        "is_published": true,
         "keywords": [
-            "microsoft",
-            "intern",
-            "grad",
-            "fte",
             "events",
+            "fte",
+            "grad",
             "hangout",
-            "social",
-            "networking"
+            "intern",
+            "microsoft",
+            "networking",
+            "social"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -336,19 +338,14 @@
                 "matchLevel": "none",
                 "matchedWords": []
             },
+            "vanity_url_code": {
+                "value": "microsoft-interns-new-grads-fte-unofficial-630628577091518494",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
             "keywords": [
                 {
-                    "value": "microsoft",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "intern",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "grad",
+                    "value": "events",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -358,7 +355,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "events",
+                    "value": "grad",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -368,12 +365,22 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "social",
+                    "value": "intern",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "microsoft",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "networking",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "social",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
