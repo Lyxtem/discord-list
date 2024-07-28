@@ -2,15 +2,15 @@
     "id": "810621029856182294",
     "name": "DIRK SCRIPTS",
     "description": "",
-    "icon": "02d9be0aefa937c6e07d774215ad5e82",
+    "icon": "2588fbf2a902138e91cec8ee8a11b37e",
     "splash": "a3f033c3fc4f2f1ef0a3a4352c3f6225",
     "discovery_splash": "a3f033c3fc4f2f1ef0a3a4352c3f6225",
     "banner": "e2758cdf0fdc4635d091632d30e24d05",
-    "approximate_presence_count": 1941,
-    "approximate_member_count": 4373,
-    "premium_subscription_count": 12,
+    "approximate_presence_count": 1626,
+    "approximate_member_count": 4154,
+    "premium_subscription_count": 15,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "dirkscripts",
     "keywords": [
         "cfx",
         "fivem",
@@ -24,6 +24,7 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED"
     ],
     "partnered": false,
@@ -32,17 +33,17 @@
         "id": "810621029856182294",
         "name": "DIRK SCRIPTS",
         "description": "",
-        "icon": "02d9be0aefa937c6e07d774215ad5e82",
+        "icon": "2588fbf2a902138e91cec8ee8a11b37e",
         "splash": "a3f033c3fc4f2f1ef0a3a4352c3f6225",
         "banner": "e2758cdf0fdc4635d091632d30e24d05",
-        "approximate_presence_count": 1941,
-        "approximate_member_count": 4373,
-        "premium_subscription_count": 12,
+        "approximate_presence_count": 1626,
+        "approximate_member_count": 4154,
+        "premium_subscription_count": 15,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "a3f033c3fc4f2f1ef0a3a4352c3f6225",
         "primary_category_id": 1,
-        "vanity_url_code": null,
+        "vanity_url_code": "dirkscripts",
         "is_published": false,
         "keywords": [
             "cfx",
@@ -57,6 +58,7 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED"
         ],
         "categories": [
@@ -181,6 +183,11 @@
             },
             "description": {
                 "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "dirkscripts",
                 "matchLevel": "none",
                 "matchedWords": []
             },

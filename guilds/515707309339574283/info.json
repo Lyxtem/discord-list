@@ -2,39 +2,23 @@
     "id": "515707309339574283",
     "name": "The Jay D. Family",
     "description": "",
-    "icon": "d554380c16c4b910ca5d31599f5af46a",
+    "icon": "ad6ae9201b571e56f025ce138d0678cc",
     "splash": "dcec99c9881f4715c753caa8bb1d80f1",
     "discovery_splash": "ca2fc59dc7d597b60cf2beadee69e412",
     "banner": "a2e7c09c4628d7abd1311f0077c6602d",
-    "approximate_presence_count": 320,
-    "approximate_member_count": 2266,
-    "premium_subscription_count": 12,
+    "approximate_presence_count": 943,
+    "approximate_member_count": 4595,
+    "premium_subscription_count": 14,
     "preferred_locale": "en-US",
     "vanity_url_code": "jaydfamily",
     "keywords": [],
     "features": [
-        "ANIMATED_ICON",
-        "AUTO_MODERATION",
-        "BANNER",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "INVITE_SPLASH",
-        "MEMBER_PROFILES",
-        "NEWS",
-        "NEW_THREAD_PERMISSIONS",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PARTNERED",
         "PREVIEW_ENABLED",
-        "PRIVATE_THREADS",
-        "ROLE_ICONS",
-        "SEVEN_DAY_THREAD_ARCHIVE",
-        "SOUNDBOARD",
-        "TEXT_IN_VOICE_ENABLED",
-        "THREADS_ENABLED",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
-        "VIP_REGIONS",
         "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": true,
@@ -43,12 +27,12 @@
         "id": "515707309339574283",
         "name": "The Jay D. Family",
         "description": "",
-        "icon": "d554380c16c4b910ca5d31599f5af46a",
+        "icon": "ad6ae9201b571e56f025ce138d0678cc",
         "splash": "dcec99c9881f4715c753caa8bb1d80f1",
         "banner": "a2e7c09c4628d7abd1311f0077c6602d",
-        "approximate_presence_count": 320,
-        "approximate_member_count": 2266,
-        "premium_subscription_count": 12,
+        "approximate_presence_count": 943,
+        "approximate_member_count": 4595,
+        "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "ca2fc59dc7d597b60cf2beadee69e412",
@@ -57,29 +41,45 @@
         "is_published": false,
         "keywords": [],
         "features": [
-            "ANIMATED_ICON",
-            "AUTO_MODERATION",
-            "BANNER",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "INVITE_SPLASH",
-            "MEMBER_PROFILES",
-            "NEWS",
-            "NEW_THREAD_PERMISSIONS",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PARTNERED",
             "PREVIEW_ENABLED",
-            "PRIVATE_THREADS",
-            "ROLE_ICONS",
-            "SEVEN_DAY_THREAD_ARCHIVE",
-            "SOUNDBOARD",
-            "TEXT_IN_VOICE_ENABLED",
-            "THREADS_ENABLED",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
-            "VIP_REGIONS",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "515707309339574283",
+        "_highlightResult": {
+            "name": {
+                "value": "The Jay D. Family",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "jaydfamily",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }
