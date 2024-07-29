@@ -6,22 +6,17 @@
     "splash": "eec960638227c4059e2a9e1b339fdfaa",
     "discovery_splash": "eec960638227c4059e2a9e1b339fdfaa",
     "banner": null,
-    "approximate_presence_count": 24,
-    "approximate_member_count": 1723,
-    "premium_subscription_count": 1,
+    "approximate_presence_count": 42,
+    "approximate_member_count": 1609,
+    "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "elvesvsdwarves",
     "keywords": null,
     "features": [
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
         "DISCOVERABLE",
         "FEATURABLE",
-        "INVITE_SPLASH",
-        "NEWS",
         "PREVIEW_ENABLED",
-        "THREADS_ENABLED",
-        "VANITY_URL",
         "VERIFIED"
     ],
     "partnered": false,
@@ -33,9 +28,9 @@
         "icon": "026ae69ab42b0160b64a3da07575a112",
         "splash": "eec960638227c4059e2a9e1b339fdfaa",
         "banner": null,
-        "approximate_presence_count": 24,
-        "approximate_member_count": 1723,
-        "premium_subscription_count": 1,
+        "approximate_presence_count": 42,
+        "approximate_member_count": 1609,
+        "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "eec960638227c4059e2a9e1b339fdfaa",
@@ -44,16 +39,43 @@
         "is_published": false,
         "keywords": null,
         "features": [
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
             "DISCOVERABLE",
             "FEATURABLE",
-            "INVITE_SPLASH",
-            "NEWS",
             "PREVIEW_ENABLED",
-            "THREADS_ENABLED",
-            "VANITY_URL",
             "VERIFIED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "454083719569866752",
+        "_highlightResult": {
+            "name": {
+                "value": "Elves Vs. Dwarves Official",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "The Official Discord for DECA's Elves Vs. Dwarves Mobile Game.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "elvesvsdwarves",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }
