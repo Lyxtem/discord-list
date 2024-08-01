@@ -6,22 +6,18 @@
     "splash": "39fd3af8cc54ed7d2d97844356621974",
     "discovery_splash": "39fd3af8cc54ed7d2d97844356621974",
     "banner": null,
-    "approximate_presence_count": 53,
-    "approximate_member_count": 656,
+    "approximate_presence_count": 48,
+    "approximate_member_count": 578,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "eslnewstate",
     "keywords": [],
     "features": [
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "INVITE_SPLASH",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "NEWS",
         "PREVIEW_ENABLED",
-        "VANITY_URL",
         "VERIFIED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -34,8 +30,8 @@
         "icon": "cb48c1c5800ea86d8fd65cf5d4dee6f0",
         "splash": "39fd3af8cc54ed7d2d97844356621974",
         "banner": null,
-        "approximate_presence_count": 53,
-        "approximate_member_count": 656,
+        "approximate_presence_count": 48,
+        "approximate_member_count": 578,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -45,17 +41,45 @@
         "is_published": false,
         "keywords": [],
         "features": [
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "INVITE_SPLASH",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "NEWS",
             "PREVIEW_ENABLED",
-            "VANITY_URL",
             "VERIFIED",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "948573685206351872",
+        "_highlightResult": {
+            "name": {
+                "value": "ESL NEW STATE MOBILE",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "eslnewstate",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }
