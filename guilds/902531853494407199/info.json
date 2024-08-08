@@ -1,14 +1,14 @@
 {
     "id": "902531853494407199",
-    "name": "Yannicklp1 Team Noobz [FR]",
-    "description": "Serveur Fr officiel Roblox de la Team Noobz [Tout les jeux compris hors Roblox] Multi-gaming+streaming ici on fait tout",
-    "icon": "5da1fb97834b4af934c4e2204a636798",
+    "name": "Yannicklp1 [FR]",
+    "description": "Serveur Fr officiel de Yannicklp1 serveur de discussion communautaire.",
+    "icon": "facfe86395cddd6cce6d829c41112db9",
     "splash": "94c99c85f2a0d9763d6195bc541ed8e2",
     "discovery_splash": "05733975e7d81e75defd7c40a90b7db1",
     "banner": null,
-    "approximate_presence_count": 291,
-    "approximate_member_count": 1824,
-    "premium_subscription_count": 2,
+    "approximate_presence_count": 1223,
+    "approximate_member_count": 12410,
+    "premium_subscription_count": 0,
     "preferred_locale": "fr",
     "vanity_url_code": "yannicklp1-team-noobz-fr-902531853494407199",
     "keywords": [
@@ -16,10 +16,7 @@
         "français",
         "gaming",
         "roblox",
-        "robux",
         "streaming",
-        "team-noobz",
-        "teamnoobz",
         "video",
         "youtube"
     ],
@@ -28,36 +25,32 @@
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "PREVIEW_ENABLED",
-        "WELCOME_SCREEN_ENABLED"
+        "PREVIEW_ENABLED"
     ],
     "partnered": false,
     "verified": false,
     "raw": {
         "id": "902531853494407199",
-        "name": "Yannicklp1 Team Noobz [FR]",
-        "description": "Serveur Fr officiel Roblox de la Team Noobz [Tout les jeux compris hors Roblox] Multi-gaming+streaming ici on fait tout",
-        "icon": "5da1fb97834b4af934c4e2204a636798",
+        "name": "Yannicklp1 [FR]",
+        "description": "Serveur Fr officiel de Yannicklp1 serveur de discussion communautaire.",
+        "icon": "facfe86395cddd6cce6d829c41112db9",
         "splash": "94c99c85f2a0d9763d6195bc541ed8e2",
         "banner": null,
-        "approximate_presence_count": 291,
-        "approximate_member_count": 1824,
-        "premium_subscription_count": 2,
+        "approximate_presence_count": 1223,
+        "approximate_member_count": 12410,
+        "premium_subscription_count": 0,
         "preferred_locale": "fr",
         "auto_removed": false,
         "discovery_splash": "05733975e7d81e75defd7c40a90b7db1",
         "primary_category_id": 1,
         "vanity_url_code": "yannicklp1-team-noobz-fr-902531853494407199",
-        "is_published": true,
+        "is_published": false,
         "keywords": [
             "fr",
             "français",
             "gaming",
             "roblox",
-            "robux",
             "streaming",
-            "team-noobz",
-            "teamnoobz",
             "video",
             "youtube"
         ],
@@ -66,10 +59,19 @@
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "PREVIEW_ENABLED",
-            "WELCOME_SCREEN_ENABLED"
+            "PREVIEW_ENABLED"
         ],
         "categories": [
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
             {
                 "id": 25,
                 "is_primary": false,
@@ -105,16 +107,6 @@
                     "sv-SE": "Memes",
                     "zh-CN": "表情包",
                     "zh-TW": "迷因"
-                }
-            },
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
                 }
             },
             {
@@ -269,12 +261,12 @@
         "objectID": "902531853494407199",
         "_highlightResult": {
             "name": {
-                "value": "Yannicklp1 Team Noobz [FR]",
+                "value": "Yannicklp1 [FR]",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "description": {
-                "value": "Serveur Fr officiel Roblox de la Team Noobz [Tout les jeux compris hors Roblox] Multi-gaming+streaming ici on fait tout",
+                "value": "Serveur Fr officiel de Yannicklp1 serveur de discussion communautaire.",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -305,22 +297,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "robux",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "streaming",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "team-noobz",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "teamnoobz",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -336,6 +313,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -485,25 +481,6 @@
                         },
                         "zh-TW": {
                             "value": "迷因",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

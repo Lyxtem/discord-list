@@ -1,25 +1,22 @@
 {
     "id": "509349555507036160",
-    "name": "Street Organization | ST",
-    "description": "Street Organization - организация, продвигающая киберспорт в \"Standoff 2\". С нами ты можешь продвинуть себя и команду!",
-    "icon": "980438ae5e3527bf539fe50d0f75d994",
-    "splash": "df00b4ceee65d921f509bf873570b7c6",
-    "discovery_splash": "de25db110bde5176f5b82aae958ead3a",
-    "banner": "93c06f5bbbc098284e5cf32840855913",
-    "approximate_presence_count": 675,
-    "approximate_member_count": 11759,
-    "premium_subscription_count": 2,
+    "name": "ASTRA・ PROJECT",
+    "description": "ASTRA - турнирная организация по Standoff 2. Участвуйте в крупных турнирах, получайте тир и статистику на нашем сайте!",
+    "icon": "177c10adbff3aa00fb052d9cb9afcbcc",
+    "splash": "2d543e69c916f2d54843bfe699961f80",
+    "discovery_splash": "3c034b20b8c5d8f54c555354d2b0f0ff",
+    "banner": "9c0f1c622bbc3b7a3bd32af00828bb77",
+    "approximate_presence_count": 364,
+    "approximate_member_count": 10799,
+    "premium_subscription_count": 15,
     "preferred_locale": "ru",
-    "vanity_url_code": "street-tournament-organization-sto-509349555507036160",
+    "vanity_url_code": "astraproject",
     "keywords": [
         "CyberSport",
-        "S",
-        "So",
         "Standoff 2",
-        "Sto",
-        "Street",
-        "Street",
-        "Street Organization",
+        "XTO",
+        "Xenialst Organisation",
+        "Xenialts",
         "Киберспорт",
         "Стандофф 2"
     ],
@@ -27,36 +24,32 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "PREVIEW_ENABLED",
-        "WELCOME_SCREEN_ENABLED"
+        "PREVIEW_ENABLED"
     ],
     "partnered": false,
     "verified": false,
     "raw": {
         "id": "509349555507036160",
-        "name": "Street Organization | ST",
-        "description": "Street Organization - организация, продвигающая киберспорт в \"Standoff 2\". С нами ты можешь продвинуть себя и команду!",
-        "icon": "980438ae5e3527bf539fe50d0f75d994",
-        "splash": "df00b4ceee65d921f509bf873570b7c6",
-        "banner": "93c06f5bbbc098284e5cf32840855913",
-        "approximate_presence_count": 675,
-        "approximate_member_count": 11759,
-        "premium_subscription_count": 2,
+        "name": "ASTRA・ PROJECT",
+        "description": "ASTRA - турнирная организация по Standoff 2. Участвуйте в крупных турнирах, получайте тир и статистику на нашем сайте!",
+        "icon": "177c10adbff3aa00fb052d9cb9afcbcc",
+        "splash": "2d543e69c916f2d54843bfe699961f80",
+        "banner": "9c0f1c622bbc3b7a3bd32af00828bb77",
+        "approximate_presence_count": 364,
+        "approximate_member_count": 10799,
+        "premium_subscription_count": 15,
         "preferred_locale": "ru",
         "auto_removed": false,
-        "discovery_splash": "de25db110bde5176f5b82aae958ead3a",
+        "discovery_splash": "3c034b20b8c5d8f54c555354d2b0f0ff",
         "primary_category_id": 1,
-        "vanity_url_code": "street-tournament-organization-sto-509349555507036160",
-        "is_published": true,
+        "vanity_url_code": "astraproject",
+        "is_published": false,
         "keywords": [
             "CyberSport",
-            "S",
-            "So",
             "Standoff 2",
-            "Sto",
-            "Street",
-            "Street",
-            "Street Organization",
+            "XTO",
+            "Xenialst Organisation",
+            "Xenialts",
             "Киберспорт",
             "Стандофф 2"
         ],
@@ -64,10 +57,56 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "PREVIEW_ENABLED",
-            "WELCOME_SCREEN_ENABLED"
+            "PREVIEW_ENABLED"
         ],
         "categories": [
+            {
+                "id": 15,
+                "is_primary": false,
+                "name": "Esports",
+                "name_localizations": {
+                    "bg": "Електронни спортове",
+                    "cs": "Esport",
+                    "da": "Esport",
+                    "de": "E-Sports",
+                    "el": "Esports",
+                    "fi": "Esports",
+                    "fr": "eSport",
+                    "hi": "ईस्पोर्ट्स",
+                    "hr": "E-sport",
+                    "hu": "E-sport",
+                    "it": "Esport",
+                    "ja": "eスポーツ",
+                    "ko": "이스포츠",
+                    "lt": "E. sportas",
+                    "nl": "E-sport",
+                    "no": "E-sport",
+                    "pl": "E-sport",
+                    "ro": "eSports",
+                    "ru": "Киберспорт",
+                    "th": "อีสปอร์ต",
+                    "tr": "E-spor",
+                    "uk": "Електронний спорт",
+                    "vi": "Thể Thao Điện Tử",
+                    "en-GB": "Esports",
+                    "en-US": "Esports",
+                    "es-ES": "E-sports",
+                    "pt-BR": "E-sports",
+                    "sv-SE": "E-sport",
+                    "zh-CN": "电子竞技",
+                    "zh-TW": "電競"
+                }
+            },
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
             {
                 "id": 45,
                 "is_primary": false,
@@ -183,17 +222,17 @@
         "objectID": "509349555507036160",
         "_highlightResult": {
             "name": {
-                "value": "Street Organization | ST",
+                "value": "ASTRA・ PROJECT",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "description": {
-                "value": "Street Organization - организация, продвигающая киберспорт в \"Standoff 2\". С нами ты можешь продвинуть себя и команду!",
+                "value": "ASTRA - турнирная организация по Standoff 2. Участвуйте в крупных турнирах, получайте тир и статистику на нашем сайте!",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "vanity_url_code": {
-                "value": "street-tournament-organization-sto-509349555507036160",
+                "value": "astraproject",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -204,37 +243,22 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "S",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "So",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "Standoff 2",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "Sto",
+                    "value": "XTO",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "Street",
+                    "value": "Xenialst Organisation",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "Street",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "Street Organization",
+                    "value": "Xenialts",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -250,6 +274,179 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Електронни спортове",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Esport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Esport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "E-Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Esports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Esports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "eSport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "ईस्पोर्ट्स",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "E-sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "E-sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Esport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "eスポーツ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "이스포츠",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "E. sportas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "E-sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "E-sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "E-sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "eSports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Киберспорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "อีสปอร์ต",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "E-spor",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Електронний спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Thể Thao Điện Tử",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Esports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Esports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "E-sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "E-sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "E-sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "电子竞技",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "電競",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {

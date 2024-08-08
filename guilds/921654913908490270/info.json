@@ -1,32 +1,30 @@
 {
     "id": "921654913908490270",
-    "name": "FRW SNG",
-    "description": "Сервер по многим играм, роблоксу и трейдам! Приветствуем русскоязычную и украиноязычную аудиторию.",
-    "icon": "6e671d5bc6036d74acf191d5030be557",
-    "splash": "55003c4d4edd0c735d1d4963674f1506",
-    "discovery_splash": "bec7a244920fee9969efaf6122b392b2",
-    "banner": "5a1ef6038e0ac75e7119599a7964ebb9",
-    "approximate_presence_count": 538,
-    "approximate_member_count": 7940,
-    "premium_subscription_count": 0,
+    "name": "Discord Founder's",
+    "description": "- Данное сообщество создано для людей увлечённых Discord и занимающимися развитием платформы.",
+    "icon": "8ef407fc5b84bc129009bee1181c9208",
+    "splash": "0b0c0d8a976b4ddb5c9f2a1fdf0f6248",
+    "discovery_splash": "fc8c4b16ba7465bc51d19450163b8ba3",
+    "banner": "f81002704adf0f2b27f9d992783de04f",
+    "approximate_presence_count": 199,
+    "approximate_member_count": 6035,
+    "premium_subscription_count": 5,
     "preferred_locale": "ru",
-    "vanity_url_code": "rb-aniplays-sng-921654913908490270",
+    "vanity_url_code": "discord-founder-s-921654913908490270",
     "keywords": [
-        "roblox",
+        "bot",
+        "dd",
+        "discord",
+        "founders",
         "russian",
-        "ukrainian",
-        "anime",
-        "yba",
-        "gpo",
-        "blox fruit",
-        "gam",
-        "game",
-        "games"
+        "server",
+        "wiki"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -34,283 +32,333 @@
     "verified": false,
     "raw": {
         "id": "921654913908490270",
-        "name": "FRW SNG",
-        "description": "Сервер по многим играм, роблоксу и трейдам! Приветствуем русскоязычную и украиноязычную аудиторию.",
-        "icon": "6e671d5bc6036d74acf191d5030be557",
-        "splash": "55003c4d4edd0c735d1d4963674f1506",
-        "banner": "5a1ef6038e0ac75e7119599a7964ebb9",
-        "approximate_presence_count": 538,
-        "approximate_member_count": 7940,
-        "premium_subscription_count": 0,
+        "name": "Discord Founder's",
+        "description": "- Данное сообщество создано для людей увлечённых Discord и занимающимися развитием платформы.",
+        "icon": "8ef407fc5b84bc129009bee1181c9208",
+        "splash": "0b0c0d8a976b4ddb5c9f2a1fdf0f6248",
+        "banner": "f81002704adf0f2b27f9d992783de04f",
+        "approximate_presence_count": 199,
+        "approximate_member_count": 6035,
+        "premium_subscription_count": 5,
         "preferred_locale": "ru",
         "auto_removed": false,
-        "discovery_splash": "bec7a244920fee9969efaf6122b392b2",
-        "primary_category_id": 1,
-        "vanity_url_code": "rb-aniplays-sng-921654913908490270",
+        "discovery_splash": "fc8c4b16ba7465bc51d19450163b8ba3",
+        "primary_category_id": 14,
+        "vanity_url_code": "discord-founder-s-921654913908490270",
         "is_published": true,
         "keywords": [
-            "roblox",
+            "bot",
+            "dd",
+            "discord",
+            "founders",
             "russian",
-            "ukrainian",
-            "anime",
-            "yba",
-            "gpo",
-            "blox fruit",
-            "gam",
-            "game",
-            "games"
+            "server",
+            "wiki"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
             {
-                "id": 45,
+                "id": 39,
                 "is_primary": false,
-                "name": "Mobile",
+                "name": "Fandom",
                 "name_localizations": {
-                    "bg": "Мобилни",
-                    "cs": "Mobily",
-                    "da": "Mobil",
-                    "de": "Mobilgeräte",
-                    "el": "Κινητά",
-                    "fi": "Mobiililaitteet",
-                    "fr": "Portable",
-                    "hi": "मोबाइल",
-                    "hr": "Mobilno",
-                    "hu": "Mobil",
-                    "it": "Cellulare",
-                    "ja": "モバイル",
-                    "ko": "모바일",
-                    "lt": "Mobilieji prietaisai",
-                    "nl": "Mobiel",
-                    "no": "Mobil",
-                    "pl": "Mobilne",
-                    "ro": "Mobil",
-                    "ru": "Мобильные устройства",
-                    "th": "มือถือ",
-                    "tr": "Mobil",
-                    "uk": "Мобільні ігри",
-                    "vi": "Mobile",
-                    "en-GB": "Mobile",
-                    "en-US": "Mobile",
-                    "es-ES": "Móvil",
-                    "pt-BR": "Dispositivo Móvel",
-                    "sv-SE": "Mobil",
-                    "zh-CN": "移动端",
-                    "zh-TW": "行動裝置"
+                    "bg": "Фендъм",
+                    "cs": "Pro fanoušky",
+                    "da": "Fangruppe",
+                    "de": "Fandom",
+                    "el": "Fandom",
+                    "fi": "Fanikunta",
+                    "fr": "Fandom",
+                    "hi": "फ़ैनडम",
+                    "hr": "Fandom",
+                    "hu": "Rajongói",
+                    "it": "Fandom",
+                    "ja": "ファンダム",
+                    "ko": "팬덤",
+                    "lt": "Fanai",
+                    "nl": "Fandom",
+                    "no": "Fandom",
+                    "pl": "Fandom",
+                    "ro": "Fandom",
+                    "ru": "Фандомы",
+                    "th": "กลุ่มแฟนคลับ",
+                    "tr": "Hayran Kitlesi",
+                    "uk": "Фандом",
+                    "vi": "Cộng Đồng Người Hâm Mộ",
+                    "en-GB": "Fandom",
+                    "en-US": "Fandom",
+                    "es-ES": "Fandom",
+                    "pt-BR": "Fandom",
+                    "sv-SE": "Fandom",
+                    "zh-CN": "同好圈",
+                    "zh-TW": "粉絲社群"
                 }
             },
             {
-                "id": 44,
-                "is_primary": false,
-                "name": "Comics & Cartoons",
-                "name_localizations": {
-                    "bg": "Комикси и рисувани герои",
-                    "cs": "Komiksy",
-                    "da": "Tegneserier og tegnefilm",
-                    "de": "Comics & Cartoons",
-                    "el": "Κόμικς & Καρτούν",
-                    "fi": "Sarjakuvat ja piirretyt",
-                    "fr": "BD et dessins animés",
-                    "hi": "कॉमिक्स और कार्टून",
-                    "hr": "Strip i karikature",
-                    "hu": "Képregények és rajzfilmek",
-                    "it": "Cartoni e fumetti",
-                    "ja": "漫画&カートゥーン",
-                    "ko": "만화",
-                    "lt": "Komiksai ir karikatūros",
-                    "nl": "Strips en cartoons",
-                    "no": "Tegneserier og tegnefilmer",
-                    "pl": "Komiksy i kreskówki",
-                    "ro": "Benzi desenate și desene animate",
-                    "ru": "Комиксы и мультфильмы",
-                    "th": "คอมมิกและการ์ตูน",
-                    "tr": "Çizgi Roman ve Filmler",
-                    "uk": "Комікси та мультфільми",
-                    "vi": "Truyện Tranh và Hoạt Hình",
-                    "en-GB": "Comics & Cartoons",
-                    "en-US": "Comics & Cartoons",
-                    "es-ES": "Cómics y dibujos animados",
-                    "pt-BR": "Quadrinhos e Desenhos Animados",
-                    "sv-SE": "Serietidningar och tecknade serier",
-                    "zh-CN": "漫画&卡通",
-                    "zh-TW": "漫畫與卡通"
-                }
-            },
-            {
-                "id": 25,
-                "is_primary": false,
-                "name": "Memes",
-                "name_localizations": {
-                    "bg": "Мемове",
-                    "cs": "Memy",
-                    "da": "Memes",
-                    "de": "Memes",
-                    "el": "Memes",
-                    "fi": "Meemit",
-                    "fr": "Memes",
-                    "hi": "मीम्स",
-                    "hr": "Memeovi",
-                    "hu": "Mémek",
-                    "it": "Meme",
-                    "ja": "ミーム",
-                    "ko": "짤",
-                    "lt": "Memai",
-                    "nl": "Memes",
-                    "no": "Memer",
-                    "pl": "Memy",
-                    "ro": "Meme",
-                    "ru": "Мемы",
-                    "th": "มีม",
-                    "tr": "Meme'ler",
-                    "uk": "Меми",
-                    "vi": "Meme",
-                    "en-GB": "Memes",
-                    "en-US": "Memes",
-                    "es-ES": "Memes",
-                    "pt-BR": "Memes",
-                    "sv-SE": "Memes",
-                    "zh-CN": "表情包",
-                    "zh-TW": "迷因"
-                }
-            },
-            {
-                "id": 16,
-                "is_primary": false,
-                "name": "Anime & Manga",
-                "name_localizations": {
-                    "bg": "Аниме и манга",
-                    "cs": "Anime a manga",
-                    "da": "Anime & manga",
-                    "de": "Anime & Manga",
-                    "el": "Anime & Manga",
-                    "fi": "Anime ja manga",
-                    "fr": "Animés et mangas",
-                    "hi": "Anime & Manga",
-                    "hr": "Anime i Manga",
-                    "hu": "Anime és manga",
-                    "it": "Anime e manga",
-                    "ja": "アニメ&マンガ",
-                    "ko": "애니메이션, 만화",
-                    "lt": "Animė ir manga",
-                    "nl": "Anime en manga",
-                    "no": "Anime og manga",
-                    "pl": "Anime i manga",
-                    "ro": "Anime și manga",
-                    "ru": "Аниме и манга",
-                    "th": "อนิเมะและมังงะ",
-                    "tr": "Anime ve Manga",
-                    "uk": "Аніме та манга",
-                    "vi": "Anime & Manga",
-                    "en-GB": "Anime & manga",
-                    "en-US": "Anime & Manga",
-                    "es-ES": "Anime y manga",
-                    "pt-BR": "Anime e Mangá",
-                    "sv-SE": "Anime och manga",
-                    "zh-CN": "动画&漫画",
-                    "zh-TW": "動畫與漫畫"
-                }
-            },
-            {
-                "id": 1,
+                "id": 43,
                 "is_primary": true,
-                "name": "Gaming",
+                "name": "Emoji",
                 "name_localizations": {
-                    "bg": "Гейминг",
-                    "cs": "Hraní",
-                    "da": "Spil",
-                    "de": "Gaming",
-                    "el": "Gaming",
-                    "fi": "Pelaaminen",
-                    "fr": "Gaming",
-                    "hi": "गेमिंग",
-                    "hr": "Gaming",
-                    "hu": "Játék",
-                    "it": "Gaming",
-                    "ja": "ゲーム",
-                    "ko": "게임",
-                    "lt": "Žaidimai",
-                    "nl": "Gaming",
-                    "no": "Gaming",
-                    "pl": "Gry",
-                    "ro": "Gaming",
-                    "ru": "Игры",
-                    "th": "การเล่นเกม",
-                    "tr": "Oyun",
-                    "uk": "Ігри",
-                    "vi": "Gaming",
-                    "en-GB": "Gaming",
-                    "en-US": "Gaming",
-                    "es-ES": "Juegos",
-                    "pt-BR": "Jogos",
-                    "sv-SE": "Gaming",
-                    "zh-CN": "游戏",
-                    "zh-TW": "遊戲"
+                    "bg": "Емотикон",
+                    "cs": "Smajlíci",
+                    "da": "Emoji",
+                    "de": "Emojis",
+                    "el": "Emoji",
+                    "fi": "Emoji",
+                    "fr": "Émoji",
+                    "hi": "इमोजी",
+                    "hr": "Emoji",
+                    "hu": "Emotikon",
+                    "it": "Emoji",
+                    "ja": "絵文字",
+                    "ko": "이모티콘",
+                    "lt": "Jaustukai",
+                    "nl": "Emoji",
+                    "no": "Emoji",
+                    "pl": "Emoji",
+                    "ro": "Emoji",
+                    "ru": "Эмодзи",
+                    "th": "อีโมจิ",
+                    "tr": "Emoji",
+                    "uk": "Емодзі",
+                    "vi": "Emoji",
+                    "en-GB": "Emoji",
+                    "en-US": "Emoji",
+                    "es-ES": "Emojis",
+                    "pt-BR": "Emoji",
+                    "sv-SE": "Emoji",
+                    "zh-CN": "表情符号",
+                    "zh-TW": "表情符號"
+                }
+            },
+            {
+                "id": 49,
+                "is_primary": true,
+                "name": "Bots",
+                "name_localizations": {
+                    "bg": "Ботове",
+                    "cs": "Boti",
+                    "da": "Bots",
+                    "de": "Bots",
+                    "el": "Bots",
+                    "fi": "Botit",
+                    "fr": "Bots",
+                    "hi": "बॉट्स",
+                    "hr": "Botovi",
+                    "hu": "Botok",
+                    "it": "Bot",
+                    "ja": "Bot",
+                    "ko": "봇",
+                    "lt": "Botai",
+                    "nl": "Bots",
+                    "no": "Boter",
+                    "pl": "Boty",
+                    "ro": "Boți",
+                    "ru": "Боты",
+                    "th": "Bot",
+                    "tr": "Botlar",
+                    "uk": "Боти",
+                    "vi": "Bot",
+                    "en-GB": "Bots",
+                    "en-US": "Bots",
+                    "es-ES": "Bots",
+                    "pt-BR": "Bots",
+                    "sv-SE": "Bottar",
+                    "zh-CN": "机器人",
+                    "zh-TW": "機器人"
+                }
+            },
+            {
+                "id": 26,
+                "is_primary": false,
+                "name": "News & Current Events",
+                "name_localizations": {
+                    "bg": "Новини и актуални събития",
+                    "cs": "Zprávy a aktuální dění",
+                    "da": "Nyheder & nuværende begivenheder",
+                    "de": "Nachrichten & Zeitgeschehen",
+                    "el": "Νέα & Επικαιρότητα",
+                    "fi": "Uutiset ja ajankohtaistapahtumat",
+                    "fr": "Actualité",
+                    "hi": "न्यूज़ और करेंट इवेंट्स",
+                    "hr": "Vijesti i aktualnosti",
+                    "hu": "Hírek és aktuális események",
+                    "it": "Notizie ed eventi attuali",
+                    "ja": "ニュース&時事",
+                    "ko": "뉴스, 시사",
+                    "lt": "Naujienos ir dabartiniai įvykiai",
+                    "nl": "Nieuws en actualiteiten",
+                    "no": "Nyheter og aktuelt",
+                    "pl": "Aktualności i bieżące wydarzenia",
+                    "ro": "Actualități",
+                    "ru": "Новости и текущие события",
+                    "th": "ข่าวสารและเหตุการณ์ปัจจุบัน",
+                    "tr": "Haberler ve Güncel Olaylar",
+                    "uk": "Новини й поточні події",
+                    "vi": "Tin Tức & Sự Kiện Đang Diễn Ra",
+                    "en-GB": "News & Current Events",
+                    "en-US": "News & Current Events",
+                    "es-ES": "Noticias y actualidad",
+                    "pt-BR": "Notícias e Atualidades",
+                    "sv-SE": "Nyheter och aktuella händelser",
+                    "zh-CN": "新闻&时事",
+                    "zh-TW": "新消息與目前活動"
+                }
+            },
+            {
+                "id": 35,
+                "is_primary": false,
+                "name": "Content Creator",
+                "name_localizations": {
+                    "bg": "Създател на съдържание",
+                    "cs": "Tvůrce obsahu",
+                    "da": "Indholdsskaber",
+                    "de": "Content Creator",
+                    "el": "Δημιουργός Περιεχομένου",
+                    "fi": "Sisällöntuottaja",
+                    "fr": "Créateur de contenu",
+                    "hi": "कंटेंट क्रिएटर",
+                    "hr": "Stvaratelj sadržaja",
+                    "hu": "Tartalomkészítő",
+                    "it": "Creazione contenuti",
+                    "ja": "コンテンツクリエイター",
+                    "ko": "콘텐츠 크리에이터",
+                    "lt": "Turinio kūrėjai",
+                    "nl": "Contentontwikkelaar",
+                    "no": "Innholdsskaper",
+                    "pl": "Twórca zawartości",
+                    "ro": "Creator de conținut",
+                    "ru": "Создатель контента",
+                    "th": "ผู้สร้างเนื้อหา",
+                    "tr": "İçerik Üreticisi",
+                    "uk": "Створення контенту",
+                    "vi": "Nhà Sáng Tạo Nội Dung",
+                    "en-GB": "Content creator",
+                    "en-US": "Content Creator",
+                    "es-ES": "Creador de contenido",
+                    "pt-BR": "Criação de Conteúdo",
+                    "sv-SE": "Innehållsskapare",
+                    "zh-CN": "内容创作者",
+                    "zh-TW": "內容創作者"
+                }
+            },
+            {
+                "id": 14,
+                "is_primary": true,
+                "name": "General Chatting",
+                "name_localizations": {
+                    "bg": "Общуване",
+                    "cs": "Prostě chat",
+                    "da": "Generelt",
+                    "de": "Allgemeine Chats",
+                    "el": "Γενική συζήτηση",
+                    "fi": "Yleinen keskustelu",
+                    "fr": "Discussion générale",
+                    "hi": "जनरल चैटिंग",
+                    "hr": "Općenito",
+                    "hu": "Általános csevegés",
+                    "it": "Discussioni generali",
+                    "ja": "雑談",
+                    "ko": "일반 채팅",
+                    "lt": "Bendro pobūdžio pokalbiai",
+                    "nl": "Algemene chat",
+                    "no": "Generell chatting",
+                    "pl": "Rozmowy",
+                    "ro": "Discuții generale",
+                    "ru": "Общение",
+                    "th": "การสนทนาทั่วไป",
+                    "tr": "Genel Sohbet",
+                    "uk": "Спілкування на загальні теми",
+                    "vi": "Trò Chuyện Chung",
+                    "en-GB": "General Chatting",
+                    "en-US": "General Chatting",
+                    "es-ES": "Chateo general",
+                    "pt-BR": "Conversas gerais",
+                    "sv-SE": "Chatt i allmänhet",
+                    "zh-CN": "综合聊天",
+                    "zh-TW": "一般聊天"
                 }
             }
         ],
         "primary_category": {
-            "id": 1,
+            "id": 14,
             "is_primary": true,
-            "name": "Gaming",
+            "name": "General Chatting",
             "name_localizations": {
-                "bg": "Гейминг",
-                "cs": "Hraní",
-                "da": "Spil",
-                "de": "Gaming",
-                "el": "Gaming",
-                "fi": "Pelaaminen",
-                "fr": "Gaming",
-                "hi": "गेमिंग",
-                "hr": "Gaming",
-                "hu": "Játék",
-                "it": "Gaming",
-                "ja": "ゲーム",
-                "ko": "게임",
-                "lt": "Žaidimai",
-                "nl": "Gaming",
-                "no": "Gaming",
-                "pl": "Gry",
-                "ro": "Gaming",
-                "ru": "Игры",
-                "th": "การเล่นเกม",
-                "tr": "Oyun",
-                "uk": "Ігри",
-                "vi": "Gaming",
-                "en-GB": "Gaming",
-                "en-US": "Gaming",
-                "es-ES": "Juegos",
-                "pt-BR": "Jogos",
-                "sv-SE": "Gaming",
-                "zh-CN": "游戏",
-                "zh-TW": "遊戲"
+                "bg": "Общуване",
+                "cs": "Prostě chat",
+                "da": "Generelt",
+                "de": "Allgemeine Chats",
+                "el": "Γενική συζήτηση",
+                "fi": "Yleinen keskustelu",
+                "fr": "Discussion générale",
+                "hi": "जनरल चैटिंग",
+                "hr": "Općenito",
+                "hu": "Általános csevegés",
+                "it": "Discussioni generali",
+                "ja": "雑談",
+                "ko": "일반 채팅",
+                "lt": "Bendro pobūdžio pokalbiai",
+                "nl": "Algemene chat",
+                "no": "Generell chatting",
+                "pl": "Rozmowy",
+                "ro": "Discuții generale",
+                "ru": "Общение",
+                "th": "การสนทนาทั่วไป",
+                "tr": "Genel Sohbet",
+                "uk": "Спілкування на загальні теми",
+                "vi": "Trò Chuyện Chung",
+                "en-GB": "General Chatting",
+                "en-US": "General Chatting",
+                "es-ES": "Chateo general",
+                "pt-BR": "Conversas gerais",
+                "sv-SE": "Chatt i allmänhet",
+                "zh-CN": "综合聊天",
+                "zh-TW": "一般聊天"
             }
         },
         "objectID": "921654913908490270",
         "_highlightResult": {
             "name": {
-                "value": "FRW SNG",
+                "value": "Discord Founder's",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "description": {
-                "value": "Сервер по многим играм, роблоксу и трейдам! Приветствуем русскоязычную и украиноязычную аудиторию.",
+                "value": "- Данное сообщество создано для людей увлечённых Discord и занимающимися развитием платформы.",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "vanity_url_code": {
-                "value": "rb-aniplays-sng-921654913908490270",
+                "value": "discord-founder-s-921654913908490270",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
                 {
-                    "value": "roblox",
+                    "value": "bot",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "dd",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "discord",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "founders",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -320,42 +368,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "ukrainian",
+                    "value": "server",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "anime",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "yba",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "gpo",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "blox fruit",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "gam",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "game",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "games",
+                    "value": "wiki",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
@@ -364,152 +382,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Мобилни",
+                            "value": "Фендъм",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Mobily",
+                            "value": "Pro fanoušky",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Mobil",
+                            "value": "Fangruppe",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Mobilgeräte",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Κινητά",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Mobiililaitteet",
+                            "value": "Fanikunta",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Portable",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "मोबाइल",
+                            "value": "फ़ैनडम",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Mobilno",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Mobil",
+                            "value": "Rajongói",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Cellulare",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "モバイル",
+                            "value": "ファンダム",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "모바일",
+                            "value": "팬덤",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Mobilieji prietaisai",
+                            "value": "Fanai",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Mobiel",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Mobil",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Mobilne",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Mobil",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Мобильные устройства",
+                            "value": "Фандомы",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "มือถือ",
+                            "value": "กลุ่มแฟนคลับ",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Mobil",
+                            "value": "Hayran Kitlesi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Мобільні ігри",
+                            "value": "Фандом",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Mobile",
+                            "value": "Cộng Đồng Người Hâm Mộ",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Mobile",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Mobile",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Móvil",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Dispositivo Móvel",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Mobil",
+                            "value": "Fandom",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "移动端",
+                            "value": "同好圈",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "行動裝置",
+                            "value": "粉絲社群",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -518,152 +536,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Комикси и рисувани герои",
+                            "value": "Емотикон",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Komiksy",
+                            "value": "Smajlíci",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Tegneserier og tegnefilm",
+                            "value": "Emoji",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Comics & Cartoons",
+                            "value": "Emojis",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Κόμικς & Καρτούν",
+                            "value": "Emoji",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Sarjakuvat ja piirretyt",
+                            "value": "Emoji",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "BD et dessins animés",
+                            "value": "Émoji",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "कॉमिक्स और कार्टून",
+                            "value": "इमोजी",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Strip i karikature",
+                            "value": "Emoji",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Képregények és rajzfilmek",
+                            "value": "Emotikon",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Cartoni e fumetti",
+                            "value": "Emoji",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "漫画&カートゥーン",
+                            "value": "絵文字",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "만화",
+                            "value": "이모티콘",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Komiksai ir karikatūros",
+                            "value": "Jaustukai",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Strips en cartoons",
+                            "value": "Emoji",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Tegneserier og tegnefilmer",
+                            "value": "Emoji",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Komiksy i kreskówki",
+                            "value": "Emoji",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Benzi desenate și desene animate",
+                            "value": "Emoji",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Комиксы и мультфильмы",
+                            "value": "Эмодзи",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "คอมมิกและการ์ตูน",
+                            "value": "อีโมจิ",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Çizgi Roman ve Filmler",
+                            "value": "Emoji",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Комікси та мультфільми",
+                            "value": "Емодзі",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Truyện Tranh và Hoạt Hình",
+                            "value": "Emoji",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Comics & Cartoons",
+                            "value": "Emoji",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Comics & Cartoons",
+                            "value": "Emoji",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Cómics y dibujos animados",
+                            "value": "Emojis",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Quadrinhos e Desenhos Animados",
+                            "value": "Emoji",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Serietidningar och tecknade serier",
+                            "value": "Emoji",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "漫画&卡通",
+                            "value": "表情符号",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "漫畫與卡通",
+                            "value": "表情符號",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -672,152 +690,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Мемове",
+                            "value": "Ботове",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Memy",
+                            "value": "Boti",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Memes",
+                            "value": "Bots",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Memes",
+                            "value": "Bots",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Memes",
+                            "value": "Bots",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Meemit",
+                            "value": "Botit",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Memes",
+                            "value": "Bots",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "मीम्स",
+                            "value": "बॉट्स",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Memeovi",
+                            "value": "Botovi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Mémek",
+                            "value": "Botok",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Meme",
+                            "value": "Bot",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "ミーム",
+                            "value": "Bot",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "짤",
+                            "value": "봇",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Memai",
+                            "value": "Botai",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Memes",
+                            "value": "Bots",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Memer",
+                            "value": "Boter",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Memy",
+                            "value": "Boty",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Meme",
+                            "value": "Boți",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Мемы",
+                            "value": "Боты",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "มีม",
+                            "value": "Bot",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Meme'ler",
+                            "value": "Botlar",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Меми",
+                            "value": "Боти",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Meme",
+                            "value": "Bot",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Memes",
+                            "value": "Bots",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Memes",
+                            "value": "Bots",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Memes",
+                            "value": "Bots",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Memes",
+                            "value": "Bots",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Memes",
+                            "value": "Bottar",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "表情包",
+                            "value": "机器人",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "迷因",
+                            "value": "機器人",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -826,152 +844,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Аниме и манга",
+                            "value": "Новини и актуални събития",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Anime a manga",
+                            "value": "Zprávy a aktuální dění",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Anime & manga",
+                            "value": "Nyheder & nuværende begivenheder",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Anime & Manga",
+                            "value": "Nachrichten & Zeitgeschehen",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Anime & Manga",
+                            "value": "Νέα & Επικαιρότητα",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Anime ja manga",
+                            "value": "Uutiset ja ajankohtaistapahtumat",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Animés et mangas",
+                            "value": "Actualité",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "Anime & Manga",
+                            "value": "न्यूज़ और करेंट इवेंट्स",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Anime i Manga",
+                            "value": "Vijesti i aktualnosti",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Anime és manga",
+                            "value": "Hírek és aktuális események",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Anime e manga",
+                            "value": "Notizie ed eventi attuali",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "アニメ&マンガ",
+                            "value": "ニュース&時事",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "애니메이션, 만화",
+                            "value": "뉴스, 시사",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Animė ir manga",
+                            "value": "Naujienos ir dabartiniai įvykiai",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Anime en manga",
+                            "value": "Nieuws en actualiteiten",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Anime og manga",
+                            "value": "Nyheter og aktuelt",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Anime i manga",
+                            "value": "Aktualności i bieżące wydarzenia",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Anime și manga",
+                            "value": "Actualități",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Аниме и манга",
+                            "value": "Новости и текущие события",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "อนิเมะและมังงะ",
+                            "value": "ข่าวสารและเหตุการณ์ปัจจุบัน",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Anime ve Manga",
+                            "value": "Haberler ve Güncel Olaylar",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Аніме та манга",
+                            "value": "Новини й поточні події",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Anime & Manga",
+                            "value": "Tin Tức & Sự Kiện Đang Diễn Ra",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Anime & manga",
+                            "value": "News & Current Events",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Anime & Manga",
+                            "value": "News & Current Events",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Anime y manga",
+                            "value": "Noticias y actualidad",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Anime e Mangá",
+                            "value": "Notícias e Atualidades",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Anime och manga",
+                            "value": "Nyheter och aktuella händelser",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "动画&漫画",
+                            "value": "新闻&时事",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "動畫與漫畫",
+                            "value": "新消息與目前活動",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -980,152 +998,306 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Гейминг",
+                            "value": "Създател на съдържание",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Hraní",
+                            "value": "Tvůrce obsahu",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Spil",
+                            "value": "Indholdsskaber",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Gaming",
+                            "value": "Content Creator",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Gaming",
+                            "value": "Δημιουργός Περιεχομένου",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Pelaaminen",
+                            "value": "Sisällöntuottaja",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Gaming",
+                            "value": "Créateur de contenu",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "गेमिंग",
+                            "value": "कंटेंट क्रिएटर",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Gaming",
+                            "value": "Stvaratelj sadržaja",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Játék",
+                            "value": "Tartalomkészítő",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Gaming",
+                            "value": "Creazione contenuti",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "ゲーム",
+                            "value": "コンテンツクリエイター",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "게임",
+                            "value": "콘텐츠 크리에이터",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Žaidimai",
+                            "value": "Turinio kūrėjai",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Gaming",
+                            "value": "Contentontwikkelaar",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Gaming",
+                            "value": "Innholdsskaper",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Gry",
+                            "value": "Twórca zawartości",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Gaming",
+                            "value": "Creator de conținut",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Игры",
+                            "value": "Создатель контента",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "การเล่นเกม",
+                            "value": "ผู้สร้างเนื้อหา",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Oyun",
+                            "value": "İçerik Üreticisi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Ігри",
+                            "value": "Створення контенту",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Gaming",
+                            "value": "Nhà Sáng Tạo Nội Dung",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Gaming",
+                            "value": "Content creator",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Gaming",
+                            "value": "Content Creator",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Juegos",
+                            "value": "Creador de contenido",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Jogos",
+                            "value": "Criação de Conteúdo",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Gaming",
+                            "value": "Innehållsskapare",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "游戏",
+                            "value": "内容创作者",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "遊戲",
+                            "value": "內容創作者",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Общуване",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Prostě chat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Generelt",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Allgemeine Chats",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Γενική συζήτηση",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Yleinen keskustelu",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Discussion générale",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "जनरल चैटिंग",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Općenito",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Általános csevegés",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Discussioni generali",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "雑談",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "일반 채팅",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Bendro pobūdžio pokalbiai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Algemene chat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Generell chatting",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Rozmowy",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Discuții generale",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Общение",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การสนทนาทั่วไป",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Genel Sohbet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Спілкування на загальні теми",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Trò Chuyện Chung",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "General Chatting",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "General Chatting",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Chateo general",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Conversas gerais",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Chatt i allmänhet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "综合聊天",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "一般聊天",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -1135,152 +1307,152 @@
             "primary_category": {
                 "name_localizations": {
                     "bg": {
-                        "value": "Гейминг",
+                        "value": "Общуване",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "cs": {
-                        "value": "Hraní",
+                        "value": "Prostě chat",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "da": {
-                        "value": "Spil",
+                        "value": "Generelt",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "de": {
-                        "value": "Gaming",
+                        "value": "Allgemeine Chats",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "el": {
-                        "value": "Gaming",
+                        "value": "Γενική συζήτηση",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "fi": {
-                        "value": "Pelaaminen",
+                        "value": "Yleinen keskustelu",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "fr": {
-                        "value": "Gaming",
+                        "value": "Discussion générale",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "hi": {
-                        "value": "गेमिंग",
+                        "value": "जनरल चैटिंग",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "hr": {
-                        "value": "Gaming",
+                        "value": "Općenito",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "hu": {
-                        "value": "Játék",
+                        "value": "Általános csevegés",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "it": {
-                        "value": "Gaming",
+                        "value": "Discussioni generali",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ja": {
-                        "value": "ゲーム",
+                        "value": "雑談",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ko": {
-                        "value": "게임",
+                        "value": "일반 채팅",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "lt": {
-                        "value": "Žaidimai",
+                        "value": "Bendro pobūdžio pokalbiai",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "nl": {
-                        "value": "Gaming",
+                        "value": "Algemene chat",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "no": {
-                        "value": "Gaming",
+                        "value": "Generell chatting",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "pl": {
-                        "value": "Gry",
+                        "value": "Rozmowy",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ro": {
-                        "value": "Gaming",
+                        "value": "Discuții generale",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ru": {
-                        "value": "Игры",
+                        "value": "Общение",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "th": {
-                        "value": "การเล่นเกม",
+                        "value": "การสนทนาทั่วไป",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "tr": {
-                        "value": "Oyun",
+                        "value": "Genel Sohbet",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "uk": {
-                        "value": "Ігри",
+                        "value": "Спілкування на загальні теми",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "vi": {
-                        "value": "Gaming",
+                        "value": "Trò Chuyện Chung",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "en-GB": {
-                        "value": "Gaming",
+                        "value": "General Chatting",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "en-US": {
-                        "value": "Gaming",
+                        "value": "General Chatting",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "es-ES": {
-                        "value": "Juegos",
+                        "value": "Chateo general",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "pt-BR": {
-                        "value": "Jogos",
+                        "value": "Conversas gerais",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "sv-SE": {
-                        "value": "Gaming",
+                        "value": "Chatt i allmänhet",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "zh-CN": {
-                        "value": "游戏",
+                        "value": "综合聊天",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "zh-TW": {
-                        "value": "遊戲",
+                        "value": "一般聊天",
                         "matchLevel": "none",
                         "matchedWords": []
                     }
