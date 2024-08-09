@@ -6,17 +6,17 @@
     "splash": "57762bdfe2e9ee4fffab55f4fe588219",
     "discovery_splash": "57762bdfe2e9ee4fffab55f4fe588219",
     "banner": "57762bdfe2e9ee4fffab55f4fe588219",
-    "approximate_presence_count": 15206,
-    "approximate_member_count": 111658,
-    "premium_subscription_count": 318,
+    "approximate_presence_count": 14536,
+    "approximate_member_count": 111729,
+    "premium_subscription_count": 316,
     "preferred_locale": "en-US",
     "vanity_url_code": "yandere",
     "keywords": [
         "yandere",
-        "yanderedev",
-        "yandere-chan",
         "yandere sim",
-        "yandere simulator"
+        "yandere simulator",
+        "yandere-chan",
+        "yanderedev"
     ],
     "features": [
         "COMMUNITY",
@@ -35,9 +35,9 @@
         "icon": "a_054d7e8211939f94bf6b0f7a62a1d544",
         "splash": "57762bdfe2e9ee4fffab55f4fe588219",
         "banner": "57762bdfe2e9ee4fffab55f4fe588219",
-        "approximate_presence_count": 15206,
-        "approximate_member_count": 111658,
-        "premium_subscription_count": 318,
+        "approximate_presence_count": 14536,
+        "approximate_member_count": 111729,
+        "premium_subscription_count": 316,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "57762bdfe2e9ee4fffab55f4fe588219",
@@ -46,10 +46,10 @@
         "is_published": true,
         "keywords": [
             "yandere",
-            "yanderedev",
-            "yandere-chan",
             "yandere sim",
-            "yandere simulator"
+            "yandere simulator",
+            "yandere-chan",
+            "yanderedev"
         ],
         "features": [
             "COMMUNITY",
@@ -196,7 +196,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "yanderedev",
+                    "value": "yandere sim",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "yandere simulator",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -206,12 +211,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "yandere sim",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "yandere simulator",
+                    "value": "yanderedev",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

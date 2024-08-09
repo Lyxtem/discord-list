@@ -6,22 +6,17 @@
     "splash": "dc9fb8930100fd0c349e6abc883524f5",
     "discovery_splash": null,
     "banner": "d5b6c9777b390b76b5b11d65b753bf09",
-    "approximate_presence_count": 17,
-    "approximate_member_count": 676,
+    "approximate_presence_count": 18,
+    "approximate_member_count": 596,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "pubgnewstate-dach",
     "keywords": [],
     "features": [
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "INVITE_SPLASH",
-        "NEWS",
         "PREVIEW_ENABLED",
-        "TEXT_IN_VOICE_ENABLED",
-        "VANITY_URL",
         "VERIFIED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -34,8 +29,8 @@
         "icon": "b3618b8b2ecec2cc38a024589a50bd48",
         "splash": "dc9fb8930100fd0c349e6abc883524f5",
         "banner": "d5b6c9777b390b76b5b11d65b753bf09",
-        "approximate_presence_count": 17,
-        "approximate_member_count": 676,
+        "approximate_presence_count": 18,
+        "approximate_member_count": 596,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -45,17 +40,44 @@
         "is_published": false,
         "keywords": [],
         "features": [
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "INVITE_SPLASH",
-            "NEWS",
             "PREVIEW_ENABLED",
-            "TEXT_IN_VOICE_ENABLED",
-            "VANITY_URL",
             "VERIFIED",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "897064994015940618",
+        "_highlightResult": {
+            "name": {
+                "value": "New State Mobile DACH",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "Willkommen auf dem offiziellen deutschsprachigen Discord Server von New State Mobile.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "pubgnewstate-dach",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }
