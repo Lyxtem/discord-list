@@ -1,27 +1,27 @@
 {
     "id": "603149089487454208",
     "name": "Darkest Hour",
-    "description": "",
+    "description": "Official community and development server of the Darkest Hour mod for Hearts of Iron IV.",
     "icon": "6c311b00421b0d1ce6000400bbbeab61",
     "splash": "38af0d4d93c3e22b409b509f7a5c93ce",
     "discovery_splash": "e8b9f703ffb95136185faa4fff2c5d72",
     "banner": "df744a9d0336001a4fc88d52e0b3be2e",
-    "approximate_presence_count": 2122,
-    "approximate_member_count": 10842,
-    "premium_subscription_count": 7,
+    "approximate_presence_count": 2735,
+    "approximate_member_count": 10752,
+    "premium_subscription_count": 5,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "darkest-hour-603149089487454208",
     "keywords": [
-        "heartsofiron",
+        "community",
         "darkesthour",
-        "mod",
-        "strategy",
-        "ww2",
+        "heartsofiron",
         "history",
         "hoi4",
-        "paradox",
+        "mod",
         "multiplayer",
-        "community"
+        "paradox",
+        "strategy",
+        "ww2"
     ],
     "features": [
         "COMMUNITY",
@@ -36,30 +36,30 @@
     "raw": {
         "id": "603149089487454208",
         "name": "Darkest Hour",
-        "description": "",
+        "description": "Official community and development server of the Darkest Hour mod for Hearts of Iron IV.",
         "icon": "6c311b00421b0d1ce6000400bbbeab61",
         "splash": "38af0d4d93c3e22b409b509f7a5c93ce",
         "banner": "df744a9d0336001a4fc88d52e0b3be2e",
-        "approximate_presence_count": 2122,
-        "approximate_member_count": 10842,
-        "premium_subscription_count": 7,
+        "approximate_presence_count": 2735,
+        "approximate_member_count": 10752,
+        "premium_subscription_count": 5,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "e8b9f703ffb95136185faa4fff2c5d72",
         "primary_category_id": 1,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "darkest-hour-603149089487454208",
+        "is_published": true,
         "keywords": [
-            "heartsofiron",
+            "community",
             "darkesthour",
-            "mod",
-            "strategy",
-            "ww2",
+            "heartsofiron",
             "history",
             "hoi4",
-            "paradox",
+            "mod",
             "multiplayer",
-            "community"
+            "paradox",
+            "strategy",
+            "ww2"
         ],
         "features": [
             "COMMUNITY",
@@ -108,40 +108,77 @@
                 }
             },
             {
-                "id": 34,
+                "id": 22,
                 "is_primary": false,
-                "name": "Roleplay",
+                "name": "Programming",
                 "name_localizations": {
-                    "bg": "Ролева игра",
-                    "cs": "Roleplay",
-                    "da": "Rollespil",
-                    "de": "Rollenspiele",
-                    "el": "Παιχνίδια ρόλων",
-                    "fi": "Roolipeli",
-                    "fr": "Jeux de rôles",
-                    "hi": "रोलप्ले",
-                    "hr": "Roleplay",
-                    "hu": "Szerepjáték",
-                    "it": "Giochi di ruolo",
-                    "ja": "なりきり",
-                    "ko": "역할 놀이",
-                    "lt": "Vaidmenų žaidimai",
-                    "nl": "Rollenspel",
-                    "no": "Rollespill",
-                    "pl": "Role playing",
-                    "ro": "Jocuri de rol",
-                    "ru": "Ролевая игра",
-                    "th": "การเล่นบทบาทสมมติ",
-                    "tr": "Rol Yapma",
-                    "uk": "Рольові ігри",
-                    "vi": "Nhập Vai",
-                    "en-GB": "Roleplay",
-                    "en-US": "Roleplay",
-                    "es-ES": "Juego de roles",
-                    "pt-BR": "Interpretação de personagens",
-                    "sv-SE": "Rollspel",
-                    "zh-CN": "跑团",
-                    "zh-TW": "角色扮演"
+                    "bg": "Програмиране",
+                    "cs": "Programování",
+                    "da": "Programmering",
+                    "de": "Programmieren",
+                    "el": "Προγραμματισμός",
+                    "fi": "Ohjelmointi",
+                    "fr": "Programmation",
+                    "hi": "प्रोग्रामिंग",
+                    "hr": "Programiranje",
+                    "hu": "Programozás",
+                    "it": "Programmazione",
+                    "ja": "プログラミング",
+                    "ko": "프로그래밍",
+                    "lt": "Programavimas",
+                    "nl": "Programmeren",
+                    "no": "Programmering",
+                    "pl": "Programowanie",
+                    "ro": "Programare",
+                    "ru": "Программирование",
+                    "th": "การเขียนโปรแกรม",
+                    "tr": "Kodlama",
+                    "uk": "Програмування",
+                    "vi": "Lập Trình",
+                    "en-GB": "Programming",
+                    "en-US": "Programming",
+                    "es-ES": "Programación",
+                    "pt-BR": "Programação",
+                    "sv-SE": "Programmering",
+                    "zh-CN": "编程",
+                    "zh-TW": "程式設計"
+                }
+            },
+            {
+                "id": 25,
+                "is_primary": false,
+                "name": "Memes",
+                "name_localizations": {
+                    "bg": "Мемове",
+                    "cs": "Memy",
+                    "da": "Memes",
+                    "de": "Memes",
+                    "el": "Memes",
+                    "fi": "Meemit",
+                    "fr": "Memes",
+                    "hi": "मीम्स",
+                    "hr": "Memeovi",
+                    "hu": "Mémek",
+                    "it": "Meme",
+                    "ja": "ミーム",
+                    "ko": "짤",
+                    "lt": "Memai",
+                    "nl": "Memes",
+                    "no": "Memer",
+                    "pl": "Memy",
+                    "ro": "Meme",
+                    "ru": "Мемы",
+                    "th": "มีม",
+                    "tr": "Meme'ler",
+                    "uk": "Меми",
+                    "vi": "Meme",
+                    "en-GB": "Memes",
+                    "en-US": "Memes",
+                    "es-ES": "Memes",
+                    "pt-BR": "Memes",
+                    "sv-SE": "Memes",
+                    "zh-CN": "表情包",
+                    "zh-TW": "迷因"
                 }
             },
             {
@@ -216,43 +253,6 @@
                     "sv-SE": "Spelutvecklare",
                     "zh-CN": "游戏开发人员",
                     "zh-TW": "遊戲開發者"
-                }
-            },
-            {
-                "id": 24,
-                "is_primary": false,
-                "name": "Tabletop Games",
-                "name_localizations": {
-                    "bg": "Настолни игри",
-                    "cs": "Stolní hry",
-                    "da": "Brætspil",
-                    "de": "Tabletop-Spiele",
-                    "el": "Επιτραπέζια παιχνίδια",
-                    "fi": "Lautapelit",
-                    "fr": "Jeux de société",
-                    "hi": "टेबलटॉप गेम्स",
-                    "hr": "Stolne igre",
-                    "hu": "Társasjátékok",
-                    "it": "Giochi da tavolo",
-                    "ja": "テーブルゲーム",
-                    "ko": "테이블탑 게임",
-                    "lt": "Stalo žaidimai",
-                    "nl": "Bordspellen",
-                    "no": "Brettspill",
-                    "pl": "Gry planszowe",
-                    "ro": "Jocuri pe tablă",
-                    "ru": "Настольные игры",
-                    "th": "เกมกระดาน",
-                    "tr": "Kutu Oyunları",
-                    "uk": "Настільні ігри",
-                    "vi": "Game Chơi Trên Bàn",
-                    "en-GB": "Tabletop Games",
-                    "en-US": "Tabletop Games",
-                    "es-ES": "Juegos de mesa",
-                    "pt-BR": "Jogos de tabuleiro",
-                    "sv-SE": "Bordsspel",
-                    "zh-CN": "桌游",
-                    "zh-TW": "桌遊"
                 }
             },
             {
@@ -338,13 +338,18 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "",
+                "value": "Official community and development server of the Darkest Hour mod for Hearts of Iron IV.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "darkest-hour-603149089487454208",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
                 {
-                    "value": "heartsofiron",
+                    "value": "community",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -354,17 +359,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "mod",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "strategy",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "ww2",
+                    "value": "heartsofiron",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -379,7 +374,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "paradox",
+                    "value": "mod",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -389,7 +384,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "community",
+                    "value": "paradox",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "strategy",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "ww2",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
@@ -552,152 +557,306 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Ролева игра",
+                            "value": "Програмиране",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Roleplay",
+                            "value": "Programování",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Rollespil",
+                            "value": "Programmering",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Rollenspiele",
+                            "value": "Programmieren",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Παιχνίδια ρόλων",
+                            "value": "Προγραμματισμός",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Roolipeli",
+                            "value": "Ohjelmointi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Jeux de rôles",
+                            "value": "Programmation",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "रोलप्ले",
+                            "value": "प्रोग्रामिंग",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Roleplay",
+                            "value": "Programiranje",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Szerepjáték",
+                            "value": "Programozás",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Giochi di ruolo",
+                            "value": "Programmazione",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "なりきり",
+                            "value": "プログラミング",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "역할 놀이",
+                            "value": "프로그래밍",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Vaidmenų žaidimai",
+                            "value": "Programavimas",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Rollenspel",
+                            "value": "Programmeren",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Rollespill",
+                            "value": "Programmering",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Role playing",
+                            "value": "Programowanie",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Jocuri de rol",
+                            "value": "Programare",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Ролевая игра",
+                            "value": "Программирование",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "การเล่นบทบาทสมมติ",
+                            "value": "การเขียนโปรแกรม",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Rol Yapma",
+                            "value": "Kodlama",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Рольові ігри",
+                            "value": "Програмування",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Nhập Vai",
+                            "value": "Lập Trình",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Roleplay",
+                            "value": "Programming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Roleplay",
+                            "value": "Programming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Juego de roles",
+                            "value": "Programación",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Interpretação de personagens",
+                            "value": "Programação",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Rollspel",
+                            "value": "Programmering",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "跑团",
+                            "value": "编程",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "角色扮演",
+                            "value": "程式設計",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Мемове",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Memy",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Meemit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "मीम्स",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Memeovi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Mémek",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Meme",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "ミーム",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "짤",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Memai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Memer",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Memy",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Meme",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Мемы",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "มีม",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Meme'ler",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Меми",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Meme",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "表情包",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "迷因",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -1006,160 +1165,6 @@
                         },
                         "zh-TW": {
                             "value": "遊戲開發者",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Настолни игри",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Stolní hry",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Brætspil",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Tabletop-Spiele",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Επιτραπέζια παιχνίδια",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Lautapelit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Jeux de société",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "टेबलटॉप गेम्स",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Stolne igre",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Társasjátékok",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Giochi da tavolo",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "テーブルゲーム",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "테이블탑 게임",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Stalo žaidimai",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Bordspellen",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Brettspill",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Gry planszowe",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Jocuri pe tablă",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Настольные игры",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "เกมกระดาน",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Kutu Oyunları",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Настільні ігри",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Game Chơi Trên Bàn",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Tabletop Games",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Tabletop Games",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Juegos de mesa",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Jogos de tabuleiro",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Bordsspel",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "桌游",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "桌遊",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

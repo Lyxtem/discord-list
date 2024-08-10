@@ -1,14 +1,14 @@
 {
     "id": "511787487291637760",
     "name": "The Political Compass",
-    "description": "Diverse and inclusive political server! come and hangout to debate, play minecraft, do homework, or anything!",
+    "description": "Join our diverse, inclusive political server! Debate, play Minecraft, do homework, and connect with like-minded people!",
     "icon": "a_3da5c15f35878df9ae9a11c53df61424",
-    "splash": "0f54f4f79266cdf9798c3287c93fc2fd",
-    "discovery_splash": null,
+    "splash": "a72ac4da392a997ef8df45bb142f9451",
+    "discovery_splash": "a72ac4da392a997ef8df45bb142f9451",
     "banner": "12c097e99c0e2d32a8ebab156ed9c1d6",
-    "approximate_presence_count": 965,
-    "approximate_member_count": 7205,
-    "premium_subscription_count": 18,
+    "approximate_presence_count": 915,
+    "approximate_member_count": 7200,
+    "premium_subscription_count": 24,
     "preferred_locale": "en-US",
     "vanity_url_code": "polcom",
     "keywords": [
@@ -35,19 +35,19 @@
     "raw": {
         "id": "511787487291637760",
         "name": "The Political Compass",
-        "description": "Diverse and inclusive political server! come and hangout to debate, play minecraft, do homework, or anything!",
+        "description": "Join our diverse, inclusive political server! Debate, play Minecraft, do homework, and connect with like-minded people!",
         "icon": "a_3da5c15f35878df9ae9a11c53df61424",
-        "splash": "0f54f4f79266cdf9798c3287c93fc2fd",
+        "splash": "a72ac4da392a997ef8df45bb142f9451",
         "banner": "12c097e99c0e2d32a8ebab156ed9c1d6",
-        "approximate_presence_count": 965,
-        "approximate_member_count": 7205,
-        "premium_subscription_count": 18,
+        "approximate_presence_count": 915,
+        "approximate_member_count": 7200,
+        "premium_subscription_count": 24,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": null,
-        "primary_category_id": 13,
+        "discovery_splash": "a72ac4da392a997ef8df45bb142f9451",
+        "primary_category_id": 14,
         "vanity_url_code": "polcom",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
             "Hearts of Iron",
             "debate",
@@ -180,98 +180,115 @@
                 }
             },
             {
-                "id": 42,
-                "is_primary": false,
-                "name": "Subreddit",
-                "name_localizations": {
-                    "bg": "Тема в reddit",
-                    "cs": "Subreddit",
-                    "da": "Subreddit",
-                    "de": "Subreddit",
-                    "el": "Subreddit",
-                    "fi": "Alareddit",
-                    "fr": "Subreddit",
-                    "hi": "सब-रेडिट",
-                    "hr": "Subreddit",
-                    "hu": "Subreddit",
-                    "it": "Subreddit",
-                    "ja": "Subreddit",
-                    "ko": "서브레딧",
-                    "lt": "Subreddit",
-                    "nl": "Subreddit",
-                    "no": "Subreddit",
-                    "pl": "Subreddit",
-                    "ro": "Subreddit",
-                    "ru": "Сабреддит",
-                    "th": "Subreddit",
-                    "tr": "Subreddit",
-                    "uk": "Сабреддіт",
-                    "vi": "Subreddit",
-                    "en-GB": "Subreddit",
-                    "en-US": "Subreddit",
-                    "es-ES": "Subreddit",
-                    "pt-BR": "Subreddit",
-                    "sv-SE": "Subreddit",
-                    "zh-CN": "Reddit讨论区",
-                    "zh-TW": "討論區"
-                }
-            },
-            {
-                "id": 35,
-                "is_primary": false,
-                "name": "Content Creator",
-                "name_localizations": {
-                    "bg": "Създател на съдържание",
-                    "cs": "Tvůrce obsahu",
-                    "da": "Indholdsskaber",
-                    "de": "Content Creator",
-                    "el": "Δημιουργός Περιεχομένου",
-                    "fi": "Sisällöntuottaja",
-                    "fr": "Créateur de contenu",
-                    "hi": "कंटेंट क्रिएटर",
-                    "hr": "Stvaratelj sadržaja",
-                    "hu": "Tartalomkészítő",
-                    "it": "Creazione contenuti",
-                    "ja": "コンテンツクリエイター",
-                    "ko": "콘텐츠 크리에이터",
-                    "lt": "Turinio kūrėjai",
-                    "nl": "Contentontwikkelaar",
-                    "no": "Innholdsskaper",
-                    "pl": "Twórca zawartości",
-                    "ro": "Creator de conținut",
-                    "ru": "Создатель контента",
-                    "th": "ผู้สร้างเนื้อหา",
-                    "tr": "İçerik Üreticisi",
-                    "uk": "Створення контенту",
-                    "vi": "Nhà Sáng Tạo Nội Dung",
-                    "en-GB": "Content creator",
-                    "en-US": "Content Creator",
-                    "es-ES": "Creador de contenido",
-                    "pt-BR": "Criação de Conteúdo",
-                    "sv-SE": "Innehållsskapare",
-                    "zh-CN": "内容创作者",
-                    "zh-TW": "內容創作者"
-                }
-            },
-            {
-                "id": 13,
+                "id": 14,
                 "is_primary": true,
-                "name": "Other",
+                "name": "General Chatting",
                 "name_localizations": {
-                    "de": "Sonstiges",
-                    "fr": "Autre",
-                    "ru": "Другое"
+                    "bg": "Общуване",
+                    "cs": "Prostě chat",
+                    "da": "Generelt",
+                    "de": "Allgemeine Chats",
+                    "el": "Γενική συζήτηση",
+                    "fi": "Yleinen keskustelu",
+                    "fr": "Discussion générale",
+                    "hi": "जनरल चैटिंग",
+                    "hr": "Općenito",
+                    "hu": "Általános csevegés",
+                    "it": "Discussioni generali",
+                    "ja": "雑談",
+                    "ko": "일반 채팅",
+                    "lt": "Bendro pobūdžio pokalbiai",
+                    "nl": "Algemene chat",
+                    "no": "Generell chatting",
+                    "pl": "Rozmowy",
+                    "ro": "Discuții generale",
+                    "ru": "Общение",
+                    "th": "การสนทนาทั่วไป",
+                    "tr": "Genel Sohbet",
+                    "uk": "Спілкування на загальні теми",
+                    "vi": "Trò Chuyện Chung",
+                    "en-GB": "General Chatting",
+                    "en-US": "General Chatting",
+                    "es-ES": "Chateo general",
+                    "pt-BR": "Conversas gerais",
+                    "sv-SE": "Chatt i allmänhet",
+                    "zh-CN": "综合聊天",
+                    "zh-TW": "一般聊天"
+                }
+            },
+            {
+                "id": 26,
+                "is_primary": false,
+                "name": "News & Current Events",
+                "name_localizations": {
+                    "bg": "Новини и актуални събития",
+                    "cs": "Zprávy a aktuální dění",
+                    "da": "Nyheder & nuværende begivenheder",
+                    "de": "Nachrichten & Zeitgeschehen",
+                    "el": "Νέα & Επικαιρότητα",
+                    "fi": "Uutiset ja ajankohtaistapahtumat",
+                    "fr": "Actualité",
+                    "hi": "न्यूज़ और करेंट इवेंट्स",
+                    "hr": "Vijesti i aktualnosti",
+                    "hu": "Hírek és aktuális események",
+                    "it": "Notizie ed eventi attuali",
+                    "ja": "ニュース&時事",
+                    "ko": "뉴스, 시사",
+                    "lt": "Naujienos ir dabartiniai įvykiai",
+                    "nl": "Nieuws en actualiteiten",
+                    "no": "Nyheter og aktuelt",
+                    "pl": "Aktualności i bieżące wydarzenia",
+                    "ro": "Actualități",
+                    "ru": "Новости и текущие события",
+                    "th": "ข่าวสารและเหตุการณ์ปัจจุบัน",
+                    "tr": "Haberler ve Güncel Olaylar",
+                    "uk": "Новини й поточні події",
+                    "vi": "Tin Tức & Sự Kiện Đang Diễn Ra",
+                    "en-GB": "News & Current Events",
+                    "en-US": "News & Current Events",
+                    "es-ES": "Noticias y actualidad",
+                    "pt-BR": "Notícias e Atualidades",
+                    "sv-SE": "Nyheter och aktuella händelser",
+                    "zh-CN": "新闻&时事",
+                    "zh-TW": "新消息與目前活動"
                 }
             }
         ],
         "primary_category": {
-            "id": 13,
+            "id": 14,
             "is_primary": true,
-            "name": "Other",
+            "name": "General Chatting",
             "name_localizations": {
-                "de": "Sonstiges",
-                "fr": "Autre",
-                "ru": "Другое"
+                "bg": "Общуване",
+                "cs": "Prostě chat",
+                "da": "Generelt",
+                "de": "Allgemeine Chats",
+                "el": "Γενική συζήτηση",
+                "fi": "Yleinen keskustelu",
+                "fr": "Discussion générale",
+                "hi": "जनरल चैटिंग",
+                "hr": "Općenito",
+                "hu": "Általános csevegés",
+                "it": "Discussioni generali",
+                "ja": "雑談",
+                "ko": "일반 채팅",
+                "lt": "Bendro pobūdžio pokalbiai",
+                "nl": "Algemene chat",
+                "no": "Generell chatting",
+                "pl": "Rozmowy",
+                "ro": "Discuții generale",
+                "ru": "Общение",
+                "th": "การสนทนาทั่วไป",
+                "tr": "Genel Sohbet",
+                "uk": "Спілкування на загальні теми",
+                "vi": "Trò Chuyện Chung",
+                "en-GB": "General Chatting",
+                "en-US": "General Chatting",
+                "es-ES": "Chateo general",
+                "pt-BR": "Conversas gerais",
+                "sv-SE": "Chatt i allmänhet",
+                "zh-CN": "综合聊天",
+                "zh-TW": "一般聊天"
             }
         },
         "objectID": "511787487291637760",
@@ -282,7 +299,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Diverse and inclusive political server! come and hangout to debate, play minecraft, do homework, or anything!",
+                "value": "Join our diverse, inclusive political server! Debate, play Minecraft, do homework, and connect with like-minded people!",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -809,152 +826,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Тема в reddit",
+                            "value": "Общуване",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Subreddit",
+                            "value": "Prostě chat",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Subreddit",
+                            "value": "Generelt",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Subreddit",
+                            "value": "Allgemeine Chats",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Subreddit",
+                            "value": "Γενική συζήτηση",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Alareddit",
+                            "value": "Yleinen keskustelu",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Subreddit",
+                            "value": "Discussion générale",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "सब-रेडिट",
+                            "value": "जनरल चैटिंग",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Subreddit",
+                            "value": "Općenito",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Subreddit",
+                            "value": "Általános csevegés",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Subreddit",
+                            "value": "Discussioni generali",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "Subreddit",
+                            "value": "雑談",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "서브레딧",
+                            "value": "일반 채팅",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Subreddit",
+                            "value": "Bendro pobūdžio pokalbiai",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Subreddit",
+                            "value": "Algemene chat",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Subreddit",
+                            "value": "Generell chatting",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Subreddit",
+                            "value": "Rozmowy",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Subreddit",
+                            "value": "Discuții generale",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Сабреддит",
+                            "value": "Общение",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "Subreddit",
+                            "value": "การสนทนาทั่วไป",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Subreddit",
+                            "value": "Genel Sohbet",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Сабреддіт",
+                            "value": "Спілкування на загальні теми",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Subreddit",
+                            "value": "Trò Chuyện Chung",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Subreddit",
+                            "value": "General Chatting",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Subreddit",
+                            "value": "General Chatting",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Subreddit",
+                            "value": "Chateo general",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Subreddit",
+                            "value": "Conversas gerais",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Subreddit",
+                            "value": "Chatt i allmänhet",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "Reddit讨论区",
+                            "value": "综合聊天",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "討論區",
+                            "value": "一般聊天",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -963,171 +980,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Създател на съдържание",
+                            "value": "Новини и актуални събития",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Tvůrce obsahu",
+                            "value": "Zprávy a aktuální dění",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Indholdsskaber",
+                            "value": "Nyheder & nuværende begivenheder",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Content Creator",
+                            "value": "Nachrichten & Zeitgeschehen",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Δημιουργός Περιεχομένου",
+                            "value": "Νέα & Επικαιρότητα",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Sisällöntuottaja",
+                            "value": "Uutiset ja ajankohtaistapahtumat",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Créateur de contenu",
+                            "value": "Actualité",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "कंटेंट क्रिएटर",
+                            "value": "न्यूज़ और करेंट इवेंट्स",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Stvaratelj sadržaja",
+                            "value": "Vijesti i aktualnosti",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Tartalomkészítő",
+                            "value": "Hírek és aktuális események",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Creazione contenuti",
+                            "value": "Notizie ed eventi attuali",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "コンテンツクリエイター",
+                            "value": "ニュース&時事",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "콘텐츠 크리에이터",
+                            "value": "뉴스, 시사",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Turinio kūrėjai",
+                            "value": "Naujienos ir dabartiniai įvykiai",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Contentontwikkelaar",
+                            "value": "Nieuws en actualiteiten",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Innholdsskaper",
+                            "value": "Nyheter og aktuelt",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Twórca zawartości",
+                            "value": "Aktualności i bieżące wydarzenia",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Creator de conținut",
+                            "value": "Actualități",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Создатель контента",
+                            "value": "Новости и текущие события",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "ผู้สร้างเนื้อหา",
+                            "value": "ข่าวสารและเหตุการณ์ปัจจุบัน",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "İçerik Üreticisi",
+                            "value": "Haberler ve Güncel Olaylar",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Створення контенту",
+                            "value": "Новини й поточні події",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Nhà Sáng Tạo Nội Dung",
+                            "value": "Tin Tức & Sự Kiện Đang Diễn Ra",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Content creator",
+                            "value": "News & Current Events",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Content Creator",
+                            "value": "News & Current Events",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Creador de contenido",
+                            "value": "Noticias y actualidad",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Criação de Conteúdo",
+                            "value": "Notícias e Atualidades",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Innehållsskapare",
+                            "value": "Nyheter och aktuella händelser",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "内容创作者",
+                            "value": "新闻&时事",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "內容創作者",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sonstiges",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Autre",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Другое",
+                            "value": "新消息與目前活動",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -1136,18 +1134,153 @@
             ],
             "primary_category": {
                 "name_localizations": {
+                    "bg": {
+                        "value": "Общуване",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "cs": {
+                        "value": "Prostě chat",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "da": {
+                        "value": "Generelt",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
                     "de": {
-                        "value": "Sonstiges",
+                        "value": "Allgemeine Chats",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "el": {
+                        "value": "Γενική συζήτηση",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "fi": {
+                        "value": "Yleinen keskustelu",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "fr": {
-                        "value": "Autre",
+                        "value": "Discussion générale",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hi": {
+                        "value": "जनरल चैटिंग",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hr": {
+                        "value": "Općenito",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hu": {
+                        "value": "Általános csevegés",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "it": {
+                        "value": "Discussioni generali",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ja": {
+                        "value": "雑談",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ko": {
+                        "value": "일반 채팅",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "lt": {
+                        "value": "Bendro pobūdžio pokalbiai",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "nl": {
+                        "value": "Algemene chat",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "no": {
+                        "value": "Generell chatting",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "pl": {
+                        "value": "Rozmowy",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ro": {
+                        "value": "Discuții generale",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ru": {
-                        "value": "Другое",
+                        "value": "Общение",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "th": {
+                        "value": "การสนทนาทั่วไป",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "tr": {
+                        "value": "Genel Sohbet",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "uk": {
+                        "value": "Спілкування на загальні теми",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "vi": {
+                        "value": "Trò Chuyện Chung",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "en-GB": {
+                        "value": "General Chatting",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "en-US": {
+                        "value": "General Chatting",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "es-ES": {
+                        "value": "Chateo general",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "pt-BR": {
+                        "value": "Conversas gerais",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "sv-SE": {
+                        "value": "Chatt i allmänhet",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "zh-CN": {
+                        "value": "综合聊天",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "zh-TW": {
+                        "value": "一般聊天",
                         "matchLevel": "none",
                         "matchedWords": []
                     }

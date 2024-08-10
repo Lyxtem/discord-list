@@ -1,22 +1,22 @@
 {
     "id": "842021106956238848",
     "name": "Rootstock",
-    "description": "Discuss everything related to the Rootstock ecosystem. RIF product suite and more!",
+    "description": "Discuss everything related to the Rootstock ecosystem, RIF product suite and more!",
     "icon": "65c0382d5c7aa1759ce900106198bae1",
     "splash": "2c6a21b6138e3cb21c4daa41894c1198",
     "discovery_splash": "c1a98d09ecdea0b0b0ea4b89ae28a6b5",
-    "banner": "a_fced4959ea0f8ac4f9881b79172ea614",
-    "approximate_presence_count": 282,
-    "approximate_member_count": 3143,
+    "banner": "a_309ad67823c5a41846ffb09b8894758c",
+    "approximate_presence_count": 582,
+    "approximate_member_count": 7378,
     "premium_subscription_count": 14,
     "preferred_locale": "en-US",
     "vanity_url_code": "rootstock",
     "keywords": [
+        "bitcoin",
         "blockchain",
         "crypto",
         "cryptocurrency",
         "github",
-        "hardware",
         "rif",
         "rootstock",
         "rsk",
@@ -27,20 +27,20 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "PREVIEW_ENABLED",
-        "WELCOME_SCREEN_ENABLED"
+        "MEMBER_VERIFICATION_GATE_ENABLED",
+        "PREVIEW_ENABLED"
     ],
     "partnered": false,
     "verified": false,
     "raw": {
         "id": "842021106956238848",
         "name": "Rootstock",
-        "description": "Discuss everything related to the Rootstock ecosystem. RIF product suite and more!",
+        "description": "Discuss everything related to the Rootstock ecosystem, RIF product suite and more!",
         "icon": "65c0382d5c7aa1759ce900106198bae1",
         "splash": "2c6a21b6138e3cb21c4daa41894c1198",
-        "banner": "a_fced4959ea0f8ac4f9881b79172ea614",
-        "approximate_presence_count": 282,
-        "approximate_member_count": 3143,
+        "banner": "a_309ad67823c5a41846ffb09b8894758c",
+        "approximate_presence_count": 582,
+        "approximate_member_count": 7378,
         "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -49,11 +49,11 @@
         "vanity_url_code": "rootstock",
         "is_published": true,
         "keywords": [
+            "bitcoin",
             "blockchain",
             "crypto",
             "cryptocurrency",
             "github",
-            "hardware",
             "rif",
             "rootstock",
             "rsk",
@@ -64,8 +64,8 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "PREVIEW_ENABLED",
-            "WELCOME_SCREEN_ENABLED"
+            "MEMBER_VERIFICATION_GATE_ENABLED",
+            "PREVIEW_ENABLED"
         ],
         "categories": [
             {
@@ -225,7 +225,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Discuss everything related to the Rootstock ecosystem. RIF product suite and more!",
+                "value": "Discuss everything related to the Rootstock ecosystem, RIF product suite and more!",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -235,6 +235,11 @@
                 "matchedWords": []
             },
             "keywords": [
+                {
+                    "value": "bitcoin",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
                 {
                     "value": "blockchain",
                     "matchLevel": "none",
@@ -252,11 +257,6 @@
                 },
                 {
                     "value": "github",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "hardware",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
