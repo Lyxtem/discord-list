@@ -2,13 +2,13 @@
     "id": "610276879252848681",
     "name": "Madden NFL Mobile",
     "description": "Join the Official EA Madden NFL Mobile Discord to talk about the game, hear about new promos, enter giveaways, and more!",
-    "icon": "a2d95e1c980e65e7d683e4dcce4cfee7",
-    "splash": "0d203bb8c19db9a85b1b42fd233d1bf6",
-    "discovery_splash": "0d203bb8c19db9a85b1b42fd233d1bf6",
-    "banner": "4446a5157edba70c7f13dfe41dc04685",
-    "approximate_presence_count": 1182,
-    "approximate_member_count": 30071,
-    "premium_subscription_count": 26,
+    "icon": "4a2bffa8e1e78e89c0020ba1b852bf5a",
+    "splash": "40a9927775bf66fc83b15a521bc4cb1f",
+    "discovery_splash": "40a9927775bf66fc83b15a521bc4cb1f",
+    "banner": "a74e4e7b9a14512f9641956dfa2fe1e1",
+    "approximate_presence_count": 1515,
+    "approximate_member_count": 29379,
+    "premium_subscription_count": 14,
     "preferred_locale": "en-US",
     "vanity_url_code": "maddenmobile",
     "keywords": [
@@ -35,15 +35,15 @@
         "id": "610276879252848681",
         "name": "Madden NFL Mobile",
         "description": "Join the Official EA Madden NFL Mobile Discord to talk about the game, hear about new promos, enter giveaways, and more!",
-        "icon": "a2d95e1c980e65e7d683e4dcce4cfee7",
-        "splash": "0d203bb8c19db9a85b1b42fd233d1bf6",
-        "banner": "4446a5157edba70c7f13dfe41dc04685",
-        "approximate_presence_count": 1182,
-        "approximate_member_count": 30071,
-        "premium_subscription_count": 26,
+        "icon": "4a2bffa8e1e78e89c0020ba1b852bf5a",
+        "splash": "40a9927775bf66fc83b15a521bc4cb1f",
+        "banner": "a74e4e7b9a14512f9641956dfa2fe1e1",
+        "approximate_presence_count": 1515,
+        "approximate_member_count": 29379,
+        "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "0d203bb8c19db9a85b1b42fd233d1bf6",
+        "discovery_splash": "40a9927775bf66fc83b15a521bc4cb1f",
         "primary_category_id": 1,
         "vanity_url_code": "maddenmobile",
         "is_published": false,
@@ -66,6 +66,16 @@
             "PREVIEW_ENABLED"
         ],
         "categories": [
+            {
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
+                "name_localizations": {
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
             {
                 "id": 45,
                 "is_primary": false,
@@ -138,16 +148,6 @@
                     "sv-SE": "Gaming",
                     "zh-CN": "游戏",
                     "zh-TW": "遊戲"
-                }
-            },
-            {
-                "id": 7,
-                "is_primary": true,
-                "name": "Sports",
-                "name_localizations": {
-                    "de": "Sport",
-                    "fr": "Sports",
-                    "ru": "Спорт"
                 }
             }
         ],
@@ -258,6 +258,25 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -561,25 +580,6 @@
                         },
                         "zh-TW": {
                             "value": "遊戲",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sport",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Sports",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Спорт",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
