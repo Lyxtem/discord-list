@@ -6,12 +6,13 @@
     "splash": null,
     "discovery_splash": "8a2e9ca040ca4d0c9fc0f224953dc992",
     "banner": "b7722c99aea0d6fef3a2be51fccfff57",
-    "approximate_presence_count": 263,
-    "approximate_member_count": 2673,
+    "approximate_presence_count": 328,
+    "approximate_member_count": 3665,
     "premium_subscription_count": 17,
     "preferred_locale": "en-US",
     "vanity_url_code": "strangeparadigms",
     "keywords": [
+        "#guild",
         "aliens",
         "bigfoot",
         "cristinagomez",
@@ -20,7 +21,6 @@
         "space",
         "uap",
         "ufo",
-        "ufos",
         "universe"
     ],
     "features": [
@@ -39,8 +39,8 @@
         "icon": "62f6f5f24feeb9b6cca704168107d139",
         "splash": null,
         "banner": "b7722c99aea0d6fef3a2be51fccfff57",
-        "approximate_presence_count": 263,
-        "approximate_member_count": 2673,
+        "approximate_presence_count": 328,
+        "approximate_member_count": 3665,
         "premium_subscription_count": 17,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -49,6 +49,7 @@
         "vanity_url_code": "strangeparadigms",
         "is_published": true,
         "keywords": [
+            "#guild",
             "aliens",
             "bigfoot",
             "cristinagomez",
@@ -57,7 +58,6 @@
             "space",
             "uap",
             "ufo",
-            "ufos",
             "universe"
         ],
         "features": [
@@ -283,6 +283,11 @@
             },
             "keywords": [
                 {
+                    "value": "#guild",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "aliens",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -319,11 +324,6 @@
                 },
                 {
                     "value": "ufo",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "ufos",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
