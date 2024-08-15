@@ -6,21 +6,21 @@
     "splash": "9f38762e18c0d2795fd09476262cc825",
     "discovery_splash": "50329a3b58e0248acc848ebc660aeb92",
     "banner": "e69046164d39e3bd004ae85e58ccfe8c",
-    "approximate_presence_count": 6095,
-    "approximate_member_count": 159844,
+    "approximate_presence_count": 7530,
+    "approximate_member_count": 159861,
     "premium_subscription_count": 14,
     "preferred_locale": "en-US",
     "vanity_url_code": "okx",
     "keywords": [
         "binance",
         "bitcoin",
+        "bitget",
         "btc",
         "bybit",
+        "coinbase",
         "crypto",
-        "kucoin",
         "nft",
         "okx",
-        "upbit",
         "web3"
     ],
     "features": [
@@ -39,8 +39,8 @@
         "icon": "a_05c1776f11e715bd570b46452c392584",
         "splash": "9f38762e18c0d2795fd09476262cc825",
         "banner": "e69046164d39e3bd004ae85e58ccfe8c",
-        "approximate_presence_count": 6095,
-        "approximate_member_count": 159844,
+        "approximate_presence_count": 7530,
+        "approximate_member_count": 159861,
         "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -51,13 +51,13 @@
         "keywords": [
             "binance",
             "bitcoin",
+            "bitget",
             "btc",
             "bybit",
+            "coinbase",
             "crypto",
-            "kucoin",
             "nft",
             "okx",
-            "upbit",
             "web3"
         ],
         "features": [
@@ -293,6 +293,11 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "bitget",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "btc",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -303,12 +308,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "crypto",
+                    "value": "coinbase",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "kucoin",
+                    "value": "crypto",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -319,11 +324,6 @@
                 },
                 {
                     "value": "okx",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "upbit",
                     "matchLevel": "none",
                     "matchedWords": []
                 },

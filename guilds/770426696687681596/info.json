@@ -6,22 +6,22 @@
     "splash": "60debc015dec1e17ca30f82c6b1a4515",
     "discovery_splash": "1006ec7a659e70f666a63220c38c413b",
     "banner": "2283a046b4c2120b3d2cde05767d68be",
-    "approximate_presence_count": 1260,
-    "approximate_member_count": 7617,
+    "approximate_presence_count": 965,
+    "approximate_member_count": 7657,
     "premium_subscription_count": 10,
     "preferred_locale": "es-ES",
     "vanity_url_code": null,
     "keywords": [
         "anime",
-        "twitch",
+        "charla",
+        "genshin",
+        "guias",
         "juegos",
         "memes",
+        "social",
         "streamer",
-        "youtube",
-        "manga",
-        "charla",
-        "guias",
-        "social"
+        "twitch",
+        "youtube"
     ],
     "features": [
         "COMMUNITY",
@@ -39,8 +39,8 @@
         "icon": "e80fe494c1b8e27824d0ab8ac6512425",
         "splash": "60debc015dec1e17ca30f82c6b1a4515",
         "banner": "2283a046b4c2120b3d2cde05767d68be",
-        "approximate_presence_count": 1260,
-        "approximate_member_count": 7617,
+        "approximate_presence_count": 965,
+        "approximate_member_count": 7657,
         "premium_subscription_count": 10,
         "preferred_locale": "es-ES",
         "auto_removed": false,
@@ -50,15 +50,15 @@
         "is_published": false,
         "keywords": [
             "anime",
-            "twitch",
+            "charla",
+            "genshin",
+            "guias",
             "juegos",
             "memes",
+            "social",
             "streamer",
-            "youtube",
-            "manga",
-            "charla",
-            "guias",
-            "social"
+            "twitch",
+            "youtube"
         ],
         "features": [
             "COMMUNITY",
@@ -347,7 +347,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "twitch",
+                    "value": "charla",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "genshin",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "guias",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -362,32 +372,22 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "social",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "streamer",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
+                    "value": "twitch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "youtube",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "manga",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "charla",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "guias",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "social",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

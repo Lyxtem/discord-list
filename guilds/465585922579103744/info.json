@@ -6,11 +6,11 @@
     "splash": "b5a224ab59667c5aff3883cd55b22e94",
     "discovery_splash": "6bb5996807c4e924becb0b70d1d6bfa3",
     "banner": "c874cbb399a3e1e5e4b37e63fc372bb6",
-    "approximate_presence_count": 1699,
-    "approximate_member_count": 7747,
-    "premium_subscription_count": 10,
+    "approximate_presence_count": 1910,
+    "approximate_member_count": 7827,
+    "premium_subscription_count": 16,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "emudev",
     "keywords": [
         "programming",
         "tech",
@@ -39,14 +39,14 @@
         "icon": "a_353c37c131122dd0d1aad13c9fbc08c3",
         "splash": "b5a224ab59667c5aff3883cd55b22e94",
         "banner": "c874cbb399a3e1e5e4b37e63fc372bb6",
-        "approximate_presence_count": 1699,
-        "approximate_member_count": 7747,
-        "premium_subscription_count": 10,
+        "approximate_presence_count": 1910,
+        "approximate_member_count": 7827,
+        "premium_subscription_count": 16,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "6bb5996807c4e924becb0b70d1d6bfa3",
         "primary_category_id": 5,
-        "vanity_url_code": null,
+        "vanity_url_code": "emudev",
         "is_published": false,
         "keywords": [
             "programming",
@@ -300,6 +300,11 @@
             },
             "description": {
                 "value": "A community of people developing emulation software mostly for video-game consoles, for fun, learning & preservation.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "emudev",
                 "matchLevel": "none",
                 "matchedWords": []
             },
