@@ -6,22 +6,22 @@
     "splash": "c31fdc379e729be6c9b5177cf11d3c0b",
     "discovery_splash": "4686a8288a07118c67bd41717901d39c",
     "banner": "c30585ab6f43e2be1dd2d5b750bb1017",
-    "approximate_presence_count": 300,
-    "approximate_member_count": 4059,
+    "approximate_presence_count": 332,
+    "approximate_member_count": 4172,
     "premium_subscription_count": 14,
     "preferred_locale": "en-US",
     "vanity_url_code": "kireth",
     "keywords": [
-        "gt",
+        "acc",
+        "f1",
         "granturismo",
+        "gt",
         "gt7",
         "iracing",
-        "simracing",
-        "acc",
         "kireth",
-        "f1",
+        "motorsport",
         "racing",
-        "motorsport"
+        "simracing"
     ],
     "features": [
         "COMMUNITY",
@@ -39,8 +39,8 @@
         "icon": "fd25e3f31e2e1b75dd883b38e0498494",
         "splash": "c31fdc379e729be6c9b5177cf11d3c0b",
         "banner": "c30585ab6f43e2be1dd2d5b750bb1017",
-        "approximate_presence_count": 300,
-        "approximate_member_count": 4059,
+        "approximate_presence_count": 332,
+        "approximate_member_count": 4172,
         "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -49,16 +49,16 @@
         "vanity_url_code": "kireth",
         "is_published": true,
         "keywords": [
-            "gt",
+            "acc",
+            "f1",
             "granturismo",
+            "gt",
             "gt7",
             "iracing",
-            "simracing",
-            "acc",
             "kireth",
-            "f1",
+            "motorsport",
             "racing",
-            "motorsport"
+            "simracing"
         ],
         "features": [
             "COMMUNITY",
@@ -283,12 +283,22 @@
             },
             "keywords": [
                 {
-                    "value": "gt",
+                    "value": "acc",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "f1",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "granturismo",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "gt",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -303,22 +313,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "simracing",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "acc",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "kireth",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "f1",
+                    "value": "motorsport",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -328,7 +328,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "motorsport",
+                    "value": "simracing",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
