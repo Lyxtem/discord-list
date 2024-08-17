@@ -6,22 +6,22 @@
     "splash": "89cb1d624c9971ccae7ed7ec438bd56a",
     "discovery_splash": "b2439b9543051435f377a56804977ffa",
     "banner": "eb3e8f5af15d29c7af32017da564b0f5",
-    "approximate_presence_count": 2945,
-    "approximate_member_count": 22359,
-    "premium_subscription_count": 70,
+    "approximate_presence_count": 3050,
+    "approximate_member_count": 22783,
+    "premium_subscription_count": 72,
     "preferred_locale": "en-US",
     "vanity_url_code": "rumbleroyale",
     "keywords": [
-        "giveaways",
-        "fun",
         "battle",
-        "royale",
-        "support",
+        "events",
         "fight",
+        "fun",
         "games",
+        "giveaways",
         "hunger",
-        "bots",
-        "events"
+        "royale",
+        "rumble",
+        "support"
     ],
     "features": [
         "COMMUNITY",
@@ -39,9 +39,9 @@
         "icon": "a_ba38b01a67854b1b819d8e97c2e70d76",
         "splash": "89cb1d624c9971ccae7ed7ec438bd56a",
         "banner": "eb3e8f5af15d29c7af32017da564b0f5",
-        "approximate_presence_count": 2945,
-        "approximate_member_count": 22359,
-        "premium_subscription_count": 70,
+        "approximate_presence_count": 3050,
+        "approximate_member_count": 22783,
+        "premium_subscription_count": 72,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "b2439b9543051435f377a56804977ffa",
@@ -49,16 +49,16 @@
         "vanity_url_code": "rumbleroyale",
         "is_published": true,
         "keywords": [
-            "giveaways",
-            "fun",
             "battle",
-            "royale",
-            "support",
+            "events",
             "fight",
+            "fun",
             "games",
+            "giveaways",
             "hunger",
-            "bots",
-            "events"
+            "royale",
+            "rumble",
+            "support"
         ],
         "features": [
             "COMMUNITY",
@@ -310,27 +310,12 @@
             },
             "keywords": [
                 {
-                    "value": "giveaways",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "fun",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "battle",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "royale",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "support",
+                    "value": "events",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -340,7 +325,17 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "fun",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "games",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "giveaways",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -350,12 +345,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "bots",
+                    "value": "royale",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "events",
+                    "value": "rumble",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "support",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
