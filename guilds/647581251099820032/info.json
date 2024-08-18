@@ -1,16 +1,16 @@
 {
     "id": "647581251099820032",
-    "name": "LPC",
+    "name": "/LPC",
     "description": "LPC is a fun community server for anybody who likes fashion, talking, and games! Actively text & voice chat with others!",
     "icon": "a_eada9e4d03c32a5562963c1b649633d1",
     "splash": "819e8f8547290880135d9d2da8136b62",
-    "discovery_splash": "99ee852ec51bd81294bdd5054219398d",
-    "banner": "33cd91d325089eb43749f06c2feac23e",
-    "approximate_presence_count": 157,
-    "approximate_member_count": 2193,
-    "premium_subscription_count": 7,
+    "discovery_splash": "00f7089b7765f106150c0596d29c8716",
+    "banner": "e8494f28af5528a6381330e676ea6a4d",
+    "approximate_presence_count": 155,
+    "approximate_member_count": 2135,
+    "premium_subscription_count": 23,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "lpc",
     "keywords": [
         "anime",
         "chat",
@@ -28,26 +28,27 @@
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "PREVIEW_ENABLED"
+        "PREVIEW_ENABLED",
+        "WELCOME_SCREEN_ENABLED"
     ],
     "partnered": false,
     "verified": false,
     "raw": {
         "id": "647581251099820032",
-        "name": "LPC",
+        "name": "/LPC",
         "description": "LPC is a fun community server for anybody who likes fashion, talking, and games! Actively text & voice chat with others!",
         "icon": "a_eada9e4d03c32a5562963c1b649633d1",
         "splash": "819e8f8547290880135d9d2da8136b62",
-        "banner": "33cd91d325089eb43749f06c2feac23e",
-        "approximate_presence_count": 157,
-        "approximate_member_count": 2193,
-        "premium_subscription_count": 7,
+        "banner": "e8494f28af5528a6381330e676ea6a4d",
+        "approximate_presence_count": 155,
+        "approximate_member_count": 2135,
+        "premium_subscription_count": 23,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "99ee852ec51bd81294bdd5054219398d",
+        "discovery_splash": "00f7089b7765f106150c0596d29c8716",
         "primary_category_id": 14,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "lpc",
+        "is_published": true,
         "keywords": [
             "anime",
             "chat",
@@ -65,7 +66,8 @@
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "PREVIEW_ENABLED"
+            "PREVIEW_ENABLED",
+            "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
             {
@@ -331,12 +333,17 @@
         "objectID": "647581251099820032",
         "_highlightResult": {
             "name": {
-                "value": "LPC",
+                "value": "/LPC",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "description": {
                 "value": "LPC is a fun community server for anybody who likes fashion, talking, and games! Actively text & voice chat with others!",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "lpc",
                 "matchLevel": "none",
                 "matchedWords": []
             },

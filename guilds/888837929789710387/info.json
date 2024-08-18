@@ -1,27 +1,27 @@
 {
     "id": "888837929789710387",
     "name": "Archcraft",
-    "description": "The official discord server of Archcraft, A Linux Distribution.",
+    "description": "The Official Discord Server Of Archcraft, A Linux Distribution.",
     "icon": "4074363da8410d5d62134b1b11836d54",
-    "splash": null,
+    "splash": "b457e6eae3089aa3e7c58b5a33dabc02",
     "discovery_splash": "ceef30698c7bfc5b5957fe7d9efc97df",
     "banner": null,
-    "approximate_presence_count": 253,
-    "approximate_member_count": 1960,
-    "premium_subscription_count": 0,
+    "approximate_presence_count": 290,
+    "approximate_member_count": 2149,
+    "premium_subscription_count": 2,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "archcraft-888837929789710387",
     "keywords": [
+        "arch",
         "archcraft",
         "archlinux",
-        "arch",
+        "gnu",
         "linux",
         "operatingsystem",
         "os",
         "unix",
         "windowmanager",
-        "wm",
-        "gnu"
+        "wm"
     ],
     "features": [
         "COMMUNITY",
@@ -36,30 +36,30 @@
     "raw": {
         "id": "888837929789710387",
         "name": "Archcraft",
-        "description": "The official discord server of Archcraft, A Linux Distribution.",
+        "description": "The Official Discord Server Of Archcraft, A Linux Distribution.",
         "icon": "4074363da8410d5d62134b1b11836d54",
-        "splash": null,
+        "splash": "b457e6eae3089aa3e7c58b5a33dabc02",
         "banner": null,
-        "approximate_presence_count": 253,
-        "approximate_member_count": 1960,
-        "premium_subscription_count": 0,
+        "approximate_presence_count": 290,
+        "approximate_member_count": 2149,
+        "premium_subscription_count": 2,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "ceef30698c7bfc5b5957fe7d9efc97df",
         "primary_category_id": 5,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "archcraft-888837929789710387",
+        "is_published": true,
         "keywords": [
+            "arch",
             "archcraft",
             "archlinux",
-            "arch",
+            "gnu",
             "linux",
             "operatingsystem",
             "os",
             "unix",
             "windowmanager",
-            "wm",
-            "gnu"
+            "wm"
         ],
         "features": [
             "COMMUNITY",
@@ -301,11 +301,21 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "The official discord server of Archcraft, A Linux Distribution.",
+                "value": "The Official Discord Server Of Archcraft, A Linux Distribution.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "archcraft-888837929789710387",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
+                {
+                    "value": "arch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
                 {
                     "value": "archcraft",
                     "matchLevel": "none",
@@ -317,7 +327,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "arch",
+                    "value": "gnu",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -348,11 +358,6 @@
                 },
                 {
                     "value": "wm",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "gnu",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

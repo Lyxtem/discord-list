@@ -1,32 +1,33 @@
 {
     "id": "943185484723666984",
     "name": "Gachiakuta",
-    "description": "A server dedicated to Kei Urana's manga series Gachiakuta!",
-    "icon": "a_8aed66ae5333e8934dca6acc9038c8c1",
-    "splash": "b23cbc110386de549ca85388024c7750",
+    "description": "Welcome to the server and community dedicated to the Gachiakuta manga by Kei Urana",
+    "icon": "a_0cb2a924f126f6358bbb1450a2b7259c",
+    "splash": "efba0bf077d4b3969ee87b20bbfa4666",
     "discovery_splash": "2fbb010e583586b5372aa3c62f6efbb2",
-    "banner": "2e96011527cc1133e233efeffa03a9f2",
-    "approximate_presence_count": 300,
-    "approximate_member_count": 1343,
-    "premium_subscription_count": 6,
+    "banner": "20d8ee2c680e8f46790818c9304440a8",
+    "approximate_presence_count": 637,
+    "approximate_member_count": 2129,
+    "premium_subscription_count": 11,
     "preferred_locale": "en-US",
     "vanity_url_code": "gachiakuta-943185484723666984",
     "keywords": [
-        "gachiakuta",
-        "manga",
-        "wsm",
+        "anime",
         "fire force",
+        "gachiakuta",
         "kei urana",
-        "weekly shonen magazine",
+        "manga",
         "soul eater",
         "weekly shonen jump",
+        "weekly shonen magazine",
         "wsj",
-        "anime"
+        "wsm"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -35,13 +36,13 @@
     "raw": {
         "id": "943185484723666984",
         "name": "Gachiakuta",
-        "description": "A server dedicated to Kei Urana's manga series Gachiakuta!",
-        "icon": "a_8aed66ae5333e8934dca6acc9038c8c1",
-        "splash": "b23cbc110386de549ca85388024c7750",
-        "banner": "2e96011527cc1133e233efeffa03a9f2",
-        "approximate_presence_count": 300,
-        "approximate_member_count": 1343,
-        "premium_subscription_count": 6,
+        "description": "Welcome to the server and community dedicated to the Gachiakuta manga by Kei Urana",
+        "icon": "a_0cb2a924f126f6358bbb1450a2b7259c",
+        "splash": "efba0bf077d4b3969ee87b20bbfa4666",
+        "banner": "20d8ee2c680e8f46790818c9304440a8",
+        "approximate_presence_count": 637,
+        "approximate_member_count": 2129,
+        "premium_subscription_count": 11,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "2fbb010e583586b5372aa3c62f6efbb2",
@@ -49,21 +50,22 @@
         "vanity_url_code": "gachiakuta-943185484723666984",
         "is_published": true,
         "keywords": [
-            "gachiakuta",
-            "manga",
-            "wsm",
+            "anime",
             "fire force",
+            "gachiakuta",
             "kei urana",
-            "weekly shonen magazine",
+            "manga",
             "soul eater",
             "weekly shonen jump",
+            "weekly shonen magazine",
             "wsj",
-            "anime"
+            "wsm"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -106,43 +108,6 @@
                 }
             },
             {
-                "id": 42,
-                "is_primary": false,
-                "name": "Subreddit",
-                "name_localizations": {
-                    "bg": "Тема в reddit",
-                    "cs": "Subreddit",
-                    "da": "Subreddit",
-                    "de": "Subreddit",
-                    "el": "Subreddit",
-                    "fi": "Alareddit",
-                    "fr": "Subreddit",
-                    "hi": "सब-रेडिट",
-                    "hr": "Subreddit",
-                    "hu": "Subreddit",
-                    "it": "Subreddit",
-                    "ja": "Subreddit",
-                    "ko": "서브레딧",
-                    "lt": "Subreddit",
-                    "nl": "Subreddit",
-                    "no": "Subreddit",
-                    "pl": "Subreddit",
-                    "ro": "Subreddit",
-                    "ru": "Сабреддит",
-                    "th": "Subreddit",
-                    "tr": "Subreddit",
-                    "uk": "Сабреддіт",
-                    "vi": "Subreddit",
-                    "en-GB": "Subreddit",
-                    "en-US": "Subreddit",
-                    "es-ES": "Subreddit",
-                    "pt-BR": "Subreddit",
-                    "sv-SE": "Subreddit",
-                    "zh-CN": "Reddit讨论区",
-                    "zh-TW": "討論區"
-                }
-            },
-            {
                 "id": 16,
                 "is_primary": false,
                 "name": "Anime & Manga",
@@ -177,6 +142,43 @@
                     "sv-SE": "Anime och manga",
                     "zh-CN": "动画&漫画",
                     "zh-TW": "動畫與漫畫"
+                }
+            },
+            {
+                "id": 42,
+                "is_primary": false,
+                "name": "Subreddit",
+                "name_localizations": {
+                    "bg": "Тема в reddit",
+                    "cs": "Subreddit",
+                    "da": "Subreddit",
+                    "de": "Subreddit",
+                    "el": "Subreddit",
+                    "fi": "Alareddit",
+                    "fr": "Subreddit",
+                    "hi": "सब-रेडिट",
+                    "hr": "Subreddit",
+                    "hu": "Subreddit",
+                    "it": "Subreddit",
+                    "ja": "Subreddit",
+                    "ko": "서브레딧",
+                    "lt": "Subreddit",
+                    "nl": "Subreddit",
+                    "no": "Subreddit",
+                    "pl": "Subreddit",
+                    "ro": "Subreddit",
+                    "ru": "Сабреддит",
+                    "th": "Subreddit",
+                    "tr": "Subreddit",
+                    "uk": "Сабреддіт",
+                    "vi": "Subreddit",
+                    "en-GB": "Subreddit",
+                    "en-US": "Subreddit",
+                    "es-ES": "Subreddit",
+                    "pt-BR": "Subreddit",
+                    "sv-SE": "Subreddit",
+                    "zh-CN": "Reddit讨论区",
+                    "zh-TW": "討論區"
                 }
             }
         ],
@@ -225,7 +227,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "A server dedicated to Kei Urana's manga series Gachiakuta!",
+                "value": "Welcome to the server and community dedicated to the Gachiakuta manga by Kei Urana",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -236,17 +238,7 @@
             },
             "keywords": [
                 {
-                    "value": "gachiakuta",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "manga",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "wsm",
+                    "value": "anime",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -256,12 +248,17 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "gachiakuta",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "kei urana",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "weekly shonen magazine",
+                    "value": "manga",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -276,12 +273,17 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "weekly shonen magazine",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "wsj",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "anime",
+                    "value": "wsm",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
@@ -444,160 +446,6 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Тема в reddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Alareddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "सब-रेडिट",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "서브레딧",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Сабреддит",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Сабреддіт",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Subreddit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "Reddit讨论区",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "討論區",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
                             "value": "Аниме и манга",
                             "matchLevel": "none",
                             "matchedWords": []
@@ -744,6 +592,160 @@
                         },
                         "zh-TW": {
                             "value": "動畫與漫畫",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Тема в reddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Alareddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "सब-रेडिट",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "서브레딧",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Сабреддит",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Сабреддіт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "Reddit讨论区",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "討論區",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
