@@ -6,28 +6,18 @@
     "splash": "1f940179b6344a31862d3b80fcff9e87",
     "discovery_splash": null,
     "banner": null,
-    "approximate_presence_count": 1020,
-    "approximate_member_count": 4196,
-    "premium_subscription_count": 5,
+    "approximate_presence_count": 712,
+    "approximate_member_count": 3763,
+    "premium_subscription_count": 1,
     "preferred_locale": "en-US",
     "vanity_url_code": "rokkr",
     "keywords": [],
     "features": [
-        "ANIMATED_ICON",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_MEDIUM",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "INVITE_SPLASH",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "NEWS",
-        "NEW_THREAD_PERMISSIONS",
         "PREVIEW_ENABLED",
-        "SOUNDBOARD",
-        "THREADS_ENABLED",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
         "VERIFIED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -40,9 +30,9 @@
         "icon": "20c1de655e3977a87f8c03b9b33b5c45",
         "splash": "1f940179b6344a31862d3b80fcff9e87",
         "banner": null,
-        "approximate_presence_count": 1020,
-        "approximate_member_count": 4196,
-        "premium_subscription_count": 5,
+        "approximate_presence_count": 712,
+        "approximate_member_count": 3763,
+        "premium_subscription_count": 1,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": null,
@@ -51,23 +41,45 @@
         "is_published": false,
         "keywords": [],
         "features": [
-            "ANIMATED_ICON",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_MEDIUM",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "INVITE_SPLASH",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "NEWS",
-            "NEW_THREAD_PERMISSIONS",
             "PREVIEW_ENABLED",
-            "SOUNDBOARD",
-            "THREADS_ENABLED",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
             "VERIFIED",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "624797280855392257",
+        "_highlightResult": {
+            "name": {
+                "value": "Minnesota RØKKR",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "rokkr",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }
