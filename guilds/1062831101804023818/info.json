@@ -6,22 +6,22 @@
     "splash": "0a4f5e96cf58e44b286d4b460d42d1ea",
     "discovery_splash": "0a4f5e96cf58e44b286d4b460d42d1ea",
     "banner": "3a82c343a653ef931026f312e58ff4fe",
-    "approximate_presence_count": 1556,
-    "approximate_member_count": 4526,
-    "premium_subscription_count": 54,
+    "approximate_presence_count": 1683,
+    "approximate_member_count": 5110,
+    "premium_subscription_count": 33,
     "preferred_locale": "en-US",
     "vanity_url_code": "transfems",
     "keywords": [
+        "lgbt",
         "lgbtq",
         "minecraft",
         "mtf",
+        "queer",
         "trans",
         "trans mtf",
         "transfem",
         "transfemme",
-        "transgender",
-        "transgirl",
-        "transwomen"
+        "transgender"
     ],
     "features": [
         "COMMUNITY",
@@ -40,9 +40,9 @@
         "icon": "a_4554753c8ad8ece592886185d9ab6f9c",
         "splash": "0a4f5e96cf58e44b286d4b460d42d1ea",
         "banner": "3a82c343a653ef931026f312e58ff4fe",
-        "approximate_presence_count": 1556,
-        "approximate_member_count": 4526,
-        "premium_subscription_count": 54,
+        "approximate_presence_count": 1683,
+        "approximate_member_count": 5110,
+        "premium_subscription_count": 33,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "0a4f5e96cf58e44b286d4b460d42d1ea",
@@ -50,16 +50,16 @@
         "vanity_url_code": "transfems",
         "is_published": true,
         "keywords": [
+            "lgbt",
             "lgbtq",
             "minecraft",
             "mtf",
+            "queer",
             "trans",
             "trans mtf",
             "transfem",
             "transfemme",
-            "transgender",
-            "transgirl",
-            "transwomen"
+            "transgender"
         ],
         "features": [
             "COMMUNITY",
@@ -312,6 +312,11 @@
             },
             "keywords": [
                 {
+                    "value": "lgbt",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "lgbtq",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -323,6 +328,11 @@
                 },
                 {
                     "value": "mtf",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "queer",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -348,16 +358,6 @@
                 },
                 {
                     "value": "transgender",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "transgirl",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "transwomen",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
