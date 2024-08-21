@@ -6,17 +6,17 @@
     "splash": "eaadbcde9c96f854bc7b6d0d96db207c",
     "discovery_splash": "33f75343bdf69221b6b92a64c4646c7f",
     "banner": "8e8e5fbbe69b8c2a9741d7763de1ed54",
-    "approximate_presence_count": 2200,
-    "approximate_member_count": 12935,
-    "premium_subscription_count": 13,
+    "approximate_presence_count": 2339,
+    "approximate_member_count": 15231,
+    "premium_subscription_count": 10,
     "preferred_locale": "en-US",
     "vanity_url_code": "gdevelop",
     "keywords": [
-        "game creation",
-        "game making",
-        "game development",
         "build",
         "create",
+        "game creation",
+        "game development",
+        "game making",
         "games"
     ],
     "features": [
@@ -36,21 +36,21 @@
         "icon": "a_8d25de96beea13cd0fa84f95621534f8",
         "splash": "eaadbcde9c96f854bc7b6d0d96db207c",
         "banner": "8e8e5fbbe69b8c2a9741d7763de1ed54",
-        "approximate_presence_count": 2200,
-        "approximate_member_count": 12935,
-        "premium_subscription_count": 13,
+        "approximate_presence_count": 2339,
+        "approximate_member_count": 15231,
+        "premium_subscription_count": 10,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "33f75343bdf69221b6b92a64c4646c7f",
         "primary_category_id": 1,
         "vanity_url_code": "gdevelop",
-        "is_published": true,
+        "is_published": false,
         "keywords": [
-            "game creation",
-            "game making",
-            "game development",
             "build",
             "create",
+            "game creation",
+            "game development",
+            "game making",
             "games"
         ],
         "features": [
@@ -341,12 +341,17 @@
             },
             "keywords": [
                 {
-                    "value": "game creation",
+                    "value": "build",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "game making",
+                    "value": "create",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "game creation",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -356,12 +361,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "build",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "create",
+                    "value": "game making",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
