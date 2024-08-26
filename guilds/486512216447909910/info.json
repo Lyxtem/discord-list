@@ -6,22 +6,22 @@
     "splash": "6570147cdc38d610ef5a0993e3f2a380",
     "discovery_splash": "57de466128a720e4ddd1f5cf9161a725",
     "banner": "d9560e2bbb243b4cfa9a6b5b6139d958",
-    "approximate_presence_count": 295,
-    "approximate_member_count": 4531,
+    "approximate_presence_count": 306,
+    "approximate_member_count": 4263,
     "premium_subscription_count": 9,
     "preferred_locale": "en-US",
     "vanity_url_code": "cosmoverse-486512216447909910",
     "keywords": [
-        "minecraft",
-        "factions",
-        "cosmic",
         "bedrock",
-        "pvp",
+        "cosmic",
         "cosmicpe",
         "cosmicpvp",
-        "minecraftbe",
+        "factions",
+        "game",
+        "mcbe",
         "mcpe",
-        "mcbe"
+        "minecraft",
+        "pvp"
     ],
     "features": [
         "COMMUNITY",
@@ -40,8 +40,8 @@
         "icon": "a_f29345d1e962235f2cb9198949e9470c",
         "splash": "6570147cdc38d610ef5a0993e3f2a380",
         "banner": "d9560e2bbb243b4cfa9a6b5b6139d958",
-        "approximate_presence_count": 295,
-        "approximate_member_count": 4531,
+        "approximate_presence_count": 306,
+        "approximate_member_count": 4263,
         "premium_subscription_count": 9,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -50,16 +50,16 @@
         "vanity_url_code": "cosmoverse-486512216447909910",
         "is_published": true,
         "keywords": [
-            "minecraft",
-            "factions",
-            "cosmic",
             "bedrock",
-            "pvp",
+            "cosmic",
             "cosmicpe",
             "cosmicpvp",
-            "minecraftbe",
+            "factions",
+            "game",
+            "mcbe",
             "mcpe",
-            "mcbe"
+            "minecraft",
+            "pvp"
         ],
         "features": [
             "COMMUNITY",
@@ -312,27 +312,12 @@
             },
             "keywords": [
                 {
-                    "value": "minecraft",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "factions",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "cosmic",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "bedrock",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "pvp",
+                    "value": "cosmic",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -347,7 +332,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "minecraftbe",
+                    "value": "factions",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "game",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "mcbe",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -357,7 +352,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "mcbe",
+                    "value": "minecraft",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "pvp",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
