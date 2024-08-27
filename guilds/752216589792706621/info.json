@@ -1,26 +1,26 @@
 {
     "id": "752216589792706621",
     "name": "Gym Class - Basketball VR",
-    "description": "Gym Class is the #1 most popular VR basketball app. Join the community for news, share feedback, unlock perks, and more!",
+    "description": "Gym Class is a top rated VR game for Quest. Join the community for news, share feedback, unlock perks, and more!",
     "icon": "497cb4f21e5e2c136931e4393596aa8f",
     "splash": "e9175375576af752531bf9ac0f400a9b",
     "discovery_splash": "8999b6e0b979d4c863aadfa02640a043",
     "banner": "cf89bc843cb2c7014a2d7de3b8a1f3f9",
-    "approximate_presence_count": 7977,
-    "approximate_member_count": 82574,
-    "premium_subscription_count": 119,
+    "approximate_presence_count": 5822,
+    "approximate_member_count": 82907,
+    "premium_subscription_count": 110,
     "preferred_locale": "en-US",
     "vanity_url_code": "gymclassvr",
     "keywords": [
         "basketball",
-        "virtual-reality",
-        "vr",
+        "esports",
+        "gym-class-vr",
+        "gymclass",
         "oculus",
         "oculus-quest",
-        "gymclass",
-        "gym-class-vr",
-        "esports",
-        "twitch"
+        "twitch",
+        "virtual-reality",
+        "vr"
     ],
     "features": [
         "COMMUNITY",
@@ -35,13 +35,13 @@
     "raw": {
         "id": "752216589792706621",
         "name": "Gym Class - Basketball VR",
-        "description": "Gym Class is the #1 most popular VR basketball app. Join the community for news, share feedback, unlock perks, and more!",
+        "description": "Gym Class is a top rated VR game for Quest. Join the community for news, share feedback, unlock perks, and more!",
         "icon": "497cb4f21e5e2c136931e4393596aa8f",
         "splash": "e9175375576af752531bf9ac0f400a9b",
         "banner": "cf89bc843cb2c7014a2d7de3b8a1f3f9",
-        "approximate_presence_count": 7977,
-        "approximate_member_count": 82574,
-        "premium_subscription_count": 119,
+        "approximate_presence_count": 5822,
+        "approximate_member_count": 82907,
+        "premium_subscription_count": 110,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "8999b6e0b979d4c863aadfa02640a043",
@@ -50,14 +50,14 @@
         "is_published": true,
         "keywords": [
             "basketball",
-            "virtual-reality",
-            "vr",
+            "esports",
+            "gym-class-vr",
+            "gymclass",
             "oculus",
             "oculus-quest",
-            "gymclass",
-            "gym-class-vr",
-            "esports",
-            "twitch"
+            "twitch",
+            "virtual-reality",
+            "vr"
         ],
         "features": [
             "COMMUNITY",
@@ -235,7 +235,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Gym Class is the #1 most popular VR basketball app. Join the community for news, share feedback, unlock perks, and more!",
+                "value": "Gym Class is a top rated VR game for Quest. Join the community for news, share feedback, unlock perks, and more!",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -251,12 +251,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "virtual-reality",
+                    "value": "esports",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "vr",
+                    "value": "gym-class-vr",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "gymclass",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -271,22 +276,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "gymclass",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "gym-class-vr",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "esports",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "twitch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "virtual-reality",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "vr",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
