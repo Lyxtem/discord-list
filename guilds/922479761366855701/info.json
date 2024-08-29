@@ -4,24 +4,25 @@
     "description": "Ce serveur est destiné à la communauté francophone de \"Rise Of Kingdoms\" et pour la chaîne de FoxyROK !",
     "icon": "59a02f10af88d8a690718bb8db4426df",
     "splash": "27a437cf47a91d3bad1e7c9201a0051f",
-    "discovery_splash": "3a8ce10e0725ce0a4b50fb958ecec8be",
-    "banner": null,
-    "approximate_presence_count": 1029,
-    "approximate_member_count": 6055,
-    "premium_subscription_count": 2,
+    "discovery_splash": "73d4c63e4c64eff757a3ef2b0cc9b3a3",
+    "banner": "2736df2bb61bafca230404cfaeb0ffca",
+    "approximate_presence_count": 1168,
+    "approximate_member_count": 6319,
+    "premium_subscription_count": 12,
     "preferred_locale": "fr",
     "vanity_url_code": "foxyrok-communaute-922479761366855701",
     "keywords": [
-        "rok",
-        "rise-of-kingdoms",
-        "youtube",
         "foxyrok",
-        "guide"
+        "guide",
+        "rise-of-kingdoms",
+        "rok",
+        "youtube"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -33,27 +34,28 @@
         "description": "Ce serveur est destiné à la communauté francophone de \"Rise Of Kingdoms\" et pour la chaîne de FoxyROK !",
         "icon": "59a02f10af88d8a690718bb8db4426df",
         "splash": "27a437cf47a91d3bad1e7c9201a0051f",
-        "banner": null,
-        "approximate_presence_count": 1029,
-        "approximate_member_count": 6055,
-        "premium_subscription_count": 2,
+        "banner": "2736df2bb61bafca230404cfaeb0ffca",
+        "approximate_presence_count": 1168,
+        "approximate_member_count": 6319,
+        "premium_subscription_count": 12,
         "preferred_locale": "fr",
         "auto_removed": false,
-        "discovery_splash": "3a8ce10e0725ce0a4b50fb958ecec8be",
+        "discovery_splash": "73d4c63e4c64eff757a3ef2b0cc9b3a3",
         "primary_category_id": 1,
         "vanity_url_code": "foxyrok-communaute-922479761366855701",
         "is_published": true,
         "keywords": [
-            "rok",
-            "rise-of-kingdoms",
-            "youtube",
             "foxyrok",
-            "guide"
+            "guide",
+            "rise-of-kingdoms",
+            "rok",
+            "youtube"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -300,7 +302,12 @@
             },
             "keywords": [
                 {
-                    "value": "rok",
+                    "value": "foxyrok",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "guide",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -310,17 +317,12 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "rok",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "youtube",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "foxyrok",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "guide",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

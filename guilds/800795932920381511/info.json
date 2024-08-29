@@ -6,20 +6,20 @@
     "splash": "a7a048476d2ae7b46cafad0a7f8faf74",
     "discovery_splash": "a7a048476d2ae7b46cafad0a7f8faf74",
     "banner": "0ea00a2c9d2ac9c3a89eaf6f8e13b904",
-    "approximate_presence_count": 1179,
-    "approximate_member_count": 11052,
-    "premium_subscription_count": 18,
+    "approximate_presence_count": 1181,
+    "approximate_member_count": 11118,
+    "premium_subscription_count": 15,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "idlecapitalist",
     "keywords": [
         "bots",
         "discord-bot",
-        "support",
-        "idle",
-        "idlecapitalist",
         "economy",
+        "idle",
+        "idle-capitalist",
+        "idlecapitalist",
         "investment",
-        "idle-capitalist"
+        "support"
     ],
     "features": [
         "COMMUNITY",
@@ -37,24 +37,24 @@
         "icon": "a7a048476d2ae7b46cafad0a7f8faf74",
         "splash": "a7a048476d2ae7b46cafad0a7f8faf74",
         "banner": "0ea00a2c9d2ac9c3a89eaf6f8e13b904",
-        "approximate_presence_count": 1179,
-        "approximate_member_count": 11052,
-        "premium_subscription_count": 18,
+        "approximate_presence_count": 1181,
+        "approximate_member_count": 11118,
+        "premium_subscription_count": 15,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "a7a048476d2ae7b46cafad0a7f8faf74",
         "primary_category_id": 49,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "idlecapitalist",
+        "is_published": true,
         "keywords": [
             "bots",
             "discord-bot",
-            "support",
-            "idle",
-            "idlecapitalist",
             "economy",
+            "idle",
+            "idle-capitalist",
+            "idlecapitalist",
             "investment",
-            "idle-capitalist"
+            "support"
         ],
         "features": [
             "COMMUNITY",
@@ -336,6 +336,11 @@
                 "matchLevel": "none",
                 "matchedWords": []
             },
+            "vanity_url_code": {
+                "value": "idlecapitalist",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
             "keywords": [
                 {
                     "value": "bots",
@@ -348,7 +353,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "support",
+                    "value": "economy",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -358,12 +363,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "idlecapitalist",
+                    "value": "idle-capitalist",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "economy",
+                    "value": "idlecapitalist",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -373,7 +378,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "idle-capitalist",
+                    "value": "support",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
