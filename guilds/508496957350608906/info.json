@@ -3,30 +3,31 @@
     "name": "Champions of Equestria",
     "description": "Champions of Equestria is an MLP community built on the virtues of friendship, compassion, and inclusiveness.",
     "icon": "a_4cb4261238a053adfd5eff22b30a1a01",
-    "splash": "6933638f4767d135e6e0d5f094374a70",
-    "discovery_splash": "6933638f4767d135e6e0d5f094374a70",
-    "banner": "acd666f02ab0200104ec09cf3562b736",
-    "approximate_presence_count": 1149,
-    "approximate_member_count": 3840,
-    "premium_subscription_count": 22,
+    "splash": "2e35f475511baa4fb1f49f209440e8a6",
+    "discovery_splash": "2e35f475511baa4fb1f49f209440e8a6",
+    "banner": "58a95020d59089332640a4d4d7726650",
+    "approximate_presence_count": 1172,
+    "approximate_member_count": 4088,
+    "premium_subscription_count": 17,
     "preferred_locale": "en-US",
     "vanity_url_code": "champions-of-equestria-508496957350608906",
     "keywords": [
+        "brony",
+        "community",
+        "equestria",
+        "fim",
+        "friendly",
+        "mature",
         "mlp",
         "my-little-pony",
-        "fim",
-        "pony",
-        "equestria",
-        "brony",
         "pegasister",
-        "community",
-        "friendly",
-        "mature"
+        "pony"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -37,33 +38,34 @@
         "name": "Champions of Equestria",
         "description": "Champions of Equestria is an MLP community built on the virtues of friendship, compassion, and inclusiveness.",
         "icon": "a_4cb4261238a053adfd5eff22b30a1a01",
-        "splash": "6933638f4767d135e6e0d5f094374a70",
-        "banner": "acd666f02ab0200104ec09cf3562b736",
-        "approximate_presence_count": 1149,
-        "approximate_member_count": 3840,
-        "premium_subscription_count": 22,
+        "splash": "2e35f475511baa4fb1f49f209440e8a6",
+        "banner": "58a95020d59089332640a4d4d7726650",
+        "approximate_presence_count": 1172,
+        "approximate_member_count": 4088,
+        "premium_subscription_count": 17,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "6933638f4767d135e6e0d5f094374a70",
+        "discovery_splash": "2e35f475511baa4fb1f49f209440e8a6",
         "primary_category_id": 14,
         "vanity_url_code": "champions-of-equestria-508496957350608906",
         "is_published": true,
         "keywords": [
+            "brony",
+            "community",
+            "equestria",
+            "fim",
+            "friendly",
+            "mature",
             "mlp",
             "my-little-pony",
-            "fim",
-            "pony",
-            "equestria",
-            "brony",
             "pegasister",
-            "community",
-            "friendly",
-            "mature"
+            "pony"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -347,22 +349,12 @@
             },
             "keywords": [
                 {
-                    "value": "mlp",
+                    "value": "brony",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "my-little-pony",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "fim",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "pony",
+                    "value": "community",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -372,17 +364,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "brony",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "pegasister",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "community",
+                    "value": "fim",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -393,6 +375,26 @@
                 },
                 {
                     "value": "mature",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "mlp",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "my-little-pony",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "pegasister",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "pony",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
