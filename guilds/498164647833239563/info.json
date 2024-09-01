@@ -1,14 +1,14 @@
 {
     "id": "498164647833239563",
     "name": "Landiacraft | Servidor de Minecraft",
-    "description": "Servidor de Minecraft Java y Bedrock. Landiacraft Network, nos encontramos en la última versión. Actualmente 1.20.1",
-    "icon": "ff43fe00f392099b38f8cef3a0144e86",
+    "description": "Servidor de Minecraft Java y Bedrock. Landiacraft Network, nos encontramos en la última versión. Actualmente 1.21",
+    "icon": "69cf3425bbea19f3c1a0e9ea2df4337c",
     "splash": "01a75700ec98b53c8a0189bd6f20ab6b",
     "discovery_splash": "a076ee836f27566836982e579f93f798",
     "banner": "a076ee836f27566836982e579f93f798",
-    "approximate_presence_count": 137,
-    "approximate_member_count": 2615,
-    "premium_subscription_count": 2,
+    "approximate_presence_count": 141,
+    "approximate_member_count": 2625,
+    "premium_subscription_count": 3,
     "preferred_locale": "es-ES",
     "vanity_url_code": null,
     "keywords": [
@@ -35,13 +35,13 @@
     "raw": {
         "id": "498164647833239563",
         "name": "Landiacraft | Servidor de Minecraft",
-        "description": "Servidor de Minecraft Java y Bedrock. Landiacraft Network, nos encontramos en la última versión. Actualmente 1.20.1",
-        "icon": "ff43fe00f392099b38f8cef3a0144e86",
+        "description": "Servidor de Minecraft Java y Bedrock. Landiacraft Network, nos encontramos en la última versión. Actualmente 1.21",
+        "icon": "69cf3425bbea19f3c1a0e9ea2df4337c",
         "splash": "01a75700ec98b53c8a0189bd6f20ab6b",
         "banner": "a076ee836f27566836982e579f93f798",
-        "approximate_presence_count": 137,
-        "approximate_member_count": 2615,
-        "premium_subscription_count": 2,
+        "approximate_presence_count": 141,
+        "approximate_member_count": 2625,
+        "premium_subscription_count": 3,
         "preferred_locale": "es-ES",
         "auto_removed": false,
         "discovery_splash": "a076ee836f27566836982e579f93f798",
@@ -68,6 +68,43 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 3,
+                "is_primary": true,
+                "name": "Entertainment",
+                "name_localizations": {
+                    "bg": "Забавление",
+                    "cs": "Zábava",
+                    "da": "Underholdning",
+                    "de": "Unterhaltung",
+                    "el": "Ψυχαγωγία",
+                    "fi": "Viihde",
+                    "fr": "Divertissements",
+                    "hi": "एंटरटेनमेंट",
+                    "hr": "Zabava",
+                    "hu": "Szórakozás",
+                    "it": "Intrattenimento",
+                    "ja": "エンターテインメント",
+                    "ko": "엔터테인먼트",
+                    "lt": "Pramogos",
+                    "nl": "Entertainment",
+                    "no": "Underholdning",
+                    "pl": "Rozrywka",
+                    "ro": "Divertisment",
+                    "ru": "Развлечения",
+                    "th": "ความบันเทิง",
+                    "tr": "Eğlence",
+                    "uk": "Розваги",
+                    "vi": "Giải Trí",
+                    "en-GB": "Entertainment",
+                    "en-US": "Entertainment",
+                    "es-ES": "Entretenimiento",
+                    "pt-BR": "Entretenimento",
+                    "sv-SE": "Underhållning",
+                    "zh-CN": "娱乐",
+                    "zh-TW": "娛樂"
+                }
+            },
             {
                 "id": 25,
                 "is_primary": false,
@@ -180,43 +217,6 @@
                 }
             },
             {
-                "id": 3,
-                "is_primary": true,
-                "name": "Entertainment",
-                "name_localizations": {
-                    "bg": "Забавление",
-                    "cs": "Zábava",
-                    "da": "Underholdning",
-                    "de": "Unterhaltung",
-                    "el": "Ψυχαγωγία",
-                    "fi": "Viihde",
-                    "fr": "Divertissements",
-                    "hi": "एंटरटेनमेंट",
-                    "hr": "Zabava",
-                    "hu": "Szórakozás",
-                    "it": "Intrattenimento",
-                    "ja": "エンターテインメント",
-                    "ko": "엔터테인먼트",
-                    "lt": "Pramogos",
-                    "nl": "Entertainment",
-                    "no": "Underholdning",
-                    "pl": "Rozrywka",
-                    "ro": "Divertisment",
-                    "ru": "Развлечения",
-                    "th": "ความบันเทิง",
-                    "tr": "Eğlence",
-                    "uk": "Розваги",
-                    "vi": "Giải Trí",
-                    "en-GB": "Entertainment",
-                    "en-US": "Entertainment",
-                    "es-ES": "Entretenimiento",
-                    "pt-BR": "Entretenimento",
-                    "sv-SE": "Underhållning",
-                    "zh-CN": "娱乐",
-                    "zh-TW": "娛樂"
-                }
-            },
-            {
                 "id": 46,
                 "is_primary": false,
                 "name": "Console",
@@ -299,7 +299,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Servidor de Minecraft Java y Bedrock. Landiacraft Network, nos encontramos en la última versión. Actualmente 1.20.1",
+                "value": "Servidor de Minecraft Java y Bedrock. Landiacraft Network, nos encontramos en la última versión. Actualmente 1.21",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -356,6 +356,160 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Забавление",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Zábava",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Underholdning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Unterhaltung",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Ψυχαγωγία",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Viihde",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Divertissements",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "एंटरटेनमेंट",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Zabava",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Szórakozás",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Intrattenimento",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "エンターテインメント",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "엔터테인먼트",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Pramogos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Entertainment",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Underholdning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Rozrywka",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Divertisment",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Развлечения",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ความบันเทิง",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Eğlence",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Розваги",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Giải Trí",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Entertainment",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Entertainment",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Entretenimiento",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Entretenimento",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Underhållning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "娱乐",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "娛樂",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -813,160 +967,6 @@
                         },
                         "zh-TW": {
                             "value": "遊戲",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Забавление",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Zábava",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Underholdning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Unterhaltung",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Ψυχαγωγία",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Viihde",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Divertissements",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "एंटरटेनमेंट",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Zabava",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Szórakozás",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Intrattenimento",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "エンターテインメント",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "엔터테인먼트",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Pramogos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Entertainment",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Underholdning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Rozrywka",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Divertisment",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Развлечения",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "ความบันเทิง",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Eğlence",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Розваги",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Giải Trí",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Entertainment",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Entertainment",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Entretenimiento",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Entretenimento",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Underhållning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "娱乐",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "娛樂",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
