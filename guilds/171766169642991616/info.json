@@ -6,23 +6,17 @@
     "splash": null,
     "discovery_splash": null,
     "banner": null,
-    "approximate_presence_count": 46,
-    "approximate_member_count": 193,
+    "approximate_presence_count": 54,
+    "approximate_member_count": 194,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "iocaine",
     "keywords": null,
     "features": [
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
         "DISCOVERABLE",
         "FEATURABLE",
-        "INVITE_SPLASH",
-        "NEWS",
-        "NEW_THREAD_PERMISSIONS",
         "PREVIEW_ENABLED",
-        "THREADS_ENABLED",
-        "VANITY_URL",
         "VERIFIED"
     ],
     "partnered": false,
@@ -34,8 +28,8 @@
         "icon": "5279c44b278a61fd9c4849a51293b6ec",
         "splash": null,
         "banner": null,
-        "approximate_presence_count": 46,
-        "approximate_member_count": 193,
+        "approximate_presence_count": 54,
+        "approximate_member_count": 194,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -45,17 +39,43 @@
         "is_published": false,
         "keywords": null,
         "features": [
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
             "DISCOVERABLE",
             "FEATURABLE",
-            "INVITE_SPLASH",
-            "NEWS",
-            "NEW_THREAD_PERMISSIONS",
             "PREVIEW_ENABLED",
-            "THREADS_ENABLED",
-            "VANITY_URL",
             "VERIFIED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "171766169642991616",
+        "_highlightResult": {
+            "name": {
+                "value": "Iocaine Studios",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "iocaine",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }

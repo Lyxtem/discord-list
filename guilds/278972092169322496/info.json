@@ -6,8 +6,8 @@
     "splash": "1b382b9a2d557dedaa50e0d9725b46c2",
     "discovery_splash": "1b382b9a2d557dedaa50e0d9725b46c2",
     "banner": null,
-    "approximate_presence_count": 21,
-    "approximate_member_count": 135,
+    "approximate_presence_count": 20,
+    "approximate_member_count": 117,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "rudebear",
@@ -17,10 +17,7 @@
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
         "FEATURABLE",
-        "INVITE_SPLASH",
-        "NEWS",
         "PREVIEW_ENABLED",
-        "VANITY_URL",
         "VERIFIED"
     ],
     "partnered": false,
@@ -32,8 +29,8 @@
         "icon": "9d31132cfff5bf471dedd5ccd9dfc178",
         "splash": "1b382b9a2d557dedaa50e0d9725b46c2",
         "banner": null,
-        "approximate_presence_count": 21,
-        "approximate_member_count": 135,
+        "approximate_presence_count": 20,
+        "approximate_member_count": 117,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -47,11 +44,40 @@
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
             "FEATURABLE",
-            "INVITE_SPLASH",
-            "NEWS",
             "PREVIEW_ENABLED",
-            "VANITY_URL",
             "VERIFIED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "278972092169322496",
+        "_highlightResult": {
+            "name": {
+                "value": "Rude Bear",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "If you like dumb bear games, you've come to the right place, kiddo",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "rudebear",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }

@@ -6,25 +6,18 @@
     "splash": null,
     "discovery_splash": null,
     "banner": null,
-    "approximate_presence_count": 124,
-    "approximate_member_count": 1625,
+    "approximate_presence_count": 204,
+    "approximate_member_count": 1255,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "hirez-de",
     "keywords": null,
     "features": [
-        "AUTO_MODERATION",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
         "DISCOVERABLE",
         "FEATURABLE",
-        "INVITES_DISABLED",
-        "INVITE_SPLASH",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "NEWS",
         "PREVIEW_ENABLED",
-        "THREADS_ENABLED",
-        "VANITY_URL",
         "VERIFIED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -37,8 +30,8 @@
         "icon": "331df504eef078f95c99f3c1f1e60884",
         "splash": null,
         "banner": null,
-        "approximate_presence_count": 124,
-        "approximate_member_count": 1625,
+        "approximate_presence_count": 204,
+        "approximate_member_count": 1255,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -48,20 +41,45 @@
         "is_published": false,
         "keywords": null,
         "features": [
-            "AUTO_MODERATION",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
             "DISCOVERABLE",
             "FEATURABLE",
-            "INVITES_DISABLED",
-            "INVITE_SPLASH",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "NEWS",
             "PREVIEW_ENABLED",
-            "THREADS_ENABLED",
-            "VANITY_URL",
             "VERIFIED",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "192311552664141845",
+        "_highlightResult": {
+            "name": {
+                "value": "Hi-Rez Deutschland",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "hirez-de",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }
