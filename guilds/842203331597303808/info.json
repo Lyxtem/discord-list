@@ -6,18 +6,18 @@
     "splash": "18bf576910112308f85d3ce1af8a90a6",
     "discovery_splash": "18bf576910112308f85d3ce1af8a90a6",
     "banner": "672c17bac50926e416a644baea07fa1e",
-    "approximate_presence_count": 297,
-    "approximate_member_count": 2416,
-    "premium_subscription_count": 5,
+    "approximate_presence_count": 330,
+    "approximate_member_count": 2674,
+    "premium_subscription_count": 18,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "basketbot",
     "keywords": [
-        "bots",
-        "support",
-        "sports",
         "basketball",
+        "bots",
+        "collecting",
         "fun",
-        "collecting"
+        "sports",
+        "support"
     ],
     "features": [
         "COMMUNITY",
@@ -35,22 +35,22 @@
         "icon": "6938262cceb9c30b366bf67587f0f9e5",
         "splash": "18bf576910112308f85d3ce1af8a90a6",
         "banner": "672c17bac50926e416a644baea07fa1e",
-        "approximate_presence_count": 297,
-        "approximate_member_count": 2416,
-        "premium_subscription_count": 5,
+        "approximate_presence_count": 330,
+        "approximate_member_count": 2674,
+        "premium_subscription_count": 18,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "18bf576910112308f85d3ce1af8a90a6",
         "primary_category_id": 49,
-        "vanity_url_code": null,
+        "vanity_url_code": "basketbot",
         "is_published": false,
         "keywords": [
-            "bots",
-            "support",
-            "sports",
             "basketball",
+            "bots",
+            "collecting",
             "fun",
-            "collecting"
+            "sports",
+            "support"
         ],
         "features": [
             "COMMUNITY",
@@ -157,24 +157,24 @@
                 "matchLevel": "none",
                 "matchedWords": []
             },
+            "vanity_url_code": {
+                "value": "basketbot",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
             "keywords": [
+                {
+                    "value": "basketball",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
                 {
                     "value": "bots",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "support",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "sports",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "basketball",
+                    "value": "collecting",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -184,7 +184,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "collecting",
+                    "value": "sports",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "support",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
