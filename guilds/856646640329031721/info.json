@@ -1,18 +1,19 @@
 {
     "id": "856646640329031721",
     "name": "Elysium",
-    "description": "Elysium  — Сервер что навсегда останется в твоём сердце, тебе не придётся скучать с нами. Дискорд сервера. Discord serve",
+    "description": "Elysium  — Сервер что навсегда останется в твоём сердце, тебе не придётся скучать с нами. Дискорд сервера. Deadlock RU",
     "icon": "a_66d704911f12aa2a6cad873717efec85",
     "splash": "1d4a5fb0595095c7d55a03c90a83508d",
     "discovery_splash": "b50e0dc7320517ba218e56ab4e1965d6",
-    "banner": "571f5e3e9bbe3369ee25098a2a8be37f",
-    "approximate_presence_count": 44019,
-    "approximate_member_count": 202060,
-    "premium_subscription_count": 400,
+    "banner": "5722057e865cf6783440841d769a9840",
+    "approximate_presence_count": 14936,
+    "approximate_member_count": 202279,
+    "premium_subscription_count": 404,
     "preferred_locale": "ru",
     "vanity_url_code": "elysm",
     "keywords": [
-        "twitch",
+        "deadlock",
+        "deadlockru",
         "youtube",
         "аниме",
         "друзья",
@@ -20,8 +21,7 @@
         "игры",
         "ролевые-игры",
         "сервер",
-        "сообщество",
-        "элизиум"
+        "сообщество"
     ],
     "features": [
         "COMMUNITY",
@@ -34,13 +34,13 @@
     "raw": {
         "id": "856646640329031721",
         "name": "Elysium",
-        "description": "Elysium  — Сервер что навсегда останется в твоём сердце, тебе не придётся скучать с нами. Дискорд сервера. Discord serve",
+        "description": "Elysium  — Сервер что навсегда останется в твоём сердце, тебе не придётся скучать с нами. Дискорд сервера. Deadlock RU",
         "icon": "a_66d704911f12aa2a6cad873717efec85",
         "splash": "1d4a5fb0595095c7d55a03c90a83508d",
-        "banner": "571f5e3e9bbe3369ee25098a2a8be37f",
-        "approximate_presence_count": 44019,
-        "approximate_member_count": 202060,
-        "premium_subscription_count": 400,
+        "banner": "5722057e865cf6783440841d769a9840",
+        "approximate_presence_count": 14936,
+        "approximate_member_count": 202279,
+        "premium_subscription_count": 404,
         "preferred_locale": "ru",
         "auto_removed": false,
         "discovery_splash": "b50e0dc7320517ba218e56ab4e1965d6",
@@ -48,7 +48,8 @@
         "vanity_url_code": "elysm",
         "is_published": true,
         "keywords": [
-            "twitch",
+            "deadlock",
+            "deadlockru",
             "youtube",
             "аниме",
             "друзья",
@@ -56,8 +57,7 @@
             "игры",
             "ролевые-игры",
             "сервер",
-            "сообщество",
-            "элизиум"
+            "сообщество"
         ],
         "features": [
             "COMMUNITY",
@@ -297,7 +297,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Elysium  — Сервер что навсегда останется в твоём сердце, тебе не придётся скучать с нами. Дискорд сервера. Discord serve",
+                "value": "Elysium  — Сервер что навсегда останется в твоём сердце, тебе не придётся скучать с нами. Дискорд сервера. Deadlock RU",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -308,7 +308,12 @@
             },
             "keywords": [
                 {
-                    "value": "twitch",
+                    "value": "deadlock",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "deadlockru",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -349,11 +354,6 @@
                 },
                 {
                     "value": "сообщество",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "элизиум",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
