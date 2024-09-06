@@ -2,23 +2,24 @@
     "id": "407511911211466767",
     "name": "Armored Warfare",
     "description": "",
-    "icon": "5eb924b1efa6f871caac334f3b8ed43e",
+    "icon": "b30d1ffdc4b79a757244b8231d923802",
     "splash": "4e9e3f2caa1defacbfd5362e445b1b36",
     "discovery_splash": "fe8dfa453998ec9d661a186fc7d5e93d",
     "banner": null,
-    "approximate_presence_count": 713,
-    "approximate_member_count": 26602,
+    "approximate_presence_count": 991,
+    "approximate_member_count": 26609,
     "premium_subscription_count": 0,
     "preferred_locale": "ru",
     "vanity_url_code": null,
     "keywords": [
+        "AW",
         "armata",
         "armored warfare",
         "tank",
-        "танки",
-        "современные танки",
         "армата",
         "проект армата",
+        "современные танки",
+        "танки",
         "танки онлайн"
     ],
     "features": [
@@ -35,11 +36,11 @@
         "id": "407511911211466767",
         "name": "Armored Warfare",
         "description": "",
-        "icon": "5eb924b1efa6f871caac334f3b8ed43e",
+        "icon": "b30d1ffdc4b79a757244b8231d923802",
         "splash": "4e9e3f2caa1defacbfd5362e445b1b36",
         "banner": null,
-        "approximate_presence_count": 713,
-        "approximate_member_count": 26602,
+        "approximate_presence_count": 991,
+        "approximate_member_count": 26609,
         "premium_subscription_count": 0,
         "preferred_locale": "ru",
         "auto_removed": false,
@@ -48,13 +49,14 @@
         "vanity_url_code": null,
         "is_published": false,
         "keywords": [
+            "AW",
             "armata",
             "armored warfare",
             "tank",
-            "танки",
-            "современные танки",
             "армата",
             "проект армата",
+            "современные танки",
+            "танки",
             "танки онлайн"
         ],
         "features": [
@@ -229,6 +231,11 @@
             },
             "keywords": [
                 {
+                    "value": "AW",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "armata",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -244,7 +251,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "танки",
+                    "value": "армата",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "проект армата",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -254,12 +266,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "армата",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "проект армата",
+                    "value": "танки",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
