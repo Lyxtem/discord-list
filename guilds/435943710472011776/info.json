@@ -6,11 +6,11 @@
     "splash": "b6edcbb403a35dc98c848ca4f31568d7",
     "discovery_splash": "b6edcbb403a35dc98c848ca4f31568d7",
     "banner": "d3a57f781099b9c3e1845afff134aa29",
-    "approximate_presence_count": 1089,
-    "approximate_member_count": 8939,
-    "premium_subscription_count": 11,
+    "approximate_presence_count": 1066,
+    "approximate_member_count": 8965,
+    "premium_subscription_count": 17,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "stockfish",
     "keywords": [
         "chess",
         "hardware",
@@ -34,14 +34,14 @@
         "icon": "c411ea38a151fe378da013531d72fb79",
         "splash": "b6edcbb403a35dc98c848ca4f31568d7",
         "banner": "d3a57f781099b9c3e1845afff134aa29",
-        "approximate_presence_count": 1089,
-        "approximate_member_count": 8939,
-        "premium_subscription_count": 11,
+        "approximate_presence_count": 1066,
+        "approximate_member_count": 8965,
+        "premium_subscription_count": 17,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "b6edcbb403a35dc98c848ca4f31568d7",
         "primary_category_id": 5,
-        "vanity_url_code": null,
+        "vanity_url_code": "stockfish",
         "is_published": false,
         "keywords": [
             "chess",
@@ -179,6 +179,11 @@
             },
             "description": {
                 "value": "Official Discord Server of the Stockfish Chess Engine",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "stockfish",
                 "matchLevel": "none",
                 "matchedWords": []
             },
