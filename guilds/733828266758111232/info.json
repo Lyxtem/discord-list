@@ -6,19 +6,19 @@
     "splash": "7fed17f84da733d86b9e8071c45fea14",
     "discovery_splash": "08da590034f60973103d1c8bdcdd8d09",
     "banner": "de47d9f10b2d2c32b7219cd8fa0d09c2",
-    "approximate_presence_count": 3298,
-    "approximate_member_count": 9516,
-    "premium_subscription_count": 18,
+    "approximate_presence_count": 2877,
+    "approximate_member_count": 9615,
+    "premium_subscription_count": 17,
     "preferred_locale": "en-US",
     "vanity_url_code": "bearmountainofficial",
     "keywords": [
-        "youtube",
-        "dayz",
+        "PC",
         "bears",
-        "pve",
         "beginner",
         "community",
-        "PC"
+        "dayz",
+        "pve",
+        "youtube"
     ],
     "features": [
         "COMMUNITY",
@@ -37,23 +37,23 @@
         "icon": "088760b98305f9e54b83cdf555728996",
         "splash": "7fed17f84da733d86b9e8071c45fea14",
         "banner": "de47d9f10b2d2c32b7219cd8fa0d09c2",
-        "approximate_presence_count": 3298,
-        "approximate_member_count": 9516,
-        "premium_subscription_count": 18,
+        "approximate_presence_count": 2877,
+        "approximate_member_count": 9615,
+        "premium_subscription_count": 17,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "08da590034f60973103d1c8bdcdd8d09",
         "primary_category_id": 1,
         "vanity_url_code": "bearmountainofficial",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
-            "youtube",
-            "dayz",
+            "PC",
             "bears",
-            "pve",
             "beginner",
             "community",
-            "PC"
+            "dayz",
+            "pve",
+            "youtube"
         ],
         "features": [
             "COMMUNITY",
@@ -195,22 +195,12 @@
             },
             "keywords": [
                 {
-                    "value": "youtube",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "dayz",
+                    "value": "PC",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "bears",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "pve",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -225,7 +215,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "PC",
+                    "value": "dayz",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "pve",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "youtube",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

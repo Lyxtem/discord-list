@@ -1,14 +1,14 @@
 {
     "id": "196337717267791874",
     "name": "Team Fortress 2 Classic",
-    "description": "Team Fortress 2 Classic is a free Sourcemod that aims to re-imagine the 2008/2009 era of the original Team Fortress 2.",
-    "icon": "a_a2434185f641d3aa531ac69e192fc564",
-    "splash": "8902d4569824b7a782ae53aa55b94030",
+    "description": "TF2 Classic is a free Sourcemod that aims to re-imagine the 2008/2009 era of the original Team Fortress 2.",
+    "icon": "a_d3629dc903f369e7b8545cdb8550b4e2",
+    "splash": "963e07097e1e5bc6da0b03c3e9c6649f",
     "discovery_splash": "e0e22980b7269685a80853bd6807b13f",
-    "banner": "a2109dc7ecaa4275c1b69916976f60ad",
-    "approximate_presence_count": 9468,
-    "approximate_member_count": 30631,
-    "premium_subscription_count": 10,
+    "banner": "72e2c22faf258bd8405998980867776f",
+    "approximate_presence_count": 8206,
+    "approximate_member_count": 29945,
+    "premium_subscription_count": 8,
     "preferred_locale": "en-US",
     "vanity_url_code": "team-fortress-2-classic-196337717267791874",
     "keywords": [
@@ -35,13 +35,13 @@
     "raw": {
         "id": "196337717267791874",
         "name": "Team Fortress 2 Classic",
-        "description": "Team Fortress 2 Classic is a free Sourcemod that aims to re-imagine the 2008/2009 era of the original Team Fortress 2.",
-        "icon": "a_a2434185f641d3aa531ac69e192fc564",
-        "splash": "8902d4569824b7a782ae53aa55b94030",
-        "banner": "a2109dc7ecaa4275c1b69916976f60ad",
-        "approximate_presence_count": 9468,
-        "approximate_member_count": 30631,
-        "premium_subscription_count": 10,
+        "description": "TF2 Classic is a free Sourcemod that aims to re-imagine the 2008/2009 era of the original Team Fortress 2.",
+        "icon": "a_d3629dc903f369e7b8545cdb8550b4e2",
+        "splash": "963e07097e1e5bc6da0b03c3e9c6649f",
+        "banner": "72e2c22faf258bd8405998980867776f",
+        "approximate_presence_count": 8206,
+        "approximate_member_count": 29945,
+        "premium_subscription_count": 8,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "e0e22980b7269685a80853bd6807b13f",
@@ -178,6 +178,43 @@
                     "zh-CN": "游戏",
                     "zh-TW": "遊戲"
                 }
+            },
+            {
+                "id": 48,
+                "is_primary": false,
+                "name": "Game Developer",
+                "name_localizations": {
+                    "bg": "Разработчик на игри",
+                    "cs": "Vývojář her",
+                    "da": "Spiludvikler",
+                    "de": "Spieleentwicklung",
+                    "el": "Προγραμματιστής παιχνιδιών",
+                    "fi": "Pelinkehittäjät",
+                    "fr": "Développeur de jeux vidéo",
+                    "hi": "गेम डेवलपर",
+                    "hr": "Razvoj igara",
+                    "hu": "Játékfejlesztő",
+                    "it": "Sviluppatore di videogiochi",
+                    "ja": "ゲームデベロッパー",
+                    "ko": "게임 개발",
+                    "lt": "Žaidimų kūrėjai",
+                    "nl": "Gameontwikkelaar",
+                    "no": "Spillutvikler",
+                    "pl": "Deweloper gry",
+                    "ro": "Dezvoltarea jocurilor",
+                    "ru": "Разработка игр",
+                    "th": "ผู้พัฒนาเกม",
+                    "tr": "Oyun Geliştiricisi",
+                    "uk": "Розробка ігор",
+                    "vi": "Nhà Phát Triển Game",
+                    "en-GB": "Game Developer",
+                    "en-US": "Game Developer",
+                    "es-ES": "Desarrollo de juegos",
+                    "pt-BR": "Desenvolvedor de Jogos",
+                    "sv-SE": "Spelutvecklare",
+                    "zh-CN": "游戏开发人员",
+                    "zh-TW": "遊戲開發者"
+                }
             }
         ],
         "primary_category": {
@@ -225,7 +262,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Team Fortress 2 Classic is a free Sourcemod that aims to re-imagine the 2008/2009 era of the original Team Fortress 2.",
+                "value": "TF2 Classic is a free Sourcemod that aims to re-imagine the 2008/2009 era of the original Team Fortress 2.",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -739,6 +776,160 @@
                         },
                         "zh-TW": {
                             "value": "遊戲",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Разработчик на игри",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Vývojář her",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Spiludvikler",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Spieleentwicklung",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Προγραμματιστής παιχνιδιών",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Pelinkehittäjät",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Développeur de jeux vidéo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "गेम डेवलपर",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Razvoj igara",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Játékfejlesztő",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Sviluppatore di videogiochi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "ゲームデベロッパー",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "게임 개발",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Žaidimų kūrėjai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Gameontwikkelaar",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Spillutvikler",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Deweloper gry",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Dezvoltarea jocurilor",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Разработка игр",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ผู้พัฒนาเกม",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Oyun Geliştiricisi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Розробка ігор",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Nhà Phát Triển Game",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Game Developer",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Game Developer",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Desarrollo de juegos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Desenvolvedor de Jogos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Spelutvecklare",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "游戏开发人员",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "遊戲開發者",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
