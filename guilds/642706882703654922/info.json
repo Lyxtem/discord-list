@@ -1,16 +1,16 @@
 {
     "id": "642706882703654922",
     "name": "𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐒𝐞𝐫𝐯𝐞𝐫 𝐍𝐞𝐭𝐰𝐨𝐫𝐤",
-    "description": "",
+    "description": "한국에 있는 다양한 서버들을 유저들에게 소개하는 서버입니다.",
     "icon": "26a8a1ded624005c5efca85f37003a78",
     "splash": null,
     "discovery_splash": "c163528f63072e3018cb13a6e960b302",
     "banner": null,
-    "approximate_presence_count": 140,
-    "approximate_member_count": 1766,
-    "premium_subscription_count": 0,
+    "approximate_presence_count": 112,
+    "approximate_member_count": 1863,
+    "premium_subscription_count": 1,
     "preferred_locale": "ko",
-    "vanity_url_code": null,
+    "vanity_url_code": "discord-server-network-642706882703654922",
     "keywords": [
         "dsn",
         "디스코드",
@@ -30,19 +30,19 @@
     "raw": {
         "id": "642706882703654922",
         "name": "𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐒𝐞𝐫𝐯𝐞𝐫 𝐍𝐞𝐭𝐰𝐨𝐫𝐤",
-        "description": "",
+        "description": "한국에 있는 다양한 서버들을 유저들에게 소개하는 서버입니다.",
         "icon": "26a8a1ded624005c5efca85f37003a78",
         "splash": null,
         "banner": null,
-        "approximate_presence_count": 140,
-        "approximate_member_count": 1766,
-        "premium_subscription_count": 0,
+        "approximate_presence_count": 112,
+        "approximate_member_count": 1863,
+        "premium_subscription_count": 1,
         "preferred_locale": "ko",
         "auto_removed": false,
         "discovery_splash": "c163528f63072e3018cb13a6e960b302",
-        "primary_category_id": 9,
-        "vanity_url_code": null,
-        "is_published": false,
+        "primary_category_id": 13,
+        "vanity_url_code": "discord-server-network-642706882703654922",
+        "is_published": true,
         "keywords": [
             "dsn",
             "디스코드",
@@ -242,43 +242,26 @@
                     "zh-CN": "游戏",
                     "zh-TW": "遊戲"
                 }
+            },
+            {
+                "id": 13,
+                "is_primary": true,
+                "name": "Other",
+                "name_localizations": {
+                    "de": "Sonstiges",
+                    "fr": "Autre",
+                    "ru": "Другое"
+                }
             }
         ],
         "primary_category": {
-            "id": 9,
+            "id": 13,
             "is_primary": true,
-            "name": "Relationships & Identity",
+            "name": "Other",
             "name_localizations": {
-                "bg": "Отношения и идентичност",
-                "cs": "Vztahy a osobnost",
-                "da": "Forhold & identitet",
-                "de": "Beziehungen & Identität",
-                "el": "Σχέσεις & Ταυτότητα",
-                "fi": "Ihmissuhteet ja identiteetti",
-                "fr": "Relations et identité",
-                "hi": "रिलेशनशिप और आइडेंटिटी",
-                "hr": "Odnosi i veze",
-                "hu": "Kapcsolatok és identitás",
-                "it": "Relazioni e identità",
-                "ja": "人間関係&アイデンティティ",
-                "ko": "친목, 관계",
-                "lt": "Santykiai ir tapatybė",
-                "nl": "Relaties en identiteit",
-                "no": "Forhold og identitet",
-                "pl": "Związki i tożsamość",
-                "ro": "Relații și identitate",
-                "ru": "Отношения и самоидентификация",
-                "th": "ความสัมพันธ์และอัตลักษณ์",
-                "tr": "İlişkiler ve Kimlik",
-                "uk": "Відносини та особистість",
-                "vi": "Mối Quan Hệ & Cá Tính",
-                "en-GB": "Relationships & Identity",
-                "en-US": "Relationships & Identity",
-                "es-ES": "Relaciones e identidad",
-                "pt-BR": "Relacionamentos e Identidade",
-                "sv-SE": "Förhållanden och identitet",
-                "zh-CN": "情感&认知",
-                "zh-TW": "關係與身分"
+                "de": "Sonstiges",
+                "fr": "Autre",
+                "ru": "Другое"
             }
         },
         "objectID": "642706882703654922",
@@ -289,7 +272,12 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "",
+                "value": "한국에 있는 다양한 서버들을 유저들에게 소개하는 서버입니다.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "discord-server-network-642706882703654922",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -1085,157 +1073,41 @@
                             "matchedWords": []
                         }
                     }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sonstiges",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Autre",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Другое",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
                 }
             ],
             "primary_category": {
                 "name_localizations": {
-                    "bg": {
-                        "value": "Отношения и идентичност",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "cs": {
-                        "value": "Vztahy a osobnost",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "da": {
-                        "value": "Forhold & identitet",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
                     "de": {
-                        "value": "Beziehungen & Identität",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "el": {
-                        "value": "Σχέσεις & Ταυτότητα",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "fi": {
-                        "value": "Ihmissuhteet ja identiteetti",
+                        "value": "Sonstiges",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "fr": {
-                        "value": "Relations et identité",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "hi": {
-                        "value": "रिलेशनशिप और आइडेंटिटी",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "hr": {
-                        "value": "Odnosi i veze",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "hu": {
-                        "value": "Kapcsolatok és identitás",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "it": {
-                        "value": "Relazioni e identità",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "ja": {
-                        "value": "人間関係&アイデンティティ",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "ko": {
-                        "value": "친목, 관계",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "lt": {
-                        "value": "Santykiai ir tapatybė",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "nl": {
-                        "value": "Relaties en identiteit",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "no": {
-                        "value": "Forhold og identitet",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "pl": {
-                        "value": "Związki i tożsamość",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "ro": {
-                        "value": "Relații și identitate",
+                        "value": "Autre",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ru": {
-                        "value": "Отношения и самоидентификация",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "th": {
-                        "value": "ความสัมพันธ์และอัตลักษณ์",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "tr": {
-                        "value": "İlişkiler ve Kimlik",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "uk": {
-                        "value": "Відносини та особистість",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "vi": {
-                        "value": "Mối Quan Hệ & Cá Tính",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "en-GB": {
-                        "value": "Relationships & Identity",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "en-US": {
-                        "value": "Relationships & Identity",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "es-ES": {
-                        "value": "Relaciones e identidad",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "pt-BR": {
-                        "value": "Relacionamentos e Identidade",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "sv-SE": {
-                        "value": "Förhållanden och identitet",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "zh-CN": {
-                        "value": "情感&认知",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "zh-TW": {
-                        "value": "關係與身分",
+                        "value": "Другое",
                         "matchLevel": "none",
                         "matchedWords": []
                     }
