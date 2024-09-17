@@ -1,20 +1,20 @@
 {
     "id": "888550498133766204",
     "name": "HashPack",
-    "description": "HashPack is the leading HBAR crypto wallet",
+    "description": "HashPack is your gateway to Hedera dApps, DeFi and NFTs. A crypto wallet built by the community, for the community.",
     "icon": "f2e769c3b6e514ac70a9c119247ddd93",
-    "splash": "884a9a75b94e9d47695b14d0696e6db1",
-    "discovery_splash": "5af5d3246f2ea159792c1a66d01e9e24",
-    "banner": "6184e78d9c1411ba475c6dafb386ee29",
-    "approximate_presence_count": 611,
-    "approximate_member_count": 4737,
-    "premium_subscription_count": 7,
+    "splash": "3b86043f9737425bde2a3a394d27ce83",
+    "discovery_splash": "40042790a65ab6ffe7c0c54e0fc42448",
+    "banner": "731706493d225f8a7c9a7f35dadf4b17",
+    "approximate_presence_count": 647,
+    "approximate_member_count": 6376,
+    "premium_subscription_count": 17,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "hashpack",
     "keywords": [
-        "hedera",
-        "hbar",
         "crypto",
+        "hbar",
+        "hedera",
         "wallet"
     ],
     "features": [
@@ -29,23 +29,23 @@
     "raw": {
         "id": "888550498133766204",
         "name": "HashPack",
-        "description": "HashPack is the leading HBAR crypto wallet",
+        "description": "HashPack is your gateway to Hedera dApps, DeFi and NFTs. A crypto wallet built by the community, for the community.",
         "icon": "f2e769c3b6e514ac70a9c119247ddd93",
-        "splash": "884a9a75b94e9d47695b14d0696e6db1",
-        "banner": "6184e78d9c1411ba475c6dafb386ee29",
-        "approximate_presence_count": 611,
-        "approximate_member_count": 4737,
-        "premium_subscription_count": 7,
+        "splash": "3b86043f9737425bde2a3a394d27ce83",
+        "banner": "731706493d225f8a7c9a7f35dadf4b17",
+        "approximate_presence_count": 647,
+        "approximate_member_count": 6376,
+        "premium_subscription_count": 17,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "5af5d3246f2ea159792c1a66d01e9e24",
+        "discovery_splash": "40042790a65ab6ffe7c0c54e0fc42448",
         "primary_category_id": 12,
-        "vanity_url_code": null,
+        "vanity_url_code": "hashpack",
         "is_published": false,
         "keywords": [
-            "hedera",
-            "hbar",
             "crypto",
+            "hbar",
+            "hedera",
             "wallet"
         ],
         "features": [
@@ -213,13 +213,18 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "HashPack is the leading HBAR crypto wallet",
+                "value": "HashPack is your gateway to Hedera dApps, DeFi and NFTs. A crypto wallet built by the community, for the community.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "hashpack",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
                 {
-                    "value": "hedera",
+                    "value": "crypto",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -229,7 +234,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "crypto",
+                    "value": "hedera",
                     "matchLevel": "none",
                     "matchedWords": []
                 },

@@ -6,22 +6,22 @@
     "splash": "d7dfb7d408457370e082b88229260044",
     "discovery_splash": "d7dfb7d408457370e082b88229260044",
     "banner": "a_634bbdee1f9fdcffdc67120da4b34c3e",
-    "approximate_presence_count": 1638,
-    "approximate_member_count": 11763,
-    "premium_subscription_count": 16,
-    "preferred_locale": "en-GB",
+    "approximate_presence_count": 1450,
+    "approximate_member_count": 11971,
+    "premium_subscription_count": 20,
+    "preferred_locale": "en-US",
     "vanity_url_code": "stwcentral",
     "keywords": [
-        "stw",
-        "msk",
         "fortnite",
-        "save",
-        "the",
-        "world",
-        "save the world",
         "giveaways",
+        "msk",
+        "save",
+        "save the world",
+        "storm king",
+        "stw",
         "sunbeam",
-        "trading"
+        "trading",
+        "world"
     ],
     "features": [
         "COMMUNITY",
@@ -39,26 +39,26 @@
         "icon": "a_eb9c9acb2b81c24ffcbb30c948501737",
         "splash": "d7dfb7d408457370e082b88229260044",
         "banner": "a_634bbdee1f9fdcffdc67120da4b34c3e",
-        "approximate_presence_count": 1638,
-        "approximate_member_count": 11763,
-        "premium_subscription_count": 16,
-        "preferred_locale": "en-GB",
+        "approximate_presence_count": 1450,
+        "approximate_member_count": 11971,
+        "premium_subscription_count": 20,
+        "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "d7dfb7d408457370e082b88229260044",
         "primary_category_id": 1,
         "vanity_url_code": "stwcentral",
         "is_published": true,
         "keywords": [
-            "stw",
-            "msk",
             "fortnite",
-            "save",
-            "the",
-            "world",
-            "save the world",
             "giveaways",
+            "msk",
+            "save",
+            "save the world",
+            "storm king",
+            "stw",
             "sunbeam",
-            "trading"
+            "trading",
+            "world"
         ],
         "features": [
             "COMMUNITY",
@@ -310,7 +310,12 @@
             },
             "keywords": [
                 {
-                    "value": "stw",
+                    "value": "fortnite",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "giveaways",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -320,22 +325,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "fortnite",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "save",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "the",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "world",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -345,7 +335,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "giveaways",
+                    "value": "storm king",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "stw",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -356,6 +351,11 @@
                 },
                 {
                     "value": "trading",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "world",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
