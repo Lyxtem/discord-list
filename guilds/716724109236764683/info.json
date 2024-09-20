@@ -6,11 +6,11 @@
     "splash": "a0a57e2253cf5bdc514fbe748e56d761",
     "discovery_splash": "a0a57e2253cf5bdc514fbe748e56d761",
     "banner": "a0a57e2253cf5bdc514fbe748e56d761",
-    "approximate_presence_count": 1582,
-    "approximate_member_count": 9808,
-    "premium_subscription_count": 4,
+    "approximate_presence_count": 1535,
+    "approximate_member_count": 9918,
+    "premium_subscription_count": 25,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "pokerealm",
     "keywords": [
         "pokemon",
         "realm"
@@ -31,14 +31,14 @@
         "icon": "a_9c6c545f6545be21b63815cae2750bb2",
         "splash": "a0a57e2253cf5bdc514fbe748e56d761",
         "banner": "a0a57e2253cf5bdc514fbe748e56d761",
-        "approximate_presence_count": 1582,
-        "approximate_member_count": 9808,
-        "premium_subscription_count": 4,
+        "approximate_presence_count": 1535,
+        "approximate_member_count": 9918,
+        "premium_subscription_count": 25,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "a0a57e2253cf5bdc514fbe748e56d761",
         "primary_category_id": 49,
-        "vanity_url_code": null,
+        "vanity_url_code": "pokerealm",
         "is_published": false,
         "keywords": [
             "pokemon",
@@ -247,6 +247,11 @@
             },
             "description": {
                 "value": "Official server for the PokéRealm bot.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "pokerealm",
                 "matchLevel": "none",
                 "matchedWords": []
             },

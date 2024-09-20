@@ -4,20 +4,20 @@
     "description": "",
     "icon": "a_a6e6e472f2d641330b207d8c05438f2c",
     "splash": "6c9d8ebb1a93c596d40a8cfe727a0831",
-    "discovery_splash": null,
+    "discovery_splash": "89d2b913cf71a1e77f1af3cd8e29cc94",
     "banner": "00447ec276ca2d58899d26e4dc97bd6a",
-    "approximate_presence_count": 6265,
-    "approximate_member_count": 23714,
+    "approximate_presence_count": 5429,
+    "approximate_member_count": 24149,
     "premium_subscription_count": 2,
     "preferred_locale": "en-US",
     "vanity_url_code": "wskoth",
     "keywords": [
         "arma",
-        "koth",
+        "armakoth",
         "king of the hill",
+        "koth",
         "sa-matra",
         "wasteland",
-        "armakoth",
         "ws"
     ],
     "features": [
@@ -36,22 +36,22 @@
         "icon": "a_a6e6e472f2d641330b207d8c05438f2c",
         "splash": "6c9d8ebb1a93c596d40a8cfe727a0831",
         "banner": "00447ec276ca2d58899d26e4dc97bd6a",
-        "approximate_presence_count": 6265,
-        "approximate_member_count": 23714,
+        "approximate_presence_count": 5429,
+        "approximate_member_count": 24149,
         "premium_subscription_count": 2,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "89d2b913cf71a1e77f1af3cd8e29cc94",
         "primary_category_id": 1,
         "vanity_url_code": "wskoth",
         "is_published": false,
         "keywords": [
             "arma",
-            "koth",
+            "armakoth",
             "king of the hill",
+            "koth",
             "sa-matra",
             "wasteland",
-            "armakoth",
             "ws"
         ],
         "features": [
@@ -235,12 +235,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "koth",
+                    "value": "armakoth",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "king of the hill",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "koth",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -251,11 +256,6 @@
                 },
                 {
                     "value": "wasteland",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "armakoth",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
