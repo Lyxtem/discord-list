@@ -6,27 +6,28 @@
     "splash": "aab7af18154b84b5c5c860320b0df759",
     "discovery_splash": "aab7af18154b84b5c5c860320b0df759",
     "banner": "8231439f384a8f3cc47e994c59cd3aaa",
-    "approximate_presence_count": 912,
-    "approximate_member_count": 15528,
-    "premium_subscription_count": 14,
+    "approximate_presence_count": 1088,
+    "approximate_member_count": 16306,
+    "premium_subscription_count": 18,
     "preferred_locale": "en-US",
     "vanity_url_code": "pokervr",
     "keywords": [
-        "poker",
-        "pokervr",
-        "vr",
-        "virtualreality",
-        "pokerstars",
         "oculus",
-        "oculusquest",
         "oculus quest",
-        "poker vr"
+        "oculusquest",
+        "poker",
+        "poker vr",
+        "pokerstars",
+        "pokervr",
+        "virtualreality",
+        "vr"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
         "FEATURABLE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "VERIFIED"
     ],
@@ -39,31 +40,32 @@
         "icon": "952d520af8e033753635a5cee5119c59",
         "splash": "aab7af18154b84b5c5c860320b0df759",
         "banner": "8231439f384a8f3cc47e994c59cd3aaa",
-        "approximate_presence_count": 912,
-        "approximate_member_count": 15528,
-        "premium_subscription_count": 14,
+        "approximate_presence_count": 1088,
+        "approximate_member_count": 16306,
+        "premium_subscription_count": 18,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "aab7af18154b84b5c5c860320b0df759",
         "primary_category_id": 3,
         "vanity_url_code": "pokervr",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
-            "poker",
-            "pokervr",
-            "vr",
-            "virtualreality",
-            "pokerstars",
             "oculus",
-            "oculusquest",
             "oculus quest",
-            "poker vr"
+            "oculusquest",
+            "poker",
+            "poker vr",
+            "pokerstars",
+            "pokervr",
+            "virtualreality",
+            "vr"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
             "FEATURABLE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "VERIFIED"
         ],
@@ -199,37 +201,7 @@
             },
             "keywords": [
                 {
-                    "value": "poker",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "pokervr",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "vr",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "virtualreality",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "pokerstars",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "oculus",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "oculusquest",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -239,7 +211,37 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "oculusquest",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "poker",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "poker vr",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "pokerstars",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "pokervr",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "virtualreality",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "vr",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

@@ -7,21 +7,21 @@
     "discovery_splash": "221a37f56d0540ef12bca488ee635545",
     "banner": "3b468c9a76bc0c4395240079eafc7658",
     "approximate_presence_count": 291,
-    "approximate_member_count": 3341,
-    "premium_subscription_count": 22,
+    "approximate_member_count": 3307,
+    "premium_subscription_count": 19,
     "preferred_locale": "en-US",
     "vanity_url_code": "therift",
     "keywords": [
-        "space",
-        "vc",
-        "voice chat",
-        "gaming",
-        "fun",
-        "events",
-        "twitch",
         "chill",
+        "events",
+        "fun",
+        "gaming",
+        "minecraft",
+        "space",
+        "twitch",
         "valorant",
-        "minecraft"
+        "vc",
+        "voice chat"
     ],
     "features": [
         "COMMUNITY",
@@ -40,8 +40,8 @@
         "splash": "221a37f56d0540ef12bca488ee635545",
         "banner": "3b468c9a76bc0c4395240079eafc7658",
         "approximate_presence_count": 291,
-        "approximate_member_count": 3341,
-        "premium_subscription_count": 22,
+        "approximate_member_count": 3307,
+        "premium_subscription_count": 19,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "221a37f56d0540ef12bca488ee635545",
@@ -49,16 +49,16 @@
         "vanity_url_code": "therift",
         "is_published": true,
         "keywords": [
-            "space",
-            "vc",
-            "voice chat",
-            "gaming",
-            "fun",
-            "events",
-            "twitch",
             "chill",
+            "events",
+            "fun",
+            "gaming",
+            "minecraft",
+            "space",
+            "twitch",
             "valorant",
-            "minecraft"
+            "vc",
+            "voice chat"
         ],
         "features": [
             "COMMUNITY",
@@ -310,7 +310,42 @@
             },
             "keywords": [
                 {
+                    "value": "chill",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "events",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "fun",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "gaming",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "minecraft",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "space",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "twitch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "valorant",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -321,41 +356,6 @@
                 },
                 {
                     "value": "voice chat",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "gaming",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "fun",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "events",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "twitch",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "chill",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "valorant",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "minecraft",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

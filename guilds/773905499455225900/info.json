@@ -1,20 +1,22 @@
 {
     "id": "773905499455225900",
-    "name": "™Bagdad • A maior loja de fivem do brasil",
+    "name": "™Bagdad • A maior loja de Fivem do Brasil",
     "description": "Conheça a loja que mais cria tendência no mundo do FiveM.",
     "icon": "a_ad90d9baaee8b2f5713cdbc4e127c029",
     "splash": "061a864ad5631174b70697a3fc393f9f",
     "discovery_splash": "061a864ad5631174b70697a3fc393f9f",
     "banner": "a_d4fb1f4c27cb31f8d68e24775dece1d4",
-    "approximate_presence_count": 5956,
-    "approximate_member_count": 16760,
-    "premium_subscription_count": 18,
+    "approximate_presence_count": 6382,
+    "approximate_member_count": 17031,
+    "premium_subscription_count": 19,
     "preferred_locale": "pt-BR",
-    "vanity_url_code": "tm-bagdad-773905499455225900",
+    "vanity_url_code": "bagdad",
     "keywords": [
         "fivem",
         "gtav",
+        "mapas fivem",
         "mods",
+        "mods fivem",
         "roleplay",
         "roupas",
         "rp",
@@ -32,24 +34,26 @@
     "verified": false,
     "raw": {
         "id": "773905499455225900",
-        "name": "™Bagdad • A maior loja de fivem do brasil",
+        "name": "™Bagdad • A maior loja de Fivem do Brasil",
         "description": "Conheça a loja que mais cria tendência no mundo do FiveM.",
         "icon": "a_ad90d9baaee8b2f5713cdbc4e127c029",
         "splash": "061a864ad5631174b70697a3fc393f9f",
         "banner": "a_d4fb1f4c27cb31f8d68e24775dece1d4",
-        "approximate_presence_count": 5956,
-        "approximate_member_count": 16760,
-        "premium_subscription_count": 18,
+        "approximate_presence_count": 6382,
+        "approximate_member_count": 17031,
+        "premium_subscription_count": 19,
         "preferred_locale": "pt-BR",
         "auto_removed": false,
         "discovery_splash": "061a864ad5631174b70697a3fc393f9f",
-        "primary_category_id": 8,
-        "vanity_url_code": "tm-bagdad-773905499455225900",
+        "primary_category_id": 1,
+        "vanity_url_code": "bagdad",
         "is_published": true,
         "keywords": [
             "fivem",
             "gtav",
+            "mapas fivem",
             "mods",
+            "mods fivem",
             "roleplay",
             "roupas",
             "rp",
@@ -248,49 +252,86 @@
                     "zh-CN": "内容创作者",
                     "zh-TW": "內容創作者"
                 }
+            },
+            {
+                "id": 1,
+                "is_primary": true,
+                "name": "Gaming",
+                "name_localizations": {
+                    "bg": "Гейминг",
+                    "cs": "Hraní",
+                    "da": "Spil",
+                    "de": "Gaming",
+                    "el": "Gaming",
+                    "fi": "Pelaaminen",
+                    "fr": "Gaming",
+                    "hi": "गेमिंग",
+                    "hr": "Gaming",
+                    "hu": "Játék",
+                    "it": "Gaming",
+                    "ja": "ゲーム",
+                    "ko": "게임",
+                    "lt": "Žaidimai",
+                    "nl": "Gaming",
+                    "no": "Gaming",
+                    "pl": "Gry",
+                    "ro": "Gaming",
+                    "ru": "Игры",
+                    "th": "การเล่นเกม",
+                    "tr": "Oyun",
+                    "uk": "Ігри",
+                    "vi": "Gaming",
+                    "en-GB": "Gaming",
+                    "en-US": "Gaming",
+                    "es-ES": "Juegos",
+                    "pt-BR": "Jogos",
+                    "sv-SE": "Gaming",
+                    "zh-CN": "游戏",
+                    "zh-TW": "遊戲"
+                }
             }
         ],
         "primary_category": {
-            "id": 8,
+            "id": 1,
             "is_primary": true,
-            "name": "Fashion & Beauty",
+            "name": "Gaming",
             "name_localizations": {
-                "bg": "Мода и красота",
-                "cs": "Móda a krása",
-                "da": "Mode & skønhed",
-                "de": "Fashion & Beauty",
-                "el": "Μόδα & Ομορφιά",
-                "fi": "Muoti ja kauneus",
-                "fr": "Mode et beauté",
-                "hi": "फैशन और ब्यूटी",
-                "hr": "Moda i ljepota",
-                "hu": "Divat és szépségápolás",
-                "it": "Moda e bellezza",
-                "ja": "ファッション&ビューティー",
-                "ko": "패션, 미용",
-                "lt": "Mada ir grožis",
-                "nl": "Mode en beauty",
-                "no": "Mote og skjønnhet",
-                "pl": "Moda i piękno",
-                "ro": "Modă și frumusețe",
-                "ru": "Мода и красота",
-                "th": "แฟชันและความงาม",
-                "tr": "Moda ve Güzellik",
-                "uk": "Мода та краса",
-                "vi": "Thời Trang & Làm Đẹp",
-                "en-GB": "Fashion & Beauty",
-                "en-US": "Fashion & Beauty",
-                "es-ES": "Moda y belleza",
-                "pt-BR": "Moda e Beleza",
-                "sv-SE": "Mode och skönhet",
-                "zh-CN": "时尚&美妆",
-                "zh-TW": "時尚與美容"
+                "bg": "Гейминг",
+                "cs": "Hraní",
+                "da": "Spil",
+                "de": "Gaming",
+                "el": "Gaming",
+                "fi": "Pelaaminen",
+                "fr": "Gaming",
+                "hi": "गेमिंग",
+                "hr": "Gaming",
+                "hu": "Játék",
+                "it": "Gaming",
+                "ja": "ゲーム",
+                "ko": "게임",
+                "lt": "Žaidimai",
+                "nl": "Gaming",
+                "no": "Gaming",
+                "pl": "Gry",
+                "ro": "Gaming",
+                "ru": "Игры",
+                "th": "การเล่นเกม",
+                "tr": "Oyun",
+                "uk": "Ігри",
+                "vi": "Gaming",
+                "en-GB": "Gaming",
+                "en-US": "Gaming",
+                "es-ES": "Juegos",
+                "pt-BR": "Jogos",
+                "sv-SE": "Gaming",
+                "zh-CN": "游戏",
+                "zh-TW": "遊戲"
             }
         },
         "objectID": "773905499455225900",
         "_highlightResult": {
             "name": {
-                "value": "™Bagdad • A maior loja de fivem do brasil",
+                "value": "™Bagdad • A maior loja de Fivem do Brasil",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -300,7 +341,7 @@
                 "matchedWords": []
             },
             "vanity_url_code": {
-                "value": "tm-bagdad-773905499455225900",
+                "value": "bagdad",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -316,7 +357,17 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "mapas fivem",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "mods",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "mods fivem",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -1111,157 +1162,311 @@
                             "matchedWords": []
                         }
                     }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Гейминг",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Hraní",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Spil",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Pelaaminen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "गेमिंग",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Játék",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "ゲーム",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "게임",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Žaidimai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Gry",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Игры",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การเล่นเกม",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Oyun",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Ігри",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Juegos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Jogos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Gaming",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "游戏",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "遊戲",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
                 }
             ],
             "primary_category": {
                 "name_localizations": {
                     "bg": {
-                        "value": "Мода и красота",
+                        "value": "Гейминг",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "cs": {
-                        "value": "Móda a krása",
+                        "value": "Hraní",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "da": {
-                        "value": "Mode & skønhed",
+                        "value": "Spil",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "de": {
-                        "value": "Fashion & Beauty",
+                        "value": "Gaming",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "el": {
-                        "value": "Μόδα & Ομορφιά",
+                        "value": "Gaming",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "fi": {
-                        "value": "Muoti ja kauneus",
+                        "value": "Pelaaminen",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "fr": {
-                        "value": "Mode et beauté",
+                        "value": "Gaming",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "hi": {
-                        "value": "फैशन और ब्यूटी",
+                        "value": "गेमिंग",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "hr": {
-                        "value": "Moda i ljepota",
+                        "value": "Gaming",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "hu": {
-                        "value": "Divat és szépségápolás",
+                        "value": "Játék",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "it": {
-                        "value": "Moda e bellezza",
+                        "value": "Gaming",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ja": {
-                        "value": "ファッション&ビューティー",
+                        "value": "ゲーム",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ko": {
-                        "value": "패션, 미용",
+                        "value": "게임",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "lt": {
-                        "value": "Mada ir grožis",
+                        "value": "Žaidimai",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "nl": {
-                        "value": "Mode en beauty",
+                        "value": "Gaming",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "no": {
-                        "value": "Mote og skjønnhet",
+                        "value": "Gaming",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "pl": {
-                        "value": "Moda i piękno",
+                        "value": "Gry",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ro": {
-                        "value": "Modă și frumusețe",
+                        "value": "Gaming",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ru": {
-                        "value": "Мода и красота",
+                        "value": "Игры",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "th": {
-                        "value": "แฟชันและความงาม",
+                        "value": "การเล่นเกม",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "tr": {
-                        "value": "Moda ve Güzellik",
+                        "value": "Oyun",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "uk": {
-                        "value": "Мода та краса",
+                        "value": "Ігри",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "vi": {
-                        "value": "Thời Trang & Làm Đẹp",
+                        "value": "Gaming",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "en-GB": {
-                        "value": "Fashion & Beauty",
+                        "value": "Gaming",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "en-US": {
-                        "value": "Fashion & Beauty",
+                        "value": "Gaming",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "es-ES": {
-                        "value": "Moda y belleza",
+                        "value": "Juegos",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "pt-BR": {
-                        "value": "Moda e Beleza",
+                        "value": "Jogos",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "sv-SE": {
-                        "value": "Mode och skönhet",
+                        "value": "Gaming",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "zh-CN": {
-                        "value": "时尚&美妆",
+                        "value": "游戏",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "zh-TW": {
-                        "value": "時尚與美容",
+                        "value": "遊戲",
                         "matchLevel": "none",
                         "matchedWords": []
                     }
