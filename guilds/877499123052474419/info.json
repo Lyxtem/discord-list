@@ -4,22 +4,22 @@
     "description": "The Official Discord for the F1® Manager community!",
     "icon": "e90ab591e71149c2e10def02a60e45f5",
     "splash": "7f4a1cb19236224b760c126d79e8d155",
-    "discovery_splash": "2038aa7bd6df5e24eba9d6b70a61443e",
+    "discovery_splash": "5bfdbf58c86751d15e2c24d611cd5cdc",
     "banner": "2f2a7c8968944bca4f7fbcad79ebdf05",
-    "approximate_presence_count": 2307,
-    "approximate_member_count": 13996,
-    "premium_subscription_count": 1,
+    "approximate_presence_count": 2246,
+    "approximate_member_count": 14919,
+    "premium_subscription_count": 3,
     "preferred_locale": "en-US",
     "vanity_url_code": "f1manager",
     "keywords": [
-        "f1manager",
         "f1",
+        "f1m",
+        "f1manager",
         "formula1",
         "game",
-        "sports",
-        "manager",
         "management",
-        "f1m"
+        "manager",
+        "sports"
     ],
     "features": [
         "COMMUNITY",
@@ -39,24 +39,24 @@
         "icon": "e90ab591e71149c2e10def02a60e45f5",
         "splash": "7f4a1cb19236224b760c126d79e8d155",
         "banner": "2f2a7c8968944bca4f7fbcad79ebdf05",
-        "approximate_presence_count": 2307,
-        "approximate_member_count": 13996,
-        "premium_subscription_count": 1,
+        "approximate_presence_count": 2246,
+        "approximate_member_count": 14919,
+        "premium_subscription_count": 3,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "2038aa7bd6df5e24eba9d6b70a61443e",
+        "discovery_splash": "5bfdbf58c86751d15e2c24d611cd5cdc",
         "primary_category_id": 1,
         "vanity_url_code": "f1manager",
         "is_published": false,
         "keywords": [
-            "f1manager",
             "f1",
+            "f1m",
+            "f1manager",
             "formula1",
             "game",
-            "sports",
-            "manager",
             "management",
-            "f1m"
+            "manager",
+            "sports"
         ],
         "features": [
             "COMMUNITY",
@@ -172,12 +172,17 @@
             },
             "keywords": [
                 {
-                    "value": "f1manager",
+                    "value": "f1",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "f1",
+                    "value": "f1m",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "f1manager",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -192,7 +197,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "sports",
+                    "value": "management",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -202,12 +207,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "management",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "f1m",
+                    "value": "sports",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

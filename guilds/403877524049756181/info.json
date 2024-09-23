@@ -6,19 +6,19 @@
     "splash": "54dbc917a08b401fef64e67df754c01f",
     "discovery_splash": "f968535764471af2b9a30cbdd8bd9e83",
     "banner": "54dbc917a08b401fef64e67df754c01f",
-    "approximate_presence_count": 240,
+    "approximate_presence_count": 520,
     "approximate_member_count": 16833,
     "premium_subscription_count": 7,
     "preferred_locale": "ru",
     "vanity_url_code": "point-blank-403877524049756181",
     "keywords": [
         "PB",
+        "shooter",
         "Поинт",
-        "шутер",
-        "пб",
         "Поинт Бланк",
-        "экшн",
-        "shooter"
+        "пб",
+        "шутер",
+        "экшн"
     ],
     "features": [
         "COMMUNITY",
@@ -37,7 +37,7 @@
         "icon": "121b84d0a8f132341d93266e474cd5a9",
         "splash": "54dbc917a08b401fef64e67df754c01f",
         "banner": "54dbc917a08b401fef64e67df754c01f",
-        "approximate_presence_count": 240,
+        "approximate_presence_count": 520,
         "approximate_member_count": 16833,
         "premium_subscription_count": 7,
         "preferred_locale": "ru",
@@ -48,12 +48,12 @@
         "is_published": true,
         "keywords": [
             "PB",
+            "shooter",
             "Поинт",
-            "шутер",
-            "пб",
             "Поинт Бланк",
-            "экшн",
-            "shooter"
+            "пб",
+            "шутер",
+            "экшн"
         ],
         "features": [
             "COMMUNITY",
@@ -274,17 +274,12 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "shooter",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "Поинт",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "шутер",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "пб",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -294,12 +289,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "экшн",
+                    "value": "пб",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "shooter",
+                    "value": "шутер",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "экшн",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
