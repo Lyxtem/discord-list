@@ -1,21 +1,22 @@
 {
     "id": "867907428409290802",
-    "name": "Sigma Bot Vinted | Entraide Achat/Revente",
-    "description": "Sigma est le serveur numéro 1 en termes d'achat-revente, avec une communauté comptant plus de 30 000 membres sur Discord",
+    "name": "Sigma Bot Vinted | Entraide Resell Gratuit",
+    "description": "Serveur discord avec bot Vinted 0 délai pour Discord !",
     "icon": "cd608f0fdadfda2c334be935453b8245",
     "splash": "ddcca94dadbd1cb4ba280a2eb01bc425",
     "discovery_splash": "618513eaa34900e20d2d8c7b64901eb6",
     "banner": "8a193ff2976079b09a75779ebfcca5e1",
-    "approximate_presence_count": 543,
-    "approximate_member_count": 32844,
+    "approximate_presence_count": 1654,
+    "approximate_member_count": 31055,
     "premium_subscription_count": 14,
     "preferred_locale": "fr",
     "vanity_url_code": "vinted",
     "keywords": [
         "achat",
-        "ar",
         "bot",
+        "gratuit",
         "moniteur",
+        "resell",
         "revente",
         "vinted"
     ],
@@ -23,7 +24,6 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -31,25 +31,26 @@
     "verified": false,
     "raw": {
         "id": "867907428409290802",
-        "name": "Sigma Bot Vinted | Entraide Achat/Revente",
-        "description": "Sigma est le serveur numéro 1 en termes d'achat-revente, avec une communauté comptant plus de 30 000 membres sur Discord",
+        "name": "Sigma Bot Vinted | Entraide Resell Gratuit",
+        "description": "Serveur discord avec bot Vinted 0 délai pour Discord !",
         "icon": "cd608f0fdadfda2c334be935453b8245",
         "splash": "ddcca94dadbd1cb4ba280a2eb01bc425",
         "banner": "8a193ff2976079b09a75779ebfcca5e1",
-        "approximate_presence_count": 543,
-        "approximate_member_count": 32844,
+        "approximate_presence_count": 1654,
+        "approximate_member_count": 31055,
         "premium_subscription_count": 14,
         "preferred_locale": "fr",
         "auto_removed": false,
         "discovery_splash": "618513eaa34900e20d2d8c7b64901eb6",
-        "primary_category_id": 49,
+        "primary_category_id": 6,
         "vanity_url_code": "vinted",
         "is_published": true,
         "keywords": [
             "achat",
-            "ar",
             "bot",
+            "gratuit",
             "moniteur",
+            "resell",
             "revente",
             "vinted"
         ],
@@ -57,7 +58,6 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -145,54 +145,91 @@
                     "zh-CN": "机器人",
                     "zh-TW": "機器人"
                 }
+            },
+            {
+                "id": 6,
+                "is_primary": true,
+                "name": "Education",
+                "name_localizations": {
+                    "bg": "Образование",
+                    "cs": "Vzdělávání",
+                    "da": "Uddannelse",
+                    "de": "Bildung",
+                    "el": "Εκπαίδευση",
+                    "fi": "Koulutus",
+                    "fr": "Éducation",
+                    "hi": "एजुकेशन",
+                    "hr": "Obrazovanje",
+                    "hu": "Oktatás",
+                    "it": "Istruzione",
+                    "ja": "教育",
+                    "ko": "교육",
+                    "lt": "Švietimas",
+                    "nl": "Onderwijs",
+                    "no": "Utdanning",
+                    "pl": "Edukacja",
+                    "ro": "Educație",
+                    "ru": "Образование",
+                    "th": "การศึกษา",
+                    "tr": "Eğitim",
+                    "uk": "Освіта",
+                    "vi": "Giáo Dục",
+                    "en-GB": "Education",
+                    "en-US": "Education",
+                    "es-ES": "Educación",
+                    "pt-BR": "Educação",
+                    "sv-SE": "Utbildning",
+                    "zh-CN": "教育",
+                    "zh-TW": "教育"
+                }
             }
         ],
         "primary_category": {
-            "id": 49,
+            "id": 6,
             "is_primary": true,
-            "name": "Bots",
+            "name": "Education",
             "name_localizations": {
-                "bg": "Ботове",
-                "cs": "Boti",
-                "da": "Bots",
-                "de": "Bots",
-                "el": "Bots",
-                "fi": "Botit",
-                "fr": "Bots",
-                "hi": "बॉट्स",
-                "hr": "Botovi",
-                "hu": "Botok",
-                "it": "Bot",
-                "ja": "Bot",
-                "ko": "봇",
-                "lt": "Botai",
-                "nl": "Bots",
-                "no": "Boter",
-                "pl": "Boty",
-                "ro": "Boți",
-                "ru": "Боты",
-                "th": "Bot",
-                "tr": "Botlar",
-                "uk": "Боти",
-                "vi": "Bot",
-                "en-GB": "Bots",
-                "en-US": "Bots",
-                "es-ES": "Bots",
-                "pt-BR": "Bots",
-                "sv-SE": "Bottar",
-                "zh-CN": "机器人",
-                "zh-TW": "機器人"
+                "bg": "Образование",
+                "cs": "Vzdělávání",
+                "da": "Uddannelse",
+                "de": "Bildung",
+                "el": "Εκπαίδευση",
+                "fi": "Koulutus",
+                "fr": "Éducation",
+                "hi": "एजुकेशन",
+                "hr": "Obrazovanje",
+                "hu": "Oktatás",
+                "it": "Istruzione",
+                "ja": "教育",
+                "ko": "교육",
+                "lt": "Švietimas",
+                "nl": "Onderwijs",
+                "no": "Utdanning",
+                "pl": "Edukacja",
+                "ro": "Educație",
+                "ru": "Образование",
+                "th": "การศึกษา",
+                "tr": "Eğitim",
+                "uk": "Освіта",
+                "vi": "Giáo Dục",
+                "en-GB": "Education",
+                "en-US": "Education",
+                "es-ES": "Educación",
+                "pt-BR": "Educação",
+                "sv-SE": "Utbildning",
+                "zh-CN": "教育",
+                "zh-TW": "教育"
             }
         },
         "objectID": "867907428409290802",
         "_highlightResult": {
             "name": {
-                "value": "Sigma Bot Vinted | Entraide Achat/Revente",
+                "value": "Sigma Bot Vinted | Entraide Resell Gratuit",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "description": {
-                "value": "Sigma est le serveur numéro 1 en termes d'achat-revente, avec une communauté comptant plus de 30 000 membres sur Discord",
+                "value": "Serveur discord avec bot Vinted 0 délai pour Discord !",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -208,17 +245,22 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "ar",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "bot",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
+                    "value": "gratuit",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "moniteur",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "resell",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -560,157 +602,311 @@
                             "matchedWords": []
                         }
                     }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Образование",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Vzdělávání",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Uddannelse",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Bildung",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Εκπαίδευση",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Koulutus",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Éducation",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "एजुकेशन",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Obrazovanje",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Oktatás",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Istruzione",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "教育",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "교육",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Švietimas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Onderwijs",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Utdanning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Edukacja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Educație",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Образование",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การศึกษา",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Eğitim",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Освіта",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Giáo Dục",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Education",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Education",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Educación",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Educação",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Utbildning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "教育",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "教育",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
                 }
             ],
             "primary_category": {
                 "name_localizations": {
                     "bg": {
-                        "value": "Ботове",
+                        "value": "Образование",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "cs": {
-                        "value": "Boti",
+                        "value": "Vzdělávání",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "da": {
-                        "value": "Bots",
+                        "value": "Uddannelse",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "de": {
-                        "value": "Bots",
+                        "value": "Bildung",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "el": {
-                        "value": "Bots",
+                        "value": "Εκπαίδευση",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "fi": {
-                        "value": "Botit",
+                        "value": "Koulutus",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "fr": {
-                        "value": "Bots",
+                        "value": "Éducation",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "hi": {
-                        "value": "बॉट्स",
+                        "value": "एजुकेशन",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "hr": {
-                        "value": "Botovi",
+                        "value": "Obrazovanje",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "hu": {
-                        "value": "Botok",
+                        "value": "Oktatás",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "it": {
-                        "value": "Bot",
+                        "value": "Istruzione",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ja": {
-                        "value": "Bot",
+                        "value": "教育",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ko": {
-                        "value": "봇",
+                        "value": "교육",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "lt": {
-                        "value": "Botai",
+                        "value": "Švietimas",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "nl": {
-                        "value": "Bots",
+                        "value": "Onderwijs",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "no": {
-                        "value": "Boter",
+                        "value": "Utdanning",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "pl": {
-                        "value": "Boty",
+                        "value": "Edukacja",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ro": {
-                        "value": "Boți",
+                        "value": "Educație",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ru": {
-                        "value": "Боты",
+                        "value": "Образование",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "th": {
-                        "value": "Bot",
+                        "value": "การศึกษา",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "tr": {
-                        "value": "Botlar",
+                        "value": "Eğitim",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "uk": {
-                        "value": "Боти",
+                        "value": "Освіта",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "vi": {
-                        "value": "Bot",
+                        "value": "Giáo Dục",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "en-GB": {
-                        "value": "Bots",
+                        "value": "Education",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "en-US": {
-                        "value": "Bots",
+                        "value": "Education",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "es-ES": {
-                        "value": "Bots",
+                        "value": "Educación",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "pt-BR": {
-                        "value": "Bots",
+                        "value": "Educação",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "sv-SE": {
-                        "value": "Bottar",
+                        "value": "Utbildning",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "zh-CN": {
-                        "value": "机器人",
+                        "value": "教育",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "zh-TW": {
-                        "value": "機器人",
+                        "value": "教育",
                         "matchLevel": "none",
                         "matchedWords": []
                     }
