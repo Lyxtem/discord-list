@@ -6,27 +6,28 @@
     "splash": "9133a356021b12a809bac432b0a6eece",
     "discovery_splash": "671519ee603b12392b2d5913e653ecec",
     "banner": "db1957442fd9ddd8915eb8c58e8e5346",
-    "approximate_presence_count": 1836,
-    "approximate_member_count": 21880,
-    "premium_subscription_count": 10,
+    "approximate_presence_count": 2537,
+    "approximate_member_count": 21995,
+    "premium_subscription_count": 13,
     "preferred_locale": "en-US",
     "vanity_url_code": "itzu",
     "keywords": [
-        "itzu",
-        "gaming",
-        "coc",
-        "cm",
         "clashmini",
         "clashofclans",
-        "youtube",
-        "twitch",
+        "cm",
+        "coc",
         "community",
-        "server"
+        "gaming",
+        "itzu",
+        "server",
+        "twitch",
+        "youtube"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PARTNERED",
         "PREVIEW_ENABLED"
     ],
@@ -39,9 +40,9 @@
         "icon": "a_9343b7bdaf7ad330454d2e96036deecd",
         "splash": "9133a356021b12a809bac432b0a6eece",
         "banner": "db1957442fd9ddd8915eb8c58e8e5346",
-        "approximate_presence_count": 1836,
-        "approximate_member_count": 21880,
-        "premium_subscription_count": 10,
+        "approximate_presence_count": 2537,
+        "approximate_member_count": 21995,
+        "premium_subscription_count": 13,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "671519ee603b12392b2d5913e653ecec",
@@ -49,21 +50,22 @@
         "vanity_url_code": "itzu",
         "is_published": true,
         "keywords": [
-            "itzu",
-            "gaming",
-            "coc",
-            "cm",
             "clashmini",
             "clashofclans",
-            "youtube",
-            "twitch",
+            "cm",
+            "coc",
             "community",
-            "server"
+            "gaming",
+            "itzu",
+            "server",
+            "twitch",
+            "youtube"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PARTNERED",
             "PREVIEW_ENABLED"
         ],
@@ -310,26 +312,6 @@
             },
             "keywords": [
                 {
-                    "value": "itzu",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "gaming",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "coc",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "cm",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "clashmini",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -340,12 +322,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "youtube",
+                    "value": "cm",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "twitch",
+                    "value": "coc",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -355,7 +337,27 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "gaming",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "itzu",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "server",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "twitch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "youtube",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
