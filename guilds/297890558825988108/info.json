@@ -2,24 +2,24 @@
     "id": "297890558825988108",
     "name": "American Flag in Place",
     "description": "The r/AmericanFlaginPlace Discord server! A forum for people to meet and come together over our shared love of America!",
-    "icon": "592d2c6d1ae6908e3b1f3b46f4bc9b5a",
+    "icon": "6188c627a950e9b738dfc1230c81065e",
     "splash": "61db708f09b9258be8c8873b529a4101",
-    "discovery_splash": "dc58853344d8ca8781dae89962023b60",
+    "discovery_splash": "173d918ca2bc34ea212ccd6fd0732853",
     "banner": "1f92f35a911fb6b240e51f39608fba4a",
-    "approximate_presence_count": 1203,
-    "approximate_member_count": 7587,
+    "approximate_presence_count": 1215,
+    "approximate_member_count": 7384,
     "premium_subscription_count": 21,
     "preferred_locale": "en-US",
     "vanity_url_code": "afip",
     "keywords": [
         "america",
         "community",
+        "gaming",
         "hang-out",
         "history",
         "patriotic",
         "place",
         "r/place",
-        "r/place USA",
         "reddit",
         "usa"
     ],
@@ -37,27 +37,27 @@
         "id": "297890558825988108",
         "name": "American Flag in Place",
         "description": "The r/AmericanFlaginPlace Discord server! A forum for people to meet and come together over our shared love of America!",
-        "icon": "592d2c6d1ae6908e3b1f3b46f4bc9b5a",
+        "icon": "6188c627a950e9b738dfc1230c81065e",
         "splash": "61db708f09b9258be8c8873b529a4101",
         "banner": "1f92f35a911fb6b240e51f39608fba4a",
-        "approximate_presence_count": 1203,
-        "approximate_member_count": 7587,
+        "approximate_presence_count": 1215,
+        "approximate_member_count": 7384,
         "premium_subscription_count": 21,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "dc58853344d8ca8781dae89962023b60",
+        "discovery_splash": "173d918ca2bc34ea212ccd6fd0732853",
         "primary_category_id": 14,
         "vanity_url_code": "afip",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
             "america",
             "community",
+            "gaming",
             "hang-out",
             "history",
             "patriotic",
             "place",
             "r/place",
-            "r/place USA",
             "reddit",
             "usa"
         ],
@@ -219,40 +219,40 @@
                 }
             },
             {
-                "id": 42,
-                "is_primary": false,
-                "name": "Subreddit",
+                "id": 1,
+                "is_primary": true,
+                "name": "Gaming",
                 "name_localizations": {
-                    "bg": "Тема в reddit",
-                    "cs": "Subreddit",
-                    "da": "Subreddit",
-                    "de": "Subreddit",
-                    "el": "Subreddit",
-                    "fi": "Alareddit",
-                    "fr": "Subreddit",
-                    "hi": "सब-रेडिट",
-                    "hr": "Subreddit",
-                    "hu": "Subreddit",
-                    "it": "Subreddit",
-                    "ja": "Subreddit",
-                    "ko": "서브레딧",
-                    "lt": "Subreddit",
-                    "nl": "Subreddit",
-                    "no": "Subreddit",
-                    "pl": "Subreddit",
-                    "ro": "Subreddit",
-                    "ru": "Сабреддит",
-                    "th": "Subreddit",
-                    "tr": "Subreddit",
-                    "uk": "Сабреддіт",
-                    "vi": "Subreddit",
-                    "en-GB": "Subreddit",
-                    "en-US": "Subreddit",
-                    "es-ES": "Subreddit",
-                    "pt-BR": "Subreddit",
-                    "sv-SE": "Subreddit",
-                    "zh-CN": "Reddit讨论区",
-                    "zh-TW": "討論區"
+                    "bg": "Гейминг",
+                    "cs": "Hraní",
+                    "da": "Spil",
+                    "de": "Gaming",
+                    "el": "Gaming",
+                    "fi": "Pelaaminen",
+                    "fr": "Gaming",
+                    "hi": "गेमिंग",
+                    "hr": "Gaming",
+                    "hu": "Játék",
+                    "it": "Gaming",
+                    "ja": "ゲーム",
+                    "ko": "게임",
+                    "lt": "Žaidimai",
+                    "nl": "Gaming",
+                    "no": "Gaming",
+                    "pl": "Gry",
+                    "ro": "Gaming",
+                    "ru": "Игры",
+                    "th": "การเล่นเกม",
+                    "tr": "Oyun",
+                    "uk": "Ігри",
+                    "vi": "Gaming",
+                    "en-GB": "Gaming",
+                    "en-US": "Gaming",
+                    "es-ES": "Juegos",
+                    "pt-BR": "Jogos",
+                    "sv-SE": "Gaming",
+                    "zh-CN": "游戏",
+                    "zh-TW": "遊戲"
                 }
             },
             {
@@ -359,6 +359,11 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "gaming",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "hang-out",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -380,11 +385,6 @@
                 },
                 {
                     "value": "r/place",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "r/place USA",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -1019,152 +1019,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Тема в reddit",
+                            "value": "Гейминг",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Subreddit",
+                            "value": "Hraní",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Subreddit",
+                            "value": "Spil",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Subreddit",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Subreddit",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Alareddit",
+                            "value": "Pelaaminen",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Subreddit",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "सब-रेडिट",
+                            "value": "गेमिंग",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Subreddit",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Subreddit",
+                            "value": "Játék",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Subreddit",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "Subreddit",
+                            "value": "ゲーム",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "서브레딧",
+                            "value": "게임",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Subreddit",
+                            "value": "Žaidimai",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Subreddit",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Subreddit",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Subreddit",
+                            "value": "Gry",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Subreddit",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Сабреддит",
+                            "value": "Игры",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "Subreddit",
+                            "value": "การเล่นเกม",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Subreddit",
+                            "value": "Oyun",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Сабреддіт",
+                            "value": "Ігри",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Subreddit",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Subreddit",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Subreddit",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Subreddit",
+                            "value": "Juegos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Subreddit",
+                            "value": "Jogos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Subreddit",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "Reddit讨论区",
+                            "value": "游戏",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "討論區",
+                            "value": "遊戲",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

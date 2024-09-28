@@ -6,16 +6,16 @@
     "splash": null,
     "discovery_splash": "69ba3992e35a8632aa17623192373f43",
     "banner": "79bfe960971d3510a9dd4f61913e36af",
-    "approximate_presence_count": 2627,
-    "approximate_member_count": 9687,
+    "approximate_presence_count": 2351,
+    "approximate_member_count": 11320,
     "premium_subscription_count": 2,
     "preferred_locale": "en-US",
     "vanity_url_code": "exaroton-720384997315575849",
     "keywords": [
-        "minecraft",
-        "server",
+        "host",
         "hosting",
-        "host"
+        "minecraft",
+        "server"
     ],
     "features": [
         "COMMUNITY",
@@ -34,8 +34,8 @@
         "icon": "a_43ec339e531537485515b9feb858e9df",
         "splash": null,
         "banner": "79bfe960971d3510a9dd4f61913e36af",
-        "approximate_presence_count": 2627,
-        "approximate_member_count": 9687,
+        "approximate_presence_count": 2351,
+        "approximate_member_count": 11320,
         "premium_subscription_count": 2,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -44,10 +44,10 @@
         "vanity_url_code": "exaroton-720384997315575849",
         "is_published": true,
         "keywords": [
-            "minecraft",
-            "server",
+            "host",
             "hosting",
-            "host"
+            "minecraft",
+            "server"
         ],
         "features": [
             "COMMUNITY",
@@ -189,12 +189,7 @@
             },
             "keywords": [
                 {
-                    "value": "minecraft",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "server",
+                    "value": "host",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -204,7 +199,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "host",
+                    "value": "minecraft",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "server",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
