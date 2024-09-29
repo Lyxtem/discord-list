@@ -2,20 +2,23 @@
     "id": "284359973813878784",
     "name": "bingsociety 氷",
     "description": "",
-    "icon": "bcae1894e184420da1ff6a9c77f1b41a",
+    "icon": "1ace1b07418ddbb13b52a3f5644e82ed",
     "splash": "e4eed28d51c204c619d0978bb97cc9af",
     "discovery_splash": "1a3d6f9db645bdf7f436a1aca22d91ac",
     "banner": "9d0b00251540190d308e0b95e3466887",
-    "approximate_presence_count": 262,
-    "approximate_member_count": 1950,
+    "approximate_presence_count": 608,
+    "approximate_member_count": 2166,
     "premium_subscription_count": 14,
     "preferred_locale": "en-US",
     "vanity_url_code": "bings",
-    "keywords": [],
+    "keywords": [
+        "bings"
+    ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -25,11 +28,11 @@
         "id": "284359973813878784",
         "name": "bingsociety 氷",
         "description": "",
-        "icon": "bcae1894e184420da1ff6a9c77f1b41a",
+        "icon": "1ace1b07418ddbb13b52a3f5644e82ed",
         "splash": "e4eed28d51c204c619d0978bb97cc9af",
         "banner": "9d0b00251540190d308e0b95e3466887",
-        "approximate_presence_count": 262,
-        "approximate_member_count": 1950,
+        "approximate_presence_count": 608,
+        "approximate_member_count": 2166,
         "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -37,11 +40,14 @@
         "primary_category_id": 3,
         "vanity_url_code": "bings",
         "is_published": false,
-        "keywords": [],
+        "keywords": [
+            "bings"
+        ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -138,6 +144,13 @@
                 "matchLevel": "none",
                 "matchedWords": []
             },
+            "keywords": [
+                {
+                    "value": "bings",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            ],
             "categories": [
                 {
                     "name_localizations": {
