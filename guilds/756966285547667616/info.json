@@ -6,25 +6,28 @@
     "splash": "4de615a483582ad31e58e49263f83eb0",
     "discovery_splash": "7843257e74a8174cbf59e2b7b7f24554",
     "banner": "b6261feda611d23c2836eb4618ee10fc",
-    "approximate_presence_count": 30,
-    "approximate_member_count": 2551,
-    "premium_subscription_count": 1,
+    "approximate_presence_count": 21,
+    "approximate_member_count": 2956,
+    "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
     "keywords": [
-        "telugu",
-        "rajugaming",
-        "minecraft",
-        "youtube",
-        "valorant",
-        "roleplay",
+        "amongus",
+        "gta5",
         "india",
-        "teluguyoutube"
+        "minecraft",
+        "rajugaming",
+        "roleplay",
+        "telugu",
+        "teluguyoutube",
+        "valorant",
+        "youtube"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -37,9 +40,9 @@
         "icon": "a_8925f1176a7de5c0f155028a4607fb49",
         "splash": "4de615a483582ad31e58e49263f83eb0",
         "banner": "b6261feda611d23c2836eb4618ee10fc",
-        "approximate_presence_count": 30,
-        "approximate_member_count": 2551,
-        "premium_subscription_count": 1,
+        "approximate_presence_count": 21,
+        "approximate_member_count": 2956,
+        "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "7843257e74a8174cbf59e2b7b7f24554",
@@ -47,19 +50,22 @@
         "vanity_url_code": null,
         "is_published": false,
         "keywords": [
-            "telugu",
-            "rajugaming",
-            "minecraft",
-            "youtube",
-            "valorant",
-            "roleplay",
+            "amongus",
+            "gta5",
             "india",
-            "teluguyoutube"
+            "minecraft",
+            "rajugaming",
+            "roleplay",
+            "telugu",
+            "teluguyoutube",
+            "valorant",
+            "youtube"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -190,32 +196,12 @@
             },
             "keywords": [
                 {
-                    "value": "telugu",
+                    "value": "amongus",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "rajugaming",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "minecraft",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "youtube",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "valorant",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "roleplay",
+                    "value": "gta5",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -225,7 +211,37 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "minecraft",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "rajugaming",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "roleplay",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "telugu",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "teluguyoutube",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "valorant",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "youtube",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

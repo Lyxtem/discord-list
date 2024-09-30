@@ -2,33 +2,22 @@
     "id": "625636596414152704",
     "name": "Yes, Your Grace",
     "description": "",
-    "icon": "388f90a524e33f07a8596254c0203406",
-    "splash": "c1e23cd79081cf6ada359aed9867404c",
+    "icon": "47b9dcdd1d47cb25b310ce00f6ca0b6f",
+    "splash": "08467bb849ff3186928c61d6480310dc",
     "discovery_splash": "cddca81a915b59a5a2bec2e308c5e8cb",
-    "banner": null,
-    "approximate_presence_count": 366,
-    "approximate_member_count": 2885,
-    "premium_subscription_count": 4,
+    "banner": "99f01607b0e625751dfd4370e0bf09a0",
+    "approximate_presence_count": 669,
+    "approximate_member_count": 3248,
+    "premium_subscription_count": 7,
     "preferred_locale": "en-US",
     "vanity_url_code": "yesyourgrace",
     "keywords": null,
     "features": [
-        "ANIMATED_ICON",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_MEDIUM",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
         "FEATURABLE",
-        "GUILD_ONBOARDING",
-        "GUILD_ONBOARDING_EVER_ENABLED",
-        "GUILD_ONBOARDING_HAS_PROMPTS",
-        "GUILD_SERVER_GUIDE",
-        "INVITE_SPLASH",
-        "NEWS",
         "PREVIEW_ENABLED",
-        "THREE_DAY_THREAD_ARCHIVE",
-        "VANITY_URL",
         "VERIFIED"
     ],
     "partnered": false,
@@ -37,12 +26,12 @@
         "id": "625636596414152704",
         "name": "Yes, Your Grace",
         "description": "",
-        "icon": "388f90a524e33f07a8596254c0203406",
-        "splash": "c1e23cd79081cf6ada359aed9867404c",
-        "banner": null,
-        "approximate_presence_count": 366,
-        "approximate_member_count": 2885,
-        "premium_subscription_count": 4,
+        "icon": "47b9dcdd1d47cb25b310ce00f6ca0b6f",
+        "splash": "08467bb849ff3186928c61d6480310dc",
+        "banner": "99f01607b0e625751dfd4370e0bf09a0",
+        "approximate_presence_count": 669,
+        "approximate_member_count": 3248,
+        "premium_subscription_count": 7,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "cddca81a915b59a5a2bec2e308c5e8cb",
@@ -51,23 +40,44 @@
         "is_published": false,
         "keywords": null,
         "features": [
-            "ANIMATED_ICON",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_MEDIUM",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
             "FEATURABLE",
-            "GUILD_ONBOARDING",
-            "GUILD_ONBOARDING_EVER_ENABLED",
-            "GUILD_ONBOARDING_HAS_PROMPTS",
-            "GUILD_SERVER_GUIDE",
-            "INVITE_SPLASH",
-            "NEWS",
             "PREVIEW_ENABLED",
-            "THREE_DAY_THREAD_ARCHIVE",
-            "VANITY_URL",
             "VERIFIED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "625636596414152704",
+        "_highlightResult": {
+            "name": {
+                "value": "Yes, Your Grace",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "yesyourgrace",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }

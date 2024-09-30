@@ -6,21 +6,17 @@
     "splash": "18a15399c15b9bf5c66c82693d216c72",
     "discovery_splash": "4f0ab83521f07debcd773b1ebb045496",
     "banner": null,
-    "approximate_presence_count": 22,
-    "approximate_member_count": 421,
+    "approximate_presence_count": 23,
+    "approximate_member_count": 364,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "caitlindeville",
     "keywords": [],
     "features": [
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "INVITE_SPLASH",
-        "NEWS",
         "PREVIEW_ENABLED",
-        "VANITY_URL",
         "VERIFIED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -33,8 +29,8 @@
         "icon": "e6d0842f10c4653ed8975d747886e2b4",
         "splash": "18a15399c15b9bf5c66c82693d216c72",
         "banner": null,
-        "approximate_presence_count": 22,
-        "approximate_member_count": 421,
+        "approximate_presence_count": 23,
+        "approximate_member_count": 364,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -44,16 +40,44 @@
         "is_published": false,
         "keywords": [],
         "features": [
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "INVITE_SPLASH",
-            "NEWS",
             "PREVIEW_ENABLED",
-            "VANITY_URL",
             "VERIFIED",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "892830233189826620",
+        "_highlightResult": {
+            "name": {
+                "value": "Caitlin De Ville",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "Caitlin De Ville's Discord Server.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "caitlindeville",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }

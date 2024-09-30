@@ -1,24 +1,27 @@
 {
     "id": "939832356703989831",
-    "name": "-Your Trading Adventure-",
-    "description": "This is a Server for Trading in Two Jojo Games: Yba and Aut. Are you lf good Trades and nice Giveaways? Join here now!",
-    "icon": "a_45d0c9d9fc49c65ba34ea713880a856c",
+    "name": "Power By Christ",
+    "description": "This is a Server based on Christianity about lifting and sports. Please be respectful and honor each other.",
+    "icon": "1a1d920fc0ae9cc5b391284cfd9986c6",
     "splash": "8a87e699daaff3b2a9a7afbdfad34e40",
     "discovery_splash": "cea7227f39c07cb868229f12dffa2c92",
     "banner": null,
-    "approximate_presence_count": 618,
-    "approximate_member_count": 5207,
+    "approximate_presence_count": 255,
+    "approximate_member_count": 4945,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
     "keywords": [
-        "trading",
-        "roblox",
-        "giveaways",
-        "aut",
-        "yba",
-        "community",
-        "gaming"
+        "bodybuilding",
+        "christ",
+        "christian",
+        "christianity",
+        "fitness",
+        "god",
+        "gym",
+        "health",
+        "powerlifting",
+        "workout"
     ],
     "features": [
         "COMMUNITY",
@@ -32,13 +35,13 @@
     "verified": false,
     "raw": {
         "id": "939832356703989831",
-        "name": "-Your Trading Adventure-",
-        "description": "This is a Server for Trading in Two Jojo Games: Yba and Aut. Are you lf good Trades and nice Giveaways? Join here now!",
-        "icon": "a_45d0c9d9fc49c65ba34ea713880a856c",
+        "name": "Power By Christ",
+        "description": "This is a Server based on Christianity about lifting and sports. Please be respectful and honor each other.",
+        "icon": "1a1d920fc0ae9cc5b391284cfd9986c6",
         "splash": "8a87e699daaff3b2a9a7afbdfad34e40",
         "banner": null,
-        "approximate_presence_count": 618,
-        "approximate_member_count": 5207,
+        "approximate_presence_count": 255,
+        "approximate_member_count": 4945,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -47,13 +50,16 @@
         "vanity_url_code": null,
         "is_published": false,
         "keywords": [
-            "trading",
-            "roblox",
-            "giveaways",
-            "aut",
-            "yba",
-            "community",
-            "gaming"
+            "bodybuilding",
+            "christ",
+            "christian",
+            "christianity",
+            "fitness",
+            "god",
+            "gym",
+            "health",
+            "powerlifting",
+            "workout"
         ],
         "features": [
             "COMMUNITY",
@@ -65,40 +71,124 @@
         ],
         "categories": [
             {
-                "id": 16,
-                "is_primary": false,
-                "name": "Anime & Manga",
+                "id": 7,
+                "is_primary": true,
+                "name": "Sports",
                 "name_localizations": {
-                    "bg": "Аниме и манга",
-                    "cs": "Anime a manga",
-                    "da": "Anime & manga",
-                    "de": "Anime & Manga",
-                    "el": "Anime & Manga",
-                    "fi": "Anime ja manga",
-                    "fr": "Animés et mangas",
-                    "hi": "Anime & Manga",
-                    "hr": "Anime i Manga",
-                    "hu": "Anime és manga",
-                    "it": "Anime e manga",
-                    "ja": "アニメ&マンガ",
-                    "ko": "애니메이션, 만화",
-                    "lt": "Animė ir manga",
-                    "nl": "Anime en manga",
-                    "no": "Anime og manga",
-                    "pl": "Anime i manga",
-                    "ro": "Anime și manga",
-                    "ru": "Аниме и манга",
-                    "th": "อนิเมะและมังงะ",
-                    "tr": "Anime ve Manga",
-                    "uk": "Аніме та манга",
-                    "vi": "Anime & Manga",
-                    "en-GB": "Anime & manga",
-                    "en-US": "Anime & Manga",
-                    "es-ES": "Anime y manga",
-                    "pt-BR": "Anime e Mangá",
-                    "sv-SE": "Anime och manga",
-                    "zh-CN": "动画&漫画",
-                    "zh-TW": "動畫與漫畫"
+                    "de": "Sport",
+                    "fr": "Sports",
+                    "ru": "Спорт"
+                }
+            },
+            {
+                "id": 6,
+                "is_primary": true,
+                "name": "Education",
+                "name_localizations": {
+                    "bg": "Образование",
+                    "cs": "Vzdělávání",
+                    "da": "Uddannelse",
+                    "de": "Bildung",
+                    "el": "Εκπαίδευση",
+                    "fi": "Koulutus",
+                    "fr": "Éducation",
+                    "hi": "एजुकेशन",
+                    "hr": "Obrazovanje",
+                    "hu": "Oktatás",
+                    "it": "Istruzione",
+                    "ja": "教育",
+                    "ko": "교육",
+                    "lt": "Švietimas",
+                    "nl": "Onderwijs",
+                    "no": "Utdanning",
+                    "pl": "Edukacja",
+                    "ro": "Educație",
+                    "ru": "Образование",
+                    "th": "การศึกษา",
+                    "tr": "Eğitim",
+                    "uk": "Освіта",
+                    "vi": "Giáo Dục",
+                    "en-GB": "Education",
+                    "en-US": "Education",
+                    "es-ES": "Educación",
+                    "pt-BR": "Educação",
+                    "sv-SE": "Utbildning",
+                    "zh-CN": "教育",
+                    "zh-TW": "教育"
+                }
+            },
+            {
+                "id": 11,
+                "is_primary": true,
+                "name": "Fitness & Health",
+                "name_localizations": {
+                    "bg": "Фитнес и здраве",
+                    "cs": "Zdraví a fitness",
+                    "da": "Fitness & sundhed",
+                    "de": "Fitness & Gesundheit",
+                    "el": "Φυσική κατάσταση & Υγεία",
+                    "fi": "Fitness ja terveys",
+                    "fr": "Fitness et santé",
+                    "hi": "फिटनेस और हेल्थ",
+                    "hr": "Vježba i zdravlje",
+                    "hu": "Fitnesz és egészség",
+                    "it": "Fitness e benessere",
+                    "ja": "フィットネス&健康",
+                    "ko": "피트니스, 건강",
+                    "lt": "Sportas ir sveikata",
+                    "nl": "Lichamelijke gezondheid",
+                    "no": "Trening og helse",
+                    "pl": "Zdrowie i fitness",
+                    "ro": "Fitness și sănătate",
+                    "ru": "Фитнес и здоровье",
+                    "th": "ฟิตเนสและสุขภาพ",
+                    "tr": "Zindelik ve Sağlık",
+                    "uk": "Фітнес і здоров'я",
+                    "vi": "Thể Chất & Sức Khỏe",
+                    "en-GB": "Fitness & Health",
+                    "en-US": "Fitness & Health",
+                    "es-ES": "Fitness y salud",
+                    "pt-BR": "Ginástica e Saúde",
+                    "sv-SE": "Träning och hälsa",
+                    "zh-CN": "健身&健康",
+                    "zh-TW": "健身與健康"
+                }
+            },
+            {
+                "id": 25,
+                "is_primary": false,
+                "name": "Memes",
+                "name_localizations": {
+                    "bg": "Мемове",
+                    "cs": "Memy",
+                    "da": "Memes",
+                    "de": "Memes",
+                    "el": "Memes",
+                    "fi": "Meemit",
+                    "fr": "Memes",
+                    "hi": "मीम्स",
+                    "hr": "Memeovi",
+                    "hu": "Mémek",
+                    "it": "Meme",
+                    "ja": "ミーム",
+                    "ko": "짤",
+                    "lt": "Memai",
+                    "nl": "Memes",
+                    "no": "Memer",
+                    "pl": "Memy",
+                    "ro": "Meme",
+                    "ru": "Мемы",
+                    "th": "มีม",
+                    "tr": "Meme'ler",
+                    "uk": "Меми",
+                    "vi": "Meme",
+                    "en-GB": "Memes",
+                    "en-US": "Memes",
+                    "es-ES": "Memes",
+                    "pt-BR": "Memes",
+                    "sv-SE": "Memes",
+                    "zh-CN": "表情包",
+                    "zh-TW": "迷因"
                 }
             },
             {
@@ -216,48 +306,63 @@
         "objectID": "939832356703989831",
         "_highlightResult": {
             "name": {
-                "value": "-Your Trading Adventure-",
+                "value": "Power By Christ",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "description": {
-                "value": "This is a Server for Trading in Two Jojo Games: Yba and Aut. Are you lf good Trades and nice Giveaways? Join here now!",
+                "value": "This is a Server based on Christianity about lifting and sports. Please be respectful and honor each other.",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
                 {
-                    "value": "trading",
+                    "value": "bodybuilding",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "roblox",
+                    "value": "christ",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "giveaways",
+                    "value": "christian",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "aut",
+                    "value": "christianity",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "yba",
+                    "value": "fitness",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "community",
+                    "value": "god",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "gaming",
+                    "value": "gym",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "health",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "powerlifting",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "workout",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
@@ -265,153 +370,480 @@
             "categories": [
                 {
                     "name_localizations": {
-                        "bg": {
-                            "value": "Аниме и манга",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Anime a manga",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Anime & manga",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
                         "de": {
-                            "value": "Anime & Manga",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Anime & Manga",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Anime ja manga",
+                            "value": "Sport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Animés et mangas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "Anime & Manga",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Anime i Manga",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Anime és manga",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Anime e manga",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "アニメ&マンガ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "애니메이션, 만화",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Animė ir manga",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Anime en manga",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Anime og manga",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Anime i manga",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Anime și manga",
+                            "value": "Sports",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Аниме и манга",
+                            "value": "Спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Образование",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Vzdělávání",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Uddannelse",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Bildung",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Εκπαίδευση",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Koulutus",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Éducation",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "एजुकेशन",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Obrazovanje",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Oktatás",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Istruzione",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "教育",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "교육",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Švietimas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Onderwijs",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Utdanning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Edukacja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Educație",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Образование",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "อนิเมะและมังงะ",
+                            "value": "การศึกษา",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Anime ve Manga",
+                            "value": "Eğitim",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Аніме та манга",
+                            "value": "Освіта",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Anime & Manga",
+                            "value": "Giáo Dục",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Anime & manga",
+                            "value": "Education",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Anime & Manga",
+                            "value": "Education",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Anime y manga",
+                            "value": "Educación",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Anime e Mangá",
+                            "value": "Educação",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Anime och manga",
+                            "value": "Utbildning",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "动画&漫画",
+                            "value": "教育",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "動畫與漫畫",
+                            "value": "教育",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Фитнес и здраве",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Zdraví a fitness",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Fitness & sundhed",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Fitness & Gesundheit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Φυσική κατάσταση & Υγεία",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Fitness ja terveys",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Fitness et santé",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "फिटनेस और हेल्थ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Vježba i zdravlje",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Fitnesz és egészség",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Fitness e benessere",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "フィットネス&健康",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "피트니스, 건강",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Sportas ir sveikata",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Lichamelijke gezondheid",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Trening og helse",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Zdrowie i fitness",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Fitness și sănătate",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Фитнес и здоровье",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ฟิตเนสและสุขภาพ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Zindelik ve Sağlık",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Фітнес і здоров'я",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Thể Chất & Sức Khỏe",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Fitness & Health",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Fitness & Health",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Fitness y salud",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Ginástica e Saúde",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Träning och hälsa",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "健身&健康",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "健身與健康",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Мемове",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Memy",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Meemit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "मीम्स",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Memeovi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Mémek",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Meme",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "ミーム",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "짤",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Memai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Memer",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Memy",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Meme",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Мемы",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "มีม",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Meme'ler",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Меми",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Meme",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "表情包",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "迷因",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
