@@ -6,22 +6,22 @@
     "splash": "49d0c1f3ea69ec8cfffb06c180f46cf2",
     "discovery_splash": "9e62a0de04e986c27c425a4a992fbb90",
     "banner": "e0146e80e7b9599d5888b3cd3dc68777",
-    "approximate_presence_count": 5231,
-    "approximate_member_count": 66847,
-    "premium_subscription_count": 63,
+    "approximate_presence_count": 5371,
+    "approximate_member_count": 67580,
+    "premium_subscription_count": 95,
     "preferred_locale": "en-US",
     "vanity_url_code": "thehangout",
     "keywords": [
-        "Hangout",
-        "Social",
-        "Chat",
-        "Voice",
         "Active",
+        "Chat",
         "Chill",
-        "Fun",
         "Community",
         "Emoji",
-        "VC"
+        "Fun",
+        "Hangout",
+        "Social",
+        "VC",
+        "Voice"
     ],
     "features": [
         "COMMUNITY",
@@ -40,9 +40,9 @@
         "icon": "a_b286cebcfc60b1f16d0ee497f0828ba9",
         "splash": "49d0c1f3ea69ec8cfffb06c180f46cf2",
         "banner": "e0146e80e7b9599d5888b3cd3dc68777",
-        "approximate_presence_count": 5231,
-        "approximate_member_count": 66847,
-        "premium_subscription_count": 63,
+        "approximate_presence_count": 5371,
+        "approximate_member_count": 67580,
+        "premium_subscription_count": 95,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "9e62a0de04e986c27c425a4a992fbb90",
@@ -50,16 +50,16 @@
         "vanity_url_code": "thehangout",
         "is_published": true,
         "keywords": [
-            "Hangout",
-            "Social",
-            "Chat",
-            "Voice",
             "Active",
+            "Chat",
             "Chill",
-            "Fun",
             "Community",
             "Emoji",
-            "VC"
+            "Fun",
+            "Hangout",
+            "Social",
+            "VC",
+            "Voice"
         ],
         "features": [
             "COMMUNITY",
@@ -238,12 +238,7 @@
             },
             "keywords": [
                 {
-                    "value": "Hangout",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "Social",
+                    "value": "Active",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -253,22 +248,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "Voice",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "Active",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "Chill",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "Fun",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -283,7 +263,27 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "Fun",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Hangout",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Social",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "VC",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Voice",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
