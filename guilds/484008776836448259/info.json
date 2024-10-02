@@ -6,19 +6,19 @@
     "splash": "8b94591a4664751793ab33c53fc56c84",
     "discovery_splash": "03b1d74b7c6e9c3f698b2f2cc042b277",
     "banner": "dd31dc5ef6034ee133ce93ec48d171a6",
-    "approximate_presence_count": 1791,
-    "approximate_member_count": 10511,
-    "premium_subscription_count": 2,
+    "approximate_presence_count": 999,
+    "approximate_member_count": 10450,
+    "premium_subscription_count": 4,
     "preferred_locale": "es-ES",
     "vanity_url_code": "torotocho",
     "keywords": [
-        "hardware",
-        "presupuesto pc",
-        "pc gaming",
-        "toro tocho",
-        "youtube",
+        "españa",
         "español",
-        "españa"
+        "hardware",
+        "pc gaming",
+        "presupuesto pc",
+        "toro tocho",
+        "youtube"
     ],
     "features": [
         "COMMUNITY",
@@ -37,23 +37,23 @@
         "icon": "968c786bf0b8adf8480b2c9d365c34a2",
         "splash": "8b94591a4664751793ab33c53fc56c84",
         "banner": "dd31dc5ef6034ee133ce93ec48d171a6",
-        "approximate_presence_count": 1791,
-        "approximate_member_count": 10511,
-        "premium_subscription_count": 2,
+        "approximate_presence_count": 999,
+        "approximate_member_count": 10450,
+        "premium_subscription_count": 4,
         "preferred_locale": "es-ES",
         "auto_removed": false,
         "discovery_splash": "03b1d74b7c6e9c3f698b2f2cc042b277",
         "primary_category_id": 5,
         "vanity_url_code": "torotocho",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
-            "hardware",
-            "presupuesto pc",
-            "pc gaming",
-            "toro tocho",
-            "youtube",
+            "españa",
             "español",
-            "españa"
+            "hardware",
+            "pc gaming",
+            "presupuesto pc",
+            "toro tocho",
+            "youtube"
         ],
         "features": [
             "COMMUNITY",
@@ -195,17 +195,27 @@
             },
             "keywords": [
                 {
+                    "value": "españa",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "español",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "hardware",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "presupuesto pc",
+                    "value": "pc gaming",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "pc gaming",
+                    "value": "presupuesto pc",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -216,16 +226,6 @@
                 },
                 {
                     "value": "youtube",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "español",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "españa",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
