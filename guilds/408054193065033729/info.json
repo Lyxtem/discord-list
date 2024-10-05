@@ -2,21 +2,21 @@
     "id": "408054193065033729",
     "name": "War Commander",
     "description": "The official Discord for KIXEYE's browser-based War Commander.",
-    "icon": "6e2cdcea070d61afb87263c8fb896530",
-    "splash": "71f5c7ce1a5247fad214d112b0f0d6da",
+    "icon": "4a2baa0533e5a89f6ceb607ac6f486dd",
+    "splash": "efbc375f7c5b1c66bc4023026cadade4",
     "discovery_splash": "92b3a8131f0cb7b7d23050d2801a50c0",
     "banner": "8c8be422b4d131b6c1e28fb985ad6344",
-    "approximate_presence_count": 660,
-    "approximate_member_count": 26378,
-    "premium_subscription_count": 0,
+    "approximate_presence_count": 699,
+    "approximate_member_count": 3711,
+    "premium_subscription_count": 2,
     "preferred_locale": "en-US",
-    "vanity_url_code": "warcommander",
+    "vanity_url_code": "war-commander",
     "keywords": [
-        "kixeye",
+        "WC",
+        "WCB",
         "War Commander",
         "WarCommander",
-        "WC",
-        "WCB"
+        "kixeye"
     ],
     "features": [
         "COMMUNITY",
@@ -34,24 +34,24 @@
         "id": "408054193065033729",
         "name": "War Commander",
         "description": "The official Discord for KIXEYE's browser-based War Commander.",
-        "icon": "6e2cdcea070d61afb87263c8fb896530",
-        "splash": "71f5c7ce1a5247fad214d112b0f0d6da",
+        "icon": "4a2baa0533e5a89f6ceb607ac6f486dd",
+        "splash": "efbc375f7c5b1c66bc4023026cadade4",
         "banner": "8c8be422b4d131b6c1e28fb985ad6344",
-        "approximate_presence_count": 660,
-        "approximate_member_count": 26378,
-        "premium_subscription_count": 0,
+        "approximate_presence_count": 699,
+        "approximate_member_count": 3711,
+        "premium_subscription_count": 2,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "92b3a8131f0cb7b7d23050d2801a50c0",
         "primary_category_id": 1,
-        "vanity_url_code": "warcommander",
+        "vanity_url_code": "war-commander",
         "is_published": false,
         "keywords": [
-            "kixeye",
+            "WC",
+            "WCB",
             "War Commander",
             "WarCommander",
-            "WC",
-            "WCB"
+            "kixeye"
         ],
         "features": [
             "COMMUNITY",
@@ -152,13 +152,18 @@
                 "matchedWords": []
             },
             "vanity_url_code": {
-                "value": "warcommander",
+                "value": "war-commander",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
                 {
-                    "value": "kixeye",
+                    "value": "WC",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "WCB",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -173,12 +178,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "WC",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "WCB",
+                    "value": "kixeye",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

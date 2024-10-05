@@ -6,9 +6,9 @@
     "splash": "5c06b1c0386d27313c1b7813286f1888",
     "discovery_splash": "ede58f5f20278b5f27c6cab1fb9e640c",
     "banner": "2b8e8d3b1f73e3d17e5c989260d2de14",
-    "approximate_presence_count": 265,
-    "approximate_member_count": 2866,
-    "premium_subscription_count": 2,
+    "approximate_presence_count": 392,
+    "approximate_member_count": 4071,
+    "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "standard-notes-894600255058898974",
     "keywords": [
@@ -17,6 +17,7 @@
         "linux",
         "note taking",
         "privacy",
+        "proton",
         "software",
         "tech"
     ],
@@ -36,9 +37,9 @@
         "icon": "eace9efe3cd6b3406f88598b03954f37",
         "splash": "5c06b1c0386d27313c1b7813286f1888",
         "banner": "2b8e8d3b1f73e3d17e5c989260d2de14",
-        "approximate_presence_count": 265,
-        "approximate_member_count": 2866,
-        "premium_subscription_count": 2,
+        "approximate_presence_count": 392,
+        "approximate_member_count": 4071,
+        "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "ede58f5f20278b5f27c6cab1fb9e640c",
@@ -51,6 +52,7 @@
             "linux",
             "note taking",
             "privacy",
+            "proton",
             "software",
             "tech"
         ],
@@ -362,6 +364,11 @@
                 },
                 {
                     "value": "privacy",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "proton",
                     "matchLevel": "none",
                     "matchedWords": []
                 },

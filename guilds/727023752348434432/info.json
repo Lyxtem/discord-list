@@ -6,11 +6,11 @@
     "splash": "f3426e41628ce74f266fddbfbad04b0c",
     "discovery_splash": "a5373520e2f1125ac328df05d0ca50c3",
     "banner": "eb2b7928579944e73a4f2bed7bcd279f",
-    "approximate_presence_count": 709,
-    "approximate_member_count": 4671,
-    "premium_subscription_count": 14,
+    "approximate_presence_count": 784,
+    "approximate_member_count": 5003,
+    "premium_subscription_count": 22,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "freebsd",
     "keywords": [
         "freebsd",
         "linux",
@@ -40,14 +40,14 @@
         "icon": "c4829dfc16d0cd006199ce8c6322e4f0",
         "splash": "f3426e41628ce74f266fddbfbad04b0c",
         "banner": "eb2b7928579944e73a4f2bed7bcd279f",
-        "approximate_presence_count": 709,
-        "approximate_member_count": 4671,
-        "premium_subscription_count": 14,
+        "approximate_presence_count": 784,
+        "approximate_member_count": 5003,
+        "premium_subscription_count": 22,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "a5373520e2f1125ac328df05d0ca50c3",
         "primary_category_id": 5,
-        "vanity_url_code": null,
+        "vanity_url_code": "freebsd",
         "is_published": false,
         "keywords": [
             "freebsd",
@@ -302,6 +302,11 @@
             },
             "description": {
                 "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "freebsd",
                 "matchLevel": "none",
                 "matchedWords": []
             },

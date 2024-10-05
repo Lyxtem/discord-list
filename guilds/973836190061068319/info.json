@@ -1,14 +1,14 @@
 {
     "id": "973836190061068319",
-    "name": "Xiera Visuals",
-    "description": "｡  ׂ 𓈒    Rising stars' home since 2021.  ★ 𓈒",
-    "icon": "826ebc98279c692cc556185612d48158",
-    "splash": "b0dbe0d4becc4e4d3cbed9b00be2a6fc",
-    "discovery_splash": "ac71f4aa537851392db459ae587e9df6",
-    "banner": "0cc2299bbe44d64548fffbc1cd5c8f82",
-    "approximate_presence_count": 669,
-    "approximate_member_count": 4148,
-    "premium_subscription_count": 26,
+    "name": "Xiera Visūælś",
+    "description": "｡  ׂ 𓈒    Rising stars' home & visualizing since 2021.  ★ˣᵛ  𓈒",
+    "icon": "5c9aff2e682e002b572d3b7fdf325bfd",
+    "splash": "aa0d049647e80e61c74bfb50bcc80633",
+    "discovery_splash": "08419639ef968776b30a6b2058a0178b",
+    "banner": "f52b31031b5478762224622d454cdc9f",
+    "approximate_presence_count": 538,
+    "approximate_member_count": 4070,
+    "premium_subscription_count": 16,
     "preferred_locale": "en-US",
     "vanity_url_code": "xiera",
     "keywords": [
@@ -26,6 +26,7 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -33,20 +34,20 @@
     "verified": false,
     "raw": {
         "id": "973836190061068319",
-        "name": "Xiera Visuals",
-        "description": "｡  ׂ 𓈒    Rising stars' home since 2021.  ★ 𓈒",
-        "icon": "826ebc98279c692cc556185612d48158",
-        "splash": "b0dbe0d4becc4e4d3cbed9b00be2a6fc",
-        "banner": "0cc2299bbe44d64548fffbc1cd5c8f82",
-        "approximate_presence_count": 669,
-        "approximate_member_count": 4148,
-        "premium_subscription_count": 26,
+        "name": "Xiera Visūælś",
+        "description": "｡  ׂ 𓈒    Rising stars' home & visualizing since 2021.  ★ˣᵛ  𓈒",
+        "icon": "5c9aff2e682e002b572d3b7fdf325bfd",
+        "splash": "aa0d049647e80e61c74bfb50bcc80633",
+        "banner": "f52b31031b5478762224622d454cdc9f",
+        "approximate_presence_count": 538,
+        "approximate_member_count": 4070,
+        "premium_subscription_count": 16,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "ac71f4aa537851392db459ae587e9df6",
+        "discovery_splash": "08419639ef968776b30a6b2058a0178b",
         "primary_category_id": 1,
         "vanity_url_code": "xiera",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
             "bca",
             "bedwars",
@@ -62,6 +63,7 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -141,43 +143,6 @@
                 }
             },
             {
-                "id": 14,
-                "is_primary": true,
-                "name": "General Chatting",
-                "name_localizations": {
-                    "bg": "Общуване",
-                    "cs": "Prostě chat",
-                    "da": "Generelt",
-                    "de": "Allgemeine Chats",
-                    "el": "Γενική συζήτηση",
-                    "fi": "Yleinen keskustelu",
-                    "fr": "Discussion générale",
-                    "hi": "जनरल चैटिंग",
-                    "hr": "Općenito",
-                    "hu": "Általános csevegés",
-                    "it": "Discussioni generali",
-                    "ja": "雑談",
-                    "ko": "일반 채팅",
-                    "lt": "Bendro pobūdžio pokalbiai",
-                    "nl": "Algemene chat",
-                    "no": "Generell chatting",
-                    "pl": "Rozmowy",
-                    "ro": "Discuții generale",
-                    "ru": "Общение",
-                    "th": "การสนทนาทั่วไป",
-                    "tr": "Genel Sohbet",
-                    "uk": "Спілкування на загальні теми",
-                    "vi": "Trò Chuyện Chung",
-                    "en-GB": "General Chatting",
-                    "en-US": "General Chatting",
-                    "es-ES": "Chateo general",
-                    "pt-BR": "Conversas gerais",
-                    "sv-SE": "Chatt i allmänhet",
-                    "zh-CN": "综合聊天",
-                    "zh-TW": "一般聊天"
-                }
-            },
-            {
                 "id": 1,
                 "is_primary": true,
                 "name": "Gaming",
@@ -212,6 +177,43 @@
                     "sv-SE": "Gaming",
                     "zh-CN": "游戏",
                     "zh-TW": "遊戲"
+                }
+            },
+            {
+                "id": 14,
+                "is_primary": true,
+                "name": "General Chatting",
+                "name_localizations": {
+                    "bg": "Общуване",
+                    "cs": "Prostě chat",
+                    "da": "Generelt",
+                    "de": "Allgemeine Chats",
+                    "el": "Γενική συζήτηση",
+                    "fi": "Yleinen keskustelu",
+                    "fr": "Discussion générale",
+                    "hi": "जनरल चैटिंग",
+                    "hr": "Općenito",
+                    "hu": "Általános csevegés",
+                    "it": "Discussioni generali",
+                    "ja": "雑談",
+                    "ko": "일반 채팅",
+                    "lt": "Bendro pobūdžio pokalbiai",
+                    "nl": "Algemene chat",
+                    "no": "Generell chatting",
+                    "pl": "Rozmowy",
+                    "ro": "Discuții generale",
+                    "ru": "Общение",
+                    "th": "การสนทนาทั่วไป",
+                    "tr": "Genel Sohbet",
+                    "uk": "Спілкування на загальні теми",
+                    "vi": "Trò Chuyện Chung",
+                    "en-GB": "General Chatting",
+                    "en-US": "General Chatting",
+                    "es-ES": "Chateo general",
+                    "pt-BR": "Conversas gerais",
+                    "sv-SE": "Chatt i allmänhet",
+                    "zh-CN": "综合聊天",
+                    "zh-TW": "一般聊天"
                 }
             }
         ],
@@ -255,12 +257,12 @@
         "objectID": "973836190061068319",
         "_highlightResult": {
             "name": {
-                "value": "Xiera Visuals",
+                "value": "Xiera Visūælś",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "description": {
-                "value": "｡  ׂ 𓈒    Rising stars' home since 2021.  ★ 𓈒",
+                "value": "｡  ׂ 𓈒    Rising stars' home & visualizing since 2021.  ★ˣᵛ  𓈒",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -628,160 +630,6 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Общуване",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Prostě chat",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Generelt",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Allgemeine Chats",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Γενική συζήτηση",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Yleinen keskustelu",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Discussion générale",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "जनरल चैटिंग",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Općenito",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Általános csevegés",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Discussioni generali",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "雑談",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "일반 채팅",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Bendro pobūdžio pokalbiai",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Algemene chat",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Generell chatting",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Rozmowy",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Discuții generale",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Общение",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "การสนทนาทั่วไป",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Genel Sohbet",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Спілкування на загальні теми",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Trò Chuyện Chung",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "General Chatting",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "General Chatting",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Chateo general",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Conversas gerais",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Chatt i allmänhet",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "综合聊天",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "一般聊天",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
                             "value": "Гейминг",
                             "matchLevel": "none",
                             "matchedWords": []
@@ -928,6 +776,160 @@
                         },
                         "zh-TW": {
                             "value": "遊戲",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Общуване",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Prostě chat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Generelt",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Allgemeine Chats",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Γενική συζήτηση",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Yleinen keskustelu",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Discussion générale",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "जनरल चैटिंग",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Općenito",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Általános csevegés",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Discussioni generali",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "雑談",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "일반 채팅",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Bendro pobūdžio pokalbiai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Algemene chat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Generell chatting",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Rozmowy",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Discuții generale",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Общение",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การสนทนาทั่วไป",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Genel Sohbet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Спілкування на загальні теми",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Trò Chuyện Chung",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "General Chatting",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "General Chatting",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Chateo general",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Conversas gerais",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Chatt i allmänhet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "综合聊天",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "一般聊天",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

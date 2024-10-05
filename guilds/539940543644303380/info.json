@@ -2,26 +2,26 @@
     "id": "539940543644303380",
     "name": "Evil Geniuses",
     "description": "The best professional esports team. A legacy of excellence, a future of dominance.",
-    "icon": "d5e17ca006d2859bda81de9e7ceb2a58",
+    "icon": "4d559faf06042ed52a105a252a6b199c",
     "splash": "eb835a0e9672eb969b745511ae3ee0e3",
-    "discovery_splash": "35418e8c439b3e58047e6036f62a2553",
+    "discovery_splash": "5ca4aaa52208b14c9643f40515435fd2",
     "banner": null,
-    "approximate_presence_count": 1151,
-    "approximate_member_count": 4861,
+    "approximate_presence_count": 963,
+    "approximate_member_count": 4527,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "evilgeniuses",
     "keywords": [
-        "LoL",
-        "DOTA",
-        "DOTA 2",
-        "esports",
         "CS:GO",
         "CSGO",
-        "League of Legends",
-        "FGC",
+        "DOTA",
+        "DOTA 2",
         "Evil Geniuses",
-        "LCS"
+        "FGC",
+        "LCS",
+        "League of Legends",
+        "LoL",
+        "esports"
     ],
     "features": [
         "COMMUNITY",
@@ -38,29 +38,29 @@
         "id": "539940543644303380",
         "name": "Evil Geniuses",
         "description": "The best professional esports team. A legacy of excellence, a future of dominance.",
-        "icon": "d5e17ca006d2859bda81de9e7ceb2a58",
+        "icon": "4d559faf06042ed52a105a252a6b199c",
         "splash": "eb835a0e9672eb969b745511ae3ee0e3",
         "banner": null,
-        "approximate_presence_count": 1151,
-        "approximate_member_count": 4861,
+        "approximate_presence_count": 963,
+        "approximate_member_count": 4527,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "35418e8c439b3e58047e6036f62a2553",
+        "discovery_splash": "5ca4aaa52208b14c9643f40515435fd2",
         "primary_category_id": 1,
         "vanity_url_code": "evilgeniuses",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
-            "LoL",
-            "DOTA",
-            "DOTA 2",
-            "esports",
             "CS:GO",
             "CSGO",
-            "League of Legends",
-            "FGC",
+            "DOTA",
+            "DOTA 2",
             "Evil Geniuses",
-            "LCS"
+            "FGC",
+            "LCS",
+            "League of Legends",
+            "LoL",
+            "esports"
         ],
         "features": [
             "COMMUNITY",
@@ -314,7 +314,12 @@
             },
             "keywords": [
                 {
-                    "value": "LoL",
+                    "value": "CS:GO",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "CSGO",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -329,22 +334,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "esports",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "CS:GO",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "CSGO",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "League of Legends",
+                    "value": "Evil Geniuses",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -354,12 +344,22 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "Evil Geniuses",
+                    "value": "LCS",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "LCS",
+                    "value": "League of Legends",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "LoL",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "esports",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

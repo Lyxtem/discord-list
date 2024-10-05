@@ -1,25 +1,25 @@
 {
     "id": "711098385251434536",
     "name": "Ticket King Support",
-    "description": "In Ticket King Support, we provide you with dedicated support, bot status updates, and announcements.",
+    "description": "This is the support server for Ticket King. Here, we provide you with dedicated support, notices, and premium giveaways.",
     "icon": "d6ab283a4bedbd18fe0e37b74fe37398",
     "splash": null,
-    "discovery_splash": "5e0934f285cf31b2f4ac8bc609646cd3",
+    "discovery_splash": "11a7a5569157b2303d6f4efd12bffd5f",
     "banner": null,
-    "approximate_presence_count": 282,
-    "approximate_member_count": 1164,
-    "premium_subscription_count": 0,
+    "approximate_presence_count": 398,
+    "approximate_member_count": 3201,
+    "premium_subscription_count": 3,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "ticket-king-support-711098385251434536",
     "keywords": [
         "bots",
+        "discord-bot",
         "giveaways",
         "support",
         "ticket",
-        "ticketking",
         "ticket-king",
-        "topgg",
-        "discord-bot"
+        "ticketking",
+        "topgg"
     ],
     "features": [
         "COMMUNITY",
@@ -34,28 +34,28 @@
     "raw": {
         "id": "711098385251434536",
         "name": "Ticket King Support",
-        "description": "In Ticket King Support, we provide you with dedicated support, bot status updates, and announcements.",
+        "description": "This is the support server for Ticket King. Here, we provide you with dedicated support, notices, and premium giveaways.",
         "icon": "d6ab283a4bedbd18fe0e37b74fe37398",
         "splash": null,
         "banner": null,
-        "approximate_presence_count": 282,
-        "approximate_member_count": 1164,
-        "premium_subscription_count": 0,
+        "approximate_presence_count": 398,
+        "approximate_member_count": 3201,
+        "premium_subscription_count": 3,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "5e0934f285cf31b2f4ac8bc609646cd3",
+        "discovery_splash": "11a7a5569157b2303d6f4efd12bffd5f",
         "primary_category_id": 49,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "ticket-king-support-711098385251434536",
+        "is_published": true,
         "keywords": [
             "bots",
+            "discord-bot",
             "giveaways",
             "support",
             "ticket",
-            "ticketking",
             "ticket-king",
-            "topgg",
-            "discord-bot"
+            "ticketking",
+            "topgg"
         ],
         "features": [
             "COMMUNITY",
@@ -66,6 +66,43 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 43,
+                "is_primary": true,
+                "name": "Emoji",
+                "name_localizations": {
+                    "bg": "Емотикон",
+                    "cs": "Smajlíci",
+                    "da": "Emoji",
+                    "de": "Emojis",
+                    "el": "Emoji",
+                    "fi": "Emoji",
+                    "fr": "Émoji",
+                    "hi": "इमोजी",
+                    "hr": "Emoji",
+                    "hu": "Emotikon",
+                    "it": "Emoji",
+                    "ja": "絵文字",
+                    "ko": "이모티콘",
+                    "lt": "Jaustukai",
+                    "nl": "Emoji",
+                    "no": "Emoji",
+                    "pl": "Emoji",
+                    "ro": "Emoji",
+                    "ru": "Эмодзи",
+                    "th": "อีโมจิ",
+                    "tr": "Emoji",
+                    "uk": "Емодзі",
+                    "vi": "Emoji",
+                    "en-GB": "Emoji",
+                    "en-US": "Emoji",
+                    "es-ES": "Emojis",
+                    "pt-BR": "Emoji",
+                    "sv-SE": "Emoji",
+                    "zh-CN": "表情符号",
+                    "zh-TW": "表情符號"
+                }
+            },
             {
                 "id": 31,
                 "is_primary": false,
@@ -138,43 +175,6 @@
                     "sv-SE": "Wiki och guide",
                     "zh-CN": "维基&指南",
                     "zh-TW": "維基百科與指南"
-                }
-            },
-            {
-                "id": 43,
-                "is_primary": true,
-                "name": "Emoji",
-                "name_localizations": {
-                    "bg": "Емотикон",
-                    "cs": "Smajlíci",
-                    "da": "Emoji",
-                    "de": "Emojis",
-                    "el": "Emoji",
-                    "fi": "Emoji",
-                    "fr": "Émoji",
-                    "hi": "इमोजी",
-                    "hr": "Emoji",
-                    "hu": "Emotikon",
-                    "it": "Emoji",
-                    "ja": "絵文字",
-                    "ko": "이모티콘",
-                    "lt": "Jaustukai",
-                    "nl": "Emoji",
-                    "no": "Emoji",
-                    "pl": "Emoji",
-                    "ro": "Emoji",
-                    "ru": "Эмодзи",
-                    "th": "อีโมจิ",
-                    "tr": "Emoji",
-                    "uk": "Емодзі",
-                    "vi": "Emoji",
-                    "en-GB": "Emoji",
-                    "en-US": "Emoji",
-                    "es-ES": "Emojis",
-                    "pt-BR": "Emoji",
-                    "sv-SE": "Emoji",
-                    "zh-CN": "表情符号",
-                    "zh-TW": "表情符號"
                 }
             },
             {
@@ -260,13 +260,23 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "In Ticket King Support, we provide you with dedicated support, bot status updates, and announcements.",
+                "value": "This is the support server for Ticket King. Here, we provide you with dedicated support, notices, and premium giveaways.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "ticket-king-support-711098385251434536",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
                 {
                     "value": "bots",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "discord-bot",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -286,12 +296,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "ticketking",
+                    "value": "ticket-king",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "ticket-king",
+                    "value": "ticketking",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -299,14 +309,163 @@
                     "value": "topgg",
                     "matchLevel": "none",
                     "matchedWords": []
-                },
-                {
-                    "value": "discord-bot",
-                    "matchLevel": "none",
-                    "matchedWords": []
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Емотикон",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Smajlíci",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Emojis",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Émoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "इमोजी",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Emotikon",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "絵文字",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "이모티콘",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Jaustukai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Эмодзи",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "อีโมจิ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Емодзі",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Emojis",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "表情符号",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "表情符號",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -610,160 +769,6 @@
                         },
                         "zh-TW": {
                             "value": "維基百科與指南",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Емотикон",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Smajlíci",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Emoji",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Emojis",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Emoji",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Emoji",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Émoji",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "इमोजी",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Emoji",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Emotikon",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Emoji",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "絵文字",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "이모티콘",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Jaustukai",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Emoji",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Emoji",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Emoji",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Emoji",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Эмодзи",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "อีโมจิ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Emoji",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Емодзі",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Emoji",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Emoji",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Emoji",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Emojis",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Emoji",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Emoji",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "表情符号",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "表情符號",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
