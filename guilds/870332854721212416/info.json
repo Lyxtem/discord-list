@@ -1,14 +1,14 @@
 {
     "id": "870332854721212416",
     "name": "E X S A V E R S E",
-    "description": "Providing Best OTC services, Payment only on Solana",
+    "description": "Providing Best OTC services, Payment only on Solana Chain",
     "icon": "3b7141a251ea0f79806425183c444950",
     "splash": "95af82a8757d2197ea1f49767b5b5b8e",
     "discovery_splash": "297ff77bf72389fbd35d429a6380bca0",
     "banner": "ea795af00b3da3c969d67ff83a7b40f2",
-    "approximate_presence_count": 10185,
-    "approximate_member_count": 51732,
-    "premium_subscription_count": 16,
+    "approximate_presence_count": 8038,
+    "approximate_member_count": 52505,
+    "premium_subscription_count": 17,
     "preferred_locale": "en-US",
     "vanity_url_code": "exsaverse",
     "keywords": [
@@ -20,7 +20,8 @@
         "nft",
         "sol",
         "solana",
-        "trading"
+        "trading",
+        "whitelist"
     ],
     "features": [
         "COMMUNITY",
@@ -35,13 +36,13 @@
     "raw": {
         "id": "870332854721212416",
         "name": "E X S A V E R S E",
-        "description": "Providing Best OTC services, Payment only on Solana",
+        "description": "Providing Best OTC services, Payment only on Solana Chain",
         "icon": "3b7141a251ea0f79806425183c444950",
         "splash": "95af82a8757d2197ea1f49767b5b5b8e",
         "banner": "ea795af00b3da3c969d67ff83a7b40f2",
-        "approximate_presence_count": 10185,
-        "approximate_member_count": 51732,
-        "premium_subscription_count": 16,
+        "approximate_presence_count": 8038,
+        "approximate_member_count": 52505,
+        "premium_subscription_count": 17,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "297ff77bf72389fbd35d429a6380bca0",
@@ -57,7 +58,8 @@
             "nft",
             "sol",
             "solana",
-            "trading"
+            "trading",
+            "whitelist"
         ],
         "features": [
             "COMMUNITY",
@@ -225,7 +227,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Providing Best OTC services, Payment only on Solana",
+                "value": "Providing Best OTC services, Payment only on Solana Chain",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -277,6 +279,11 @@
                 },
                 {
                     "value": "trading",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "whitelist",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

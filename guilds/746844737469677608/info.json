@@ -1,13 +1,13 @@
 {
     "id": "746844737469677608",
     "name": "/kbbq     • Social • Anime • Music • Gaming • Art",
-    "description": "🍃 Chill Anime Hangout ✨ Active Chatting 🎮 Gaming 🎉 Giveaways & Events 📩 Anime News 🌺 Enjoy Your Stay!",
-    "icon": "a_ebc2b5d9174d4c24fea5923b46d5b49e",
-    "splash": "5e305e412862d8229311e0e3ca6a1018",
+    "description": "🍃 Chill Hangout ✨ Active Chatting 🎮 Anime & Gaming 🎉 Giveaways & Events 📩 Anime News & Polls 🌺 Enjoy Your Stay!",
+    "icon": "a_6da7aefa75d5ca2a9833171e618249dd",
+    "splash": "cc18c8bbed2506747f619765a2fd9ba3",
     "discovery_splash": "1343aa073cda655238ae40a9988359ba",
-    "banner": "a_5a667b6196e44f04be191e95e19c43d7",
-    "approximate_presence_count": 5008,
-    "approximate_member_count": 84251,
+    "banner": "a_82fc757f82bb2523deccbcad9195a5af",
+    "approximate_presence_count": 5915,
+    "approximate_member_count": 84305,
     "premium_subscription_count": 26,
     "preferred_locale": "en-US",
     "vanity_url_code": "kbbq",
@@ -35,12 +35,12 @@
     "raw": {
         "id": "746844737469677608",
         "name": "/kbbq     • Social • Anime • Music • Gaming • Art",
-        "description": "🍃 Chill Anime Hangout ✨ Active Chatting 🎮 Gaming 🎉 Giveaways & Events 📩 Anime News 🌺 Enjoy Your Stay!",
-        "icon": "a_ebc2b5d9174d4c24fea5923b46d5b49e",
-        "splash": "5e305e412862d8229311e0e3ca6a1018",
-        "banner": "a_5a667b6196e44f04be191e95e19c43d7",
-        "approximate_presence_count": 5008,
-        "approximate_member_count": 84251,
+        "description": "🍃 Chill Hangout ✨ Active Chatting 🎮 Anime & Gaming 🎉 Giveaways & Events 📩 Anime News & Polls 🌺 Enjoy Your Stay!",
+        "icon": "a_6da7aefa75d5ca2a9833171e618249dd",
+        "splash": "cc18c8bbed2506747f619765a2fd9ba3",
+        "banner": "a_82fc757f82bb2523deccbcad9195a5af",
+        "approximate_presence_count": 5915,
+        "approximate_member_count": 84305,
         "premium_subscription_count": 26,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -68,6 +68,43 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 10,
+                "is_primary": true,
+                "name": "Travel & Food",
+                "name_localizations": {
+                    "bg": "Пътуване и храна",
+                    "cs": "Cestování a jídlo",
+                    "da": "Rejse & mad",
+                    "de": "Reisen & Essen",
+                    "el": "Ταξίδια & Φαγητό",
+                    "fi": "Matkailu ja ruoka",
+                    "fr": "Voyage et nourriture",
+                    "hi": "ट्रैवल और फूड",
+                    "hr": "Putovanja i hrana",
+                    "hu": "Utazás és ételek",
+                    "it": "Viaggi e cibo",
+                    "ja": "旅行&食べ物",
+                    "ko": "여행, 음식",
+                    "lt": "Kelionės ir maistas",
+                    "nl": "Reizen en culinair",
+                    "no": "Reise og mat",
+                    "pl": "Podróże i jedzenie",
+                    "ro": "Turism și gastronomie",
+                    "ru": "Путешествия и еда",
+                    "th": "การท่องเที่ยวและอาหาร",
+                    "tr": "Seyahat ve Yemek",
+                    "uk": "Подорожі та їжа",
+                    "vi": "Du Lịch & Ẩm Thực",
+                    "en-GB": "Travel & Food",
+                    "en-US": "Travel & Food",
+                    "es-ES": "Viajes y comida",
+                    "pt-BR": "Viagens e Alimentação",
+                    "sv-SE": "Resor och mat",
+                    "zh-CN": "旅行&美食",
+                    "zh-TW": "旅遊與食物"
+                }
+            },
             {
                 "id": 2,
                 "is_primary": true,
@@ -140,43 +177,6 @@
                     "sv-SE": "Anime och manga",
                     "zh-CN": "动画&漫画",
                     "zh-TW": "動畫與漫畫"
-                }
-            },
-            {
-                "id": 19,
-                "is_primary": false,
-                "name": "Art",
-                "name_localizations": {
-                    "bg": "Изкуство",
-                    "cs": "Umění",
-                    "da": "Kunst",
-                    "de": "Kunst",
-                    "el": "Τέχνη",
-                    "fi": "Taide",
-                    "fr": "Art",
-                    "hi": "आर्ट",
-                    "hr": "Umjetnost",
-                    "hu": "Művészet",
-                    "it": "Arte",
-                    "ja": "アート",
-                    "ko": "예술",
-                    "lt": "Menas",
-                    "nl": "Kunst",
-                    "no": "Kunst",
-                    "pl": "Sztuka",
-                    "ro": "Artă",
-                    "ru": "Творчество",
-                    "th": "ศิลปะ",
-                    "tr": "Sanat",
-                    "uk": "Мистецтво",
-                    "vi": "Nghệ Thuật",
-                    "en-GB": "Art",
-                    "en-US": "Art",
-                    "es-ES": "Arte",
-                    "pt-BR": "Arte",
-                    "sv-SE": "Konst",
-                    "zh-CN": "艺术",
-                    "zh-TW": "藝術"
                 }
             },
             {
@@ -299,7 +299,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "🍃 Chill Anime Hangout ✨ Active Chatting 🎮 Gaming 🎉 Giveaways & Events 📩 Anime News 🌺 Enjoy Your Stay!",
+                "value": "🍃 Chill Hangout ✨ Active Chatting 🎮 Anime & Gaming 🎉 Giveaways & Events 📩 Anime News & Polls 🌺 Enjoy Your Stay!",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -361,6 +361,160 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Пътуване и храна",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Cestování a jídlo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Rejse & mad",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Reisen & Essen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Ταξίδια & Φαγητό",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Matkailu ja ruoka",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Voyage et nourriture",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "ट्रैवल और फूड",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Putovanja i hrana",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Utazás és ételek",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Viaggi e cibo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "旅行&食べ物",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "여행, 음식",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Kelionės ir maistas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Reizen en culinair",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Reise og mat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Podróże i jedzenie",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Turism și gastronomie",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Путешествия и еда",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การท่องเที่ยวและอาหาร",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Seyahat ve Yemek",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Подорожі та їжа",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Du Lịch & Ẩm Thực",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Travel & Food",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Travel & Food",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Viajes y comida",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Viagens e Alimentação",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Resor och mat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "旅行&美食",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "旅遊與食物",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -664,160 +818,6 @@
                         },
                         "zh-TW": {
                             "value": "動畫與漫畫",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Изкуство",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Umění",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Kunst",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Kunst",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Τέχνη",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Taide",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Art",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "आर्ट",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Umjetnost",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Művészet",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Arte",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "アート",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "예술",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Menas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Kunst",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Kunst",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Sztuka",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Artă",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Творчество",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "ศิลปะ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Sanat",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Мистецтво",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Nghệ Thuật",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Art",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Art",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Arte",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Arte",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Konst",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "艺术",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "藝術",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
