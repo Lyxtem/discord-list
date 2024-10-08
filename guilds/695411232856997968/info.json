@@ -6,8 +6,8 @@
     "splash": "7b37c5b390b4f45d4bf56f09b51f41df",
     "discovery_splash": "540f4ad1c34c1c4d549ff0ff76f48109",
     "banner": "4ee6e2676849445ae2ec73c7811f974f",
-    "approximate_presence_count": 3748,
-    "approximate_member_count": 36128,
+    "approximate_presence_count": 5253,
+    "approximate_member_count": 42746,
     "premium_subscription_count": 14,
     "preferred_locale": "en-US",
     "vanity_url_code": "expo",
@@ -17,12 +17,14 @@
         "javascript",
         "opensource",
         "programming",
+        "react native",
         "software"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -35,8 +37,8 @@
         "icon": "4288e026b4b8290eb1e58519fd7e0cd5",
         "splash": "7b37c5b390b4f45d4bf56f09b51f41df",
         "banner": "4ee6e2676849445ae2ec73c7811f974f",
-        "approximate_presence_count": 3748,
-        "approximate_member_count": 36128,
+        "approximate_presence_count": 5253,
+        "approximate_member_count": 42746,
         "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -50,12 +52,14 @@
             "javascript",
             "opensource",
             "programming",
+            "react native",
             "software"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -249,6 +253,11 @@
                 },
                 {
                     "value": "programming",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "react native",
                     "matchLevel": "none",
                     "matchedWords": []
                 },

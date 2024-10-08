@@ -6,22 +6,22 @@
     "splash": "ef0b0e35e01b63405bee432cef0b95a7",
     "discovery_splash": "ef0b0e35e01b63405bee432cef0b95a7",
     "banner": null,
-    "approximate_presence_count": 2092,
-    "approximate_member_count": 6030,
-    "premium_subscription_count": 3,
+    "approximate_presence_count": 2164,
+    "approximate_member_count": 6481,
+    "premium_subscription_count": 4,
     "preferred_locale": "en-US",
     "vanity_url_code": "g-string-987104393314832404",
     "keywords": [
-        "twitch",
-        "youtube",
+        "content",
         "destiny",
         "destiny2",
-        "gaming",
-        "content",
-        "streaming",
         "destinylfg",
+        "friendly",
+        "gaming",
         "lfg",
-        "friendly"
+        "streaming",
+        "twitch",
+        "youtube"
     ],
     "features": [
         "COMMUNITY",
@@ -40,9 +40,9 @@
         "icon": "0861b1eea28b725468f195cf1abb7662",
         "splash": "ef0b0e35e01b63405bee432cef0b95a7",
         "banner": null,
-        "approximate_presence_count": 2092,
-        "approximate_member_count": 6030,
-        "premium_subscription_count": 3,
+        "approximate_presence_count": 2164,
+        "approximate_member_count": 6481,
+        "premium_subscription_count": 4,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "ef0b0e35e01b63405bee432cef0b95a7",
@@ -50,16 +50,16 @@
         "vanity_url_code": "g-string-987104393314832404",
         "is_published": true,
         "keywords": [
-            "twitch",
-            "youtube",
+            "content",
             "destiny",
             "destiny2",
-            "gaming",
-            "content",
-            "streaming",
             "destinylfg",
+            "friendly",
+            "gaming",
             "lfg",
-            "friendly"
+            "streaming",
+            "twitch",
+            "youtube"
         ],
         "features": [
             "COMMUNITY",
@@ -349,12 +349,7 @@
             },
             "keywords": [
                 {
-                    "value": "twitch",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "youtube",
+                    "value": "content",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -369,22 +364,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "gaming",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "content",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "streaming",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "destinylfg",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "friendly",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "gaming",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -394,7 +384,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "friendly",
+                    "value": "streaming",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "twitch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "youtube",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
