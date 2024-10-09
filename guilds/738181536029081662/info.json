@@ -4,20 +4,20 @@
     "description": "This server is all about DayZ Modding and supporting the mods created by InclementDab",
     "icon": "26c12df5787b1ba91b9797b6da4bd764",
     "splash": "51da2d1d40bf9720b9f8b491b497e4f1",
-    "discovery_splash": "7eedfc417c761b85562c0722c68ae218",
+    "discovery_splash": "93cf1ed66876057e23fd9fc666ff12e2",
     "banner": "6c4291bdc9a0c12af74adad3c11071b3",
-    "approximate_presence_count": 3193,
-    "approximate_member_count": 8904,
-    "premium_subscription_count": 4,
+    "approximate_presence_count": 3169,
+    "approximate_member_count": 10164,
+    "premium_subscription_count": 14,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "dayz-editor",
     "keywords": [
-        "dayz",
-        "modding",
         "bohemia",
-        "interactive",
         "dab",
+        "dayz",
         "inclementdab",
+        "interactive",
+        "modding",
         "mods"
     ],
     "features": [
@@ -37,22 +37,22 @@
         "icon": "26c12df5787b1ba91b9797b6da4bd764",
         "splash": "51da2d1d40bf9720b9f8b491b497e4f1",
         "banner": "6c4291bdc9a0c12af74adad3c11071b3",
-        "approximate_presence_count": 3193,
-        "approximate_member_count": 8904,
-        "premium_subscription_count": 4,
+        "approximate_presence_count": 3169,
+        "approximate_member_count": 10164,
+        "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "7eedfc417c761b85562c0722c68ae218",
+        "discovery_splash": "93cf1ed66876057e23fd9fc666ff12e2",
         "primary_category_id": 1,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "dayz-editor",
+        "is_published": true,
         "keywords": [
-            "dayz",
-            "modding",
             "bohemia",
-            "interactive",
             "dab",
+            "dayz",
             "inclementdab",
+            "interactive",
+            "modding",
             "mods"
         ],
         "features": [
@@ -299,24 +299,14 @@
                 "matchLevel": "none",
                 "matchedWords": []
             },
+            "vanity_url_code": {
+                "value": "dayz-editor",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
             "keywords": [
                 {
-                    "value": "dayz",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "modding",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "bohemia",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "interactive",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -326,7 +316,22 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "dayz",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "inclementdab",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "interactive",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "modding",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
