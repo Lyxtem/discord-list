@@ -6,11 +6,11 @@
     "splash": "096db40345d4f4205ffbc0684023541f",
     "discovery_splash": "bbf719079e94577fc5c259ad44abd1ae",
     "banner": "404cf3c580b783819a053af32fe6ad78",
-    "approximate_presence_count": 999,
-    "approximate_member_count": 16073,
-    "premium_subscription_count": 5,
+    "approximate_presence_count": 1005,
+    "approximate_member_count": 16077,
+    "premium_subscription_count": 19,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "treasury",
     "keywords": [
         "Dank Memer",
         "chat",
@@ -36,14 +36,14 @@
         "icon": "a_f43bcd569f6427e9d0a34548ab8acf57",
         "splash": "096db40345d4f4205ffbc0684023541f",
         "banner": "404cf3c580b783819a053af32fe6ad78",
-        "approximate_presence_count": 999,
-        "approximate_member_count": 16073,
-        "premium_subscription_count": 5,
+        "approximate_presence_count": 1005,
+        "approximate_member_count": 16077,
+        "premium_subscription_count": 19,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "bbf719079e94577fc5c259ad44abd1ae",
         "primary_category_id": 49,
-        "vanity_url_code": null,
+        "vanity_url_code": "treasury",
         "is_published": false,
         "keywords": [
             "Dank Memer",
@@ -294,6 +294,11 @@
             },
             "description": {
                 "value": "Welcome to The Treasury, an all-bots server! Providing SFW, Friendly & Awesome Community with Giveaways, Events & More!",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "treasury",
                 "matchLevel": "none",
                 "matchedWords": []
             },
