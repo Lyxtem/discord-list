@@ -6,20 +6,20 @@
     "splash": "e5838bc782927e2a8c31a623dcff74ac",
     "discovery_splash": "9d3f157c27ff07e8cb566e5e6533edcc",
     "banner": "c763f2b38adcfbb074c91a66024c3ac7",
-    "approximate_presence_count": 25769,
-    "approximate_member_count": 89167,
+    "approximate_presence_count": 25290,
+    "approximate_member_count": 89754,
     "premium_subscription_count": 43,
     "preferred_locale": "en-US",
     "vanity_url_code": "pchh",
     "keywords": [
+        "build a pc",
         "computer",
-        "computers",
         "games",
         "gaming",
+        "malware",
         "pc",
         "pc build",
         "pc help",
-        "pcbuild",
         "pchelp",
         "tech support"
     ],
@@ -40,8 +40,8 @@
         "icon": "a_19d7a73425e9c3a861365d534b1a666a",
         "splash": "e5838bc782927e2a8c31a623dcff74ac",
         "banner": "c763f2b38adcfbb074c91a66024c3ac7",
-        "approximate_presence_count": 25769,
-        "approximate_member_count": 89167,
+        "approximate_presence_count": 25290,
+        "approximate_member_count": 89754,
         "premium_subscription_count": 43,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -50,14 +50,14 @@
         "vanity_url_code": "pchh",
         "is_published": true,
         "keywords": [
+            "build a pc",
             "computer",
-            "computers",
             "games",
             "gaming",
+            "malware",
             "pc",
             "pc build",
             "pc help",
-            "pcbuild",
             "pchelp",
             "tech support"
         ],
@@ -312,12 +312,12 @@
             },
             "keywords": [
                 {
-                    "value": "computer",
+                    "value": "build a pc",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "computers",
+                    "value": "computer",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -328,6 +328,11 @@
                 },
                 {
                     "value": "gaming",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "malware",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -343,11 +348,6 @@
                 },
                 {
                     "value": "pc help",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "pcbuild",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
