@@ -1,27 +1,27 @@
 {
     "id": "749769698891137094",
     "name": "r/motorcycles",
-    "description": "The official server of the /r/motorcycles subreddit. Linking your Discord account with a Reddit username is required.",
+    "description": "The official server of the /r/motorcycles subreddit",
     "icon": "bd5fe60f62bee32766913def31436b80",
     "splash": "76eeb940d66911452e8bc5e900270e47",
     "discovery_splash": "26955176601a94e47521abbbb26c178a",
-    "banner": "9e01320f20df0264eab5659ce3f33a3a",
-    "approximate_presence_count": 537,
-    "approximate_member_count": 2126,
-    "premium_subscription_count": 15,
+    "banner": "734e06b55acf3eb0e1bd40a250b02046",
+    "approximate_presence_count": 938,
+    "approximate_member_count": 3958,
+    "premium_subscription_count": 11,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "r-motorcycles-749769698891137094",
     "keywords": [
+        "bike",
+        "community",
+        "dirt",
+        "motorbike",
         "motorcycle",
         "racing",
-        "dirt",
-        "scooter",
-        "riding",
-        "social",
         "reddit",
-        "community",
-        "motorbike",
-        "bike"
+        "riding",
+        "scooter",
+        "social"
     ],
     "features": [
         "COMMUNITY",
@@ -35,30 +35,30 @@
     "raw": {
         "id": "749769698891137094",
         "name": "r/motorcycles",
-        "description": "The official server of the /r/motorcycles subreddit. Linking your Discord account with a Reddit username is required.",
+        "description": "The official server of the /r/motorcycles subreddit",
         "icon": "bd5fe60f62bee32766913def31436b80",
         "splash": "76eeb940d66911452e8bc5e900270e47",
-        "banner": "9e01320f20df0264eab5659ce3f33a3a",
-        "approximate_presence_count": 537,
-        "approximate_member_count": 2126,
-        "premium_subscription_count": 15,
+        "banner": "734e06b55acf3eb0e1bd40a250b02046",
+        "approximate_presence_count": 938,
+        "approximate_member_count": 3958,
+        "premium_subscription_count": 11,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "26955176601a94e47521abbbb26c178a",
         "primary_category_id": 13,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "r-motorcycles-749769698891137094",
+        "is_published": true,
         "keywords": [
+            "bike",
+            "community",
+            "dirt",
+            "motorbike",
             "motorcycle",
             "racing",
-            "dirt",
-            "scooter",
-            "riding",
-            "social",
             "reddit",
-            "community",
-            "motorbike",
-            "bike"
+            "riding",
+            "scooter",
+            "social"
         ],
         "features": [
             "COMMUNITY",
@@ -134,11 +134,36 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "The official server of the /r/motorcycles subreddit. Linking your Discord account with a Reddit username is required.",
+                "value": "The official server of the /r/motorcycles subreddit",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "r-motorcycles-749769698891137094",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
+                {
+                    "value": "bike",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "community",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "dirt",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "motorbike",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
                 {
                     "value": "motorcycle",
                     "matchLevel": "none",
@@ -150,12 +175,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "dirt",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "scooter",
+                    "value": "reddit",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -165,27 +185,12 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "scooter",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "social",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "reddit",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "community",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "motorbike",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "bike",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
