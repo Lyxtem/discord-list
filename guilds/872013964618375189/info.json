@@ -1,13 +1,13 @@
 {
     "id": "872013964618375189",
     "name": "Buying Group",
-    "description": "The Largest Cashout Buying group - Fastest checkins - Free Shipping Labels- highest Competitive Prices- Quick payout",
+    "description": "Get top payouts, fast check-ins, free shipping & quick payments with our premier buying group!",
     "icon": "a_6b18a26bb8c4a327fe7ead1025495466",
-    "splash": "782baaea9a08556c499f6fd146b83b92",
-    "discovery_splash": null,
+    "splash": "5a482751f6fd72c8ee6a04e817b9f817",
+    "discovery_splash": "5a482751f6fd72c8ee6a04e817b9f817",
     "banner": "a_782baaea9a08556c499f6fd146b83b92",
-    "approximate_presence_count": 3331,
-    "approximate_member_count": 19150,
+    "approximate_presence_count": 3628,
+    "approximate_member_count": 19263,
     "premium_subscription_count": 18,
     "preferred_locale": "en-US",
     "vanity_url_code": "buyinggroup",
@@ -34,17 +34,17 @@
     "raw": {
         "id": "872013964618375189",
         "name": "Buying Group",
-        "description": "The Largest Cashout Buying group - Fastest checkins - Free Shipping Labels- highest Competitive Prices- Quick payout",
+        "description": "Get top payouts, fast check-ins, free shipping & quick payments with our premier buying group!",
         "icon": "a_6b18a26bb8c4a327fe7ead1025495466",
-        "splash": "782baaea9a08556c499f6fd146b83b92",
+        "splash": "5a482751f6fd72c8ee6a04e817b9f817",
         "banner": "a_782baaea9a08556c499f6fd146b83b92",
-        "approximate_presence_count": 3331,
-        "approximate_member_count": 19150,
+        "approximate_presence_count": 3628,
+        "approximate_member_count": 19263,
         "premium_subscription_count": 18,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": null,
-        "primary_category_id": 49,
+        "discovery_splash": "5a482751f6fd72c8ee6a04e817b9f817",
+        "primary_category_id": 13,
         "vanity_url_code": "buyinggroup",
         "is_published": false,
         "keywords": [
@@ -66,6 +66,43 @@
             "PREVIEW_ENABLED"
         ],
         "categories": [
+            {
+                "id": 10,
+                "is_primary": true,
+                "name": "Travel & Food",
+                "name_localizations": {
+                    "bg": "Пътуване и храна",
+                    "cs": "Cestování a jídlo",
+                    "da": "Rejse & mad",
+                    "de": "Reisen & Essen",
+                    "el": "Ταξίδια & Φαγητό",
+                    "fi": "Matkailu ja ruoka",
+                    "fr": "Voyage et nourriture",
+                    "hi": "ट्रैवल और फूड",
+                    "hr": "Putovanja i hrana",
+                    "hu": "Utazás és ételek",
+                    "it": "Viaggi e cibo",
+                    "ja": "旅行&食べ物",
+                    "ko": "여행, 음식",
+                    "lt": "Kelionės ir maistas",
+                    "nl": "Reizen en culinair",
+                    "no": "Reise og mat",
+                    "pl": "Podróże i jedzenie",
+                    "ro": "Turism și gastronomie",
+                    "ru": "Путешествия и еда",
+                    "th": "การท่องเที่ยวและอาหาร",
+                    "tr": "Seyahat ve Yemek",
+                    "uk": "Подорожі та їжа",
+                    "vi": "Du Lịch & Ẩm Thực",
+                    "en-GB": "Travel & Food",
+                    "en-US": "Travel & Food",
+                    "es-ES": "Viajes y comida",
+                    "pt-BR": "Viagens e Alimentação",
+                    "sv-SE": "Resor och mat",
+                    "zh-CN": "旅行&美食",
+                    "zh-TW": "旅遊與食物"
+                }
+            },
             {
                 "id": 36,
                 "is_primary": false,
@@ -101,43 +138,6 @@
                     "sv-SE": "Affärer",
                     "zh-CN": "商务",
                     "zh-TW": "商業"
-                }
-            },
-            {
-                "id": 38,
-                "is_primary": false,
-                "name": "Collaboration",
-                "name_localizations": {
-                    "bg": "Сътрудничество",
-                    "cs": "Spolupráce",
-                    "da": "Samarbejde",
-                    "de": "Kollaboration",
-                    "el": "Συνεργασία",
-                    "fi": "Yhteistyö",
-                    "fr": "Collaboration",
-                    "hi": "सहयोग",
-                    "hr": "Suradnja",
-                    "hu": "Együttműködés",
-                    "it": "Collaborazione",
-                    "ja": "コラボレーション",
-                    "ko": "협동",
-                    "lt": "Bendradarbiavimas",
-                    "nl": "Samenwerken",
-                    "no": "Samarbeid",
-                    "pl": "Współpraca",
-                    "ro": "Colaborare",
-                    "ru": "Совместная работа",
-                    "th": "การร่วมมือ",
-                    "tr": "İşbirliği",
-                    "uk": "Співробітництво",
-                    "vi": "Hợp Tác",
-                    "en-GB": "Collaboration",
-                    "en-US": "Collaboration",
-                    "es-ES": "Colaboración",
-                    "pt-BR": "Colaboração",
-                    "sv-SE": "Samarbete",
-                    "zh-CN": "合作",
-                    "zh-TW": "合作"
                 }
             },
             {
@@ -250,43 +250,26 @@
                     "zh-CN": "主机端",
                     "zh-TW": "遊戲主機"
                 }
+            },
+            {
+                "id": 13,
+                "is_primary": true,
+                "name": "Other",
+                "name_localizations": {
+                    "de": "Sonstiges",
+                    "fr": "Autre",
+                    "ru": "Другое"
+                }
             }
         ],
         "primary_category": {
-            "id": 49,
+            "id": 13,
             "is_primary": true,
-            "name": "Bots",
+            "name": "Other",
             "name_localizations": {
-                "bg": "Ботове",
-                "cs": "Boti",
-                "da": "Bots",
-                "de": "Bots",
-                "el": "Bots",
-                "fi": "Botit",
-                "fr": "Bots",
-                "hi": "बॉट्स",
-                "hr": "Botovi",
-                "hu": "Botok",
-                "it": "Bot",
-                "ja": "Bot",
-                "ko": "봇",
-                "lt": "Botai",
-                "nl": "Bots",
-                "no": "Boter",
-                "pl": "Boty",
-                "ro": "Boți",
-                "ru": "Боты",
-                "th": "Bot",
-                "tr": "Botlar",
-                "uk": "Боти",
-                "vi": "Bot",
-                "en-GB": "Bots",
-                "en-US": "Bots",
-                "es-ES": "Bots",
-                "pt-BR": "Bots",
-                "sv-SE": "Bottar",
-                "zh-CN": "机器人",
-                "zh-TW": "機器人"
+                "de": "Sonstiges",
+                "fr": "Autre",
+                "ru": "Другое"
             }
         },
         "objectID": "872013964618375189",
@@ -297,7 +280,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "The Largest Cashout Buying group - Fastest checkins - Free Shipping Labels- highest Competitive Prices- Quick payout",
+                "value": "Get top payouts, fast check-ins, free shipping & quick payments with our premier buying group!",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -359,6 +342,160 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Пътуване и храна",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Cestování a jídlo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Rejse & mad",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Reisen & Essen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Ταξίδια & Φαγητό",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Matkailu ja ruoka",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Voyage et nourriture",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "ट्रैवल और फूड",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Putovanja i hrana",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Utazás és ételek",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Viaggi e cibo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "旅行&食べ物",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "여행, 음식",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Kelionės ir maistas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Reizen en culinair",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Reise og mat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Podróże i jedzenie",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Turism și gastronomie",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Путешествия и еда",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การท่องเที่ยวและอาหาร",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Seyahat ve Yemek",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Подорожі та їжа",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Du Lịch & Ẩm Thực",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Travel & Food",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Travel & Food",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Viajes y comida",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Viagens e Alimentação",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Resor och mat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "旅行&美食",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "旅遊與食物",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -508,160 +645,6 @@
                         },
                         "zh-TW": {
                             "value": "商業",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Сътрудничество",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Spolupráce",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Samarbejde",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Kollaboration",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Συνεργασία",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Yhteistyö",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Collaboration",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "सहयोग",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Suradnja",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Együttműködés",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Collaborazione",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "コラボレーション",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "협동",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Bendradarbiavimas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Samenwerken",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Samarbeid",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Współpraca",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Colaborare",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Совместная работа",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "การร่วมมือ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "İşbirliği",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Співробітництво",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Hợp Tác",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Collaboration",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Collaboration",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Colaboración",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Colaboração",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Samarbete",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "合作",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "合作",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -1128,157 +1111,41 @@
                             "matchedWords": []
                         }
                     }
+                },
+                {
+                    "name_localizations": {
+                        "de": {
+                            "value": "Sonstiges",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Autre",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Другое",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
                 }
             ],
             "primary_category": {
                 "name_localizations": {
-                    "bg": {
-                        "value": "Ботове",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "cs": {
-                        "value": "Boti",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "da": {
-                        "value": "Bots",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
                     "de": {
-                        "value": "Bots",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "el": {
-                        "value": "Bots",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "fi": {
-                        "value": "Botit",
+                        "value": "Sonstiges",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "fr": {
-                        "value": "Bots",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "hi": {
-                        "value": "बॉट्स",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "hr": {
-                        "value": "Botovi",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "hu": {
-                        "value": "Botok",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "it": {
-                        "value": "Bot",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "ja": {
-                        "value": "Bot",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "ko": {
-                        "value": "봇",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "lt": {
-                        "value": "Botai",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "nl": {
-                        "value": "Bots",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "no": {
-                        "value": "Boter",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "pl": {
-                        "value": "Boty",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "ro": {
-                        "value": "Boți",
+                        "value": "Autre",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ru": {
-                        "value": "Боты",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "th": {
-                        "value": "Bot",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "tr": {
-                        "value": "Botlar",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "uk": {
-                        "value": "Боти",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "vi": {
-                        "value": "Bot",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "en-GB": {
-                        "value": "Bots",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "en-US": {
-                        "value": "Bots",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "es-ES": {
-                        "value": "Bots",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "pt-BR": {
-                        "value": "Bots",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "sv-SE": {
-                        "value": "Bottar",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "zh-CN": {
-                        "value": "机器人",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "zh-TW": {
-                        "value": "機器人",
+                        "value": "Другое",
                         "matchLevel": "none",
                         "matchedWords": []
                     }
