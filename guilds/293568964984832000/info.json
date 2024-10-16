@@ -1,18 +1,19 @@
 {
     "id": "293568964984832000",
     "name": "Reddit Arizona",
-    "description": "Chill Arizona based server covering Phoenix, Tucson, and Flagstaff. Gaming, Food & Nightlife, LGBTQ+, and more.",
+    "description": "Chill Arizona based server covering Phoenix, Tucson, and Flagstaff. Gaming, Food & Nightlife, LGBTQ+, meetups, and more.",
     "icon": "ee3ff4702f8787cf1d8f1bcbd235eacd",
     "splash": "d50318ff27faf92a6aac523850bc8b2e",
-    "discovery_splash": "9672a8549ef39039997dc6c0fbf7580e",
+    "discovery_splash": "630ea1c02a08d296621155d5854283ff",
     "banner": "c6460f65697cad830c9ae5b31928e42e",
-    "approximate_presence_count": 1360,
-    "approximate_member_count": 11317,
-    "premium_subscription_count": 26,
+    "approximate_presence_count": 1114,
+    "approximate_member_count": 8327,
+    "premium_subscription_count": 21,
     "preferred_locale": "en-US",
     "vanity_url_code": "redditaz",
     "keywords": [
         "ASU",
+        "AZ",
         "Arizona",
         "Flagstaff",
         "LGBTQ",
@@ -35,21 +36,22 @@
     "raw": {
         "id": "293568964984832000",
         "name": "Reddit Arizona",
-        "description": "Chill Arizona based server covering Phoenix, Tucson, and Flagstaff. Gaming, Food & Nightlife, LGBTQ+, and more.",
+        "description": "Chill Arizona based server covering Phoenix, Tucson, and Flagstaff. Gaming, Food & Nightlife, LGBTQ+, meetups, and more.",
         "icon": "ee3ff4702f8787cf1d8f1bcbd235eacd",
         "splash": "d50318ff27faf92a6aac523850bc8b2e",
         "banner": "c6460f65697cad830c9ae5b31928e42e",
-        "approximate_presence_count": 1360,
-        "approximate_member_count": 11317,
-        "premium_subscription_count": 26,
+        "approximate_presence_count": 1114,
+        "approximate_member_count": 8327,
+        "premium_subscription_count": 21,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "9672a8549ef39039997dc6c0fbf7580e",
+        "discovery_splash": "630ea1c02a08d296621155d5854283ff",
         "primary_category_id": 14,
         "vanity_url_code": "redditaz",
         "is_published": true,
         "keywords": [
             "ASU",
+            "AZ",
             "Arizona",
             "Flagstaff",
             "LGBTQ",
@@ -69,40 +71,40 @@
         ],
         "categories": [
             {
-                "id": 1,
+                "id": 9,
                 "is_primary": true,
-                "name": "Gaming",
+                "name": "Relationships & Identity",
                 "name_localizations": {
-                    "bg": "Гейминг",
-                    "cs": "Hraní",
-                    "da": "Spil",
-                    "de": "Gaming",
-                    "el": "Gaming",
-                    "fi": "Pelaaminen",
-                    "fr": "Gaming",
-                    "hi": "गेमिंग",
-                    "hr": "Gaming",
-                    "hu": "Játék",
-                    "it": "Gaming",
-                    "ja": "ゲーム",
-                    "ko": "게임",
-                    "lt": "Žaidimai",
-                    "nl": "Gaming",
-                    "no": "Gaming",
-                    "pl": "Gry",
-                    "ro": "Gaming",
-                    "ru": "Игры",
-                    "th": "การเล่นเกม",
-                    "tr": "Oyun",
-                    "uk": "Ігри",
-                    "vi": "Gaming",
-                    "en-GB": "Gaming",
-                    "en-US": "Gaming",
-                    "es-ES": "Juegos",
-                    "pt-BR": "Jogos",
-                    "sv-SE": "Gaming",
-                    "zh-CN": "游戏",
-                    "zh-TW": "遊戲"
+                    "bg": "Отношения и идентичност",
+                    "cs": "Vztahy a osobnost",
+                    "da": "Forhold & identitet",
+                    "de": "Beziehungen & Identität",
+                    "el": "Σχέσεις & Ταυτότητα",
+                    "fi": "Ihmissuhteet ja identiteetti",
+                    "fr": "Relations et identité",
+                    "hi": "रिलेशनशिप और आइडेंटिटी",
+                    "hr": "Odnosi i veze",
+                    "hu": "Kapcsolatok és identitás",
+                    "it": "Relazioni e identità",
+                    "ja": "人間関係&アイデンティティ",
+                    "ko": "친목, 관계",
+                    "lt": "Santykiai ir tapatybė",
+                    "nl": "Relaties en identiteit",
+                    "no": "Forhold og identitet",
+                    "pl": "Związki i tożsamość",
+                    "ro": "Relații și identitate",
+                    "ru": "Отношения и самоидентификация",
+                    "th": "ความสัมพันธ์และอัตลักษณ์",
+                    "tr": "İlişkiler ve Kimlik",
+                    "uk": "Відносини та особистість",
+                    "vi": "Mối Quan Hệ & Cá Tính",
+                    "en-GB": "Relationships & Identity",
+                    "en-US": "Relationships & Identity",
+                    "es-ES": "Relaciones e identidad",
+                    "pt-BR": "Relacionamentos e Identidade",
+                    "sv-SE": "Förhållanden och identitet",
+                    "zh-CN": "情感&认知",
+                    "zh-TW": "關係與身分"
                 }
             },
             {
@@ -217,40 +219,40 @@
                 }
             },
             {
-                "id": 42,
-                "is_primary": false,
-                "name": "Subreddit",
+                "id": 1,
+                "is_primary": true,
+                "name": "Gaming",
                 "name_localizations": {
-                    "bg": "Тема в reddit",
-                    "cs": "Subreddit",
-                    "da": "Subreddit",
-                    "de": "Subreddit",
-                    "el": "Subreddit",
-                    "fi": "Alareddit",
-                    "fr": "Subreddit",
-                    "hi": "सब-रेडिट",
-                    "hr": "Subreddit",
-                    "hu": "Subreddit",
-                    "it": "Subreddit",
-                    "ja": "Subreddit",
-                    "ko": "서브레딧",
-                    "lt": "Subreddit",
-                    "nl": "Subreddit",
-                    "no": "Subreddit",
-                    "pl": "Subreddit",
-                    "ro": "Subreddit",
-                    "ru": "Сабреддит",
-                    "th": "Subreddit",
-                    "tr": "Subreddit",
-                    "uk": "Сабреддіт",
-                    "vi": "Subreddit",
-                    "en-GB": "Subreddit",
-                    "en-US": "Subreddit",
-                    "es-ES": "Subreddit",
-                    "pt-BR": "Subreddit",
-                    "sv-SE": "Subreddit",
-                    "zh-CN": "Reddit讨论区",
-                    "zh-TW": "討論區"
+                    "bg": "Гейминг",
+                    "cs": "Hraní",
+                    "da": "Spil",
+                    "de": "Gaming",
+                    "el": "Gaming",
+                    "fi": "Pelaaminen",
+                    "fr": "Gaming",
+                    "hi": "गेमिंग",
+                    "hr": "Gaming",
+                    "hu": "Játék",
+                    "it": "Gaming",
+                    "ja": "ゲーム",
+                    "ko": "게임",
+                    "lt": "Žaidimai",
+                    "nl": "Gaming",
+                    "no": "Gaming",
+                    "pl": "Gry",
+                    "ro": "Gaming",
+                    "ru": "Игры",
+                    "th": "การเล่นเกม",
+                    "tr": "Oyun",
+                    "uk": "Ігри",
+                    "vi": "Gaming",
+                    "en-GB": "Gaming",
+                    "en-US": "Gaming",
+                    "es-ES": "Juegos",
+                    "pt-BR": "Jogos",
+                    "sv-SE": "Gaming",
+                    "zh-CN": "游戏",
+                    "zh-TW": "遊戲"
                 }
             },
             {
@@ -336,7 +338,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Chill Arizona based server covering Phoenix, Tucson, and Flagstaff. Gaming, Food & Nightlife, LGBTQ+, and more.",
+                "value": "Chill Arizona based server covering Phoenix, Tucson, and Flagstaff. Gaming, Food & Nightlife, LGBTQ+, meetups, and more.",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -348,6 +350,11 @@
             "keywords": [
                 {
                     "value": "ASU",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "AZ",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -396,152 +403,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Гейминг",
+                            "value": "Отношения и идентичност",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Hraní",
+                            "value": "Vztahy a osobnost",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Spil",
+                            "value": "Forhold & identitet",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Gaming",
+                            "value": "Beziehungen & Identität",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Gaming",
+                            "value": "Σχέσεις & Ταυτότητα",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Pelaaminen",
+                            "value": "Ihmissuhteet ja identiteetti",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Gaming",
+                            "value": "Relations et identité",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "गेमिंग",
+                            "value": "रिलेशनशिप और आइडेंटिटी",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Gaming",
+                            "value": "Odnosi i veze",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Játék",
+                            "value": "Kapcsolatok és identitás",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Gaming",
+                            "value": "Relazioni e identità",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "ゲーム",
+                            "value": "人間関係&アイデンティティ",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "게임",
+                            "value": "친목, 관계",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Žaidimai",
+                            "value": "Santykiai ir tapatybė",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Gaming",
+                            "value": "Relaties en identiteit",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Gaming",
+                            "value": "Forhold og identitet",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Gry",
+                            "value": "Związki i tożsamość",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Gaming",
+                            "value": "Relații și identitate",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Игры",
+                            "value": "Отношения и самоидентификация",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "การเล่นเกม",
+                            "value": "ความสัมพันธ์และอัตลักษณ์",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Oyun",
+                            "value": "İlişkiler ve Kimlik",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Ігри",
+                            "value": "Відносини та особистість",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Gaming",
+                            "value": "Mối Quan Hệ & Cá Tính",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Gaming",
+                            "value": "Relationships & Identity",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Gaming",
+                            "value": "Relationships & Identity",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Juegos",
+                            "value": "Relaciones e identidad",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Jogos",
+                            "value": "Relacionamentos e Identidade",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Gaming",
+                            "value": "Förhållanden och identitet",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "游戏",
+                            "value": "情感&认知",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "遊戲",
+                            "value": "關係與身分",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -1012,152 +1019,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Тема в reddit",
+                            "value": "Гейминг",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Subreddit",
+                            "value": "Hraní",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Subreddit",
+                            "value": "Spil",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Subreddit",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Subreddit",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Alareddit",
+                            "value": "Pelaaminen",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Subreddit",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "सब-रेडिट",
+                            "value": "गेमिंग",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Subreddit",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Subreddit",
+                            "value": "Játék",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Subreddit",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "Subreddit",
+                            "value": "ゲーム",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "서브레딧",
+                            "value": "게임",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Subreddit",
+                            "value": "Žaidimai",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Subreddit",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Subreddit",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Subreddit",
+                            "value": "Gry",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Subreddit",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Сабреддит",
+                            "value": "Игры",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "Subreddit",
+                            "value": "การเล่นเกม",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Subreddit",
+                            "value": "Oyun",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Сабреддіт",
+                            "value": "Ігри",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Subreddit",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Subreddit",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Subreddit",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Subreddit",
+                            "value": "Juegos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Subreddit",
+                            "value": "Jogos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Subreddit",
+                            "value": "Gaming",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "Reddit讨论区",
+                            "value": "游戏",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "討論區",
+                            "value": "遊戲",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

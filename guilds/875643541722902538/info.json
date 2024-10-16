@@ -1,63 +1,61 @@
 {
     "id": "875643541722902538",
-    "name": "FastBox",
+    "name": "PvPBox",
     "description": "A new type of minecraft server known as \"Box\" where a player is stuck on a box and has to mine and pvp to survive!",
-    "icon": "a_2befc0ce2dd405dbd58c0ba448cdee0e",
-    "splash": null,
-    "discovery_splash": null,
-    "banner": null,
-    "approximate_presence_count": 821,
-    "approximate_member_count": 3944,
-    "premium_subscription_count": 15,
+    "icon": "14d599ec33a1eb071317f0092e6557ad",
+    "splash": "9723a325f292ba5517a7e6b5c8f992c5",
+    "discovery_splash": "9723a325f292ba5517a7e6b5c8f992c5",
+    "banner": "4bbc937d6bec7ff8c68ae7003a78ab56",
+    "approximate_presence_count": 1363,
+    "approximate_member_count": 4801,
+    "premium_subscription_count": 22,
     "preferred_locale": "en-US",
-    "vanity_url_code": "fastbox",
+    "vanity_url_code": "pvpbox",
     "keywords": [
-        "minecraft",
         "box",
+        "minecraft",
+        "play",
         "pvp",
-        "server",
-        "play"
+        "server"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
         "MEMBER_VERIFICATION_GATE_ENABLED",
-        "PREVIEW_ENABLED",
-        "WELCOME_SCREEN_ENABLED"
+        "PREVIEW_ENABLED"
     ],
     "partnered": false,
     "verified": false,
     "raw": {
         "id": "875643541722902538",
-        "name": "FastBox",
+        "name": "PvPBox",
         "description": "A new type of minecraft server known as \"Box\" where a player is stuck on a box and has to mine and pvp to survive!",
-        "icon": "a_2befc0ce2dd405dbd58c0ba448cdee0e",
-        "splash": null,
-        "banner": null,
-        "approximate_presence_count": 821,
-        "approximate_member_count": 3944,
-        "premium_subscription_count": 15,
+        "icon": "14d599ec33a1eb071317f0092e6557ad",
+        "splash": "9723a325f292ba5517a7e6b5c8f992c5",
+        "banner": "4bbc937d6bec7ff8c68ae7003a78ab56",
+        "approximate_presence_count": 1363,
+        "approximate_member_count": 4801,
+        "premium_subscription_count": 22,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "9723a325f292ba5517a7e6b5c8f992c5",
         "primary_category_id": 1,
-        "vanity_url_code": "fastbox",
+        "vanity_url_code": "pvpbox",
         "is_published": false,
         "keywords": [
-            "minecraft",
             "box",
+            "minecraft",
+            "play",
             "pvp",
-            "server",
-            "play"
+            "server"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
             "MEMBER_VERIFICATION_GATE_ENABLED",
-            "PREVIEW_ENABLED",
-            "WELCOME_SCREEN_ENABLED"
+            "PREVIEW_ENABLED"
         ],
         "categories": [
             {
@@ -286,7 +284,7 @@
         "objectID": "875643541722902538",
         "_highlightResult": {
             "name": {
-                "value": "FastBox",
+                "value": "PvPBox",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -296,18 +294,23 @@
                 "matchedWords": []
             },
             "vanity_url_code": {
-                "value": "fastbox",
+                "value": "pvpbox",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
+                {
+                    "value": "box",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
                 {
                     "value": "minecraft",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "box",
+                    "value": "play",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -318,11 +321,6 @@
                 },
                 {
                     "value": "server",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "play",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

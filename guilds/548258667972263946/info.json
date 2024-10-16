@@ -6,11 +6,11 @@
     "splash": "2fb0fc4e79db77a6eec46baa488d958f",
     "discovery_splash": "0e3f7017cdd28517763d96b3f477adc9",
     "banner": "a_08f91fe3cc0966ae208a56e9ad3bbdda",
-    "approximate_presence_count": 2199,
-    "approximate_member_count": 10503,
-    "premium_subscription_count": 8,
+    "approximate_presence_count": 1207,
+    "approximate_member_count": 10212,
+    "premium_subscription_count": 16,
     "preferred_locale": "pl",
-    "vanity_url_code": null,
+    "vanity_url_code": "atomicrp",
     "keywords": [
         "Atomicrp",
         "Atomic",
@@ -25,7 +25,6 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -38,14 +37,14 @@
         "icon": "a_ad5c63e4e9bd3e068ff1bf4e2bcaa027",
         "splash": "2fb0fc4e79db77a6eec46baa488d958f",
         "banner": "a_08f91fe3cc0966ae208a56e9ad3bbdda",
-        "approximate_presence_count": 2199,
-        "approximate_member_count": 10503,
-        "premium_subscription_count": 8,
+        "approximate_presence_count": 1207,
+        "approximate_member_count": 10212,
+        "premium_subscription_count": 16,
         "preferred_locale": "pl",
         "auto_removed": false,
         "discovery_splash": "0e3f7017cdd28517763d96b3f477adc9",
         "primary_category_id": 1,
-        "vanity_url_code": null,
+        "vanity_url_code": "atomicrp",
         "is_published": false,
         "keywords": [
             "Atomicrp",
@@ -61,7 +60,6 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -224,6 +222,11 @@
             },
             "description": {
                 "value": "AtomicRP to największy Polski serwer roleplay WL OFF FiveM. Zapraszamy serdecznie https://atomicrp.pl/",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "atomicrp",
                 "matchLevel": "none",
                 "matchedWords": []
             },

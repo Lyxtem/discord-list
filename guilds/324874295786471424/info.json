@@ -3,25 +3,25 @@
     "name": "LIBERTO",
     "description": "Ce serveur est destiné à la communauté de Liberto et est ouvert à tous les fans d'anime, comics et jeux vidéo en général",
     "icon": "918ace4dabdd7cd99ce377f4b39ad07d",
-    "splash": "6d23d73dc42e5488b2668ccd7465133d",
-    "discovery_splash": "dd991a5efeaf3b12da866471d5f4c4f2",
-    "banner": "34f3adec459330b2468ff035d3ba802c",
-    "approximate_presence_count": 986,
-    "approximate_member_count": 4546,
-    "premium_subscription_count": 15,
+    "splash": "08bfccd9120f0a2a522398bc8ca804af",
+    "discovery_splash": "08bfccd9120f0a2a522398bc8ca804af",
+    "banner": "f9a173b3a29a14ad2964673b64b7b553",
+    "approximate_presence_count": 829,
+    "approximate_member_count": 4392,
+    "premium_subscription_count": 13,
     "preferred_locale": "fr",
     "vanity_url_code": "liberto",
     "keywords": [
-        "twitch",
-        "gaming",
-        "communauté",
-        "streamer",
         "animé",
-        "liberto",
-        "twitter",
-        "youtube",
+        "communauté",
+        "gaming",
         "gundam",
-        "pokemon"
+        "liberto",
+        "pokemon",
+        "streamer",
+        "twitch",
+        "twitter",
+        "youtube"
     ],
     "features": [
         "COMMUNITY",
@@ -39,28 +39,28 @@
         "name": "LIBERTO",
         "description": "Ce serveur est destiné à la communauté de Liberto et est ouvert à tous les fans d'anime, comics et jeux vidéo en général",
         "icon": "918ace4dabdd7cd99ce377f4b39ad07d",
-        "splash": "6d23d73dc42e5488b2668ccd7465133d",
-        "banner": "34f3adec459330b2468ff035d3ba802c",
-        "approximate_presence_count": 986,
-        "approximate_member_count": 4546,
-        "premium_subscription_count": 15,
+        "splash": "08bfccd9120f0a2a522398bc8ca804af",
+        "banner": "f9a173b3a29a14ad2964673b64b7b553",
+        "approximate_presence_count": 829,
+        "approximate_member_count": 4392,
+        "premium_subscription_count": 13,
         "preferred_locale": "fr",
         "auto_removed": false,
-        "discovery_splash": "dd991a5efeaf3b12da866471d5f4c4f2",
+        "discovery_splash": "08bfccd9120f0a2a522398bc8ca804af",
         "primary_category_id": 14,
         "vanity_url_code": "liberto",
         "is_published": true,
         "keywords": [
-            "twitch",
-            "gaming",
-            "communauté",
-            "streamer",
             "animé",
-            "liberto",
-            "twitter",
-            "youtube",
+            "communauté",
+            "gaming",
             "gundam",
-            "pokemon"
+            "liberto",
+            "pokemon",
+            "streamer",
+            "twitch",
+            "twitter",
+            "youtube"
         ],
         "features": [
             "COMMUNITY",
@@ -351,12 +351,7 @@
             },
             "keywords": [
                 {
-                    "value": "twitch",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "gaming",
+                    "value": "animé",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -366,17 +361,32 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "streamer",
+                    "value": "gaming",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "animé",
+                    "value": "gundam",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "liberto",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "pokemon",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "streamer",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "twitch",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -387,16 +397,6 @@
                 },
                 {
                     "value": "youtube",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "gundam",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "pokemon",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
