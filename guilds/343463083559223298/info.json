@@ -2,23 +2,23 @@
     "id": "343463083559223298",
     "name": "ARUkori's Hexenstube",
     "description": "Willkommen in unserer kleinen Fantasiewelt! Tritt in Arus Hexenstube ein und lasse dich verzaubern!",
-    "icon": "a_cf0e8592ef728f8683f24259eaeb8838",
+    "icon": "a_c7bca264ab5aaf8802ac37f7cc604d36",
     "splash": "7a7d715bd3b77b99d32b47afd4b7fb67",
     "discovery_splash": "db9623bc73a8fdb01f511b38ed7bd19f",
     "banner": "72389afd602e75fe80301c623628cf1f",
-    "approximate_presence_count": 615,
-    "approximate_member_count": 2433,
-    "premium_subscription_count": 28,
+    "approximate_presence_count": 774,
+    "approximate_member_count": 2740,
+    "premium_subscription_count": 25,
     "preferred_locale": "de",
     "vanity_url_code": "arukori",
     "keywords": [
-        "twitch",
-        "community",
-        "gaming",
-        "streamer",
         "anime",
+        "community",
         "deutsch",
-        "memes"
+        "gaming",
+        "memes",
+        "streamer",
+        "twitch"
     ],
     "features": [
         "COMMUNITY",
@@ -33,12 +33,12 @@
         "id": "343463083559223298",
         "name": "ARUkori's Hexenstube",
         "description": "Willkommen in unserer kleinen Fantasiewelt! Tritt in Arus Hexenstube ein und lasse dich verzaubern!",
-        "icon": "a_cf0e8592ef728f8683f24259eaeb8838",
+        "icon": "a_c7bca264ab5aaf8802ac37f7cc604d36",
         "splash": "7a7d715bd3b77b99d32b47afd4b7fb67",
         "banner": "72389afd602e75fe80301c623628cf1f",
-        "approximate_presence_count": 615,
-        "approximate_member_count": 2433,
-        "premium_subscription_count": 28,
+        "approximate_presence_count": 774,
+        "approximate_member_count": 2740,
+        "premium_subscription_count": 25,
         "preferred_locale": "de",
         "auto_removed": false,
         "discovery_splash": "db9623bc73a8fdb01f511b38ed7bd19f",
@@ -46,13 +46,13 @@
         "vanity_url_code": "arukori",
         "is_published": false,
         "keywords": [
-            "twitch",
-            "community",
-            "gaming",
-            "streamer",
             "anime",
+            "community",
             "deutsch",
-            "memes"
+            "gaming",
+            "memes",
+            "streamer",
+            "twitch"
         ],
         "features": [
             "COMMUNITY",
@@ -341,7 +341,7 @@
             },
             "keywords": [
                 {
-                    "value": "twitch",
+                    "value": "anime",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -351,7 +351,17 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "deutsch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "gaming",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "memes",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -361,17 +371,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "anime",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "deutsch",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "memes",
+                    "value": "twitch",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

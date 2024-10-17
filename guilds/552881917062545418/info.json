@@ -6,23 +6,18 @@
     "splash": "6d146c110816a744b9436375b40f4364",
     "discovery_splash": "6d146c110816a744b9436375b40f4364",
     "banner": null,
-    "approximate_presence_count": 770,
-    "approximate_member_count": 3124,
+    "approximate_presence_count": 725,
+    "approximate_member_count": 2951,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "indivisible",
     "keywords": null,
     "features": [
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
-        "COMMUNITY_EXP_MEDIUM",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
         "FEATURABLE",
-        "INVITE_SPLASH",
-        "NEWS",
         "PREVIEW_ENABLED",
-        "VANITY_URL",
         "VERIFIED"
     ],
     "partnered": false,
@@ -34,8 +29,8 @@
         "icon": "62f05e2ffb303c5bf5c7074290a9ee4f",
         "splash": "6d146c110816a744b9436375b40f4364",
         "banner": null,
-        "approximate_presence_count": 770,
-        "approximate_member_count": 3124,
+        "approximate_presence_count": 725,
+        "approximate_member_count": 2951,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -45,17 +40,44 @@
         "is_published": false,
         "keywords": null,
         "features": [
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
-            "COMMUNITY_EXP_MEDIUM",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
             "FEATURABLE",
-            "INVITE_SPLASH",
-            "NEWS",
             "PREVIEW_ENABLED",
-            "VANITY_URL",
             "VERIFIED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "552881917062545418",
+        "_highlightResult": {
+            "name": {
+                "value": "Indivisible",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "The official Discord server for Indivisible, the RPG/platformer by Lab Zero Games. Available Now on PC, PS4 and Xbox One",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "indivisible",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }
