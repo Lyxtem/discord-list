@@ -6,19 +6,19 @@
     "splash": "d8c955050f403cfb2921f78b21381438",
     "discovery_splash": "f9765547cbe58c42fe6deb7bb58c523c",
     "banner": "a_6bcbc45369a7a912fdd329df04b89c5e",
-    "approximate_presence_count": 3188,
-    "approximate_member_count": 16171,
-    "premium_subscription_count": 16,
+    "approximate_presence_count": 3420,
+    "approximate_member_count": 16152,
+    "premium_subscription_count": 17,
     "preferred_locale": "en-US",
     "vanity_url_code": "rustmania",
     "keywords": [
-        "Rust",
+        "Friends",
+        "Fun",
         "LFG",
         "Modded",
-        "Fun",
-        "RustMania",
+        "Rust",
         "Rust Game",
-        "Friends"
+        "RustMania"
     ],
     "features": [
         "COMMUNITY",
@@ -35,9 +35,9 @@
         "icon": "a_aa0bae31b6b3c11475e5d29bba0546f0",
         "splash": "d8c955050f403cfb2921f78b21381438",
         "banner": "a_6bcbc45369a7a912fdd329df04b89c5e",
-        "approximate_presence_count": 3188,
-        "approximate_member_count": 16171,
-        "premium_subscription_count": 16,
+        "approximate_presence_count": 3420,
+        "approximate_member_count": 16152,
+        "premium_subscription_count": 17,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "f9765547cbe58c42fe6deb7bb58c523c",
@@ -45,13 +45,13 @@
         "vanity_url_code": "rustmania",
         "is_published": false,
         "keywords": [
-            "Rust",
+            "Friends",
+            "Fun",
             "LFG",
             "Modded",
-            "Fun",
-            "RustMania",
+            "Rust",
             "Rust Game",
-            "Friends"
+            "RustMania"
         ],
         "features": [
             "COMMUNITY",
@@ -154,7 +154,12 @@
             },
             "keywords": [
                 {
-                    "value": "Rust",
+                    "value": "Friends",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "Fun",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -169,12 +174,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "Fun",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "RustMania",
+                    "value": "Rust",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -184,7 +184,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "Friends",
+                    "value": "RustMania",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
