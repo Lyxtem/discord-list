@@ -6,22 +6,22 @@
     "splash": "564f4d805400f14e6933822646d32fe0",
     "discovery_splash": "564f4d805400f14e6933822646d32fe0",
     "banner": "a8abdff6294e31cf0fa393b277c65d33",
-    "approximate_presence_count": 4728,
-    "approximate_member_count": 33456,
-    "premium_subscription_count": 11,
+    "approximate_presence_count": 4106,
+    "approximate_member_count": 34590,
+    "premium_subscription_count": 12,
     "preferred_locale": "en-US",
     "vanity_url_code": "devcord",
     "keywords": [
-        "js",
-        "php",
-        "html",
-        "css",
-        "vue",
-        "laravel",
-        "web",
-        "development",
         "backend",
-        "frontend"
+        "css",
+        "development",
+        "frontend",
+        "html",
+        "js",
+        "laravel",
+        "php",
+        "vue",
+        "web"
     ],
     "features": [
         "COMMUNITY",
@@ -39,9 +39,9 @@
         "icon": "a_0a8c73463a1fcb187a061739822b4f09",
         "splash": "564f4d805400f14e6933822646d32fe0",
         "banner": "a8abdff6294e31cf0fa393b277c65d33",
-        "approximate_presence_count": 4728,
-        "approximate_member_count": 33456,
-        "premium_subscription_count": 11,
+        "approximate_presence_count": 4106,
+        "approximate_member_count": 34590,
+        "premium_subscription_count": 12,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "564f4d805400f14e6933822646d32fe0",
@@ -49,16 +49,16 @@
         "vanity_url_code": "devcord",
         "is_published": true,
         "keywords": [
-            "js",
-            "php",
-            "html",
-            "css",
-            "vue",
-            "laravel",
-            "web",
-            "development",
             "backend",
-            "frontend"
+            "css",
+            "development",
+            "frontend",
+            "html",
+            "js",
+            "laravel",
+            "php",
+            "vue",
+            "web"
         ],
         "features": [
             "COMMUNITY",
@@ -310,17 +310,7 @@
             },
             "keywords": [
                 {
-                    "value": "js",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "php",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "html",
+                    "value": "backend",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -330,7 +320,22 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "vue",
+                    "value": "development",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "frontend",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "html",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "js",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -340,22 +345,17 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "php",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "vue",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "web",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "development",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "backend",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "frontend",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
