@@ -1,32 +1,33 @@
 {
     "id": "847587034792460328",
     "name": "Civil Networks SCP-RP",
-    "description": "The best SCP Roleplay experience in Garry's Mod",
+    "description": "The best S.C.P Roleplay experience on Garry'sMod. Engage in fun roleplay, combat and exciting scenarios. Check us out!",
     "icon": "639f2f0ad9200f9d9b75239f3fa096cb",
     "splash": "a5db36db63da81592cf2433407d5b0f4",
     "discovery_splash": "6a84d02cecf788db938d73e250719847",
     "banner": "23ca0597e3d226f32860862d982c0c2a",
-    "approximate_presence_count": 3128,
-    "approximate_member_count": 8062,
-    "premium_subscription_count": 70,
+    "approximate_presence_count": 3234,
+    "approximate_member_count": 8130,
+    "premium_subscription_count": 66,
     "preferred_locale": "en-US",
     "vanity_url_code": "civilnetworks-scp",
     "keywords": [
         "chaos",
         "custom",
         "darkrp",
-        "foundation",
         "garrysmod",
         "gmod",
         "military",
         "roleplay",
         "rp",
-        "scp"
+        "scp",
+        "scp foundation"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -35,13 +36,13 @@
     "raw": {
         "id": "847587034792460328",
         "name": "Civil Networks SCP-RP",
-        "description": "The best SCP Roleplay experience in Garry's Mod",
+        "description": "The best S.C.P Roleplay experience on Garry'sMod. Engage in fun roleplay, combat and exciting scenarios. Check us out!",
         "icon": "639f2f0ad9200f9d9b75239f3fa096cb",
         "splash": "a5db36db63da81592cf2433407d5b0f4",
         "banner": "23ca0597e3d226f32860862d982c0c2a",
-        "approximate_presence_count": 3128,
-        "approximate_member_count": 8062,
-        "premium_subscription_count": 70,
+        "approximate_presence_count": 3234,
+        "approximate_member_count": 8130,
+        "premium_subscription_count": 66,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "6a84d02cecf788db938d73e250719847",
@@ -52,18 +53,19 @@
             "chaos",
             "custom",
             "darkrp",
-            "foundation",
             "garrysmod",
             "gmod",
             "military",
             "roleplay",
             "rp",
-            "scp"
+            "scp",
+            "scp foundation"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -299,7 +301,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "The best SCP Roleplay experience in Garry's Mod",
+                "value": "The best S.C.P Roleplay experience on Garry'sMod. Engage in fun roleplay, combat and exciting scenarios. Check us out!",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -321,11 +323,6 @@
                 },
                 {
                     "value": "darkrp",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "foundation",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -356,6 +353,11 @@
                 },
                 {
                     "value": "scp",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "scp foundation",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
