@@ -1,27 +1,27 @@
 {
     "id": "735257499489402940",
     "name": "Gankster - LFG | Scrims | LFT/LFP | LFS | Tournaments",
-    "description": "Gankster: The HUB for Valorant, Rocket League, League of Legends, Dota 2 - LFG, LFS, LFP/T & Tournaments!",
+    "description": "Gankster: The HUB for Valorant, League of Legends, Rocket League, Dota 2 - LFG, LFS, LFP/T & Tournaments!",
     "icon": "bea1bbc8f5a138b45ea9e895e3d614a4",
     "splash": "8d3e176604e34107747456d863226dbf",
     "discovery_splash": "5a791074a79b7e1a5a0d91d4ea65a4bc",
     "banner": "5947df808bfb432d8507125be6de9b7e",
-    "approximate_presence_count": 36818,
-    "approximate_member_count": 106693,
+    "approximate_presence_count": 35478,
+    "approximate_member_count": 106872,
     "premium_subscription_count": 20,
     "preferred_locale": "en-US",
     "vanity_url_code": "gankster",
     "keywords": [
+        "competitive",
         "esports",
-        "scrims",
+        "gaming",
+        "league of legends",
         "lfg",
         "lfs",
-        "valorant",
-        "team",
-        "gaming",
-        "competitive",
         "scrim",
-        "league of legends"
+        "scrims",
+        "team",
+        "valorant"
     ],
     "features": [
         "COMMUNITY",
@@ -35,12 +35,12 @@
     "raw": {
         "id": "735257499489402940",
         "name": "Gankster - LFG | Scrims | LFT/LFP | LFS | Tournaments",
-        "description": "Gankster: The HUB for Valorant, Rocket League, League of Legends, Dota 2 - LFG, LFS, LFP/T & Tournaments!",
+        "description": "Gankster: The HUB for Valorant, League of Legends, Rocket League, Dota 2 - LFG, LFS, LFP/T & Tournaments!",
         "icon": "bea1bbc8f5a138b45ea9e895e3d614a4",
         "splash": "8d3e176604e34107747456d863226dbf",
         "banner": "5947df808bfb432d8507125be6de9b7e",
-        "approximate_presence_count": 36818,
-        "approximate_member_count": 106693,
+        "approximate_presence_count": 35478,
+        "approximate_member_count": 106872,
         "premium_subscription_count": 20,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -49,16 +49,16 @@
         "vanity_url_code": "gankster",
         "is_published": true,
         "keywords": [
+            "competitive",
             "esports",
-            "scrims",
+            "gaming",
+            "league of legends",
             "lfg",
             "lfs",
-            "valorant",
-            "team",
-            "gaming",
-            "competitive",
             "scrim",
-            "league of legends"
+            "scrims",
+            "team",
+            "valorant"
         ],
         "features": [
             "COMMUNITY",
@@ -225,7 +225,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Gankster: The HUB for Valorant, Rocket League, League of Legends, Dota 2 - LFG, LFS, LFP/T & Tournaments!",
+                "value": "Gankster: The HUB for Valorant, League of Legends, Rocket League, Dota 2 - LFG, LFS, LFP/T & Tournaments!",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -236,12 +236,22 @@
             },
             "keywords": [
                 {
+                    "value": "competitive",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "esports",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "scrims",
+                    "value": "gaming",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "league of legends",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -256,7 +266,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "valorant",
+                    "value": "scrim",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "scrims",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -266,22 +281,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "gaming",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "competitive",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "scrim",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "league of legends",
+                    "value": "valorant",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
