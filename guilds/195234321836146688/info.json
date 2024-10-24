@@ -6,23 +6,24 @@
     "splash": "f64ccdda57aad87f39edfc7d75f2d412",
     "discovery_splash": "8c2196639c9c5263aaeaf4c54b92bed6",
     "banner": "8eec6e1a6f0ac58da69184bd1257f66e",
-    "approximate_presence_count": 8977,
-    "approximate_member_count": 24789,
-    "premium_subscription_count": 14,
+    "approximate_presence_count": 8811,
+    "approximate_member_count": 24203,
+    "premium_subscription_count": 15,
     "preferred_locale": "en-US",
     "vanity_url_code": "enigmatica",
     "keywords": [
-        "Minecraft",
-        "Modded Minecraft",
-        "MC",
-        "Modded",
         "Enigmatica",
+        "MC",
+        "Minecraft",
+        "Modded",
+        "Modded Minecraft",
         "Multiplayer"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED"
     ],
     "partnered": false,
@@ -34,9 +35,9 @@
         "icon": "a_694cd3967e0ed5288de39e8abd2a320d",
         "splash": "f64ccdda57aad87f39edfc7d75f2d412",
         "banner": "8eec6e1a6f0ac58da69184bd1257f66e",
-        "approximate_presence_count": 8977,
-        "approximate_member_count": 24789,
-        "premium_subscription_count": 14,
+        "approximate_presence_count": 8811,
+        "approximate_member_count": 24203,
+        "premium_subscription_count": 15,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "8c2196639c9c5263aaeaf4c54b92bed6",
@@ -44,17 +45,18 @@
         "vanity_url_code": "enigmatica",
         "is_published": false,
         "keywords": [
-            "Minecraft",
-            "Modded Minecraft",
-            "MC",
-            "Modded",
             "Enigmatica",
+            "MC",
+            "Minecraft",
+            "Modded",
+            "Modded Minecraft",
             "Multiplayer"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED"
         ],
         "categories": [
@@ -337,12 +339,7 @@
             },
             "keywords": [
                 {
-                    "value": "Minecraft",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "Modded Minecraft",
+                    "value": "Enigmatica",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -352,12 +349,17 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "Minecraft",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "Modded",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "Enigmatica",
+                    "value": "Modded Minecraft",
                     "matchLevel": "none",
                     "matchedWords": []
                 },

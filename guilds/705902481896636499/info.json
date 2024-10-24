@@ -2,21 +2,26 @@
     "id": "705902481896636499",
     "name": "Water Vikings",
     "description": "",
-    "icon": "a_abc09acbf320fa1d8ad3eb93124d376f",
+    "icon": "a_04be851469875f651ce58d40165f1846",
     "splash": "90dbc720085a7f9d88f3176f4763980e",
     "discovery_splash": "009d941b1670ba6ad963e48c949fb776",
-    "banner": "f256c967e1b233b19fd17c0c29540407",
-    "approximate_presence_count": 773,
-    "approximate_member_count": 7233,
-    "premium_subscription_count": 12,
+    "banner": "c828585c4209153148cb0102c266addc",
+    "approximate_presence_count": 752,
+    "approximate_member_count": 7227,
+    "premium_subscription_count": 27,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "watervikings",
     "keywords": [
-        "watervikings",
-        "clubpenguin",
-        "vikings",
+        "army",
+        "club penguin",
+        "community",
+        "emojis",
+        "gaming",
+        "minecraft",
+        "mingames",
         "penguins",
-        "minecraft"
+        "tournaments",
+        "vikings"
     ],
     "features": [
         "COMMUNITY",
@@ -30,24 +35,29 @@
         "id": "705902481896636499",
         "name": "Water Vikings",
         "description": "",
-        "icon": "a_abc09acbf320fa1d8ad3eb93124d376f",
+        "icon": "a_04be851469875f651ce58d40165f1846",
         "splash": "90dbc720085a7f9d88f3176f4763980e",
-        "banner": "f256c967e1b233b19fd17c0c29540407",
-        "approximate_presence_count": 773,
-        "approximate_member_count": 7233,
-        "premium_subscription_count": 12,
+        "banner": "c828585c4209153148cb0102c266addc",
+        "approximate_presence_count": 752,
+        "approximate_member_count": 7227,
+        "premium_subscription_count": 27,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "009d941b1670ba6ad963e48c949fb776",
         "primary_category_id": 1,
-        "vanity_url_code": null,
+        "vanity_url_code": "watervikings",
         "is_published": false,
         "keywords": [
-            "watervikings",
-            "clubpenguin",
-            "vikings",
+            "army",
+            "club penguin",
+            "community",
+            "emojis",
+            "gaming",
+            "minecraft",
+            "mingames",
             "penguins",
-            "minecraft"
+            "tournaments",
+            "vikings"
         ],
         "features": [
             "COMMUNITY",
@@ -56,6 +66,43 @@
             "PREVIEW_ENABLED"
         ],
         "categories": [
+            {
+                "id": 43,
+                "is_primary": true,
+                "name": "Emoji",
+                "name_localizations": {
+                    "bg": "Емотикон",
+                    "cs": "Smajlíci",
+                    "da": "Emoji",
+                    "de": "Emojis",
+                    "el": "Emoji",
+                    "fi": "Emoji",
+                    "fr": "Émoji",
+                    "hi": "इमोजी",
+                    "hr": "Emoji",
+                    "hu": "Emotikon",
+                    "it": "Emoji",
+                    "ja": "絵文字",
+                    "ko": "이모티콘",
+                    "lt": "Jaustukai",
+                    "nl": "Emoji",
+                    "no": "Emoji",
+                    "pl": "Emoji",
+                    "ro": "Emoji",
+                    "ru": "Эмодзи",
+                    "th": "อีโมจิ",
+                    "tr": "Emoji",
+                    "uk": "Емодзі",
+                    "vi": "Emoji",
+                    "en-GB": "Emoji",
+                    "en-US": "Emoji",
+                    "es-ES": "Emojis",
+                    "pt-BR": "Emoji",
+                    "sv-SE": "Emoji",
+                    "zh-CN": "表情符号",
+                    "zh-TW": "表情符號"
+                }
+            },
             {
                 "id": 25,
                 "is_primary": false,
@@ -131,40 +178,40 @@
                 }
             },
             {
-                "id": 14,
-                "is_primary": true,
-                "name": "General Chatting",
+                "id": 37,
+                "is_primary": false,
+                "name": "Local Group",
                 "name_localizations": {
-                    "bg": "Общуване",
-                    "cs": "Prostě chat",
-                    "da": "Generelt",
-                    "de": "Allgemeine Chats",
-                    "el": "Γενική συζήτηση",
-                    "fi": "Yleinen keskustelu",
-                    "fr": "Discussion générale",
-                    "hi": "जनरल चैटिंग",
-                    "hr": "Općenito",
-                    "hu": "Általános csevegés",
-                    "it": "Discussioni generali",
-                    "ja": "雑談",
-                    "ko": "일반 채팅",
-                    "lt": "Bendro pobūdžio pokalbiai",
-                    "nl": "Algemene chat",
-                    "no": "Generell chatting",
-                    "pl": "Rozmowy",
-                    "ro": "Discuții generale",
-                    "ru": "Общение",
-                    "th": "การสนทนาทั่วไป",
-                    "tr": "Genel Sohbet",
-                    "uk": "Спілкування на загальні теми",
-                    "vi": "Trò Chuyện Chung",
-                    "en-GB": "General Chatting",
-                    "en-US": "General Chatting",
-                    "es-ES": "Chateo general",
-                    "pt-BR": "Conversas gerais",
-                    "sv-SE": "Chatt i allmänhet",
-                    "zh-CN": "综合聊天",
-                    "zh-TW": "一般聊天"
+                    "bg": "Местна група",
+                    "cs": "Místní skupina",
+                    "da": "Lokal gruppe",
+                    "de": "Lokale Gruppen",
+                    "el": "Τοπική ομάδα",
+                    "fi": "Paikallinen ryhmä",
+                    "fr": "Groupe local",
+                    "hi": "लोकल ग्रुप",
+                    "hr": "Lokalna grupa",
+                    "hu": "Helyi csoport",
+                    "it": "Gruppo locale",
+                    "ja": "地域コミュニティ",
+                    "ko": "로컬 그룹",
+                    "lt": "Vietinė grupė",
+                    "nl": "Lokale groep",
+                    "no": "Lokal gruppe",
+                    "pl": "Lokalna grupa",
+                    "ro": "Grup local",
+                    "ru": "Местная группа",
+                    "th": "กลุ่มสำหรับคนในพื้นที่",
+                    "tr": "Yerel Grup",
+                    "uk": "Місцева група",
+                    "vi": "Nhóm Địa Phương",
+                    "en-GB": "Local Group",
+                    "en-US": "Local Group",
+                    "es-ES": "Grupo local",
+                    "pt-BR": "Grupo local",
+                    "sv-SE": "Lokal grupp",
+                    "zh-CN": "本地群组",
+                    "zh-TW": "本地團體"
                 }
             },
             {
@@ -254,19 +301,44 @@
                 "matchLevel": "none",
                 "matchedWords": []
             },
+            "vanity_url_code": {
+                "value": "watervikings",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
             "keywords": [
                 {
-                    "value": "watervikings",
+                    "value": "army",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "clubpenguin",
+                    "value": "club penguin",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "vikings",
+                    "value": "community",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "emojis",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "gaming",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "minecraft",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "mingames",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -276,12 +348,171 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "minecraft",
+                    "value": "tournaments",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "vikings",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Емотикон",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Smajlíci",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Emojis",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Émoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "इमोजी",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Emotikon",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "絵文字",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "이모티콘",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Jaustukai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Эмодзи",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "อีโมจิ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Емодзі",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Emojis",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Emoji",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "表情符号",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "表情符號",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -593,152 +824,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Общуване",
+                            "value": "Местна група",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Prostě chat",
+                            "value": "Místní skupina",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Generelt",
+                            "value": "Lokal gruppe",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Allgemeine Chats",
+                            "value": "Lokale Gruppen",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Γενική συζήτηση",
+                            "value": "Τοπική ομάδα",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Yleinen keskustelu",
+                            "value": "Paikallinen ryhmä",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Discussion générale",
+                            "value": "Groupe local",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "जनरल चैटिंग",
+                            "value": "लोकल ग्रुप",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Općenito",
+                            "value": "Lokalna grupa",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Általános csevegés",
+                            "value": "Helyi csoport",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Discussioni generali",
+                            "value": "Gruppo locale",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "雑談",
+                            "value": "地域コミュニティ",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "일반 채팅",
+                            "value": "로컬 그룹",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Bendro pobūdžio pokalbiai",
+                            "value": "Vietinė grupė",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Algemene chat",
+                            "value": "Lokale groep",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Generell chatting",
+                            "value": "Lokal gruppe",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Rozmowy",
+                            "value": "Lokalna grupa",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Discuții generale",
+                            "value": "Grup local",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Общение",
+                            "value": "Местная группа",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "การสนทนาทั่วไป",
+                            "value": "กลุ่มสำหรับคนในพื้นที่",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Genel Sohbet",
+                            "value": "Yerel Grup",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Спілкування на загальні теми",
+                            "value": "Місцева група",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Trò Chuyện Chung",
+                            "value": "Nhóm Địa Phương",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "General Chatting",
+                            "value": "Local Group",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "General Chatting",
+                            "value": "Local Group",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Chateo general",
+                            "value": "Grupo local",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Conversas gerais",
+                            "value": "Grupo local",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Chatt i allmänhet",
+                            "value": "Lokal grupp",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "综合聊天",
+                            "value": "本地群组",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "一般聊天",
+                            "value": "本地團體",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

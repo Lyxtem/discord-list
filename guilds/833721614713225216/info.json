@@ -1,27 +1,27 @@
 {
     "id": "833721614713225216",
     "name": "Megapolis",
-    "description": "The official Megapolis Discord server. Join for news, chat, and exclusive giveaways! 🌆",
+    "description": "Official Megapolis server",
     "icon": "a_6fd9f2aed6af308ea2f1ef0edf8055ba",
     "splash": "7b102b11381d47daeedd74ecb3a3f577",
     "discovery_splash": "568c43fa825c5bfe1f6d0192c3f037b7",
     "banner": "2cb2c9299b1f7b09ee40d3187200ae27",
-    "approximate_presence_count": 204,
-    "approximate_member_count": 4560,
+    "approximate_presence_count": 126,
+    "approximate_member_count": 4497,
     "premium_subscription_count": 7,
-    "preferred_locale": "en-GB",
+    "preferred_locale": "en-US",
     "vanity_url_code": "megapolis-833721614713225216",
     "keywords": [
         "building",
-        "simulator",
-        "game",
-        "city building",
-        "mobile game",
-        "simulation game",
         "building games",
+        "city building",
         "construction games",
+        "game",
+        "gaming",
+        "mobile game",
         "mobile gaming",
-        "gaming"
+        "simulation game",
+        "simulator"
     ],
     "features": [
         "COMMUNITY",
@@ -35,14 +35,14 @@
     "raw": {
         "id": "833721614713225216",
         "name": "Megapolis",
-        "description": "The official Megapolis Discord server. Join for news, chat, and exclusive giveaways! 🌆",
+        "description": "Official Megapolis server",
         "icon": "a_6fd9f2aed6af308ea2f1ef0edf8055ba",
         "splash": "7b102b11381d47daeedd74ecb3a3f577",
         "banner": "2cb2c9299b1f7b09ee40d3187200ae27",
-        "approximate_presence_count": 204,
-        "approximate_member_count": 4560,
+        "approximate_presence_count": 126,
+        "approximate_member_count": 4497,
         "premium_subscription_count": 7,
-        "preferred_locale": "en-GB",
+        "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "568c43fa825c5bfe1f6d0192c3f037b7",
         "primary_category_id": 1,
@@ -50,15 +50,15 @@
         "is_published": true,
         "keywords": [
             "building",
-            "simulator",
-            "game",
-            "city building",
-            "mobile game",
-            "simulation game",
             "building games",
+            "city building",
             "construction games",
+            "game",
+            "gaming",
+            "mobile game",
             "mobile gaming",
-            "gaming"
+            "simulation game",
+            "simulator"
         ],
         "features": [
             "COMMUNITY",
@@ -225,7 +225,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "The official Megapolis Discord server. Join for news, chat, and exclusive giveaways! 🌆",
+                "value": "Official Megapolis server",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -241,12 +241,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "simulator",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "game",
+                    "value": "building games",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -256,22 +251,22 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "mobile game",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "simulation game",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "building games",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "construction games",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "game",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "gaming",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "mobile game",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -281,7 +276,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "gaming",
+                    "value": "simulation game",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "simulator",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
