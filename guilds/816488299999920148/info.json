@@ -6,22 +6,22 @@
     "splash": "4f5848769e449d48f828ab42ff6466ae",
     "discovery_splash": "4f5848769e449d48f828ab42ff6466ae",
     "banner": "7da128746d9979c6850500b4e5b0af9d",
-    "approximate_presence_count": 2072,
-    "approximate_member_count": 21600,
-    "premium_subscription_count": 4,
+    "approximate_presence_count": 1595,
+    "approximate_member_count": 25231,
+    "premium_subscription_count": 6,
     "preferred_locale": "es-ES",
     "vanity_url_code": "streameruni",
     "keywords": [
-        "minecraft",
         "eventos",
-        "mc",
-        "twitch",
-        "tematicas",
         "gratis",
+        "mc",
+        "minecraft",
+        "premium",
         "streamer",
         "streameruni",
         "streameruniversitario",
-        "premium"
+        "tematicas",
+        "twitch"
     ],
     "features": [
         "COMMUNITY",
@@ -40,26 +40,26 @@
         "icon": "2ca90f97b1804f9c8803c762e85d3d55",
         "splash": "4f5848769e449d48f828ab42ff6466ae",
         "banner": "7da128746d9979c6850500b4e5b0af9d",
-        "approximate_presence_count": 2072,
-        "approximate_member_count": 21600,
-        "premium_subscription_count": 4,
+        "approximate_presence_count": 1595,
+        "approximate_member_count": 25231,
+        "premium_subscription_count": 6,
         "preferred_locale": "es-ES",
         "auto_removed": false,
         "discovery_splash": "4f5848769e449d48f828ab42ff6466ae",
-        "primary_category_id": 13,
+        "primary_category_id": 1,
         "vanity_url_code": "streameruni",
         "is_published": false,
         "keywords": [
-            "minecraft",
             "eventos",
-            "mc",
-            "twitch",
-            "tematicas",
             "gratis",
+            "mc",
+            "minecraft",
+            "premium",
             "streamer",
             "streameruni",
             "streameruniversitario",
-            "premium"
+            "tematicas",
+            "twitch"
         ],
         "features": [
             "COMMUNITY",
@@ -254,26 +254,43 @@
                     "zh-CN": "内容创作者",
                     "zh-TW": "內容創作者"
                 }
-            },
-            {
-                "id": 13,
-                "is_primary": true,
-                "name": "Other",
-                "name_localizations": {
-                    "de": "Sonstiges",
-                    "fr": "Autre",
-                    "ru": "Другое"
-                }
             }
         ],
         "primary_category": {
-            "id": 13,
+            "id": 1,
             "is_primary": true,
-            "name": "Other",
+            "name": "Gaming",
             "name_localizations": {
-                "de": "Sonstiges",
-                "fr": "Autre",
-                "ru": "Другое"
+                "bg": "Гейминг",
+                "cs": "Hraní",
+                "da": "Spil",
+                "de": "Gaming",
+                "el": "Gaming",
+                "fi": "Pelaaminen",
+                "fr": "Gaming",
+                "hi": "गेमिंग",
+                "hr": "Gaming",
+                "hu": "Játék",
+                "it": "Gaming",
+                "ja": "ゲーム",
+                "ko": "게임",
+                "lt": "Žaidimai",
+                "nl": "Gaming",
+                "no": "Gaming",
+                "pl": "Gry",
+                "ro": "Gaming",
+                "ru": "Игры",
+                "th": "การเล่นเกม",
+                "tr": "Oyun",
+                "uk": "Ігри",
+                "vi": "Gaming",
+                "en-GB": "Gaming",
+                "en-US": "Gaming",
+                "es-ES": "Juegos",
+                "pt-BR": "Jogos",
+                "sv-SE": "Gaming",
+                "zh-CN": "游戏",
+                "zh-TW": "遊戲"
             }
         },
         "objectID": "816488299999920148",
@@ -295,12 +312,12 @@
             },
             "keywords": [
                 {
-                    "value": "minecraft",
+                    "value": "eventos",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "eventos",
+                    "value": "gratis",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -310,17 +327,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "twitch",
+                    "value": "minecraft",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "tematicas",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "gratis",
+                    "value": "premium",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -340,7 +352,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "premium",
+                    "value": "tematicas",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "twitch",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
@@ -1115,41 +1132,157 @@
                             "matchedWords": []
                         }
                     }
-                },
-                {
-                    "name_localizations": {
-                        "de": {
-                            "value": "Sonstiges",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Autre",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Другое",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
                 }
             ],
             "primary_category": {
                 "name_localizations": {
+                    "bg": {
+                        "value": "Гейминг",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "cs": {
+                        "value": "Hraní",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "da": {
+                        "value": "Spil",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
                     "de": {
-                        "value": "Sonstiges",
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "el": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "fi": {
+                        "value": "Pelaaminen",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "fr": {
-                        "value": "Autre",
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hi": {
+                        "value": "गेमिंग",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hr": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hu": {
+                        "value": "Játék",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "it": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ja": {
+                        "value": "ゲーム",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ko": {
+                        "value": "게임",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "lt": {
+                        "value": "Žaidimai",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "nl": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "no": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "pl": {
+                        "value": "Gry",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ro": {
+                        "value": "Gaming",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ru": {
-                        "value": "Другое",
+                        "value": "Игры",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "th": {
+                        "value": "การเล่นเกม",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "tr": {
+                        "value": "Oyun",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "uk": {
+                        "value": "Ігри",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "vi": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "en-GB": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "en-US": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "es-ES": {
+                        "value": "Juegos",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "pt-BR": {
+                        "value": "Jogos",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "sv-SE": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "zh-CN": {
+                        "value": "游戏",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "zh-TW": {
+                        "value": "遊戲",
                         "matchLevel": "none",
                         "matchedWords": []
                     }

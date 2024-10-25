@@ -4,9 +4,9 @@
     "description": "Welcome to the Rebel Complex server you will definitely have amazing time in our server",
     "icon": "a_ae100e497b3cbf24541718c0a3d8a96d",
     "splash": "1433632107b6f3b3d289a2013b257e13",
-    "discovery_splash": "77eedd4fb4467b897d9c504c238359b7",
+    "discovery_splash": "62ec0767a5edb85277e6101b10f12b39",
     "banner": "6806559a2cdb0192c79718eb9f73fa38",
-    "approximate_presence_count": 2015,
+    "approximate_presence_count": 2230,
     "approximate_member_count": 234007,
     "premium_subscription_count": 10,
     "preferred_locale": "en-US",
@@ -17,7 +17,9 @@
         "#kurd",
         "#public",
         "#server",
-        "#shines"
+        "#shines",
+        "farsi",
+        "iran"
     ],
     "features": [
         "COMMUNITY",
@@ -34,12 +36,12 @@
         "icon": "a_ae100e497b3cbf24541718c0a3d8a96d",
         "splash": "1433632107b6f3b3d289a2013b257e13",
         "banner": "6806559a2cdb0192c79718eb9f73fa38",
-        "approximate_presence_count": 2015,
+        "approximate_presence_count": 2230,
         "approximate_member_count": 234007,
         "premium_subscription_count": 10,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "77eedd4fb4467b897d9c504c238359b7",
+        "discovery_splash": "62ec0767a5edb85277e6101b10f12b39",
         "primary_category_id": 13,
         "vanity_url_code": "rebel-complex-234k-712573348953063474",
         "is_published": true,
@@ -49,7 +51,9 @@
             "#kurd",
             "#public",
             "#server",
-            "#shines"
+            "#shines",
+            "farsi",
+            "iran"
         ],
         "features": [
             "COMMUNITY",
@@ -309,6 +313,16 @@
                 },
                 {
                     "value": "#shines",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "farsi",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "iran",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
