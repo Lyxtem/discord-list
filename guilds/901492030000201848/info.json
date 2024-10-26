@@ -6,19 +6,19 @@
     "splash": "4fb39a1a79fbabad325c5a9f70f3be33",
     "discovery_splash": "a25bf59039b752b39de0a62bf43d9d86",
     "banner": "e74265fa21f6846904d9fbe609c18d6f",
-    "approximate_presence_count": 2351,
-    "approximate_member_count": 6262,
-    "premium_subscription_count": 14,
+    "approximate_presence_count": 960,
+    "approximate_member_count": 7384,
+    "premium_subscription_count": 19,
     "preferred_locale": "ru",
-    "vanity_url_code": null,
+    "vanity_url_code": "bebragrad",
     "keywords": [
-        "youtube",
-        "garry’smod",
         "bebra",
-        "скрипач",
         "game",
+        "garry’smod",
+        "youtube",
         "игра",
-        "игры"
+        "игры",
+        "скрипач"
     ],
     "features": [
         "COMMUNITY",
@@ -36,23 +36,23 @@
         "icon": "cb1cd81978bc7f8d030974e5a0dbab66",
         "splash": "4fb39a1a79fbabad325c5a9f70f3be33",
         "banner": "e74265fa21f6846904d9fbe609c18d6f",
-        "approximate_presence_count": 2351,
-        "approximate_member_count": 6262,
-        "premium_subscription_count": 14,
+        "approximate_presence_count": 960,
+        "approximate_member_count": 7384,
+        "premium_subscription_count": 19,
         "preferred_locale": "ru",
         "auto_removed": false,
         "discovery_splash": "a25bf59039b752b39de0a62bf43d9d86",
         "primary_category_id": 1,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "bebragrad",
+        "is_published": true,
         "keywords": [
-            "youtube",
-            "garry’smod",
             "bebra",
-            "скрипач",
             "game",
+            "garry’smod",
+            "youtube",
             "игра",
-            "игры"
+            "игры",
+            "скрипач"
         ],
         "features": [
             "COMMUNITY",
@@ -149,9 +149,19 @@
                 "matchLevel": "none",
                 "matchedWords": []
             },
+            "vanity_url_code": {
+                "value": "bebragrad",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
             "keywords": [
                 {
-                    "value": "youtube",
+                    "value": "bebra",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "game",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -161,17 +171,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "bebra",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "скрипач",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "game",
+                    "value": "youtube",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -182,6 +182,11 @@
                 },
                 {
                     "value": "игры",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "скрипач",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

@@ -1,14 +1,14 @@
 {
     "id": "304777819936784385",
     "name": "17th Shard",
-    "description": "",
-    "icon": "d30d26b75c9953eb1f51feb5c69a88d2",
+    "description": "Fandom community dedicated to all things Brandon Sanderson - Stormlight, Mistborn, Cosmere, we've got it all!",
+    "icon": "690ae2a340736969253e28d7d061009c",
     "splash": "5270a85c55f233c1be52bc8bd9823344",
-    "discovery_splash": "37a9b3f82a073c5e89f72a26991a3f7b",
-    "banner": "b077c6a78519c7e28885a07ceac6e2b4",
-    "approximate_presence_count": 4271,
-    "approximate_member_count": 18163,
-    "premium_subscription_count": 17,
+    "discovery_splash": "219280b439dd473ca060ed9a1243950d",
+    "banner": "aee66005dca1418dbb6fb75313f37e46",
+    "approximate_presence_count": 4949,
+    "approximate_member_count": 19207,
+    "premium_subscription_count": 20,
     "preferred_locale": "en-US",
     "vanity_url_code": "17thshard",
     "keywords": [
@@ -35,19 +35,19 @@
     "raw": {
         "id": "304777819936784385",
         "name": "17th Shard",
-        "description": "",
-        "icon": "d30d26b75c9953eb1f51feb5c69a88d2",
+        "description": "Fandom community dedicated to all things Brandon Sanderson - Stormlight, Mistborn, Cosmere, we've got it all!",
+        "icon": "690ae2a340736969253e28d7d061009c",
         "splash": "5270a85c55f233c1be52bc8bd9823344",
-        "banner": "b077c6a78519c7e28885a07ceac6e2b4",
-        "approximate_presence_count": 4271,
-        "approximate_member_count": 18163,
-        "premium_subscription_count": 17,
+        "banner": "aee66005dca1418dbb6fb75313f37e46",
+        "approximate_presence_count": 4949,
+        "approximate_member_count": 19207,
+        "premium_subscription_count": 20,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "37a9b3f82a073c5e89f72a26991a3f7b",
+        "discovery_splash": "219280b439dd473ca060ed9a1243950d",
         "primary_category_id": 3,
         "vanity_url_code": "17thshard",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
             "brandon sanderson",
             "cosmere",
@@ -68,6 +68,43 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 32,
+                "is_primary": false,
+                "name": "Theorycraft",
+                "name_localizations": {
+                    "bg": "Теорикрафт",
+                    "cs": "Theorycraft",
+                    "da": "Theorycraft",
+                    "de": "Theorycraft",
+                    "el": "Theorycraft",
+                    "fi": "Pelianalysointi",
+                    "fr": "Theorycraft",
+                    "hi": "थ्योरीक्राफ़्ट",
+                    "hr": "Theorycraft",
+                    "hu": "Játékelméletek",
+                    "it": "Theorycraft",
+                    "ja": "ゲーム戦略研究",
+                    "ko": "게임 분석",
+                    "lt": "Žaidimų teorijos analizė",
+                    "nl": "Theorycraft",
+                    "no": "Theorycraft",
+                    "pl": "Theorycrafting",
+                    "ro": "Theorycraft",
+                    "ru": "Теорикрафтинг",
+                    "th": "การสร้างทฤษฎี",
+                    "tr": "Teoriler",
+                    "uk": "Теорікрафт",
+                    "vi": "Phân Tích Game",
+                    "en-GB": "Theorycraft",
+                    "en-US": "Theorycraft",
+                    "es-ES": "Theorycraft",
+                    "pt-BR": "Metajogo",
+                    "sv-SE": "Theorycraft",
+                    "zh-CN": "游戏机制研究",
+                    "zh-TW": "Theorycraft"
+                }
+            },
             {
                 "id": 39,
                 "is_primary": false,
@@ -140,6 +177,43 @@
                     "sv-SE": "Böcker",
                     "zh-CN": "读书",
                     "zh-TW": "書籍"
+                }
+            },
+            {
+                "id": 19,
+                "is_primary": false,
+                "name": "Art",
+                "name_localizations": {
+                    "bg": "Изкуство",
+                    "cs": "Umění",
+                    "da": "Kunst",
+                    "de": "Kunst",
+                    "el": "Τέχνη",
+                    "fi": "Taide",
+                    "fr": "Art",
+                    "hi": "आर्ट",
+                    "hr": "Umjetnost",
+                    "hu": "Művészet",
+                    "it": "Arte",
+                    "ja": "アート",
+                    "ko": "예술",
+                    "lt": "Menas",
+                    "nl": "Kunst",
+                    "no": "Kunst",
+                    "pl": "Sztuka",
+                    "ro": "Artă",
+                    "ru": "Творчество",
+                    "th": "ศิลปะ",
+                    "tr": "Sanat",
+                    "uk": "Мистецтво",
+                    "vi": "Nghệ Thuật",
+                    "en-GB": "Art",
+                    "en-US": "Art",
+                    "es-ES": "Arte",
+                    "pt-BR": "Arte",
+                    "sv-SE": "Konst",
+                    "zh-CN": "艺术",
+                    "zh-TW": "藝術"
                 }
             },
             {
@@ -262,7 +336,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "",
+                "value": "Fandom community dedicated to all things Brandon Sanderson - Stormlight, Mistborn, Cosmere, we've got it all!",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -319,6 +393,160 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Теорикрафт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Theorycraft",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Theorycraft",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Theorycraft",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Theorycraft",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Pelianalysointi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Theorycraft",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "थ्योरीक्राफ़्ट",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Theorycraft",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Játékelméletek",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Theorycraft",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "ゲーム戦略研究",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "게임 분석",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Žaidimų teorijos analizė",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Theorycraft",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Theorycraft",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Theorycrafting",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Theorycraft",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Теорикрафтинг",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การสร้างทฤษฎี",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Teoriler",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Теорікрафт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Phân Tích Game",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Theorycraft",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Theorycraft",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Theorycraft",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Metajogo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Theorycraft",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "游戏机制研究",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "Theorycraft",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -622,6 +850,160 @@
                         },
                         "zh-TW": {
                             "value": "書籍",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Изкуство",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Umění",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Kunst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Kunst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Τέχνη",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Taide",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Art",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "आर्ट",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Umjetnost",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Művészet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Arte",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "アート",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "예술",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Menas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Kunst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Kunst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Sztuka",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Artă",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Творчество",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ศิลปะ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Sanat",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Мистецтво",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Nghệ Thuật",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Art",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Art",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Arte",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Arte",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Konst",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "艺术",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "藝術",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
