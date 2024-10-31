@@ -6,26 +6,28 @@
     "splash": "5ad08a21078dab860be424143361dfd0",
     "discovery_splash": "3f758fd5a96c72d4f71712212e66d720",
     "banner": "d845e6541c7aafb1508df43ac45cd114",
-    "approximate_presence_count": 3529,
-    "approximate_member_count": 11768,
-    "premium_subscription_count": 15,
+    "approximate_presence_count": 3370,
+    "approximate_member_count": 11625,
+    "premium_subscription_count": 14,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
     "keywords": [
-        "MH",
-        "iceborne",
-        "world",
         "GU",
+        "MH",
+        "Monster hunter wilds",
+        "Wilds",
         "generations ultimate",
-        "weiss gaming",
+        "iceborne",
         "monster hunter",
+        "monster hunter rise",
         "monster hunter world",
-        "monster hunter rise"
+        "world"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -38,9 +40,9 @@
         "icon": "1e3894ce3fc7b16ec57f196cf174cdf9",
         "splash": "5ad08a21078dab860be424143361dfd0",
         "banner": "d845e6541c7aafb1508df43ac45cd114",
-        "approximate_presence_count": 3529,
-        "approximate_member_count": 11768,
-        "premium_subscription_count": 15,
+        "approximate_presence_count": 3370,
+        "approximate_member_count": 11625,
+        "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "3f758fd5a96c72d4f71712212e66d720",
@@ -48,20 +50,22 @@
         "vanity_url_code": null,
         "is_published": false,
         "keywords": [
-            "MH",
-            "iceborne",
-            "world",
             "GU",
+            "MH",
+            "Monster hunter wilds",
+            "Wilds",
             "generations ultimate",
-            "weiss gaming",
+            "iceborne",
             "monster hunter",
+            "monster hunter rise",
             "monster hunter world",
-            "monster hunter rise"
+            "world"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -303,22 +307,22 @@
             },
             "keywords": [
                 {
+                    "value": "GU",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "MH",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "iceborne",
+                    "value": "Monster hunter wilds",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "world",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "GU",
+                    "value": "Wilds",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -328,7 +332,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "weiss gaming",
+                    "value": "iceborne",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -338,12 +342,17 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "monster hunter rise",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "monster hunter world",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "monster hunter rise",
+                    "value": "world",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

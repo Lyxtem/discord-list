@@ -6,28 +6,27 @@
     "splash": "af715dc12c4fae567555cdf396c3d2b0",
     "discovery_splash": "75a66b39d89db5152796f16840d61cbe",
     "banner": "a_0c4bc38065bf616c3211e04837e2fe92",
-    "approximate_presence_count": 143,
-    "approximate_member_count": 4411,
-    "premium_subscription_count": 8,
+    "approximate_presence_count": 141,
+    "approximate_member_count": 4431,
+    "premium_subscription_count": 3,
     "preferred_locale": "en-US",
     "vanity_url_code": "discord-crew-ickedmel-363856421273600012",
     "keywords": [
-        "youtube",
-        "truecrime",
-        "true-crime",
         "crime",
-        "news",
         "current-events",
-        "ickedmel",
         "currentevents",
+        "ickedmel",
         "missing-person",
-        "missingperson"
+        "missingperson",
+        "news",
+        "true-crime",
+        "truecrime",
+        "youtube"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -40,32 +39,31 @@
         "icon": "a_412b276843ea51e0b1ce2743e60c0343",
         "splash": "af715dc12c4fae567555cdf396c3d2b0",
         "banner": "a_0c4bc38065bf616c3211e04837e2fe92",
-        "approximate_presence_count": 143,
-        "approximate_member_count": 4411,
-        "premium_subscription_count": 8,
+        "approximate_presence_count": 141,
+        "approximate_member_count": 4431,
+        "premium_subscription_count": 3,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "75a66b39d89db5152796f16840d61cbe",
         "primary_category_id": 14,
         "vanity_url_code": "discord-crew-ickedmel-363856421273600012",
-        "is_published": true,
+        "is_published": false,
         "keywords": [
-            "youtube",
-            "truecrime",
-            "true-crime",
             "crime",
-            "news",
             "current-events",
-            "ickedmel",
             "currentevents",
+            "ickedmel",
             "missing-person",
-            "missingperson"
+            "missingperson",
+            "news",
+            "true-crime",
+            "truecrime",
+            "youtube"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -285,27 +283,7 @@
             },
             "keywords": [
                 {
-                    "value": "youtube",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "truecrime",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "true-crime",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "crime",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "news",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -315,12 +293,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "ickedmel",
+                    "value": "currentevents",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "currentevents",
+                    "value": "ickedmel",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -331,6 +309,26 @@
                 },
                 {
                     "value": "missingperson",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "news",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "true-crime",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "truecrime",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "youtube",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

@@ -5,12 +5,12 @@
     "icon": "a_6f195658f707a74c4150c175653ddae8",
     "splash": "1ccc9c68d8318144e68c4f42adc6831c",
     "discovery_splash": "91980f5649105b0d6cca42b075965c23",
-    "banner": "2d0942a8647d645e2277a1463c00bb89",
-    "approximate_presence_count": 292,
-    "approximate_member_count": 4546,
-    "premium_subscription_count": 13,
+    "banner": "a_eea62874a2c2613f9db9c72c569951a8",
+    "approximate_presence_count": 332,
+    "approximate_member_count": 4881,
+    "premium_subscription_count": 21,
     "preferred_locale": "es-ES",
-    "vanity_url_code": null,
+    "vanity_url_code": "dramaland",
     "keywords": [
         "Among Us",
         "Among Us Español",
@@ -27,6 +27,7 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -38,15 +39,15 @@
         "description": "Este es un servidor con gente buena onda, que busca pasar un buen rato, si eres una persona amable te va a encantar.",
         "icon": "a_6f195658f707a74c4150c175653ddae8",
         "splash": "1ccc9c68d8318144e68c4f42adc6831c",
-        "banner": "2d0942a8647d645e2277a1463c00bb89",
-        "approximate_presence_count": 292,
-        "approximate_member_count": 4546,
-        "premium_subscription_count": 13,
+        "banner": "a_eea62874a2c2613f9db9c72c569951a8",
+        "approximate_presence_count": 332,
+        "approximate_member_count": 4881,
+        "premium_subscription_count": 21,
         "preferred_locale": "es-ES",
         "auto_removed": false,
         "discovery_splash": "91980f5649105b0d6cca42b075965c23",
         "primary_category_id": 1,
-        "vanity_url_code": null,
+        "vanity_url_code": "dramaland",
         "is_published": false,
         "keywords": [
             "Among Us",
@@ -64,6 +65,7 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -300,6 +302,11 @@
             },
             "description": {
                 "value": "Este es un servidor con gente buena onda, que busca pasar un buen rato, si eres una persona amable te va a encantar.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "dramaland",
                 "matchLevel": "none",
                 "matchedWords": []
             },
