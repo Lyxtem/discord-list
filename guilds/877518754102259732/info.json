@@ -4,23 +4,24 @@
     "description": "Serveur de la communauté de 7LVN (Eleven)",
     "icon": "8224280a91819c94129b443726023e3a",
     "splash": "0322585129a598a0d1ea1eced616f345",
-    "discovery_splash": "44305e573d15236c1ddbb12905a8bfb9",
+    "discovery_splash": "9004de6525e8094fb0b24347b5ce1424",
     "banner": "21de066196c78f6cf0aae920606e2408",
-    "approximate_presence_count": 368,
-    "approximate_member_count": 2454,
-    "premium_subscription_count": 14,
+    "approximate_presence_count": 817,
+    "approximate_member_count": 2835,
+    "premium_subscription_count": 19,
     "preferred_locale": "fr",
-    "vanity_url_code": null,
+    "vanity_url_code": "7lvn",
     "keywords": [
-        "twitch",
         "e-sports",
-        "valorant",
-        "fivem"
+        "fivem",
+        "twitch",
+        "valorant"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -33,25 +34,26 @@
         "icon": "8224280a91819c94129b443726023e3a",
         "splash": "0322585129a598a0d1ea1eced616f345",
         "banner": "21de066196c78f6cf0aae920606e2408",
-        "approximate_presence_count": 368,
-        "approximate_member_count": 2454,
-        "premium_subscription_count": 14,
+        "approximate_presence_count": 817,
+        "approximate_member_count": 2835,
+        "premium_subscription_count": 19,
         "preferred_locale": "fr",
         "auto_removed": false,
-        "discovery_splash": "44305e573d15236c1ddbb12905a8bfb9",
+        "discovery_splash": "9004de6525e8094fb0b24347b5ce1424",
         "primary_category_id": 1,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "7lvn",
+        "is_published": true,
         "keywords": [
-            "twitch",
             "e-sports",
-            "valorant",
-            "fivem"
+            "fivem",
+            "twitch",
+            "valorant"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -180,24 +182,29 @@
                 "matchLevel": "none",
                 "matchedWords": []
             },
+            "vanity_url_code": {
+                "value": "7lvn",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
             "keywords": [
-                {
-                    "value": "twitch",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
                 {
                     "value": "e-sports",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "valorant",
+                    "value": "fivem",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "fivem",
+                    "value": "twitch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "valorant",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
