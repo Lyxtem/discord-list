@@ -1,13 +1,13 @@
 {
     "id": "704016918264414270",
     "name": "Frost Esports",
-    "description": "Join Frost Esports for thrilling weekly Rocket League and MultiVersus tournaments with a vibrant community!",
+    "description": "Join Frost Esports for thrilling weekly Rocket League, MultiVersus and Rivals of Aether II tournaments!",
     "icon": "a_1f0c0bf47a74dbea5069b9765545eadb",
     "splash": "55ec69801e626dc7dab1d2a11aa3220d",
     "discovery_splash": "d9c8e52aed8112c5e9806548d874563c",
     "banner": "52ffd1ecfdbe02159701bc7418a60e02",
-    "approximate_presence_count": 3615,
-    "approximate_member_count": 13217,
+    "approximate_presence_count": 4930,
+    "approximate_member_count": 13227,
     "premium_subscription_count": 15,
     "preferred_locale": "en-US",
     "vanity_url_code": "frostesports",
@@ -17,10 +17,10 @@
         "frost",
         "frostesports",
         "multiversus",
-        "rocketleague",
+        "rivals of aether 2",
+        "rocket league",
         "ssbu",
         "tournament",
-        "twitch",
         "valorant"
     ],
     "features": [
@@ -35,12 +35,12 @@
     "raw": {
         "id": "704016918264414270",
         "name": "Frost Esports",
-        "description": "Join Frost Esports for thrilling weekly Rocket League and MultiVersus tournaments with a vibrant community!",
+        "description": "Join Frost Esports for thrilling weekly Rocket League, MultiVersus and Rivals of Aether II tournaments!",
         "icon": "a_1f0c0bf47a74dbea5069b9765545eadb",
         "splash": "55ec69801e626dc7dab1d2a11aa3220d",
         "banner": "52ffd1ecfdbe02159701bc7418a60e02",
-        "approximate_presence_count": 3615,
-        "approximate_member_count": 13217,
+        "approximate_presence_count": 4930,
+        "approximate_member_count": 13227,
         "premium_subscription_count": 15,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -54,10 +54,10 @@
             "frost",
             "frostesports",
             "multiversus",
-            "rocketleague",
+            "rivals of aether 2",
+            "rocket league",
             "ssbu",
             "tournament",
-            "twitch",
             "valorant"
         ],
         "features": [
@@ -299,7 +299,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Join Frost Esports for thrilling weekly Rocket League and MultiVersus tournaments with a vibrant community!",
+                "value": "Join Frost Esports for thrilling weekly Rocket League, MultiVersus and Rivals of Aether II tournaments!",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -335,7 +335,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "rocketleague",
+                    "value": "rivals of aether 2",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "rocket league",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -346,11 +351,6 @@
                 },
                 {
                     "value": "tournament",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "twitch",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
