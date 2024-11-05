@@ -6,22 +6,22 @@
     "splash": null,
     "discovery_splash": "f217df8b97ae0f2cac793452ec90ef99",
     "banner": null,
-    "approximate_presence_count": 1473,
-    "approximate_member_count": 12080,
+    "approximate_presence_count": 1606,
+    "approximate_member_count": 11605,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "ygoprodeck-248740693537718272",
     "keywords": [
-        "yugioh",
-        "yu-gi-oh",
-        "ygopro",
-        "ygoprodeck",
-        "yugioh tcg",
         "Yu-Gi-Oh!",
         "ygo",
+        "ygo server",
+        "ygopro",
+        "ygoprodeck",
+        "yu-gi-oh",
+        "yugioh",
         "yugioh decks",
         "yugioh server",
-        "ygo server"
+        "yugioh tcg"
     ],
     "features": [
         "COMMUNITY",
@@ -39,8 +39,8 @@
         "icon": "c9f58dfaedf421de5a2b846fa61e61d1",
         "splash": null,
         "banner": null,
-        "approximate_presence_count": 1473,
-        "approximate_member_count": 12080,
+        "approximate_presence_count": 1606,
+        "approximate_member_count": 11605,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -49,16 +49,16 @@
         "vanity_url_code": "ygoprodeck-248740693537718272",
         "is_published": true,
         "keywords": [
-            "yugioh",
-            "yu-gi-oh",
-            "ygopro",
-            "ygoprodeck",
-            "yugioh tcg",
             "Yu-Gi-Oh!",
             "ygo",
+            "ygo server",
+            "ygopro",
+            "ygoprodeck",
+            "yu-gi-oh",
+            "yugioh",
             "yugioh decks",
             "yugioh server",
-            "ygo server"
+            "yugioh tcg"
         ],
         "features": [
             "COMMUNITY",
@@ -236,12 +236,17 @@
             },
             "keywords": [
                 {
-                    "value": "yugioh",
+                    "value": "Yu-Gi-Oh!",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "yu-gi-oh",
+                    "value": "ygo",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "ygo server",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -256,17 +261,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "yugioh tcg",
+                    "value": "yu-gi-oh",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "Yu-Gi-Oh!",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "ygo",
+                    "value": "yugioh",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -281,7 +281,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "ygo server",
+                    "value": "yugioh tcg",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
