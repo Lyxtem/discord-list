@@ -2,18 +2,17 @@
     "id": "616297717018263573",
     "name": "PopHolmes Collectibles & Monitors",
     "description": "Pop Holmes Collectibles Discord provides news, restock and release alerts and help for collectors around the world.",
-    "icon": "812214ce9a410a21175e896037d5fd16",
+    "icon": "45f9f6de5657aef6ad6105506f105710",
     "splash": "dc9c1f5341b9238af915686edd32a483",
     "discovery_splash": "9cb4a8a05c33069cad2dc81db14e3c70",
     "banner": "63c367d58031115b250b7aa34cd3e086",
-    "approximate_presence_count": 753,
-    "approximate_member_count": 6223,
-    "premium_subscription_count": 22,
+    "approximate_presence_count": 766,
+    "approximate_member_count": 6076,
+    "premium_subscription_count": 18,
     "preferred_locale": "en-US",
     "vanity_url_code": "popholmes",
     "keywords": [
         "TCG",
-        "actionfigures",
         "collectibles",
         "collectors",
         "funko",
@@ -21,7 +20,8 @@
         "lego",
         "pokemon",
         "popholmes",
-        "toys"
+        "restocks",
+        "sneakers"
     ],
     "features": [
         "COMMUNITY",
@@ -38,21 +38,20 @@
         "id": "616297717018263573",
         "name": "PopHolmes Collectibles & Monitors",
         "description": "Pop Holmes Collectibles Discord provides news, restock and release alerts and help for collectors around the world.",
-        "icon": "812214ce9a410a21175e896037d5fd16",
+        "icon": "45f9f6de5657aef6ad6105506f105710",
         "splash": "dc9c1f5341b9238af915686edd32a483",
         "banner": "63c367d58031115b250b7aa34cd3e086",
-        "approximate_presence_count": 753,
-        "approximate_member_count": 6223,
-        "premium_subscription_count": 22,
+        "approximate_presence_count": 766,
+        "approximate_member_count": 6076,
+        "premium_subscription_count": 18,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "9cb4a8a05c33069cad2dc81db14e3c70",
-        "primary_category_id": 49,
+        "primary_category_id": 3,
         "vanity_url_code": "popholmes",
         "is_published": true,
         "keywords": [
             "TCG",
-            "actionfigures",
             "collectibles",
             "collectors",
             "funko",
@@ -60,7 +59,8 @@
             "lego",
             "pokemon",
             "popholmes",
-            "toys"
+            "restocks",
+            "sneakers"
         ],
         "features": [
             "COMMUNITY",
@@ -258,78 +258,78 @@
                 }
             },
             {
-                "id": 49,
+                "id": 3,
                 "is_primary": true,
-                "name": "Bots",
+                "name": "Entertainment",
                 "name_localizations": {
-                    "bg": "Ботове",
-                    "cs": "Boti",
-                    "da": "Bots",
-                    "de": "Bots",
-                    "el": "Bots",
-                    "fi": "Botit",
-                    "fr": "Bots",
-                    "hi": "बॉट्स",
-                    "hr": "Botovi",
-                    "hu": "Botok",
-                    "it": "Bot",
-                    "ja": "Bot",
-                    "ko": "봇",
-                    "lt": "Botai",
-                    "nl": "Bots",
-                    "no": "Boter",
-                    "pl": "Boty",
-                    "ro": "Boți",
-                    "ru": "Боты",
-                    "th": "Bot",
-                    "tr": "Botlar",
-                    "uk": "Боти",
-                    "vi": "Bot",
-                    "en-GB": "Bots",
-                    "en-US": "Bots",
-                    "es-ES": "Bots",
-                    "pt-BR": "Bots",
-                    "sv-SE": "Bottar",
-                    "zh-CN": "机器人",
-                    "zh-TW": "機器人"
+                    "bg": "Забавление",
+                    "cs": "Zábava",
+                    "da": "Underholdning",
+                    "de": "Unterhaltung",
+                    "el": "Ψυχαγωγία",
+                    "fi": "Viihde",
+                    "fr": "Divertissements",
+                    "hi": "एंटरटेनमेंट",
+                    "hr": "Zabava",
+                    "hu": "Szórakozás",
+                    "it": "Intrattenimento",
+                    "ja": "エンターテインメント",
+                    "ko": "엔터테인먼트",
+                    "lt": "Pramogos",
+                    "nl": "Entertainment",
+                    "no": "Underholdning",
+                    "pl": "Rozrywka",
+                    "ro": "Divertisment",
+                    "ru": "Развлечения",
+                    "th": "ความบันเทิง",
+                    "tr": "Eğlence",
+                    "uk": "Розваги",
+                    "vi": "Giải Trí",
+                    "en-GB": "Entertainment",
+                    "en-US": "Entertainment",
+                    "es-ES": "Entretenimiento",
+                    "pt-BR": "Entretenimento",
+                    "sv-SE": "Underhållning",
+                    "zh-CN": "娱乐",
+                    "zh-TW": "娛樂"
                 }
             }
         ],
         "primary_category": {
-            "id": 49,
+            "id": 3,
             "is_primary": true,
-            "name": "Bots",
+            "name": "Entertainment",
             "name_localizations": {
-                "bg": "Ботове",
-                "cs": "Boti",
-                "da": "Bots",
-                "de": "Bots",
-                "el": "Bots",
-                "fi": "Botit",
-                "fr": "Bots",
-                "hi": "बॉट्स",
-                "hr": "Botovi",
-                "hu": "Botok",
-                "it": "Bot",
-                "ja": "Bot",
-                "ko": "봇",
-                "lt": "Botai",
-                "nl": "Bots",
-                "no": "Boter",
-                "pl": "Boty",
-                "ro": "Boți",
-                "ru": "Боты",
-                "th": "Bot",
-                "tr": "Botlar",
-                "uk": "Боти",
-                "vi": "Bot",
-                "en-GB": "Bots",
-                "en-US": "Bots",
-                "es-ES": "Bots",
-                "pt-BR": "Bots",
-                "sv-SE": "Bottar",
-                "zh-CN": "机器人",
-                "zh-TW": "機器人"
+                "bg": "Забавление",
+                "cs": "Zábava",
+                "da": "Underholdning",
+                "de": "Unterhaltung",
+                "el": "Ψυχαγωγία",
+                "fi": "Viihde",
+                "fr": "Divertissements",
+                "hi": "एंटरटेनमेंट",
+                "hr": "Zabava",
+                "hu": "Szórakozás",
+                "it": "Intrattenimento",
+                "ja": "エンターテインメント",
+                "ko": "엔터테인먼트",
+                "lt": "Pramogos",
+                "nl": "Entertainment",
+                "no": "Underholdning",
+                "pl": "Rozrywka",
+                "ro": "Divertisment",
+                "ru": "Развлечения",
+                "th": "ความบันเทิง",
+                "tr": "Eğlence",
+                "uk": "Розваги",
+                "vi": "Giải Trí",
+                "en-GB": "Entertainment",
+                "en-US": "Entertainment",
+                "es-ES": "Entretenimiento",
+                "pt-BR": "Entretenimento",
+                "sv-SE": "Underhållning",
+                "zh-CN": "娱乐",
+                "zh-TW": "娛樂"
             }
         },
         "objectID": "616297717018263573",
@@ -352,11 +352,6 @@
             "keywords": [
                 {
                     "value": "TCG",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "actionfigures",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -396,7 +391,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "toys",
+                    "value": "restocks",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "sneakers",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
@@ -1175,152 +1175,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Ботове",
+                            "value": "Забавление",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Boti",
+                            "value": "Zábava",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Bots",
+                            "value": "Underholdning",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "Bots",
+                            "value": "Unterhaltung",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Bots",
+                            "value": "Ψυχαγωγία",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Botit",
+                            "value": "Viihde",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Bots",
+                            "value": "Divertissements",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "बॉट्स",
+                            "value": "एंटरटेनमेंट",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "Botovi",
+                            "value": "Zabava",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "Botok",
+                            "value": "Szórakozás",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Bot",
+                            "value": "Intrattenimento",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "Bot",
+                            "value": "エンターテインメント",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "봇",
+                            "value": "엔터테인먼트",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "Botai",
+                            "value": "Pramogos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "Bots",
+                            "value": "Entertainment",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "Boter",
+                            "value": "Underholdning",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "Boty",
+                            "value": "Rozrywka",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "Boți",
+                            "value": "Divertisment",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Боты",
+                            "value": "Развлечения",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "Bot",
+                            "value": "ความบันเทิง",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "Botlar",
+                            "value": "Eğlence",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Боти",
+                            "value": "Розваги",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Bot",
+                            "value": "Giải Trí",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Bots",
+                            "value": "Entertainment",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Bots",
+                            "value": "Entertainment",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "Bots",
+                            "value": "Entretenimiento",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "Bots",
+                            "value": "Entretenimento",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "Bottar",
+                            "value": "Underhållning",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "机器人",
+                            "value": "娱乐",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "機器人",
+                            "value": "娛樂",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -1330,152 +1330,152 @@
             "primary_category": {
                 "name_localizations": {
                     "bg": {
-                        "value": "Ботове",
+                        "value": "Забавление",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "cs": {
-                        "value": "Boti",
+                        "value": "Zábava",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "da": {
-                        "value": "Bots",
+                        "value": "Underholdning",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "de": {
-                        "value": "Bots",
+                        "value": "Unterhaltung",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "el": {
-                        "value": "Bots",
+                        "value": "Ψυχαγωγία",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "fi": {
-                        "value": "Botit",
+                        "value": "Viihde",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "fr": {
-                        "value": "Bots",
+                        "value": "Divertissements",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "hi": {
-                        "value": "बॉट्स",
+                        "value": "एंटरटेनमेंट",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "hr": {
-                        "value": "Botovi",
+                        "value": "Zabava",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "hu": {
-                        "value": "Botok",
+                        "value": "Szórakozás",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "it": {
-                        "value": "Bot",
+                        "value": "Intrattenimento",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ja": {
-                        "value": "Bot",
+                        "value": "エンターテインメント",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ko": {
-                        "value": "봇",
+                        "value": "엔터테인먼트",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "lt": {
-                        "value": "Botai",
+                        "value": "Pramogos",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "nl": {
-                        "value": "Bots",
+                        "value": "Entertainment",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "no": {
-                        "value": "Boter",
+                        "value": "Underholdning",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "pl": {
-                        "value": "Boty",
+                        "value": "Rozrywka",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ro": {
-                        "value": "Boți",
+                        "value": "Divertisment",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ru": {
-                        "value": "Боты",
+                        "value": "Развлечения",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "th": {
-                        "value": "Bot",
+                        "value": "ความบันเทิง",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "tr": {
-                        "value": "Botlar",
+                        "value": "Eğlence",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "uk": {
-                        "value": "Боти",
+                        "value": "Розваги",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "vi": {
-                        "value": "Bot",
+                        "value": "Giải Trí",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "en-GB": {
-                        "value": "Bots",
+                        "value": "Entertainment",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "en-US": {
-                        "value": "Bots",
+                        "value": "Entertainment",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "es-ES": {
-                        "value": "Bots",
+                        "value": "Entretenimiento",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "pt-BR": {
-                        "value": "Bots",
+                        "value": "Entretenimento",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "sv-SE": {
-                        "value": "Bottar",
+                        "value": "Underhållning",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "zh-CN": {
-                        "value": "机器人",
+                        "value": "娱乐",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "zh-TW": {
-                        "value": "機器人",
+                        "value": "娛樂",
                         "matchLevel": "none",
                         "matchedWords": []
                     }
