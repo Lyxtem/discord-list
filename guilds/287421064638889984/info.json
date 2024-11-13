@@ -1,14 +1,14 @@
 {
     "id": "287421064638889984",
     "name": "Sparkball",
-    "description": "",
-    "icon": "929ff4226f5979745e527c245e30341c",
+    "description": "The Official Sparkball server.  Brawl and Ball your way to the top. Coming soon on Steam.",
+    "icon": "edfb9dcd6f57d0d106b298da96012753",
     "splash": "2abe2fe6825da7f7cee7929af2ecddb7",
-    "discovery_splash": "3f5ab72193c1a19fa4baeba11718a902",
+    "discovery_splash": "a17bd9110ee33cd58d2ace4082dce0ff",
     "banner": "9cb234922d9c98fc815ed1dcfa0e6049",
-    "approximate_presence_count": 1441,
-    "approximate_member_count": 5305,
-    "premium_subscription_count": 7,
+    "approximate_presence_count": 3024,
+    "approximate_member_count": 26047,
+    "premium_subscription_count": 18,
     "preferred_locale": "en-US",
     "vanity_url_code": "playsparkball",
     "keywords": [
@@ -38,19 +38,19 @@
     "raw": {
         "id": "287421064638889984",
         "name": "Sparkball",
-        "description": "",
-        "icon": "929ff4226f5979745e527c245e30341c",
+        "description": "The Official Sparkball server.  Brawl and Ball your way to the top. Coming soon on Steam.",
+        "icon": "edfb9dcd6f57d0d106b298da96012753",
         "splash": "2abe2fe6825da7f7cee7929af2ecddb7",
         "banner": "9cb234922d9c98fc815ed1dcfa0e6049",
-        "approximate_presence_count": 1441,
-        "approximate_member_count": 5305,
-        "premium_subscription_count": 7,
+        "approximate_presence_count": 3024,
+        "approximate_member_count": 26047,
+        "premium_subscription_count": 18,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "3f5ab72193c1a19fa4baeba11718a902",
+        "discovery_splash": "a17bd9110ee33cd58d2ace4082dce0ff",
         "primary_category_id": 1,
         "vanity_url_code": "playsparkball",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
             "battlerite",
             "brawler",
@@ -74,6 +74,117 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 15,
+                "is_primary": false,
+                "name": "Esports",
+                "name_localizations": {
+                    "bg": "Електронни спортове",
+                    "cs": "Esport",
+                    "da": "Esport",
+                    "de": "E-Sports",
+                    "el": "Esports",
+                    "fi": "Esports",
+                    "fr": "eSport",
+                    "hi": "ईस्पोर्ट्स",
+                    "hr": "E-sport",
+                    "hu": "E-sport",
+                    "it": "Esport",
+                    "ja": "eスポーツ",
+                    "ko": "이스포츠",
+                    "lt": "E. sportas",
+                    "nl": "E-sport",
+                    "no": "E-sport",
+                    "pl": "E-sport",
+                    "ro": "eSports",
+                    "ru": "Киберспорт",
+                    "th": "อีสปอร์ต",
+                    "tr": "E-spor",
+                    "uk": "Електронний спорт",
+                    "vi": "Thể Thao Điện Tử",
+                    "en-GB": "Esports",
+                    "en-US": "Esports",
+                    "es-ES": "E-sports",
+                    "pt-BR": "E-sports",
+                    "sv-SE": "E-sport",
+                    "zh-CN": "电子竞技",
+                    "zh-TW": "電競"
+                }
+            },
+            {
+                "id": 40,
+                "is_primary": false,
+                "name": "Wiki & Guide",
+                "name_localizations": {
+                    "bg": "Уики и ръководство",
+                    "cs": "Wiki a návody",
+                    "da": "Wiki & guide",
+                    "de": "Wiki & Anleitungen",
+                    "el": "Wiki & Οδηγοί",
+                    "fi": "Wikit ja ohjeet",
+                    "fr": "Wiki et guide",
+                    "hi": "विकिपीडिया और गाइड",
+                    "hr": "Wiki i vodiči",
+                    "hu": "Wikik és útmutatók",
+                    "it": "Wiki e guide",
+                    "ja": "ウィキペディア&ガイド",
+                    "ko": "위키, 가이드",
+                    "lt": "Vikis ir instrukcijos",
+                    "nl": "Wiki en gids",
+                    "no": "Wiki og veiledning",
+                    "pl": "Wiki i przewodniki",
+                    "ro": "Wiki și ghid",
+                    "ru": "Вики и руководство",
+                    "th": "วิกิและคู่มือ",
+                    "tr": "Wiki ve Rehber",
+                    "uk": "Вікі та посібники",
+                    "vi": "Wiki & Hướng Dẫn",
+                    "en-GB": "Wiki & Guide",
+                    "en-US": "Wiki & Guide",
+                    "es-ES": "Wikipedia y guías",
+                    "pt-BR": "Wiki e Guias",
+                    "sv-SE": "Wiki och guide",
+                    "zh-CN": "维基&指南",
+                    "zh-TW": "維基百科與指南"
+                }
+            },
+            {
+                "id": 42,
+                "is_primary": false,
+                "name": "Subreddit",
+                "name_localizations": {
+                    "bg": "Тема в reddit",
+                    "cs": "Subreddit",
+                    "da": "Subreddit",
+                    "de": "Subreddit",
+                    "el": "Subreddit",
+                    "fi": "Alareddit",
+                    "fr": "Subreddit",
+                    "hi": "सब-रेडिट",
+                    "hr": "Subreddit",
+                    "hu": "Subreddit",
+                    "it": "Subreddit",
+                    "ja": "Subreddit",
+                    "ko": "서브레딧",
+                    "lt": "Subreddit",
+                    "nl": "Subreddit",
+                    "no": "Subreddit",
+                    "pl": "Subreddit",
+                    "ro": "Subreddit",
+                    "ru": "Сабреддит",
+                    "th": "Subreddit",
+                    "tr": "Subreddit",
+                    "uk": "Сабреддіт",
+                    "vi": "Subreddit",
+                    "en-GB": "Subreddit",
+                    "en-US": "Subreddit",
+                    "es-ES": "Subreddit",
+                    "pt-BR": "Subreddit",
+                    "sv-SE": "Subreddit",
+                    "zh-CN": "Reddit讨论区",
+                    "zh-TW": "討論區"
+                }
+            },
             {
                 "id": 1,
                 "is_primary": true,
@@ -112,40 +223,40 @@
                 }
             },
             {
-                "id": 15,
+                "id": 48,
                 "is_primary": false,
-                "name": "Esports",
+                "name": "Game Developer",
                 "name_localizations": {
-                    "bg": "Електронни спортове",
-                    "cs": "Esport",
-                    "da": "Esport",
-                    "de": "E-Sports",
-                    "el": "Esports",
-                    "fi": "Esports",
-                    "fr": "eSport",
-                    "hi": "ईस्पोर्ट्स",
-                    "hr": "E-sport",
-                    "hu": "E-sport",
-                    "it": "Esport",
-                    "ja": "eスポーツ",
-                    "ko": "이스포츠",
-                    "lt": "E. sportas",
-                    "nl": "E-sport",
-                    "no": "E-sport",
-                    "pl": "E-sport",
-                    "ro": "eSports",
-                    "ru": "Киберспорт",
-                    "th": "อีสปอร์ต",
-                    "tr": "E-spor",
-                    "uk": "Електронний спорт",
-                    "vi": "Thể Thao Điện Tử",
-                    "en-GB": "Esports",
-                    "en-US": "Esports",
-                    "es-ES": "E-sports",
-                    "pt-BR": "E-sports",
-                    "sv-SE": "E-sport",
-                    "zh-CN": "电子竞技",
-                    "zh-TW": "電競"
+                    "bg": "Разработчик на игри",
+                    "cs": "Vývojář her",
+                    "da": "Spiludvikler",
+                    "de": "Spieleentwicklung",
+                    "el": "Προγραμματιστής παιχνιδιών",
+                    "fi": "Pelinkehittäjät",
+                    "fr": "Développeur de jeux vidéo",
+                    "hi": "गेम डेवलपर",
+                    "hr": "Razvoj igara",
+                    "hu": "Játékfejlesztő",
+                    "it": "Sviluppatore di videogiochi",
+                    "ja": "ゲームデベロッパー",
+                    "ko": "게임 개발",
+                    "lt": "Žaidimų kūrėjai",
+                    "nl": "Gameontwikkelaar",
+                    "no": "Spillutvikler",
+                    "pl": "Deweloper gry",
+                    "ro": "Dezvoltarea jocurilor",
+                    "ru": "Разработка игр",
+                    "th": "ผู้พัฒนาเกม",
+                    "tr": "Oyun Geliştiricisi",
+                    "uk": "Розробка ігор",
+                    "vi": "Nhà Phát Triển Game",
+                    "en-GB": "Game Developer",
+                    "en-US": "Game Developer",
+                    "es-ES": "Desarrollo de juegos",
+                    "pt-BR": "Desenvolvedor de Jogos",
+                    "sv-SE": "Spelutvecklare",
+                    "zh-CN": "游戏开发人员",
+                    "zh-TW": "遊戲開發者"
                 }
             }
         ],
@@ -194,7 +305,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "",
+                "value": "The Official Sparkball server.  Brawl and Ball your way to the top. Coming soon on Steam.",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -256,6 +367,468 @@
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Електронни спортове",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Esport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Esport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "E-Sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Esports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Esports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "eSport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "ईस्पोर्ट्स",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "E-sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "E-sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Esport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "eスポーツ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "이스포츠",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "E. sportas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "E-sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "E-sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "E-sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "eSports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Киберспорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "อีสปอร์ต",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "E-spor",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Електронний спорт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Thể Thao Điện Tử",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Esports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Esports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "E-sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "E-sports",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "E-sport",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "电子竞技",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "電競",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Уики и ръководство",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Wiki a návody",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Wiki & guide",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Wiki & Anleitungen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Wiki & Οδηγοί",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Wikit ja ohjeet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Wiki et guide",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "विकिपीडिया और गाइड",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Wiki i vodiči",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Wikik és útmutatók",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Wiki e guide",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "ウィキペディア&ガイド",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "위키, 가이드",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Vikis ir instrukcijos",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Wiki en gids",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Wiki og veiledning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Wiki i przewodniki",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Wiki și ghid",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Вики и руководство",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "วิกิและคู่มือ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Wiki ve Rehber",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Вікі та посібники",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Wiki & Hướng Dẫn",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Wiki & Guide",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Wiki & Guide",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Wikipedia y guías",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Wiki e Guias",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Wiki och guide",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "维基&指南",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "維基百科與指南",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Тема в reddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Alareddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "सब-रेडिट",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "서브레딧",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Сабреддит",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Сабреддіт",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Subreddit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "Reddit讨论区",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "討論區",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -413,152 +986,152 @@
                 {
                     "name_localizations": {
                         "bg": {
-                            "value": "Електронни спортове",
+                            "value": "Разработчик на игри",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "cs": {
-                            "value": "Esport",
+                            "value": "Vývojář her",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "da": {
-                            "value": "Esport",
+                            "value": "Spiludvikler",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "de": {
-                            "value": "E-Sports",
+                            "value": "Spieleentwicklung",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "el": {
-                            "value": "Esports",
+                            "value": "Προγραμματιστής παιχνιδιών",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fi": {
-                            "value": "Esports",
+                            "value": "Pelinkehittäjät",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "eSport",
+                            "value": "Développeur de jeux vidéo",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hi": {
-                            "value": "ईस्पोर्ट्स",
+                            "value": "गेम डेवलपर",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hr": {
-                            "value": "E-sport",
+                            "value": "Razvoj igara",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "hu": {
-                            "value": "E-sport",
+                            "value": "Játékfejlesztő",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "it": {
-                            "value": "Esport",
+                            "value": "Sviluppatore di videogiochi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ja": {
-                            "value": "eスポーツ",
+                            "value": "ゲームデベロッパー",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ko": {
-                            "value": "이스포츠",
+                            "value": "게임 개발",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "lt": {
-                            "value": "E. sportas",
+                            "value": "Žaidimų kūrėjai",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "nl": {
-                            "value": "E-sport",
+                            "value": "Gameontwikkelaar",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "no": {
-                            "value": "E-sport",
+                            "value": "Spillutvikler",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pl": {
-                            "value": "E-sport",
+                            "value": "Deweloper gry",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ro": {
-                            "value": "eSports",
+                            "value": "Dezvoltarea jocurilor",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Киберспорт",
+                            "value": "Разработка игр",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "th": {
-                            "value": "อีสปอร์ต",
+                            "value": "ผู้พัฒนาเกม",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "tr": {
-                            "value": "E-spor",
+                            "value": "Oyun Geliştiricisi",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "uk": {
-                            "value": "Електронний спорт",
+                            "value": "Розробка ігор",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "vi": {
-                            "value": "Thể Thao Điện Tử",
+                            "value": "Nhà Phát Triển Game",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-GB": {
-                            "value": "Esports",
+                            "value": "Game Developer",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "en-US": {
-                            "value": "Esports",
+                            "value": "Game Developer",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "es-ES": {
-                            "value": "E-sports",
+                            "value": "Desarrollo de juegos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "pt-BR": {
-                            "value": "E-sports",
+                            "value": "Desenvolvedor de Jogos",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "sv-SE": {
-                            "value": "E-sport",
+                            "value": "Spelutvecklare",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-CN": {
-                            "value": "电子竞技",
+                            "value": "游戏开发人员",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "zh-TW": {
-                            "value": "電競",
+                            "value": "遊戲開發者",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

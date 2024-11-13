@@ -1,13 +1,13 @@
 {
     "id": "1014958331519062076",
     "name": "Throwback Studios",
-    "description": "Welcome to Throwback Studios, creators of Derby - Baseball VR! Get game updates, discuss VR baseball and make friends!",
+    "description": "Welcome to Throwback Studios, creators of Derby VR! Get game updates, discuss VR baseball and make friends!",
     "icon": "8b7a546c75907019aa742a84382afc62",
     "splash": "cbf69627a11a49eadb9e742549e184ad",
     "discovery_splash": "a3e307fb8989bb41c04118da0738d079",
     "banner": "30252d8d34e037f84c7d765fcd8f09cb",
-    "approximate_presence_count": 312,
-    "approximate_member_count": 2659,
+    "approximate_presence_count": 255,
+    "approximate_member_count": 3127,
     "premium_subscription_count": 14,
     "preferred_locale": "en-US",
     "vanity_url_code": "throwbackvr",
@@ -35,17 +35,17 @@
     "raw": {
         "id": "1014958331519062076",
         "name": "Throwback Studios",
-        "description": "Welcome to Throwback Studios, creators of Derby - Baseball VR! Get game updates, discuss VR baseball and make friends!",
+        "description": "Welcome to Throwback Studios, creators of Derby VR! Get game updates, discuss VR baseball and make friends!",
         "icon": "8b7a546c75907019aa742a84382afc62",
         "splash": "cbf69627a11a49eadb9e742549e184ad",
         "banner": "30252d8d34e037f84c7d765fcd8f09cb",
-        "approximate_presence_count": 312,
-        "approximate_member_count": 2659,
+        "approximate_presence_count": 255,
+        "approximate_member_count": 3127,
         "premium_subscription_count": 14,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "a3e307fb8989bb41c04118da0738d079",
-        "primary_category_id": 7,
+        "primary_category_id": 1,
         "vanity_url_code": "throwbackvr",
         "is_published": true,
         "keywords": [
@@ -228,13 +228,40 @@
             }
         ],
         "primary_category": {
-            "id": 7,
+            "id": 1,
             "is_primary": true,
-            "name": "Sports",
+            "name": "Gaming",
             "name_localizations": {
-                "de": "Sport",
-                "fr": "Sports",
-                "ru": "Спорт"
+                "bg": "Гейминг",
+                "cs": "Hraní",
+                "da": "Spil",
+                "de": "Gaming",
+                "el": "Gaming",
+                "fi": "Pelaaminen",
+                "fr": "Gaming",
+                "hi": "गेमिंग",
+                "hr": "Gaming",
+                "hu": "Játék",
+                "it": "Gaming",
+                "ja": "ゲーム",
+                "ko": "게임",
+                "lt": "Žaidimai",
+                "nl": "Gaming",
+                "no": "Gaming",
+                "pl": "Gry",
+                "ro": "Gaming",
+                "ru": "Игры",
+                "th": "การเล่นเกม",
+                "tr": "Oyun",
+                "uk": "Ігри",
+                "vi": "Gaming",
+                "en-GB": "Gaming",
+                "en-US": "Gaming",
+                "es-ES": "Juegos",
+                "pt-BR": "Jogos",
+                "sv-SE": "Gaming",
+                "zh-CN": "游戏",
+                "zh-TW": "遊戲"
             }
         },
         "objectID": "1014958331519062076",
@@ -245,7 +272,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Welcome to Throwback Studios, creators of Derby - Baseball VR! Get game updates, discuss VR baseball and make friends!",
+                "value": "Welcome to Throwback Studios, creators of Derby VR! Get game updates, discuss VR baseball and make friends!",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -940,18 +967,153 @@
             ],
             "primary_category": {
                 "name_localizations": {
+                    "bg": {
+                        "value": "Гейминг",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "cs": {
+                        "value": "Hraní",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "da": {
+                        "value": "Spil",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
                     "de": {
-                        "value": "Sport",
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "el": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "fi": {
+                        "value": "Pelaaminen",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "fr": {
-                        "value": "Sports",
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hi": {
+                        "value": "गेमिंग",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hr": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "hu": {
+                        "value": "Játék",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "it": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ja": {
+                        "value": "ゲーム",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ko": {
+                        "value": "게임",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "lt": {
+                        "value": "Žaidimai",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "nl": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "no": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "pl": {
+                        "value": "Gry",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "ro": {
+                        "value": "Gaming",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ru": {
-                        "value": "Спорт",
+                        "value": "Игры",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "th": {
+                        "value": "การเล่นเกม",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "tr": {
+                        "value": "Oyun",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "uk": {
+                        "value": "Ігри",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "vi": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "en-GB": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "en-US": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "es-ES": {
+                        "value": "Juegos",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "pt-BR": {
+                        "value": "Jogos",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "sv-SE": {
+                        "value": "Gaming",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "zh-CN": {
+                        "value": "游戏",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "zh-TW": {
+                        "value": "遊戲",
                         "matchLevel": "none",
                         "matchedWords": []
                     }
