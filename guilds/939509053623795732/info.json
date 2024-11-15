@@ -6,22 +6,22 @@
     "splash": null,
     "discovery_splash": "8f26aaa8644fd8db6dffe0296367a437",
     "banner": null,
-    "approximate_presence_count": 4262,
-    "approximate_member_count": 16433,
+    "approximate_presence_count": 4142,
+    "approximate_member_count": 17003,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "vibr-support-939509053623795732",
     "keywords": [
-        "vibr",
-        "music-bot",
-        "music",
-        "song",
         "24-7",
         "best",
         "fun",
-        "youtube",
+        "music",
+        "music-bot",
+        "song",
+        "soundcloud",
         "spotify",
-        "soundcloud"
+        "vibr",
+        "youtube"
     ],
     "features": [
         "COMMUNITY",
@@ -39,8 +39,8 @@
         "icon": "a_cfd1bade5cdd421952cec33d9957463a",
         "splash": null,
         "banner": null,
-        "approximate_presence_count": 4262,
-        "approximate_member_count": 16433,
+        "approximate_presence_count": 4142,
+        "approximate_member_count": 17003,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -49,16 +49,16 @@
         "vanity_url_code": "vibr-support-939509053623795732",
         "is_published": true,
         "keywords": [
-            "vibr",
-            "music-bot",
-            "music",
-            "song",
             "24-7",
             "best",
             "fun",
-            "youtube",
+            "music",
+            "music-bot",
+            "song",
+            "soundcloud",
             "spotify",
-            "soundcloud"
+            "vibr",
+            "youtube"
         ],
         "features": [
             "COMMUNITY",
@@ -273,26 +273,6 @@
             },
             "keywords": [
                 {
-                    "value": "vibr",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "music-bot",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "music",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "song",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "24-7",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -308,7 +288,22 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "youtube",
+                    "value": "music",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "music-bot",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "song",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "soundcloud",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -318,7 +313,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "soundcloud",
+                    "value": "vibr",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "youtube",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
