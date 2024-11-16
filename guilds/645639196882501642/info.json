@@ -6,22 +6,22 @@
     "splash": "c1808dd34d483330b2fff2489b21dff5",
     "discovery_splash": "57f7a46e6920259367e67ea6bde6bac6",
     "banner": "a_8035565bc5a6e3850c87f99dd8e8443e",
-    "approximate_presence_count": 1931,
-    "approximate_member_count": 11934,
-    "premium_subscription_count": 18,
+    "approximate_presence_count": 2542,
+    "approximate_member_count": 12537,
+    "premium_subscription_count": 17,
     "preferred_locale": "en-US",
     "vanity_url_code": "tribalwars",
     "keywords": [
-        "tribalwars",
+        "army",
         "browsergame",
-        "war",
-        "tribe",
         "guild",
+        "international",
         "middleages",
         "multiplayer",
-        "international",
+        "tribalwars",
+        "tribe",
         "villagebuilding",
-        "army"
+        "war"
     ],
     "features": [
         "COMMUNITY",
@@ -40,26 +40,26 @@
         "icon": "51e0606f9fd5000c5d22136d4a13ecc9",
         "splash": "c1808dd34d483330b2fff2489b21dff5",
         "banner": "a_8035565bc5a6e3850c87f99dd8e8443e",
-        "approximate_presence_count": 1931,
-        "approximate_member_count": 11934,
-        "premium_subscription_count": 18,
+        "approximate_presence_count": 2542,
+        "approximate_member_count": 12537,
+        "premium_subscription_count": 17,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "57f7a46e6920259367e67ea6bde6bac6",
         "primary_category_id": 1,
         "vanity_url_code": "tribalwars",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
-            "tribalwars",
+            "army",
             "browsergame",
-            "war",
-            "tribe",
             "guild",
+            "international",
             "middleages",
             "multiplayer",
-            "international",
+            "tribalwars",
+            "tribe",
             "villagebuilding",
-            "army"
+            "war"
         ],
         "features": [
             "COMMUNITY",
@@ -312,7 +312,7 @@
             },
             "keywords": [
                 {
-                    "value": "tribalwars",
+                    "value": "army",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -322,17 +322,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "war",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "tribe",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "guild",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "international",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -347,7 +342,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "international",
+                    "value": "tribalwars",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "tribe",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -357,7 +357,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "army",
+                    "value": "war",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

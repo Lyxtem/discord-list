@@ -6,11 +6,11 @@
     "splash": "c8d902b6d75c70cfce922f9637e495e6",
     "discovery_splash": "1a6fcf69c9d9177262fcbb70af97b68e",
     "banner": "b5fc3310a2a6a04f6b962fd917f7ee49",
-    "approximate_presence_count": 1151,
-    "approximate_member_count": 2591,
-    "premium_subscription_count": 14,
+    "approximate_presence_count": 1116,
+    "approximate_member_count": 2771,
+    "premium_subscription_count": 13,
     "preferred_locale": "en-US",
-    "vanity_url_code": "drakengard",
+    "vanity_url_code": null,
     "keywords": [
         "nier",
         "drakengard",
@@ -27,6 +27,7 @@
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -39,14 +40,14 @@
         "icon": "831e7667709d0bba58766f4ae5d78756",
         "splash": "c8d902b6d75c70cfce922f9637e495e6",
         "banner": "b5fc3310a2a6a04f6b962fd917f7ee49",
-        "approximate_presence_count": 1151,
-        "approximate_member_count": 2591,
-        "premium_subscription_count": 14,
+        "approximate_presence_count": 1116,
+        "approximate_member_count": 2771,
+        "premium_subscription_count": 13,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "1a6fcf69c9d9177262fcbb70af97b68e",
         "primary_category_id": 1,
-        "vanity_url_code": "drakengard",
+        "vanity_url_code": null,
         "is_published": false,
         "keywords": [
             "nier",
@@ -64,6 +65,7 @@
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -337,11 +339,6 @@
             },
             "description": {
                 "value": "Discord dedicated to Square Enix's Drakengard & NieR franchise",
-                "matchLevel": "none",
-                "matchedWords": []
-            },
-            "vanity_url_code": {
-                "value": "drakengard",
                 "matchLevel": "none",
                 "matchedWords": []
             },
