@@ -3,30 +3,29 @@
     "name": "GuardianCraft Network",
     "description": "Comunidade do servidor GuardianCraft (Minecraft) onde trocamos ideias, postamos atualizações e recebemos sugestões =)",
     "icon": "a4d999972385a02f8696c97646c8a4be",
-    "splash": "3b2f0ec5a987f3158fbf7d58cfecf1ae",
+    "splash": "39b76587e965f04567711ae10964a5b5",
     "discovery_splash": "6de1aaf85d7f7cfa80f9520a9b750f98",
-    "banner": "2255f388299a670e7e351d72f1601c33",
-    "approximate_presence_count": 173,
-    "approximate_member_count": 1836,
-    "premium_subscription_count": 5,
+    "banner": "a_1ea4c1667576c7ce522e439b57d52be5",
+    "approximate_presence_count": 245,
+    "approximate_member_count": 1916,
+    "premium_subscription_count": 11,
     "preferred_locale": "pt-BR",
-    "vanity_url_code": "guardiancraft-network-456909333960065024",
+    "vanity_url_code": null,
     "keywords": [
-        "minecraft",
-        "memes",
-        "youtube",
         "guardiancraft",
-        "servidor minecraft",
-        "servidor",
-        "survival",
+        "memes",
+        "minecraft",
         "minecraft 1.8",
-        "survival 1.8"
+        "servidor",
+        "servidor minecraft",
+        "survival",
+        "survival 1.8",
+        "youtube"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -37,33 +36,32 @@
         "name": "GuardianCraft Network",
         "description": "Comunidade do servidor GuardianCraft (Minecraft) onde trocamos ideias, postamos atualizações e recebemos sugestões =)",
         "icon": "a4d999972385a02f8696c97646c8a4be",
-        "splash": "3b2f0ec5a987f3158fbf7d58cfecf1ae",
-        "banner": "2255f388299a670e7e351d72f1601c33",
-        "approximate_presence_count": 173,
-        "approximate_member_count": 1836,
-        "premium_subscription_count": 5,
+        "splash": "39b76587e965f04567711ae10964a5b5",
+        "banner": "a_1ea4c1667576c7ce522e439b57d52be5",
+        "approximate_presence_count": 245,
+        "approximate_member_count": 1916,
+        "premium_subscription_count": 11,
         "preferred_locale": "pt-BR",
         "auto_removed": false,
         "discovery_splash": "6de1aaf85d7f7cfa80f9520a9b750f98",
         "primary_category_id": 1,
-        "vanity_url_code": "guardiancraft-network-456909333960065024",
-        "is_published": true,
+        "vanity_url_code": null,
+        "is_published": false,
         "keywords": [
-            "minecraft",
-            "memes",
-            "youtube",
             "guardiancraft",
-            "servidor minecraft",
-            "servidor",
-            "survival",
+            "memes",
+            "minecraft",
             "minecraft 1.8",
-            "survival 1.8"
+            "servidor",
+            "servidor minecraft",
+            "survival",
+            "survival 1.8",
+            "youtube"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -192,14 +190,9 @@
                 "matchLevel": "none",
                 "matchedWords": []
             },
-            "vanity_url_code": {
-                "value": "guardiancraft-network-456909333960065024",
-                "matchLevel": "none",
-                "matchedWords": []
-            },
             "keywords": [
                 {
-                    "value": "minecraft",
+                    "value": "guardiancraft",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -209,27 +202,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "youtube",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "guardiancraft",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "servidor minecraft",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "servidor",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "survival",
+                    "value": "minecraft",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -239,7 +212,27 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "servidor",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "servidor minecraft",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "survival",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "survival 1.8",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "youtube",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

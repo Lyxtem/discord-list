@@ -1,27 +1,27 @@
 {
     "id": "306113288641445889",
     "name": "Atlantis Development",
-    "description": "Top quality Pixelmon and Minecraft plugins, and support for them!",
+    "description": "One-stop-shop for high quality Pixelmon and Minecraft plugins, as well as development discussion!",
     "icon": "8121fef3fadec91eca6c29208d71758b",
     "splash": "9228084ae3279997be77225951850430",
     "discovery_splash": "0c84de8c5eb321396784d631df0c6089",
     "banner": "e78a2e68a11d2073e7b0840bc6eb2af0",
-    "approximate_presence_count": 688,
-    "approximate_member_count": 2012,
-    "premium_subscription_count": 7,
+    "approximate_presence_count": 899,
+    "approximate_member_count": 2714,
+    "premium_subscription_count": 4,
     "preferred_locale": "en-US",
     "vanity_url_code": "atlantis-development-306113288641445889",
     "keywords": [
+        "java",
         "minecraft",
         "pixelmon",
         "plugins",
-        "servers",
-        "reforged",
-        "java",
+        "pokemon",
         "programming",
+        "reforged",
+        "servers",
         "support",
-        "waterdude",
-        "aqua"
+        "waterdude"
     ],
     "features": [
         "COMMUNITY",
@@ -35,13 +35,13 @@
     "raw": {
         "id": "306113288641445889",
         "name": "Atlantis Development",
-        "description": "Top quality Pixelmon and Minecraft plugins, and support for them!",
+        "description": "One-stop-shop for high quality Pixelmon and Minecraft plugins, as well as development discussion!",
         "icon": "8121fef3fadec91eca6c29208d71758b",
         "splash": "9228084ae3279997be77225951850430",
         "banner": "e78a2e68a11d2073e7b0840bc6eb2af0",
-        "approximate_presence_count": 688,
-        "approximate_member_count": 2012,
-        "premium_subscription_count": 7,
+        "approximate_presence_count": 899,
+        "approximate_member_count": 2714,
+        "premium_subscription_count": 4,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "0c84de8c5eb321396784d631df0c6089",
@@ -49,16 +49,16 @@
         "vanity_url_code": "atlantis-development-306113288641445889",
         "is_published": true,
         "keywords": [
+            "java",
             "minecraft",
             "pixelmon",
             "plugins",
-            "servers",
-            "reforged",
-            "java",
+            "pokemon",
             "programming",
+            "reforged",
+            "servers",
             "support",
-            "waterdude",
-            "aqua"
+            "waterdude"
         ],
         "features": [
             "COMMUNITY",
@@ -68,6 +68,43 @@
             "WELCOME_SCREEN_ENABLED"
         ],
         "categories": [
+            {
+                "id": 36,
+                "is_primary": false,
+                "name": "Business",
+                "name_localizations": {
+                    "bg": "Бизнес",
+                    "cs": "Business",
+                    "da": "Forretning",
+                    "de": "Unternehmen",
+                    "el": "Επιχείρηση",
+                    "fi": "Liiketoiminta",
+                    "fr": "Activités commerciales",
+                    "hi": "बिज़नेस",
+                    "hr": "Posao",
+                    "hu": "Üzlet",
+                    "it": "Affari",
+                    "ja": "ビジネス",
+                    "ko": "사업",
+                    "lt": "Verslas",
+                    "nl": "Zakelijk",
+                    "no": "Næringsliv",
+                    "pl": "Biznes",
+                    "ro": "Activități comerciale",
+                    "ru": "Бизнес",
+                    "th": "ธุรกิจ",
+                    "tr": "Ticaret",
+                    "uk": "Бізнес",
+                    "vi": "Kinh Doanh",
+                    "en-GB": "Business",
+                    "en-US": "Business",
+                    "es-ES": "Negocios",
+                    "pt-BR": "Negócios",
+                    "sv-SE": "Affärer",
+                    "zh-CN": "商务",
+                    "zh-TW": "商業"
+                }
+            },
             {
                 "id": 6,
                 "is_primary": true,
@@ -177,43 +214,6 @@
                     "sv-SE": "Kundsupport",
                     "zh-CN": "客户支持",
                     "zh-TW": "客戶支援"
-                }
-            },
-            {
-                "id": 36,
-                "is_primary": false,
-                "name": "Business",
-                "name_localizations": {
-                    "bg": "Бизнес",
-                    "cs": "Business",
-                    "da": "Forretning",
-                    "de": "Unternehmen",
-                    "el": "Επιχείρηση",
-                    "fi": "Liiketoiminta",
-                    "fr": "Activités commerciales",
-                    "hi": "बिज़नेस",
-                    "hr": "Posao",
-                    "hu": "Üzlet",
-                    "it": "Affari",
-                    "ja": "ビジネス",
-                    "ko": "사업",
-                    "lt": "Verslas",
-                    "nl": "Zakelijk",
-                    "no": "Næringsliv",
-                    "pl": "Biznes",
-                    "ro": "Activități comerciale",
-                    "ru": "Бизнес",
-                    "th": "ธุรกิจ",
-                    "tr": "Ticaret",
-                    "uk": "Бізнес",
-                    "vi": "Kinh Doanh",
-                    "en-GB": "Business",
-                    "en-US": "Business",
-                    "es-ES": "Negocios",
-                    "pt-BR": "Negócios",
-                    "sv-SE": "Affärer",
-                    "zh-CN": "商务",
-                    "zh-TW": "商業"
                 }
             },
             {
@@ -336,7 +336,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Top quality Pixelmon and Minecraft plugins, and support for them!",
+                "value": "One-stop-shop for high quality Pixelmon and Minecraft plugins, as well as development discussion!",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -346,6 +346,11 @@
                 "matchedWords": []
             },
             "keywords": [
+                {
+                    "value": "java",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
                 {
                     "value": "minecraft",
                     "matchLevel": "none",
@@ -362,7 +367,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "servers",
+                    "value": "pokemon",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "programming",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -372,12 +382,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "java",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "programming",
+                    "value": "servers",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -390,14 +395,163 @@
                     "value": "waterdude",
                     "matchLevel": "none",
                     "matchedWords": []
-                },
-                {
-                    "value": "aqua",
-                    "matchLevel": "none",
-                    "matchedWords": []
                 }
             ],
             "categories": [
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Бизнес",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Business",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Forretning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Unternehmen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Επιχείρηση",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Liiketoiminta",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Activités commerciales",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "बिज़नेस",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Posao",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Üzlet",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Affari",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "ビジネス",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "사업",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Verslas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Zakelijk",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Næringsliv",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Biznes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Activități comerciale",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Бизнес",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "ธุรกิจ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Ticaret",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Бізнес",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Kinh Doanh",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Business",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Business",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Negocios",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Negócios",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Affärer",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "商务",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "商業",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
                 {
                     "name_localizations": {
                         "bg": {
@@ -855,160 +1009,6 @@
                         },
                         "zh-TW": {
                             "value": "客戶支援",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Бизнес",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Business",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Forretning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Unternehmen",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Επιχείρηση",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Liiketoiminta",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Activités commerciales",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "बिज़नेस",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Posao",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Üzlet",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Affari",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "ビジネス",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "사업",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Verslas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Zakelijk",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Næringsliv",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Biznes",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Activități comerciale",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Бизнес",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "ธุรกิจ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Ticaret",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Бізнес",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Kinh Doanh",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Business",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Business",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Negocios",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Negócios",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Affärer",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "商务",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "商業",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

@@ -6,27 +6,28 @@
     "splash": "ca9d85205e4bc3d5e49b8a9d421ec28f",
     "discovery_splash": "ca9d85205e4bc3d5e49b8a9d421ec28f",
     "banner": "a_eed451aa145a1b2d4cd493891cab37fb",
-    "approximate_presence_count": 362,
-    "approximate_member_count": 2142,
+    "approximate_presence_count": 357,
+    "approximate_member_count": 1754,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "fingerless-maidenless-950124673633493082",
     "keywords": [
-        "souls",
-        "ds",
-        "er",
-        "gaming",
         "anime",
-        "lfg",
+        "ds",
+        "eldenring",
+        "er",
         "fromsoft",
-        "maidenless",
+        "gaming",
+        "lfg",
         "maiden",
-        "eldenring"
+        "maidenless",
+        "souls"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -39,8 +40,8 @@
         "icon": "6fc87c256de6b4ee6febfed9ca210994",
         "splash": "ca9d85205e4bc3d5e49b8a9d421ec28f",
         "banner": "a_eed451aa145a1b2d4cd493891cab37fb",
-        "approximate_presence_count": 362,
-        "approximate_member_count": 2142,
+        "approximate_presence_count": 357,
+        "approximate_member_count": 1754,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -49,21 +50,22 @@
         "vanity_url_code": "fingerless-maidenless-950124673633493082",
         "is_published": true,
         "keywords": [
-            "souls",
-            "ds",
-            "er",
-            "gaming",
             "anime",
-            "lfg",
+            "ds",
+            "eldenring",
+            "er",
             "fromsoft",
-            "maidenless",
+            "gaming",
+            "lfg",
             "maiden",
-            "eldenring"
+            "maidenless",
+            "souls"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -310,7 +312,7 @@
             },
             "keywords": [
                 {
-                    "value": "souls",
+                    "value": "anime",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -320,22 +322,12 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "eldenring",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "er",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "gaming",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "anime",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "lfg",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -345,7 +337,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "maidenless",
+                    "value": "gaming",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "lfg",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -355,7 +352,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "eldenring",
+                    "value": "maidenless",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "souls",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
