@@ -1,27 +1,27 @@
 {
     "id": "460871933748183040",
     "name": "Docker",
-    "description": "Tech server about docker, docker-compose, kubernetes, reverse proxies and everything related.",
+    "description": "Tech server about Docker, docker-compose, containers, kubernetes, reverse proxies and everything related.",
     "icon": "d84cfe7a8e95b265801f3afd77ff87f3",
     "splash": "55fb67c15783419adf7ccb05594fdf48",
     "discovery_splash": "f98a8666f32f935c143b65b024166fee",
     "banner": null,
-    "approximate_presence_count": 2635,
-    "approximate_member_count": 12044,
+    "approximate_presence_count": 2828,
+    "approximate_member_count": 13000,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "docker-460871933748183040",
     "keywords": [
-        "kubernetes",
-        "container",
-        "server",
-        "devops",
-        "webdev",
-        "developers",
-        "docker",
         "compose",
+        "container",
+        "developers",
+        "devops",
+        "docker",
+        "k8s",
+        "kubernetes",
         "network",
-        "k8s"
+        "server",
+        "webdev"
     ],
     "features": [
         "COMMUNITY",
@@ -36,30 +36,30 @@
     "raw": {
         "id": "460871933748183040",
         "name": "Docker",
-        "description": "Tech server about docker, docker-compose, kubernetes, reverse proxies and everything related.",
+        "description": "Tech server about Docker, docker-compose, containers, kubernetes, reverse proxies and everything related.",
         "icon": "d84cfe7a8e95b265801f3afd77ff87f3",
         "splash": "55fb67c15783419adf7ccb05594fdf48",
         "banner": null,
-        "approximate_presence_count": 2635,
-        "approximate_member_count": 12044,
+        "approximate_presence_count": 2828,
+        "approximate_member_count": 13000,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "f98a8666f32f935c143b65b024166fee",
         "primary_category_id": 5,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "docker-460871933748183040",
+        "is_published": true,
         "keywords": [
-            "kubernetes",
-            "container",
-            "server",
-            "devops",
-            "webdev",
-            "developers",
-            "docker",
             "compose",
+            "container",
+            "developers",
+            "devops",
+            "docker",
+            "k8s",
+            "kubernetes",
             "network",
-            "k8s"
+            "server",
+            "webdev"
         ],
         "features": [
             "COMMUNITY",
@@ -227,13 +227,18 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Tech server about docker, docker-compose, kubernetes, reverse proxies and everything related.",
+                "value": "Tech server about Docker, docker-compose, containers, kubernetes, reverse proxies and everything related.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "docker-460871933748183040",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
                 {
-                    "value": "kubernetes",
+                    "value": "compose",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -243,7 +248,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "server",
+                    "value": "developers",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -253,22 +258,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "webdev",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "developers",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "docker",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "compose",
+                    "value": "k8s",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "kubernetes",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -278,7 +278,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "k8s",
+                    "value": "server",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "webdev",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

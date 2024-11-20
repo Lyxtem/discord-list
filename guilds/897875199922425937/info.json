@@ -4,20 +4,20 @@
     "description": "Najlepszy serwer EarthSMP w Polsce McRekus.EU",
     "icon": "a7e58335215af31e55f41b4076c08c57",
     "splash": "cb11eeb55f35d5f2df094fc3dfa8cf48",
-    "discovery_splash": "cb11eeb55f35d5f2df094fc3dfa8cf48",
+    "discovery_splash": "a54a12d58b32f1fdfce4d242aaebaef1",
     "banner": "b7c615073285eeb6fca059581504b103",
-    "approximate_presence_count": 554,
-    "approximate_member_count": 7799,
-    "premium_subscription_count": 9,
+    "approximate_presence_count": 2175,
+    "approximate_member_count": 7927,
+    "premium_subscription_count": 14,
     "preferred_locale": "pl",
     "vanity_url_code": "mcrekus-eu-serwer-earthsmp-897875199922425937",
     "keywords": [
-        "minecraft",
-        "earthsmp",
-        "server",
-        "survival",
         "boxpvp",
-        "oneblock"
+        "earthsmp",
+        "minecraft",
+        "oneblock",
+        "server",
+        "survival"
     ],
     "features": [
         "COMMUNITY",
@@ -36,22 +36,22 @@
         "icon": "a7e58335215af31e55f41b4076c08c57",
         "splash": "cb11eeb55f35d5f2df094fc3dfa8cf48",
         "banner": "b7c615073285eeb6fca059581504b103",
-        "approximate_presence_count": 554,
-        "approximate_member_count": 7799,
-        "premium_subscription_count": 9,
+        "approximate_presence_count": 2175,
+        "approximate_member_count": 7927,
+        "premium_subscription_count": 14,
         "preferred_locale": "pl",
         "auto_removed": false,
-        "discovery_splash": "cb11eeb55f35d5f2df094fc3dfa8cf48",
+        "discovery_splash": "a54a12d58b32f1fdfce4d242aaebaef1",
         "primary_category_id": 1,
         "vanity_url_code": "mcrekus-eu-serwer-earthsmp-897875199922425937",
         "is_published": true,
         "keywords": [
-            "minecraft",
-            "earthsmp",
-            "server",
-            "survival",
             "boxpvp",
-            "oneblock"
+            "earthsmp",
+            "minecraft",
+            "oneblock",
+            "server",
+            "survival"
         ],
         "features": [
             "COMMUNITY",
@@ -230,12 +230,22 @@
             },
             "keywords": [
                 {
-                    "value": "minecraft",
+                    "value": "boxpvp",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "earthsmp",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "minecraft",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "oneblock",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -246,16 +256,6 @@
                 },
                 {
                     "value": "survival",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "boxpvp",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "oneblock",
                     "matchLevel": "none",
                     "matchedWords": []
                 }

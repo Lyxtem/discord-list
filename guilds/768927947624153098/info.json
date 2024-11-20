@@ -6,17 +6,17 @@
     "splash": "cf1f6bda44af342448c09aeab81012e5",
     "discovery_splash": "7b1f914ccdd6a5564930d61768429fcc",
     "banner": "4cc8d3958521ef39c2ed030c931aa15f",
-    "approximate_presence_count": 2767,
-    "approximate_member_count": 12416,
-    "premium_subscription_count": 12,
+    "approximate_presence_count": 1976,
+    "approximate_member_count": 12366,
+    "premium_subscription_count": 4,
     "preferred_locale": "pt-BR",
     "vanity_url_code": "hiden-community-768927947624153098",
     "keywords": [
-        "gaming",
         "community",
-        "social",
+        "gaming",
         "gta5",
-        "server"
+        "server",
+        "social"
     ],
     "features": [
         "COMMUNITY",
@@ -35,21 +35,21 @@
         "icon": "a_678541981718b584fe82b85fd59fa7d7",
         "splash": "cf1f6bda44af342448c09aeab81012e5",
         "banner": "4cc8d3958521ef39c2ed030c931aa15f",
-        "approximate_presence_count": 2767,
-        "approximate_member_count": 12416,
-        "premium_subscription_count": 12,
+        "approximate_presence_count": 1976,
+        "approximate_member_count": 12366,
+        "premium_subscription_count": 4,
         "preferred_locale": "pt-BR",
         "auto_removed": false,
         "discovery_splash": "7b1f914ccdd6a5564930d61768429fcc",
         "primary_category_id": 1,
         "vanity_url_code": "hiden-community-768927947624153098",
-        "is_published": true,
+        "is_published": false,
         "keywords": [
-            "gaming",
             "community",
-            "social",
+            "gaming",
             "gta5",
-            "server"
+            "server",
+            "social"
         ],
         "features": [
             "COMMUNITY",
@@ -302,17 +302,12 @@
             },
             "keywords": [
                 {
-                    "value": "gaming",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "community",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "social",
+                    "value": "gaming",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -323,6 +318,11 @@
                 },
                 {
                     "value": "server",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "social",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
