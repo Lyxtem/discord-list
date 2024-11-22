@@ -4,18 +4,18 @@
     "description": "",
     "icon": "b7a3290b3b9ddf28c3f15d9f18b75d68",
     "splash": null,
-    "discovery_splash": "6de2a407911bf52e96f8c6b56f397105",
+    "discovery_splash": null,
     "banner": null,
-    "approximate_presence_count": 10973,
-    "approximate_member_count": 240428,
+    "approximate_presence_count": 11053,
+    "approximate_member_count": 240372,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": null,
     "keywords": [
+        "entertainment",
         "esports",
         "game",
-        "pvu",
-        "entertainment"
+        "pvu"
     ],
     "features": [
         "COMMUNITY",
@@ -34,20 +34,20 @@
         "icon": "b7a3290b3b9ddf28c3f15d9f18b75d68",
         "splash": null,
         "banner": null,
-        "approximate_presence_count": 10973,
-        "approximate_member_count": 240428,
+        "approximate_presence_count": 11053,
+        "approximate_member_count": 240372,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "6de2a407911bf52e96f8c6b56f397105",
+        "discovery_splash": null,
         "primary_category_id": 1,
         "vanity_url_code": null,
         "is_published": false,
         "keywords": [
+            "entertainment",
             "esports",
             "game",
-            "pvu",
-            "entertainment"
+            "pvu"
         ],
         "features": [
             "COMMUNITY",
@@ -194,6 +194,11 @@
             },
             "keywords": [
                 {
+                    "value": "entertainment",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "esports",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -205,11 +210,6 @@
                 },
                 {
                     "value": "pvu",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "entertainment",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
