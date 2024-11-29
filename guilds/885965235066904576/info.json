@@ -6,21 +6,17 @@
     "splash": "a324583a8c4513717500dfe2e56aad36",
     "discovery_splash": "93e56baa5f7864b662485f69e2d42f2b",
     "banner": "ef937084e46f5865c97a7f8c3ecfd86b",
-    "approximate_presence_count": 35,
-    "approximate_member_count": 217,
+    "approximate_presence_count": 18,
+    "approximate_member_count": 201,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
     "vanity_url_code": "popshopmetaverse",
     "keywords": [],
     "features": [
-        "BANNER",
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
-        "INVITE_SPLASH",
-        "NEWS",
         "PREVIEW_ENABLED",
-        "VANITY_URL",
         "VERIFIED"
     ],
     "partnered": false,
@@ -32,8 +28,8 @@
         "icon": "0dcdfec796cd8185589d49106f86e3a3",
         "splash": "a324583a8c4513717500dfe2e56aad36",
         "banner": "ef937084e46f5865c97a7f8c3ecfd86b",
-        "approximate_presence_count": 35,
-        "approximate_member_count": 217,
+        "approximate_presence_count": 18,
+        "approximate_member_count": 201,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -43,15 +39,43 @@
         "is_published": false,
         "keywords": [],
         "features": [
-            "BANNER",
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
-            "INVITE_SPLASH",
-            "NEWS",
             "PREVIEW_ENABLED",
-            "VANITY_URL",
             "VERIFIED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "885965235066904576",
+        "_highlightResult": {
+            "name": {
+                "value": "Popshop Live",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "popshopmetaverse",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }

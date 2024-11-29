@@ -2,30 +2,22 @@
     "id": "412624275569246218",
     "name": "Fireblade Software",
     "description": "Official server for Fireblade Software. Our games include Abandon Ship and SENTRY. Welcome aboard!",
-    "icon": "b17134c545e27ebf46bf187f6edf455a",
+    "icon": "fceb89241f950ea3b6bf72a07ff95f74",
     "splash": "b1602585bf8727830342828b87bc2361",
     "discovery_splash": "4d4478ec2083b9b38a8e7e455869432f",
     "banner": null,
-    "approximate_presence_count": 240,
-    "approximate_member_count": 833,
-    "premium_subscription_count": 0,
+    "approximate_presence_count": 366,
+    "approximate_member_count": 1180,
+    "premium_subscription_count": 1,
     "preferred_locale": "en-US",
     "vanity_url_code": "firebladesoftware",
     "keywords": [],
     "features": [
-        "AUTO_MODERATION",
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
         "FEATURABLE",
-        "INVITE_SPLASH",
-        "NEWS",
-        "NEW_THREAD_PERMISSIONS",
         "PREVIEW_ENABLED",
-        "SOUNDBOARD",
-        "THREADS_ENABLED",
-        "VANITY_URL",
         "VERIFIED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -35,12 +27,12 @@
         "id": "412624275569246218",
         "name": "Fireblade Software",
         "description": "Official server for Fireblade Software. Our games include Abandon Ship and SENTRY. Welcome aboard!",
-        "icon": "b17134c545e27ebf46bf187f6edf455a",
+        "icon": "fceb89241f950ea3b6bf72a07ff95f74",
         "splash": "b1602585bf8727830342828b87bc2361",
         "banner": null,
-        "approximate_presence_count": 240,
-        "approximate_member_count": 833,
-        "premium_subscription_count": 0,
+        "approximate_presence_count": 366,
+        "approximate_member_count": 1180,
+        "premium_subscription_count": 1,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "4d4478ec2083b9b38a8e7e455869432f",
@@ -49,21 +41,45 @@
         "is_published": false,
         "keywords": [],
         "features": [
-            "AUTO_MODERATION",
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
             "FEATURABLE",
-            "INVITE_SPLASH",
-            "NEWS",
-            "NEW_THREAD_PERMISSIONS",
             "PREVIEW_ENABLED",
-            "SOUNDBOARD",
-            "THREADS_ENABLED",
-            "VANITY_URL",
             "VERIFIED",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "412624275569246218",
+        "_highlightResult": {
+            "name": {
+                "value": "Fireblade Software",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "Official server for Fireblade Software. Our games include Abandon Ship and SENTRY. Welcome aboard!",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "firebladesoftware",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }
