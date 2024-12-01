@@ -1,27 +1,27 @@
 {
     "id": "867578229534359593",
     "name": "Meshtastic",
-    "description": "Join tech enthusiasts to share tips, get help, and explore the possibilities of Meshtastic!",
+    "description": "An open source, off-grid, decentralized, mesh network built to run on affordable, low-power devices",
     "icon": "54720805f952e760e033cd14285927c5",
     "splash": null,
-    "discovery_splash": null,
+    "discovery_splash": "7d9b2d20da8464f65750bee65822898c",
     "banner": null,
-    "approximate_presence_count": 4274,
-    "approximate_member_count": 21759,
+    "approximate_presence_count": 4624,
+    "approximate_member_count": 24842,
     "premium_subscription_count": 8,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "meshtastic-867578229534359593",
     "keywords": [
-        "lora",
-        "opensource",
-        "github",
+        "arduino",
         "coding",
+        "esp32",
+        "github",
+        "lora",
         "mesh",
         "networking",
-        "esp32",
-        "arduino",
-        "wireless",
-        "radio"
+        "opensource",
+        "radio",
+        "wireless"
     ],
     "features": [
         "COMMUNITY",
@@ -35,30 +35,30 @@
     "raw": {
         "id": "867578229534359593",
         "name": "Meshtastic",
-        "description": "Join tech enthusiasts to share tips, get help, and explore the possibilities of Meshtastic!",
+        "description": "An open source, off-grid, decentralized, mesh network built to run on affordable, low-power devices",
         "icon": "54720805f952e760e033cd14285927c5",
         "splash": null,
         "banner": null,
-        "approximate_presence_count": 4274,
-        "approximate_member_count": 21759,
+        "approximate_presence_count": 4624,
+        "approximate_member_count": 24842,
         "premium_subscription_count": 8,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": null,
+        "discovery_splash": "7d9b2d20da8464f65750bee65822898c",
         "primary_category_id": 5,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "meshtastic-867578229534359593",
+        "is_published": true,
         "keywords": [
-            "lora",
-            "opensource",
-            "github",
+            "arduino",
             "coding",
+            "esp32",
+            "github",
+            "lora",
             "mesh",
             "networking",
-            "esp32",
-            "arduino",
-            "wireless",
-            "radio"
+            "opensource",
+            "radio",
+            "wireless"
         ],
         "features": [
             "COMMUNITY",
@@ -215,43 +215,6 @@
                     "zh-CN": "科学&技术",
                     "zh-TW": "科學與技術"
                 }
-            },
-            {
-                "id": 47,
-                "is_primary": false,
-                "name": "Charity & Nonprofit",
-                "name_localizations": {
-                    "bg": "Благотворителност и нестопански организации",
-                    "cs": "Charita a neziskovky",
-                    "da": "Velgørenhed og nonprofit",
-                    "de": "Wohltätigkeit & Gemeinnützigkeit",
-                    "el": "Φιλανθρωπία & ΜΚΟ",
-                    "fi": "Hyväntekeväisyys ja voittoa tavoittelemattomat",
-                    "fr": "Caritatif et non lucratif",
-                    "hi": "चैरिटी और नॉन प्रॉफ़िट",
-                    "hr": "Humanitarni i neprofitni rad",
-                    "hu": "Jótékonyság és nonprofit",
-                    "it": "Beneficenza e non profit",
-                    "ja": "チャリティ&非営利活動",
-                    "ko": "자선 및 비영리",
-                    "lt": "Labdara ir pelno nesiekiančios organizacijos",
-                    "nl": "Liefdadigheid en non-profit",
-                    "no": "Veldedig arbeid",
-                    "pl": "Działalność charytatywna/non-profit",
-                    "ro": "Organizații caritabile și non-profit",
-                    "ru": "Благотворительность и некоммерческая деятельность",
-                    "th": "มูลนิธิและองค์กรไม่แสวงผลกำไร",
-                    "tr": "Kâr Amacı Gütmeyen Hayır İşi",
-                    "uk": "Благодійність та неприбуткова діяльність",
-                    "vi": "Từ Thiện và Phi Lợi Nhuận",
-                    "en-GB": "Charity & Non-profit",
-                    "en-US": "Charity & Nonprofit",
-                    "es-ES": "Eventos benéficos y sin ánimo de lucro",
-                    "pt-BR": "Caridade e Sem Fins Lucrativos",
-                    "sv-SE": "Välgörenhet och ideellt arbete",
-                    "zh-CN": "慈善&非盈利",
-                    "zh-TW": "慈善及非營利活動"
-                }
             }
         ],
         "primary_category": {
@@ -299,18 +262,28 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Join tech enthusiasts to share tips, get help, and explore the possibilities of Meshtastic!",
+                "value": "An open source, off-grid, decentralized, mesh network built to run on affordable, low-power devices",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "meshtastic-867578229534359593",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "keywords": [
                 {
-                    "value": "lora",
+                    "value": "arduino",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "opensource",
+                    "value": "coding",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "esp32",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -320,7 +293,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "coding",
+                    "value": "lora",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -335,22 +308,17 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "esp32",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "arduino",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "wireless",
+                    "value": "opensource",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "radio",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "wireless",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
@@ -967,160 +935,6 @@
                         },
                         "zh-TW": {
                             "value": "科學與技術",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        }
-                    }
-                },
-                {
-                    "name_localizations": {
-                        "bg": {
-                            "value": "Благотворителност и нестопански организации",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Charita a neziskovky",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Velgørenhed og nonprofit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "de": {
-                            "value": "Wohltätigkeit & Gemeinnützigkeit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Φιλανθρωπία & ΜΚΟ",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Hyväntekeväisyys ja voittoa tavoittelemattomat",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fr": {
-                            "value": "Caritatif et non lucratif",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "चैरिटी और नॉन प्रॉफ़िट",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Humanitarni i neprofitni rad",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Jótékonyság és nonprofit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Beneficenza e non profit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "チャリティ&非営利活動",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "자선 및 비영리",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Labdara ir pelno nesiekiančios organizacijos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Liefdadigheid en non-profit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Veldedig arbeid",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Działalność charytatywna/non-profit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Organizații caritabile și non-profit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ru": {
-                            "value": "Благотворительность и некоммерческая деятельность",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "มูลนิธิและองค์กรไม่แสวงผลกำไร",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Kâr Amacı Gütmeyen Hayır İşi",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Благодійність та неприбуткова діяльність",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Từ Thiện và Phi Lợi Nhuận",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Charity & Non-profit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Charity & Nonprofit",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Eventos benéficos y sin ánimo de lucro",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Caridade e Sem Fins Lucrativos",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Välgörenhet och ideellt arbete",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "慈善&非盈利",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "慈善及非營利活動",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
