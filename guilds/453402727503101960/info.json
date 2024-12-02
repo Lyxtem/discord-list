@@ -6,24 +6,18 @@
     "splash": "00e906c1bf2b1726fb9dfa3bc100ea90",
     "discovery_splash": "00e906c1bf2b1726fb9dfa3bc100ea90",
     "banner": null,
-    "approximate_presence_count": 414,
-    "approximate_member_count": 1969,
-    "premium_subscription_count": 0,
+    "approximate_presence_count": 516,
+    "approximate_member_count": 1867,
+    "premium_subscription_count": 2,
     "preferred_locale": "en-US",
     "vanity_url_code": "tailsnoir",
     "keywords": null,
     "features": [
-        "CHANNEL_ICON_EMOJIS_GENERATED",
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
         "FEATURABLE",
-        "INVITE_SPLASH",
-        "NEWS",
-        "NEW_THREAD_PERMISSIONS",
         "PREVIEW_ENABLED",
-        "THREADS_ENABLED",
-        "VANITY_URL",
         "VERIFIED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -36,9 +30,9 @@
         "icon": "96e34883679da9883835652cf26ebfc7",
         "splash": "00e906c1bf2b1726fb9dfa3bc100ea90",
         "banner": null,
-        "approximate_presence_count": 414,
-        "approximate_member_count": 1969,
-        "premium_subscription_count": 0,
+        "approximate_presence_count": 516,
+        "approximate_member_count": 1867,
+        "premium_subscription_count": 2,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "00e906c1bf2b1726fb9dfa3bc100ea90",
@@ -47,19 +41,45 @@
         "is_published": false,
         "keywords": null,
         "features": [
-            "CHANNEL_ICON_EMOJIS_GENERATED",
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
             "FEATURABLE",
-            "INVITE_SPLASH",
-            "NEWS",
-            "NEW_THREAD_PERMISSIONS",
             "PREVIEW_ENABLED",
-            "THREADS_ENABLED",
-            "VANITY_URL",
             "VERIFIED",
             "WELCOME_SCREEN_ENABLED"
-        ]
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "is_primary": true,
+                "name": "General",
+                "name_localizations": null
+            }
+        ],
+        "primary_category": {
+            "id": 0,
+            "is_primary": true,
+            "name": "General",
+            "name_localizations": null
+        },
+        "objectID": "453402727503101960",
+        "_highlightResult": {
+            "name": {
+                "value": "Tails Noir",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "description": {
+                "value": "Tails Noir is a noir adventure about a raccoon detective in dystopian Vancouver, BC.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "tailsnoir",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
     }
 }
