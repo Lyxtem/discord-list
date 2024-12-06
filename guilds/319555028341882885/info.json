@@ -1,23 +1,27 @@
 {
     "id": "319555028341882885",
-    "name": "Bugcrowd Community",
-    "description": "Diverse and inclusive cybersecurity community. Together we bring a unique perspective to problem-solving.",
+    "name": "Bugcrowd Hacking Community",
+    "description": "Bugcrowd's online hacker community. Join for discussion, collaboration, networking, giveaways, and pizza parties.",
     "icon": "72144a85524685919e7111e8f3f9b9ce",
     "splash": "b811fac6420ed10483c0fe0040757310",
-    "discovery_splash": "720ba4f587ce00a9b10aaabbc41951bd",
+    "discovery_splash": "16c8d5af0a72d54cbde0c1e37c582752",
     "banner": null,
-    "approximate_presence_count": 831,
-    "approximate_member_count": 13772,
+    "approximate_presence_count": 1220,
+    "approximate_member_count": 14693,
     "premium_subscription_count": 0,
     "preferred_locale": "en-US",
-    "vanity_url_code": null,
+    "vanity_url_code": "bugcrowd-hacking-community-319555028341882885",
     "keywords": [
         "bug bounty",
         "bugcrowd",
+        "ethical hacking",
+        "hacking",
+        "hacking community",
         "infosec",
         "pentesting",
         "recon",
-        "security"
+        "security",
+        "white hat hacking"
     ],
     "features": [
         "COMMUNITY",
@@ -31,27 +35,31 @@
     "verified": false,
     "raw": {
         "id": "319555028341882885",
-        "name": "Bugcrowd Community",
-        "description": "Diverse and inclusive cybersecurity community. Together we bring a unique perspective to problem-solving.",
+        "name": "Bugcrowd Hacking Community",
+        "description": "Bugcrowd's online hacker community. Join for discussion, collaboration, networking, giveaways, and pizza parties.",
         "icon": "72144a85524685919e7111e8f3f9b9ce",
         "splash": "b811fac6420ed10483c0fe0040757310",
         "banner": null,
-        "approximate_presence_count": 831,
-        "approximate_member_count": 13772,
+        "approximate_presence_count": 1220,
+        "approximate_member_count": 14693,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
         "auto_removed": false,
-        "discovery_splash": "720ba4f587ce00a9b10aaabbc41951bd",
+        "discovery_splash": "16c8d5af0a72d54cbde0c1e37c582752",
         "primary_category_id": 5,
-        "vanity_url_code": null,
-        "is_published": false,
+        "vanity_url_code": "bugcrowd-hacking-community-319555028341882885",
+        "is_published": true,
         "keywords": [
             "bug bounty",
             "bugcrowd",
+            "ethical hacking",
+            "hacking",
+            "hacking community",
             "infosec",
             "pentesting",
             "recon",
-            "security"
+            "security",
+            "white hat hacking"
         ],
         "features": [
             "COMMUNITY",
@@ -100,6 +108,80 @@
                 }
             },
             {
+                "id": 25,
+                "is_primary": false,
+                "name": "Memes",
+                "name_localizations": {
+                    "bg": "Мемове",
+                    "cs": "Memy",
+                    "da": "Memes",
+                    "de": "Memes",
+                    "el": "Memes",
+                    "fi": "Meemit",
+                    "fr": "Memes",
+                    "hi": "मीम्स",
+                    "hr": "Memeovi",
+                    "hu": "Mémek",
+                    "it": "Meme",
+                    "ja": "ミーム",
+                    "ko": "짤",
+                    "lt": "Memai",
+                    "nl": "Memes",
+                    "no": "Memer",
+                    "pl": "Memy",
+                    "ro": "Meme",
+                    "ru": "Мемы",
+                    "th": "มีม",
+                    "tr": "Meme'ler",
+                    "uk": "Меми",
+                    "vi": "Meme",
+                    "en-GB": "Memes",
+                    "en-US": "Memes",
+                    "es-ES": "Memes",
+                    "pt-BR": "Memes",
+                    "sv-SE": "Memes",
+                    "zh-CN": "表情包",
+                    "zh-TW": "迷因"
+                }
+            },
+            {
+                "id": 38,
+                "is_primary": false,
+                "name": "Collaboration",
+                "name_localizations": {
+                    "bg": "Сътрудничество",
+                    "cs": "Spolupráce",
+                    "da": "Samarbejde",
+                    "de": "Kollaboration",
+                    "el": "Συνεργασία",
+                    "fi": "Yhteistyö",
+                    "fr": "Collaboration",
+                    "hi": "सहयोग",
+                    "hr": "Suradnja",
+                    "hu": "Együttműködés",
+                    "it": "Collaborazione",
+                    "ja": "コラボレーション",
+                    "ko": "협동",
+                    "lt": "Bendradarbiavimas",
+                    "nl": "Samenwerken",
+                    "no": "Samarbeid",
+                    "pl": "Współpraca",
+                    "ro": "Colaborare",
+                    "ru": "Совместная работа",
+                    "th": "การร่วมมือ",
+                    "tr": "İşbirliği",
+                    "uk": "Співробітництво",
+                    "vi": "Hợp Tác",
+                    "en-GB": "Collaboration",
+                    "en-US": "Collaboration",
+                    "es-ES": "Colaboración",
+                    "pt-BR": "Colaboração",
+                    "sv-SE": "Samarbete",
+                    "zh-CN": "合作",
+                    "zh-TW": "合作"
+                }
+            },
+            {
                 "id": 5,
                 "is_primary": true,
                 "name": "Science & Tech",
@@ -134,6 +216,43 @@
                     "sv-SE": "Vetenskap och teknologi",
                     "zh-CN": "科学&技术",
                     "zh-TW": "科學與技術"
+                }
+            },
+            {
+                "id": 29,
+                "is_primary": false,
+                "name": "Studying & Teaching",
+                "name_localizations": {
+                    "bg": "Учене и преподаване",
+                    "cs": "Studium a výuka",
+                    "da": "Studier & undervisning",
+                    "de": "Lernen & Lehren",
+                    "el": "Μάθηση & Διδασκαλία",
+                    "fi": "Opiskelu ja opetus",
+                    "fr": "Études et enseignement",
+                    "hi": "पढ़ना और पढ़ाना",
+                    "hr": "Učenje i podučavanje",
+                    "hu": "Tanulás és tanítás",
+                    "it": "Studiare e insegnare",
+                    "ja": "学習&教育",
+                    "ko": "공부, 교육",
+                    "lt": "Studijos ir mokymas",
+                    "nl": "Studeren en lesgeven",
+                    "no": "Studier og undervisning",
+                    "pl": "Studia i nauczanie",
+                    "ro": "Învățământ și studii",
+                    "ru": "Обучение",
+                    "th": "การศึกษาและการสอน",
+                    "tr": "Eğitim ve Öğretim",
+                    "uk": "Навчання й викладання",
+                    "vi": "Học và Dạy",
+                    "en-GB": "Studying & Teaching",
+                    "en-US": "Studying & Teaching",
+                    "es-ES": "Estudios y enseñanza",
+                    "pt-BR": "Didática e Aprendizado",
+                    "sv-SE": "Studier och undervisning",
+                    "zh-CN": "研究&教学",
+                    "zh-TW": "研究與教學"
                 }
             }
         ],
@@ -177,12 +296,17 @@
         "objectID": "319555028341882885",
         "_highlightResult": {
             "name": {
-                "value": "Bugcrowd Community",
+                "value": "Bugcrowd Hacking Community",
                 "matchLevel": "none",
                 "matchedWords": []
             },
             "description": {
-                "value": "Diverse and inclusive cybersecurity community. Together we bring a unique perspective to problem-solving.",
+                "value": "Bugcrowd's online hacker community. Join for discussion, collaboration, networking, giveaways, and pizza parties.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "bugcrowd-hacking-community-319555028341882885",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -194,6 +318,21 @@
                 },
                 {
                     "value": "bugcrowd",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "ethical hacking",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "hacking",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "hacking community",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -214,6 +353,11 @@
                 },
                 {
                     "value": "security",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "white hat hacking",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
@@ -376,6 +520,314 @@
                 {
                     "name_localizations": {
                         "bg": {
+                            "value": "Мемове",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Memy",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Meemit",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "मीम्स",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Memeovi",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Mémek",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Meme",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "ミーム",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "짤",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Memai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Memer",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Memy",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Meme",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Мемы",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "มีม",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Meme'ler",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Меми",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Meme",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Memes",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "表情包",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "迷因",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Сътрудничество",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Spolupráce",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Samarbejde",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Kollaboration",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Συνεργασία",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Yhteistyö",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Collaboration",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "सहयोग",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Suradnja",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Együttműködés",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Collaborazione",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "コラボレーション",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "협동",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Bendradarbiavimas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Samenwerken",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Samarbeid",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Współpraca",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Colaborare",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Совместная работа",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การร่วมมือ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "İşbirliği",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Співробітництво",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Hợp Tác",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Collaboration",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Collaboration",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Colaboración",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Colaboração",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Samarbete",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "合作",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "合作",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
                             "value": "Наука и технологии",
                             "matchLevel": "none",
                             "matchedWords": []
@@ -522,6 +974,160 @@
                         },
                         "zh-TW": {
                             "value": "科學與技術",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "name_localizations": {
+                        "bg": {
+                            "value": "Учене и преподаване",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cs": {
+                            "value": "Studium a výuka",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "da": {
+                            "value": "Studier & undervisning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "de": {
+                            "value": "Lernen & Lehren",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "el": {
+                            "value": "Μάθηση & Διδασκαλία",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fi": {
+                            "value": "Opiskelu ja opetus",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "fr": {
+                            "value": "Études et enseignement",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hi": {
+                            "value": "पढ़ना और पढ़ाना",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hr": {
+                            "value": "Učenje i podučavanje",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "hu": {
+                            "value": "Tanulás és tanítás",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "it": {
+                            "value": "Studiare e insegnare",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ja": {
+                            "value": "学習&教育",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ko": {
+                            "value": "공부, 교육",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "lt": {
+                            "value": "Studijos ir mokymas",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nl": {
+                            "value": "Studeren en lesgeven",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "no": {
+                            "value": "Studier og undervisning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pl": {
+                            "value": "Studia i nauczanie",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ro": {
+                            "value": "Învățământ și studii",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "ru": {
+                            "value": "Обучение",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "th": {
+                            "value": "การศึกษาและการสอน",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "tr": {
+                            "value": "Eğitim ve Öğretim",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "uk": {
+                            "value": "Навчання й викладання",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "vi": {
+                            "value": "Học và Dạy",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-GB": {
+                            "value": "Studying & Teaching",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "en-US": {
+                            "value": "Studying & Teaching",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "es-ES": {
+                            "value": "Estudios y enseñanza",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "pt-BR": {
+                            "value": "Didática e Aprendizado",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sv-SE": {
+                            "value": "Studier och undervisning",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-CN": {
+                            "value": "研究&教学",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "zh-TW": {
+                            "value": "研究與教學",
                             "matchLevel": "none",
                             "matchedWords": []
                         }

@@ -1,32 +1,32 @@
 {
     "id": "519317520398680094",
     "name": "ghosty-server",
-    "description": "Community server for the bot ghosty 👻. Play games, participate in tournaments, meet ppl, get support & give feedback. ❤",
+    "description": "ghosty's community server👻. Play games, take part in tournaments, meet new people, get support & give feedback. ❤",
     "icon": "a_b96e171e5b875bcde0031162d01fb0e7",
-    "splash": "8b98dc995361a5f5da7b14c933680531",
+    "splash": "91149fda420c75e3e161b0f8f4019ec3",
     "discovery_splash": "91149fda420c75e3e161b0f8f4019ec3",
-    "banner": "c9a4c4840ff6755cfac8a030de44cf6b",
-    "approximate_presence_count": 796,
-    "approximate_member_count": 3403,
-    "premium_subscription_count": 14,
+    "banner": "7857287bf51b235da8413cb3acff222c",
+    "approximate_presence_count": 1022,
+    "approximate_member_count": 4148,
+    "premium_subscription_count": 15,
     "preferred_locale": "en-US",
     "vanity_url_code": "ghosty-server-519317520398680094",
     "keywords": [
-        "#hangout",
         "bot",
         "chill",
         "community",
         "friends",
         "fun",
         "games",
+        "international",
         "memes",
-        "support",
         "tournaments"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -35,13 +35,13 @@
     "raw": {
         "id": "519317520398680094",
         "name": "ghosty-server",
-        "description": "Community server for the bot ghosty 👻. Play games, participate in tournaments, meet ppl, get support & give feedback. ❤",
+        "description": "ghosty's community server👻. Play games, take part in tournaments, meet new people, get support & give feedback. ❤",
         "icon": "a_b96e171e5b875bcde0031162d01fb0e7",
-        "splash": "8b98dc995361a5f5da7b14c933680531",
-        "banner": "c9a4c4840ff6755cfac8a030de44cf6b",
-        "approximate_presence_count": 796,
-        "approximate_member_count": 3403,
-        "premium_subscription_count": 14,
+        "splash": "91149fda420c75e3e161b0f8f4019ec3",
+        "banner": "7857287bf51b235da8413cb3acff222c",
+        "approximate_presence_count": 1022,
+        "approximate_member_count": 4148,
+        "premium_subscription_count": 15,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "91149fda420c75e3e161b0f8f4019ec3",
@@ -49,21 +49,21 @@
         "vanity_url_code": "ghosty-server-519317520398680094",
         "is_published": true,
         "keywords": [
-            "#hangout",
             "bot",
             "chill",
             "community",
             "friends",
             "fun",
             "games",
+            "international",
             "memes",
-            "support",
             "tournaments"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -299,7 +299,7 @@
                 "matchedWords": []
             },
             "description": {
-                "value": "Community server for the bot ghosty 👻. Play games, participate in tournaments, meet ppl, get support & give feedback. ❤",
+                "value": "ghosty's community server👻. Play games, take part in tournaments, meet new people, get support & give feedback. ❤",
                 "matchLevel": "none",
                 "matchedWords": []
             },
@@ -309,11 +309,6 @@
                 "matchedWords": []
             },
             "keywords": [
-                {
-                    "value": "#hangout",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
                 {
                     "value": "bot",
                     "matchLevel": "none",
@@ -345,12 +340,12 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "memes",
+                    "value": "international",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "support",
+                    "value": "memes",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
