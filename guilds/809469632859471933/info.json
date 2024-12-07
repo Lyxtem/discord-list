@@ -6,21 +6,21 @@
     "splash": "cbcf3169cc3bc12cdf26444a731e72ca",
     "discovery_splash": "a0925380cbecd4976ff3f866ac01755f",
     "banner": "6faa41f41d29ed77ca9f58159f3594dc",
-    "approximate_presence_count": 706,
-    "approximate_member_count": 6943,
-    "premium_subscription_count": 11,
+    "approximate_presence_count": 2371,
+    "approximate_member_count": 6666,
+    "premium_subscription_count": 5,
     "preferred_locale": "de",
     "vanity_url_code": "eldenringdeutsch",
     "keywords": [
-        "elden",
-        "ring",
         "deutsch",
         "deutschland",
-        "germany",
+        "elden",
         "esports",
+        "germany",
         "minecraft",
-        "valorant",
+        "ring",
         "twitch",
+        "valorant",
         "youtube"
     ],
     "features": [
@@ -39,25 +39,25 @@
         "icon": "0ba5f359a47f48dcf1313662f4cd70c3",
         "splash": "cbcf3169cc3bc12cdf26444a731e72ca",
         "banner": "6faa41f41d29ed77ca9f58159f3594dc",
-        "approximate_presence_count": 706,
-        "approximate_member_count": 6943,
-        "premium_subscription_count": 11,
+        "approximate_presence_count": 2371,
+        "approximate_member_count": 6666,
+        "premium_subscription_count": 5,
         "preferred_locale": "de",
         "auto_removed": false,
         "discovery_splash": "a0925380cbecd4976ff3f866ac01755f",
         "primary_category_id": 1,
         "vanity_url_code": "eldenringdeutsch",
-        "is_published": false,
+        "is_published": true,
         "keywords": [
-            "elden",
-            "ring",
             "deutsch",
             "deutschland",
-            "germany",
+            "elden",
             "esports",
+            "germany",
             "minecraft",
-            "valorant",
+            "ring",
             "twitch",
+            "valorant",
             "youtube"
         ],
         "features": [
@@ -347,16 +347,6 @@
             },
             "keywords": [
                 {
-                    "value": "elden",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "ring",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
                     "value": "deutsch",
                     "matchLevel": "none",
                     "matchedWords": []
@@ -367,7 +357,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "germany",
+                    "value": "elden",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -377,17 +367,27 @@
                     "matchedWords": []
                 },
                 {
+                    "value": "germany",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
                     "value": "minecraft",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "valorant",
+                    "value": "ring",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "twitch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "valorant",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
