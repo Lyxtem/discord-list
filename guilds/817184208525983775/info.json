@@ -5,27 +5,29 @@
     "icon": "a_e74801ca423019ecba8ef0e9e0f93c61",
     "splash": null,
     "discovery_splash": null,
-    "banner": "2e11fd2af3286b17e44c795c4147d3ce",
-    "approximate_presence_count": 22142,
-    "approximate_member_count": 47994,
-    "premium_subscription_count": 45,
+    "banner": "a_732ec21a36ef2705a23ece80ca45f8c7",
+    "approximate_presence_count": 25453,
+    "approximate_member_count": 52761,
+    "premium_subscription_count": 51,
     "preferred_locale": "en-US",
     "vanity_url_code": "slimevr",
     "keywords": [
-        "vr",
-        "virtual reality",
-        "full-body tracking",
         "fbt",
-        "slimevr",
-        "vive",
+        "full-body tracking",
+        "haritora",
         "oculus",
+        "slimevr",
+        "stonx",
         "valve index",
-        "stonx"
+        "virtual reality",
+        "vive",
+        "vr"
     ],
     "features": [
         "COMMUNITY",
         "DISCOVERABLE",
         "ENABLED_DISCOVERABLE_BEFORE",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
         "PREVIEW_ENABLED",
         "WELCOME_SCREEN_ENABLED"
     ],
@@ -37,10 +39,10 @@
         "description": "SlimeVR Full Body Tracking official server",
         "icon": "a_e74801ca423019ecba8ef0e9e0f93c61",
         "splash": null,
-        "banner": "2e11fd2af3286b17e44c795c4147d3ce",
-        "approximate_presence_count": 22142,
-        "approximate_member_count": 47994,
-        "premium_subscription_count": 45,
+        "banner": "a_732ec21a36ef2705a23ece80ca45f8c7",
+        "approximate_presence_count": 25453,
+        "approximate_member_count": 52761,
+        "premium_subscription_count": 51,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": null,
@@ -48,20 +50,22 @@
         "vanity_url_code": "slimevr",
         "is_published": false,
         "keywords": [
-            "vr",
-            "virtual reality",
-            "full-body tracking",
             "fbt",
-            "slimevr",
-            "vive",
+            "full-body tracking",
+            "haritora",
             "oculus",
+            "slimevr",
+            "stonx",
             "valve index",
-            "stonx"
+            "virtual reality",
+            "vive",
+            "vr"
         ],
         "features": [
             "COMMUNITY",
             "DISCOVERABLE",
             "ENABLED_DISCOVERABLE_BEFORE",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
             "PREVIEW_ENABLED",
             "WELCOME_SCREEN_ENABLED"
         ],
@@ -234,12 +238,7 @@
             },
             "keywords": [
                 {
-                    "value": "vr",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "virtual reality",
+                    "value": "fbt",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -249,17 +248,7 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "fbt",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "slimevr",
-                    "matchLevel": "none",
-                    "matchedWords": []
-                },
-                {
-                    "value": "vive",
+                    "value": "haritora",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
@@ -269,12 +258,32 @@
                     "matchedWords": []
                 },
                 {
-                    "value": "valve index",
+                    "value": "slimevr",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
                     "value": "stonx",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "valve index",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "virtual reality",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "vive",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "vr",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
