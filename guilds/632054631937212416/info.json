@@ -6,14 +6,15 @@
     "splash": "df70c8f7414f4f08f8e0e8ba1b306717",
     "discovery_splash": "94bd82acdc16dee984ec20a42908f12f",
     "banner": "e57ea4d531c6d111433b219f38316c17",
-    "approximate_presence_count": 3864,
-    "approximate_member_count": 18066,
+    "approximate_presence_count": 3557,
+    "approximate_member_count": 17965,
     "premium_subscription_count": 16,
     "preferred_locale": "en-US",
     "vanity_url_code": "honey-hunters-632054631937212416",
     "keywords": [
-        "MHW",
-        "Genshin Impact"
+        "Genshin Impact",
+        "Honkai Star Rail",
+        "MHW"
     ],
     "features": [
         "COMMUNITY",
@@ -32,8 +33,8 @@
         "icon": "1f530a02cb385ee437a6dfac1149da66",
         "splash": "df70c8f7414f4f08f8e0e8ba1b306717",
         "banner": "e57ea4d531c6d111433b219f38316c17",
-        "approximate_presence_count": 3864,
-        "approximate_member_count": 18066,
+        "approximate_presence_count": 3557,
+        "approximate_member_count": 17965,
         "premium_subscription_count": 16,
         "preferred_locale": "en-US",
         "auto_removed": false,
@@ -42,8 +43,9 @@
         "vanity_url_code": "honey-hunters-632054631937212416",
         "is_published": true,
         "keywords": [
-            "MHW",
-            "Genshin Impact"
+            "Genshin Impact",
+            "Honkai Star Rail",
+            "MHW"
         ],
         "features": [
             "COMMUNITY",
@@ -333,12 +335,17 @@
             },
             "keywords": [
                 {
-                    "value": "MHW",
+                    "value": "Genshin Impact",
                     "matchLevel": "none",
                     "matchedWords": []
                 },
                 {
-                    "value": "Genshin Impact",
+                    "value": "Honkai Star Rail",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                {
+                    "value": "MHW",
                     "matchLevel": "none",
                     "matchedWords": []
                 }
