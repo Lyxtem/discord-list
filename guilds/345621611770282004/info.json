@@ -2,12 +2,12 @@
     "id": "345621611770282004",
     "name": "The Great Outdoors",
     "description": "A friendly community centered around adventure in the outdoors. Camping, hiking, backpacking, and more.",
-    "icon": "7dc3ff81bc4e0a0cc371a2a398a84f5a",
+    "icon": "35e51dc7622d53f7efab341e748adc01",
     "splash": "33bd7b258633e7dbf8a86e02cf41f212",
     "discovery_splash": "fce24951cb8cd8c00f7bfb5392fdd484",
     "banner": "fce24951cb8cd8c00f7bfb5392fdd484",
-    "approximate_presence_count": 997,
-    "approximate_member_count": 6341,
+    "approximate_presence_count": 1103,
+    "approximate_member_count": 6583,
     "premium_subscription_count": 15,
     "preferred_locale": "en-US",
     "vanity_url_code": "thegreatoutdoors",
@@ -37,16 +37,16 @@
         "id": "345621611770282004",
         "name": "The Great Outdoors",
         "description": "A friendly community centered around adventure in the outdoors. Camping, hiking, backpacking, and more.",
-        "icon": "7dc3ff81bc4e0a0cc371a2a398a84f5a",
+        "icon": "35e51dc7622d53f7efab341e748adc01",
         "splash": "33bd7b258633e7dbf8a86e02cf41f212",
         "banner": "fce24951cb8cd8c00f7bfb5392fdd484",
-        "approximate_presence_count": 997,
-        "approximate_member_count": 6341,
+        "approximate_presence_count": 1103,
+        "approximate_member_count": 6583,
         "premium_subscription_count": 15,
         "preferred_locale": "en-US",
         "auto_removed": false,
         "discovery_splash": "fce24951cb8cd8c00f7bfb5392fdd484",
-        "primary_category_id": 6,
+        "primary_category_id": 13,
         "vanity_url_code": "thegreatoutdoors",
         "is_published": true,
         "keywords": [
@@ -192,78 +192,24 @@
                 }
             },
             {
-                "id": 6,
+                "id": 13,
                 "is_primary": true,
-                "name": "Education",
+                "name": "Other",
                 "name_localizations": {
-                    "bg": "Образование",
-                    "cs": "Vzdělávání",
-                    "da": "Uddannelse",
-                    "de": "Bildung",
-                    "el": "Εκπαίδευση",
-                    "fi": "Koulutus",
-                    "fr": "Éducation",
-                    "hi": "एजुकेशन",
-                    "hr": "Obrazovanje",
-                    "hu": "Oktatás",
-                    "it": "Istruzione",
-                    "ja": "教育",
-                    "ko": "교육",
-                    "lt": "Švietimas",
-                    "nl": "Onderwijs",
-                    "no": "Utdanning",
-                    "pl": "Edukacja",
-                    "ro": "Educație",
-                    "ru": "Образование",
-                    "th": "การศึกษา",
-                    "tr": "Eğitim",
-                    "uk": "Освіта",
-                    "vi": "Giáo Dục",
-                    "en-GB": "Education",
-                    "en-US": "Education",
-                    "es-ES": "Educación",
-                    "pt-BR": "Educação",
-                    "sv-SE": "Utbildning",
-                    "zh-CN": "教育",
-                    "zh-TW": "教育"
+                    "de": "Sonstiges",
+                    "fr": "Autre",
+                    "ru": "Другое"
                 }
             }
         ],
         "primary_category": {
-            "id": 6,
+            "id": 13,
             "is_primary": true,
-            "name": "Education",
+            "name": "Other",
             "name_localizations": {
-                "bg": "Образование",
-                "cs": "Vzdělávání",
-                "da": "Uddannelse",
-                "de": "Bildung",
-                "el": "Εκπαίδευση",
-                "fi": "Koulutus",
-                "fr": "Éducation",
-                "hi": "एजुकेशन",
-                "hr": "Obrazovanje",
-                "hu": "Oktatás",
-                "it": "Istruzione",
-                "ja": "教育",
-                "ko": "교육",
-                "lt": "Švietimas",
-                "nl": "Onderwijs",
-                "no": "Utdanning",
-                "pl": "Edukacja",
-                "ro": "Educație",
-                "ru": "Образование",
-                "th": "การศึกษา",
-                "tr": "Eğitim",
-                "uk": "Освіта",
-                "vi": "Giáo Dục",
-                "en-GB": "Education",
-                "en-US": "Education",
-                "es-ES": "Educación",
-                "pt-BR": "Educação",
-                "sv-SE": "Utbildning",
-                "zh-CN": "教育",
-                "zh-TW": "教育"
+                "de": "Sonstiges",
+                "fr": "Autre",
+                "ru": "Другое"
             }
         },
         "objectID": "345621611770282004",
@@ -819,153 +765,18 @@
                 },
                 {
                     "name_localizations": {
-                        "bg": {
-                            "value": "Образование",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "cs": {
-                            "value": "Vzdělávání",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "da": {
-                            "value": "Uddannelse",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
                         "de": {
-                            "value": "Bildung",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "el": {
-                            "value": "Εκπαίδευση",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "fi": {
-                            "value": "Koulutus",
+                            "value": "Sonstiges",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "fr": {
-                            "value": "Éducation",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hi": {
-                            "value": "एजुकेशन",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hr": {
-                            "value": "Obrazovanje",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "hu": {
-                            "value": "Oktatás",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "it": {
-                            "value": "Istruzione",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ja": {
-                            "value": "教育",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ko": {
-                            "value": "교육",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "lt": {
-                            "value": "Švietimas",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "nl": {
-                            "value": "Onderwijs",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "no": {
-                            "value": "Utdanning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pl": {
-                            "value": "Edukacja",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "ro": {
-                            "value": "Educație",
+                            "value": "Autre",
                             "matchLevel": "none",
                             "matchedWords": []
                         },
                         "ru": {
-                            "value": "Образование",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "th": {
-                            "value": "การศึกษา",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "tr": {
-                            "value": "Eğitim",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "uk": {
-                            "value": "Освіта",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "vi": {
-                            "value": "Giáo Dục",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-GB": {
-                            "value": "Education",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "en-US": {
-                            "value": "Education",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "es-ES": {
-                            "value": "Educación",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "pt-BR": {
-                            "value": "Educação",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "sv-SE": {
-                            "value": "Utbildning",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-CN": {
-                            "value": "教育",
-                            "matchLevel": "none",
-                            "matchedWords": []
-                        },
-                        "zh-TW": {
-                            "value": "教育",
+                            "value": "Другое",
                             "matchLevel": "none",
                             "matchedWords": []
                         }
@@ -974,153 +785,18 @@
             ],
             "primary_category": {
                 "name_localizations": {
-                    "bg": {
-                        "value": "Образование",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "cs": {
-                        "value": "Vzdělávání",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "da": {
-                        "value": "Uddannelse",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
                     "de": {
-                        "value": "Bildung",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "el": {
-                        "value": "Εκπαίδευση",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "fi": {
-                        "value": "Koulutus",
+                        "value": "Sonstiges",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "fr": {
-                        "value": "Éducation",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "hi": {
-                        "value": "एजुकेशन",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "hr": {
-                        "value": "Obrazovanje",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "hu": {
-                        "value": "Oktatás",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "it": {
-                        "value": "Istruzione",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "ja": {
-                        "value": "教育",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "ko": {
-                        "value": "교육",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "lt": {
-                        "value": "Švietimas",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "nl": {
-                        "value": "Onderwijs",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "no": {
-                        "value": "Utdanning",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "pl": {
-                        "value": "Edukacja",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "ro": {
-                        "value": "Educație",
+                        "value": "Autre",
                         "matchLevel": "none",
                         "matchedWords": []
                     },
                     "ru": {
-                        "value": "Образование",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "th": {
-                        "value": "การศึกษา",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "tr": {
-                        "value": "Eğitim",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "uk": {
-                        "value": "Освіта",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "vi": {
-                        "value": "Giáo Dục",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "en-GB": {
-                        "value": "Education",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "en-US": {
-                        "value": "Education",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "es-ES": {
-                        "value": "Educación",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "pt-BR": {
-                        "value": "Educação",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "sv-SE": {
-                        "value": "Utbildning",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "zh-CN": {
-                        "value": "教育",
-                        "matchLevel": "none",
-                        "matchedWords": []
-                    },
-                    "zh-TW": {
-                        "value": "教育",
+                        "value": "Другое",
                         "matchLevel": "none",
                         "matchedWords": []
                     }
