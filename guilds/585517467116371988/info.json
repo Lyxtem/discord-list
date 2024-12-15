@@ -6,11 +6,11 @@
     "splash": "7626b35c143a2cb2e49c77660d7c4287",
     "discovery_splash": "3428b468a5f3cd05dbf1777ba529b70d",
     "banner": "a_7626b35c143a2cb2e49c77660d7c4287",
-    "approximate_presence_count": 4301,
-    "approximate_member_count": 25469,
-    "premium_subscription_count": 100,
+    "approximate_presence_count": 5062,
+    "approximate_member_count": 30068,
+    "premium_subscription_count": 45,
     "preferred_locale": "fr",
-    "vanity_url_code": null,
+    "vanity_url_code": "crow-bot",
     "keywords": [
         "bot",
         "bot perso",
@@ -38,14 +38,14 @@
         "icon": "a_9cac14607d1fa8c09211bbd3bc7a489d",
         "splash": "7626b35c143a2cb2e49c77660d7c4287",
         "banner": "a_7626b35c143a2cb2e49c77660d7c4287",
-        "approximate_presence_count": 4301,
-        "approximate_member_count": 25469,
-        "premium_subscription_count": 100,
+        "approximate_presence_count": 5062,
+        "approximate_member_count": 30068,
+        "premium_subscription_count": 45,
         "preferred_locale": "fr",
         "auto_removed": false,
         "discovery_splash": "3428b468a5f3cd05dbf1777ba529b70d",
         "primary_category_id": 49,
-        "vanity_url_code": null,
+        "vanity_url_code": "crow-bot",
         "is_published": false,
         "keywords": [
             "bot",
@@ -187,6 +187,11 @@
             },
             "description": {
                 "value": "Un serveur pour la présentation et le support des CrowBots, des bots privé et personnalisés développés sur demande.",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "vanity_url_code": {
+                "value": "crow-bot",
                 "matchLevel": "none",
                 "matchedWords": []
             },
